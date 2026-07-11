@@ -26,7 +26,7 @@ bam/
 ├── original-prompt.md              ← verbatim session-starting prompt + clinical history
 ├── bam-mdma-research-dossier.md    ← THE deliverable: 7-section, heavily-cited dossier
 └── docs/
-    ├── sources/                    ← the 22 primary/authoritative source PDFs
+    ├── sources/                    ← the 26 primary/authoritative source PDFs
     └── extractions/                ← pdftotext full-text extractions (grep-able, for Fable)
 ```
 
@@ -57,7 +57,7 @@ telerehab/etc.) were **excluded** at the owner's request; they contained nothing
 
 ## Confidence tiers (used throughout the dossier)
 
-- **USER-PROVIDED PDF — VERIFIED** — full text read directly from a PDF in `docs/sources/`. Highest confidence. **22 papers** are at this tier.
+- **USER-PROVIDED PDF — VERIFIED** — full text read directly from a PDF in `docs/sources/`. Highest confidence. **26 papers** are at this tier.
 - **CORROBORATED** — triangulated across ≥2 independent searches/snippets but no full text.
 - **SNIPPET-ONLY** — single search snippet; treat as a lead, not a fact.
 - **CORRECTED / REFUTED** — flagged where an earlier claim was wrong (kept visible on purpose).
@@ -69,7 +69,7 @@ interesting targets for the meta-analysis):
 
 ---
 
-## Source manifest (22 verified primary sources)
+## Source manifest (26 verified primary sources)
 
 Grouped by the angle they most support. Filenames below are in `docs/sources/` (`.pdf`) and, where
 present, `docs/extractions/` (`.txt`).
@@ -89,6 +89,9 @@ present, `docs/extractions/` (`.txt`).
 | `Vijayvargiya-2020-colesevelam-gene-expression-RCT-CGH` | Vijayvargiya et al. 2020, *CGH* 18:2962 — colesevelam RCT, colonic FXR/TGR5 gene expression |
 | `BouSaba-2022-BAD-IBS-D-QoL-CGH` | BouSaba et al. 2022, *CGH* 20:2083 — BAD-vs-IBS-D symptoms, QoL & depression |
 | `BouSaba-2023-aldafermin-FGF19-RCT-Gastroenterology` | BouSaba et al. 2023, *Gastroenterology* 165:499 — aldafermin (FGF19 analogue) RCT |
+| `Merza-2024-BAM-treatment-network-metaanalysis-IBD-JCMR` | Merza et al. 2024, *J Clin Med Res* 16:33 — network meta-analysis (7 RCTs); tropifexor #1 for biomarkers, liraglutide #1 for fecal BA. IBD population |
+| `Ellegaard-Karhus-2024-liraglutide-colesevelam-bile-acid-levels-CTG` | Ellegaard/Kårhus et al. 2024, *Clin Transl Gastroenterol* — liraglutide vs colesevelam, distinct serum/fecal BA effects (companion to Kårhus 2022 RCT) |
+| `Karhus-2023-BAD-epidemiology-Denmark-ClinEpidemiol` | Kårhus et al. 2023, *Clin Epidemiol* 15:1173 — national registry, 5,264 BAD patients; prevalence, comorbidity & socioeconomic burden |
 
 ### Ondansetron / 5-HT3 in IBS-D
 | File stem | Citation |
@@ -115,20 +118,28 @@ present, `docs/extractions/` (`.txt`).
 | `Ticho-2019-bile-acid-receptors-GI-LiverRes` | Ticho et al. 2019, *Liver Res* — bile acid receptors & GI function (review) |
 | `Joyce-OMalley-2022-bile-acids-gut-brain-JPhysiol` | Joyce & O'Malley 2022, *J Physiol* — bile acids in gut-to-brain interoceptive signalling |
 | `Wei-Ghoshal-2022-EC-cell-microbiota-JNM` | Wei, Singh & Ghoshal 2022, *J Neurogastroenterol Motil* — EC cell–microbiota crosstalk |
+| `Camilleri-2011-TGR5-variant-rs11554825-transit-NGM` | Camilleri et al. 2011, *Neurogastroenterol Motil* 23:995 — TGR5 SNP rs11554825 vs colonic transit (suggestive, borderline) |
 
 ---
 
 ## Notes for the meta-analysis (Fable) pass
 
-- **Start from `bam-mdma-research-dossier.md`.** It already synthesizes across all 22 sources with
+- **Start from `bam-mdma-research-dossier.md`.** It already synthesizes across all 26 sources with
   tiers; the PDFs/extractions are there to verify or dig deeper on any specific claim.
 - **The through-line to chase:** colesevelam measurably *raises* colonic **TGR5** expression
   (Vijayvargiya 2020); TGR5 has opposing pro-/anti-motility arms (Alemi 2013 vs Poole 2010); MDMA is
   serotonergic + anti-inflammatory (Connor 2004) and the owner's gut response is serotonin/TGR5-shaped.
   That TGR5 ↔ 5-HT ↔ inflammation triangle is where the novel hypothesis lives.
+- **CRITICAL real-world protocol (Section 5):** the owner **never co-administers ondansetron and MDMA** —
+  ondansetron is skipped entirely on any MDMA day, to avoid stacking serotonin-related drugs. So model
+  the MDMA gut-response against a **colesevelam-only background (no 5-HT3 antagonist on board)**. The
+  ondansetron↔MDMA interaction literature is retained for completeness but is moot for this individual.
 - **Recurring pattern worth flagging:** in the drug RCTs (aldafermin, colesevelam) the *biochemistry*
-  moves hard while *symptoms* barely move — a dissociation the meta-analysis should weight.
+  moves hard while *symptoms* barely move — a dissociation the meta-analysis should weight. The
+  liraglutide/colesevelam companion (Ellegaard 2024) sharpens it: two effective drugs, *opposite*
+  effects on where the bile acids end up (colesevelam → into stool; liraglutide → no fecal change).
 - **Extractions are grep-friendly.** e.g. `grep -i "7αC4\|GPBAR1\|super-responder" docs/extractions/*.txt`.
-- **Remaining Tier-2 sources not yet obtained in full text** (cited secondhand in the dossier): Borup
-  2023 (colesevelam Phase 4 RCT), Kårhus 2022 (liraglutide RCT), Merza 2024 (network meta-analysis),
-  Camilleri 2011 (TGR5 variant & transit). Verified DOIs are listed inline in the dossier.
+- **Remaining Tier-2 sources not yet obtained in full text** (still cited secondhand; all paywalled,
+  verified DOIs inline in the dossier): Borup 2023 (colesevelam Phase 4 RCT), Kårhus 2022 (liraglutide
+  RCT parent paper — though its BA-levels companion IS in `sources/`), Wei 2021 (human TGR5/IBS-D
+  biopsy pilot), Camilleri 2020 (tropifexor FXR RCT).

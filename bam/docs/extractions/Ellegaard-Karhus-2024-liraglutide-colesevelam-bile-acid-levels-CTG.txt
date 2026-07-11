@@ -1,0 +1,661 @@
+                                                                                                                                                ARTICLE        1
+
+
+
+
+Liraglutide and Colesevelam Change Serum and Fecal
+
+
+
+
+                                                                                                                                                                   COLON
+Bile Acid Levels in a Randomized Trial With Patients With
+Bile Acid Diarrhea
+Anne-Marie Ellegaard, MSc, PhD1, Martin L. Karhus, MD, PhD1, Lukasz Krych, MSc, PhD2, David P. Sonne, MD, PhD1,3,4,
+Julie L. Forman, MSc, PhD5, Svend H. Hansen, MSc6, Lars Ove Dragsted, MSc, PhD7,
+Dennis S. Nielsen, MSc, PhD2 and Filip K. Knop, MD, PhD1,4,8,9
+
+
+INTRODUCTION: Both liraglutide and colesevelam improve bile acid diarrhea symptoms. Colesevelam binds excess
+                         amounts of diarrhea-causing bile acids in the colon, whereas the mode of action for liraglutide remains
+                         elusive. In this article, we examined the impact of colesevelam and liraglutide treatment on the
+                         concentrations of bile acids in serum and feces and the fecal microbiota composition to better
+                         understand the 2 drugs’ modes of action.
+
+
+
+
+1
+ Center for Clinical Metabolic Research, Copenhagen University Hospital–Herlev and Gentofte, Hellerup, Denmark; 2Department of Food Science, Faculty of
+Science, University of Copenhagen, Copenhagen, Denmark; 3Department of Clinical Pharmacology, Copenhagen University Hospital - Bispebjerg and
+Frederiksberg, Copenhagen, Denmark; 4Department of Clinical Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen,
+Denmark; 5Section of Biostatistics, Department of Public Health, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark;
+6
+ Department of Clinical Biochemistry, Copenhagen University Hospital–Rigshospitalet, Copenhagen, Denmark; 7Department of Nutrition, Exercise and Sports,
+Faculty of Science, University of Copenhagen, Frederiksberg, Denmark; 8Steno Diabetes Center Copenhagen, Herlev, Denmark; 9Current affiliation: Novo Nordisk
+A/S, Søborg, Denmark. Correspondence: Anne-Marie Ellegaard, MSc, PhD. E-mail: anne.marie.gade.ellegaard@regionh.dk.
+Received May 29, 2024; accepted September 13, 2024; published online September 23, 2024
+© 2024 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of The American College of Gastroenterology
+
+
+American College of Gastroenterology                                                                             Clinical and Translational Gastroenterology
+    2   Ellegaard et al
+
+
+
+
+        METHODS:               Bile acid species were analyzed in serum and fecal samples from a randomized, double-blind, double-
+                               dummy trial at baseline and after 3 and 6 weeks of orally administered colesevelam (1,875 mg twice
+                               daily, n 5 26) or subcutaneously administered liraglutide (uptitrated by weekly increments of 0.6 mg
+COLON
+
+
+
+
+                               from 0.6 to 1.8 mg daily, n 5 26) in patients with 75selenium-homotaurocholic acid test-verified,
+                               idiopathic, or postcholecystectomy bile acid diarrhea. Fecal microbiota composition was analyzed by
+                               16S rRNA gene amplicon sequencing at the same time points.
+        RESULTS:               Colesevelam increased the fecal concentrations of all bile acid species, whereas it decreased serum
+                               concentrations of secondary bile acids. Liraglutide induced a small increase in serum unconjugated
+                               bile acid concentrations without affecting fecal bile acid concentrations. No changes in fecal
+                               microbiota composition were observed with either treatment.
+
+        DISCUSSION:            Colesevelam and liraglutide exhibit distinct effects on serum and fecal bile acid concentrations with
+                               colesevelam reducing serum concentrations of secondary bile acids and promoting fecal bile acid
+                               excretion, whereas liraglutide enhances serum concentrations of unconjugated bile acids, potentially
+                               through deceleration of small intestinal transit time allowing more time for passive absorption of bile
+                               acids.
+
+        KEYWORDS: bile acid diarrhea; bile acid malabsorption; bile acid; liraglutide; colesevelam; glucagon-like peptide-1 receptor agonist; bile
+        acid sequestrant; microbiome; enterohepatic circulation
+
+        SUPPLEMENTARY MATERIAL accompanies this paper at http://links.lww.com/CTG/B205
+
+        Clinical and Translational Gastroenterology 2024;15:e00772. https://doi.org/10.14309/ctg.0000000000000772
+
+
+        INTRODUCTION                                                                             Recently, we published a randomized, double-blind, double-
+        Bile acid diarrhea (BAD) is a socially debilitating disease with                     dummy, noninferiority study showing that 6 weeks of treatment
+        primary symptoms of diarrhea, abdominal pain, urgency, and fecal                     with the glucagon-like peptide 1 receptor agonist liraglutide re-
+        incontinence. Around 1% of the population is estimated to suﬀer                      duced the number of daily bowel movements $ 25% in more
+        from the disease (1,2), which is, nevertheless, relatively unknown.                  patients with primary BAD than colesevelam did (12,17). In-
+        The symptoms are caused by an excessive spillover of bile acids                      terestingly, liraglutide treatment seemed to correct BAD patho-
+        from the ileum to the colon (because of the overproduction of bile                   physiology by reducing the serum concentrations of 7a-hydroxy-
+        acids and/or reduced absorption of bile acids in the small intestine).               4-cholesten-3-one (C4), a surrogate marker of bile acid synthesis
+        This irritates the colonic mucosa and induces peristalsis and os-                    (12), and by improving bile acid retention (assessed by the
+                                                                                             75
+        motic water retention in the lumen (3). BAD can arise with no                          selenium-homotaurocholic acid [SeHCAT] test) (12). By con-
+        underlying cause, termed idiopathic BAD, or because of diseases,                     trast, colesevelam treatment resulted in an excessive fecal excre-
+        surgery, or other conditions, termed secondary BAD.                                  tion of bile acids, increased plasma concentration of C4, and
+            The intestinal microbial population, predominantly located in                    reduced concentration of the enterocyte-derived ﬁbroblast
+        the colon, deconjugates the conjugated bile acids and converts the                   growth factor 19 (FGF19), an inhibitor of bile acid synthesis se-
+        primary bile acids into secondary bile acids by dehydroxylation to                   creted from enterocytes in response to intestinal bile acid ab-
+        protect themselves from the detergent eﬀect of the bile acids (4,5).                 sorption and activation of the nuclear farnesoid X receptor (12).
+        The bactericidal eﬀect of the diﬀerent bile acids varies dramati-                    Thus, albeit both colesevelam and liraglutide may alleviate BAD
+        cally with the secondary bile acid deoxycholic acid as the most                      symptoms, their modes of action seem to be quite diﬀerent.
+        potent (6). Thus, the composition of the bile acid pool can                              In this article, we report predeﬁned secondary endpoints from
+        modulate the microbiome composition and vice versa (7–10).                           our head-to-head comparison of liraglutide and colesevelam for
+            BAD is most commonly treated with bile acid sequestrants                         the treatment of BAD describing changes in serum and fecal
+        tightly binding the bile acids in the intestinal lumen, which in turn                concentrations of individual bile acids as well as the fecal
+        reduces the colonic irritation and, thus, alleviates the symptoms                    microbiome composition to better understand the 2 drugs’ modes
+        (11). The sequestration prevents bile acid reuptake leading to                       of action.
+        excessive fecal excretion of bile acids (11–13) and a diminished
+        bile acid serum pool triggering compensatory bile acid synthesis
+        (12–14). As such, the treatment diminishes the symptoms but                          METHODS
+        does not correct the underlying pathophysiology of BAD.                              Participants and procedures
+            Recent studies show that treatment of patients suﬀering from                     We included data from 52 individuals with idiopathic or post-
+        BAD with the bile acid sequestrant colesevelam does not change the                   cholecystectomy, SeHCAT-veriﬁed moderate-to-severe BAD,
+        species richness of the gut microbiome but changes the abundance                     as previously described (12,17). Participants were recruited
+        of certain species (15,16). The consequences of these changes re-                    among newly diagnosed patients from Copenhagen University
+        main unclear, but the bacterial composition of the microbiome                        Hospital—Herlev and Gentofte, Hellerup, Denmark, and from
+        may nevertheless predict treatment response to colesevelam (15).                     Copenhagen University Hospital—North Zealand, Hillerød,
+
+
+        Clinical and Translational Gastroenterology                                                                 VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+                                                                                            Liraglutide and Colesevelam Change Bile Acid         3
+
+
+
+
+Denmark. The study was approved by the Danish Medicines                outcomes were log-transformed before analysis because of having
+Agency and the Regional Committee on Health Research Ethics            severely skewed distributions. Hence, results are reported as
+of the Capital Region of Denmark and registered at the Danish          %-wise diﬀerences in geometric means with 95% conﬁdence
+Data Protection Agency (17). The trial was performed in ac-            intervals (CI). P values were adjusted for multiple comparisons
+
+
+
+
+                                                                                                                                                     COLON
+cordance with good clinical practice and adhered to the newest         using the method of Benjamini and Hochberg (24), which con-
+version of the Helsinki Declaration. The eligibility criteria have     trols the false discovery rate. An adjusted P value , 0.05 was
+been reported in detail previously (17); key criteria included         considered statistically signiﬁcant. All analyses were performed
+a SeHCAT test result #10%, no diabetes, and no other gastro-           with R (25) version 4.2.2 and the R package LMMstar (26).
+intestinal diseases. In short, procedures involved a run-in period
+of at least 1 week with no BAD treatment, after which the par-         RESULTS
+ticipants were randomly assigned to 6 weeks of double-blinded,         Study participants
+double-dummy liraglutide treatment (once-daily subcutaneous            Fifty-two patients with moderate-to-severe SeHCAT-veriﬁed BAD
+[sc.] injection uptitrated by weekly increments of 0.6 mg from         were included, of which 32 were women and 18 were men, as
+0.6 to 1.8 mg over 3 weeks) or orally administered colesevelam         previously described (12). The participants were randomized 1:1 to
+treatment (1,875 mg twice daily). A daily stool diary was ﬁlled        colesevelam or liraglutide treatment; one woman dropped out of
+out. At baseline (just before treatment initiation), after 3 weeks     the liraglutide group, and one man dropped out of the colesevelam
+of treatment, and at trial completion after 6 weeks of treatment,      group (both because of gastrointestinal side eﬀects) (12). The
+stool and fasting blood samples were collected.                        participants in the liraglutide group and the colesevelam group had
+                                                                       a mean (SD) age of 51.7 (13.3) years and 48.7 (12.8) years, a mean
+Serum and fecal bile acid analyses                                     body mass index of 31.5 (5.6) kg/m2 and 28.3 (4.1) kg/m2, and
+Fractionated serum bile acids were measured with liquid                a mean SeHCAT of 3.6 (3.4)% and 4.4 (3.2)%, respectively (12).
+chromatography-tandem mass spectrometry as described pre-
+viously (18). Quantiﬁcation of individual bile acids was based on
+                                                                       Total, primary, and secondary bile acids in serum
+working calibrators produced from the Metabolomics Bile Acid
+                                                                       Serum concentrations of primary, secondary, and total bile acids
+Mixtures (Cambridge Isotope Labs, Tewksbury, MA). Fecal bile
+                                                                       seemed to be unaﬀected by liraglutide while being slightly to
+acids were extracted from fecal matter and measured as wet
+                                                                       moderately decreased after colesevelam treatment (Figure 1a,c,e
+weight with ultra–high-performance liquid chromatography
+                                                                       and Table 1). After 6 weeks, secondary serum bile acids were
+quadrupole time-of-ﬂight tandem mass spectrometry, as de-
+                                                                       reduced by 256% (CI 270% to 236%) with colesevelam com-
+scribed previously (12).
+                                                                       pared with liraglutide, whereas primary and total bile acids
+                                                                       showed nonsigniﬁcant estimated treatment diﬀerences. Corre-
+Gut microbiota composition
+                                                                       spondingly, the ratio between primary and secondary bile acids in
+The gut microbial composition was evaluated using 16S rRNA
+                                                                       serum doubled in response to colesevelam while remaining un-
+gene amplicon sequencing with GridION x5 (Oxford Nanopore
+                                                                       changed after liraglutide (Figure 2a and Table 1).
+Technologies, Oxford, United Kingdom). Bacterial genomic
+DNA was extracted from 148 fecal samples using the Bead-Beat
+Micro AX Gravity Kit (A&A Biotechnology, Gdynia, Poland)               Total, primary, and secondary bile acids in feces
+following the manufacturer’s instructions. Polymerase chain re-        As previously reported (12), the fecal concentrations of bile acids
+action ampliﬁcation of the 16S rRNA gene, barcoding, library           were not aﬀected by liraglutide treatment, but more than doubled
+preparation, sequencing, and raw data treatment, including ﬁl-         after colesevelam treatment (Figure 1b,d,f and Table 1).
+tering, trimming, and taxonomy assignment, were performed as
+previously described (19). A total of 102 samples were included in     Total unconjugated and conjugated bile acids in serum
+the analysis, whereas the remaining 46 samples were excluded           Colesevelam reduced the concentrations of conjugated and
+because of low DNA quality and/or low read counts. The resulting       taurine-conjugated bile acids but no signiﬁcant estimated treat-
+abundance table was analyzed using the Qiime2 (v2018.11) bio-          ment diﬀerences were detected compared with liraglutide after
+informatic platform (20). Alpha diversity (observed species and        6 weeks (Figure 3c,e and Table 1). Liraglutide treatment increased
+Shannon indices) and beta diversity (principal coordinate anal-        the serum concentration of unconjugated bile acids by 55% (CI
+ysis based on Bray-Curtis and Jaccard distance matrices) were          11%–116%) after 3 weeks (Figure 3a) and decreased the serum
+calculated with rarefaction to 5,000 reads per sample. Permuta-        concentration of conjugated bile acids insigniﬁcantly
+tional multivariate analysis of variance was used to test diﬀerences   (Figure 3c,e,g and Table 1). Combined, this resulted in a shift in
+among the 3 groups based on Bray-Curtis and Jaccard distance           the ratio between serum unconjugated and conjugated bile acids
+matrices. The diﬀerences in taxa relative abundance were ana-          from consisting of mostly conjugated bile acids at baseline to
+lyzed with Analysis of Composition of Microbiomes (19) and             primarily unconjugated bile acids after 6 weeks of liraglutide
+Linear discriminant analysis Eﬀect Size (21).                          treatment (Figure 2b and Table 1). This increase in the serum
+                                                                       concentration of unconjugated bile acids after 3 weeks of lir-
+Statistical analysis                                                   aglutide treatment was evident in all the most abundant bile acid
+In accordance with the study protocol (17), changes in serum and       species measured, i.e., cholic acid, chenodeoxycholic acid, and
+fecal bile acid concentrations over time were analyzed using           deoxycholic acid (Figures 4c and 5c and 6c).
+a constrained linear mixed model (22,23) including time (cate-
+gorical) and the constrained time 3 treatment-interaction as           Total unconjugated and conjugated bile acids in feces
+ﬁxed eﬀects and with an unstructured covariance pattern to ac-         After 6 weeks, fecal concentrations of unconjugated, total con-
+count for repeated measurements on each study participant. All         jugated, and glycine-conjugated bile acids were highly increased
+
+American College of Gastroenterology                                                               Clinical and Translational Gastroenterology
+    4
+COLON   Ellegaard et al
+
+
+
+
+        Figure 1. Total, primary, and secondary bile acids. Effect of 3 and 6 weeks of treatment with liraglutide (green circles) or colesevelam (blue triangles) on the
+        levels of total bile acids (a, b), primary bile acids (c, d), and secondary bile acids (e, f) in serum (a, c, e) and in feces (b, d, f). Data are presented as log-
+        transformed geometric means with 95% confidence intervals; P values are adjusted by the Benjamini and Hochberg procedure; asterisks represent
+        statistical difference between data points at week 3 or 6 compared with baseline, daggers represent statistical significance in the estimated treatment
+        difference; */†P , 0.05; **/††P , 0.01; ***/†††P , 0.001.
+
+
+
+        by colesevelam treatment but unchanged by liraglutide treatment                     treatment was the above-mentioned increase in the serum concen-
+        (Figure 3b,d,h and Table 1).                                                        tration of unconjugated chenodeoxycholic acid (Figure 5c and
+                                                                                            Table 1).
+        Primary bile acids: cholic acid and chenodeoxycholic acid
+        in serum                                                                            Primary bile acids: cholic acid and chenodeoxycholic acid
+        Colesevelam increased the concentrations of taurine-conjugated                      in feces
+        cholic acid and glycine-conjugated cholic acid compared with lir-                   Fecal concentrations of total, unconjugated, and glycine-
+        aglutide after 6 weeks (Figure 4e,g and Table 1). The concentrations                conjugated cholic acid were increased by colesevelam compared
+        of unconjugated and glycine-conjugated chenodeoxycholic acid                        with liraglutide (Figure 4b,d,h and Table 1). A similar pattern was
+        were reduced by colesevelam compared with liraglutide after 6 weeks                 observed for fecal concentrations of chenodeoxycholic acid
+        (Figure 5c,e and Table 1). The only change observed with liraglutide                (Figure 5b,d,f and Table 1).
+
+
+        Clinical and Translational Gastroenterology                                                                  VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+                                                                                                                        Liraglutide and Colesevelam Change Bile Acid              5
+
+
+
+
+ Table 1. Serum and fecal concentrations of bile acids and estimated treatment differences after 6 weeks of treatment with liraglutide or
+ colesevelam
+
+
+
+
+                                                                                                                                                                                      COLON
+                                                          Serum bile acids                                                           Fecal bile acids
+                              Baseline         Change with           Change with       Estimated         Baseline          Change with          Change with       Estimated
+                              (mean),           liraglutide          colesevelam       treatment         (mean),            liraglutide         colesevelam       treatment
+                              mmol/La         treatment, %          treatment, %       difference        mmol/g           treatment, %         treatment, %       difference
+ Total bile acids               1.94              22.26                236.4             234.9              4.6              211.3                  195              232
+                            (1.53 to 2.47)   (231.0 to 38.4)      (255.1 to 29.88)   (258.9 to 3.11)    (3.6 to 5.8)     (236.2 to 23.2)        (111 to 311)     (119 to 405)
+                                                                                       P 5 0.121                                                                 P , 0.001
+ Primary bile acids             0.98              23.54                226.8             224.1            0.173              257.4                  253              723
+                            (0.74 to 1.30)   (239.0 to 52.5)       (253.7 to 15.7)   (259.7 to 43.0)     (0.093 to       (282.2 to 2.02)       (45.2 to 747)    (194 to 2,208)
+                                                                                       P 5 0.516          0.323)                                                 P , 0.001
+ Secondary bile acids           0.81               7.04                252.9             256.0             3.15               14.5                  232              189
+                            (0.64 to 1.04)   (220.7 to 44.5)      (265.1 to 236.5)     (269.8 to       (2.38 to 4.18)    (218.5 to 60.8)        (135 to 366)    (95.0 to 329)
+                                                                                         236.0)                                                                  P , 0.001
+                                                                                       P , 0.001
+
+ Unconjugated bile              0.68               48.1                233.3             255.0             4.42              210.8                  175              209
+ acids                      (0.53 to 0.87)     (1.54 to 116)      (254.3 to 22.66)     (271.9 to       (3.49 to 5.60)    (236.4 to 25.2)       (96.0 to 288)     (101 to 375)
+                                                                                         228.0)                                                                  P , 0.001
+                                                                                       P 5 0.003
+ Conjugated bile acids          1.08              236.6                240.2             25.67            0.083              24.56                  654              687
+                            (0.83 to 1.41)   (258.1 to 24.16)     (260.5 to 29.61)   (246.8 to 67.2)     (0.064 to       (242.9 to 59.5)       (348 to 1,168)   (302 to 1,441)
+                                                                                       P 5 0.904          0.107)                                                 P , 0.001
+ Taurine-conj. bile             0.09              236.7                249.5             220.4              ND                ND                    ND               ND
+ acids                      (0.06 to 0.13)   (258.5 to 23.34)     (266.9 to 223.0)   (253.3 to 35.9)
+                                                                                       P 5 0.526
+ Glycine-conj. bile acids       0.97              225.8                238.0             216.5            0.089               0.4                   629              626
+                            (0.75 to 1.24)   (251.2 to 12.8)      (259.0 to 26.29)   (252.5 to 47.2)     (0.048 to      (239.6 to 266.7)       (336 to 1,119)   (272 to 1,319)
+                                                                                       P 5 0.646          0.165)                                                 P 5 0.028
+ Cholic acid
+
+    Total                       0.24               14.5                 42.9              24.7            0.085              255.3                  148              456
+                            (0.18 to 0.32)   (227.2 to 80.2)       (29.20 to 125)    (232.4 to 130)      (0.043 to       (282.2 to 12.2)      (21.93 to 530)    (88.1 to 1,543)
+                                                                                       P 5 0.602          0.166)                                                 P 5 0.006
+
+    Unconj.                     0.05               126                  14.5             249.4            0.074              258.8                  142              487
+                            (0.03 to 0.08)     (26.2 to 306)       (236.8 to 105)    (275.7 to 5.2)      (0.036 to       (284.4 to 9.01)      (29.39 to 546)    (87.2 to 1740)
+                                                                                       P 5 0.121          0.151)                                                 P 5 0.008
+    T-conj.                     0.01              218.8                 82.4              125               ND                ND                    ND               ND
+                            (0.01 to 0.02)   (244.1 to 17.8)        (26.1 to 164)     (39.8 to 261)
+                                                                                       P 5 0.003
+    G-conj.                     0.14              226.5                 64.7              124             0.003              25.48                  339              367
+                            (0.10 to 0.18)   (250.3 to 8.72)       (210.7 to 142)     (33.2 to 278)      (0.002 to       (241.7 to 53.4)        (170 to 621)     (155 to 755)
+                                                                                       P 5 0.008          0.004)                                                 P , 0.001
+ Chenodeoxycholic
+ acid
+    Total                       0.73              213.9                246.4             237.8            0.074              256.1                  301              815
+                            (0.55 to 0.97)   (246.7 to 39.2)      (266.8 to 213.4)   (238.2 to 21.8)     (0.042 to       (281.0 to 1.13)       (72.8 to 830)    (235 to 2,408)
+                                                                                       P 5 0.245          0.131)                                                 P , 0.001
+    Unconj.                     0.11               75.8                231.3             260.9            0.062              262.2                  256              845
+                            (0.07 to 0.17)    (21.70 to 214)       (261.3 to 22.0)     (281.0 to         (0.033 to      (284.6 to 27.09)       (43.9 to 786)    (219 to 2,696)
+                                                                                         219.7)           0.115)                                                 P , 0.001
+                                                                                       P 5 0.028
+    T-conj.                      ND                ND                    ND               ND                ND                ND                    ND               ND
+    G-conj.                     0.05              230.8                268.3             254.2            0.004              217.2                 1,220            1,493
+                            (0.03 to 0.07)   (255.8 to 8.52)      (279.6 to 250.5)     (275.3 to         (0.003 to       (253.9 to 48.7)       (632 to 2,281)   (626 to 3,395)
+                                                                                         215.1)           0.005)                                                 P , 0.001
+                                                                                       P 5 0.032
+ Deoxycholic acid
+
+
+
+
+American College of Gastroenterology                                                                                             Clinical and Translational Gastroenterology
+    6   Ellegaard et al
+
+
+
+
+         Table 1. (continued)
+
+                                                               Serum bile acids                                                          Fecal bile acids
+COLON
+
+
+
+
+                                   Baseline         Change with           Change with       Estimated         Baseline         Change with          Change with      Estimated
+                                   (mean),           liraglutide          colesevelam       treatment         (mean),           liraglutide         colesevelam      treatment
+                                   mmol/La         treatment, %          treatment, %       difference        mmol/g          treatment, %         treatment, %      difference
+            Total                    0.57               5.50                260.4             262.5             2.13              13.5                  218              180
+                                 (0.41 to 0.78)   (232.8 to 65.7)      (274.8 to 237.8)     (279.7 to       (1.54 to 2.95)   (220.5 to 62.1)        (123 to 354)    (79.9 to 337)
+                                                                                              230.7)                                                                 P , 0.001
+                                                                                            P 5 0.006
+            Unconj.                  0.30               61.4                244.8             265.8             2.02              14.7                  198              160
+                                 (0.22 to 0.41)     (13.4 to 130)      (261.1 to 221.7)     (278.0 to       (1.45 to 2.81)   (220.5 to 65.7)        (106 to 331)    (64.9 to 309)
+                                                                                              246.8)                                                                 P , 0.001
+                                                                                            P , 0.001
+
+            T-conj.                  0.02              248.1                282.4             266.3              ND               ND                    ND               ND
+                                 (0.01 to 0.03)   (269.0 to 213.1)     (289.9 to 269.7)     (282.4 to
+                                                                                              235.2)
+                                                                                            P 5 0.004
+            G-conj.                  0.19               7.28                274.3             276.1            0.062              5.84                  562              523
+                                 (0.13 to 0.26)   (228.2 to 60.3)      (282.8 to 261.7)     (285.6 to         (0.045 to      (239.0 to 83.9)       (278 to 1,047)   (190 to 1,240)
+                                                                                              260.4)           0.084)                                                P , 0.001
+                                                                                            P , 0.001
+
+         Lithocholic acid
+            Total                    0.04              22.34                24.57             22.28            0.638              62.1                  179             71.9
+                                 (0.03 to 0.05)   (226.9 to 30.6)       (228.6 to 27.6)   (233.0 to 42.5)     (0.415 to       (0.92 to 160)        (73.3 to 348)    (0.50 to 197)
+                                                                                            P 5 0.925          0.979)                                                P 5 0.102
+            Unconj.                  0.02               23.5                21.83             220.5            0.638              62.1                  178             71.3
+                                 (0.02 to 0.03)   (26.63 to 63.4)       (226.0 to 30.2)   (245.5 to 15.7)     (0.415 to       (0.93 to 160)        (72.6 to 346)    (20.9 to 196)
+                                                                                            P 5 0.322          0.978)                                                P 5 0.103
+            T-conj                    ND                ND                    ND               ND                ND               ND                    ND               ND
+
+            G-conj.                  0.01              214.0                21.72              14.4              ND               ND                    ND               ND
+                                 (0.01 to 0.02)   (246.1 to 37.2)       (238.0 to 55.9)   (234.0 to 98.2)
+                                                                                            P 5 0.736
+
+         Ursodeoxycholic acid
+            Total                    0.09              26.17                245.4             241.9            0.014             248.7                  70.9             233
+                                 (0.06 to 0.13)   (235.3 to 36.1)      (262.4 to 220.9)     (263.8 to         (0.006 to      (279.2 to 26.2)      (230.9 to 322)    (1.64 to 992)
+                                                                                              26.64)           0.030)                                                P 5 0.093
+                                                                                            P 5 0.055
+
+            Unconj.                  0.04               11.6                222.1             230.2            0.014             248.7                  70.9             233
+                                 (0.02 to 0.05)   (228.0 to 73.0)       (249.7 to 20.8)   (259.1 to 19.0)     (0.006 to      (279.2 to 26.2)      (230.9 to 322)    (1.64 to 992)
+                                                                                            P 5 0.269          0.030)                                                P 5 0.093
+
+            T-conj.                   ND                ND                    ND               ND                ND               ND                    ND               ND
+            G-conj.                  0.05              230.8                268.3             254.2              ND               ND                    ND               ND
+                                 (0.03 to 0.07)   (255.8 to 8.52)      (279.6 to 250.5)     (275.3 to
+                                                                                              215.1)
+                                                                                            P 5 0.032
+
+         Ratio                       1.22              219.2                 72.8              114               NA               NA                    NA               NA
+         Primary:secondary bile (0.99 to 1.51)    (243.2 to 15.0)        (21.4 to 146)     (33.4 to 243)
+         acids                                                                              P 5 0.006
+
+         Ratio                       0.60               148                  4.44             257.9              NA               NA                    NA               NA
+         Unconjugated:           (0.47 to 0.75)     (55.0 to 297)       (234.8 to 67.2)     (277.1 to
+         conjugated bile acids                                                                222.7)
+                                                                                            P 5 0.016
+
+         Data are log-transformed geometric means with 95% confidence intervals in brackets. P values are adjusted by the Benjamini and Hochberg procedure; P values below
+         0.05 are considered statistically significant and highlighted in bold font.
+         G-conj, glycine-conjugated; NA, not applicable; ND, not detected; T-conj., taurine-conjugated.
+         a
+           Unit does not apply to ratios.
+
+
+
+
+        Clinical and Translational Gastroenterology                                                                          VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+                                                                                                       Liraglutide and Colesevelam Change Bile Acid            7
+
+
+
+
+                                                                                                                                                                   COLON
+Figure 2. Ratios of serum primary/secondary and unconjugated/conjugated bile acids. Effect of 3 and 6 weeks of treatment with liraglutide (green circles) or
+colesevelam (blue triangles) on the ratios between primary and secondary bile acids (a) and unconjugated and conjugated bile acids (b) in serum. Data are
+presented as log-transformed geometric means with 95% confidence intervals; P values are adjusted by the Benjamini and Hochberg procedure; asterisks
+represent statistical difference between data points at week 3 or 6 compared with baseline, daggers represent statistical significance in the estimated
+treatment difference; †P , 0.05; **/††P , 0.01; ***/†††P , 0.001.
+
+Secondary bile acids: deoxycholic acid, lithocholic acid, and                   because of low DNA quality and/or low read counts) (Figure 7a).
+ursodeoxycholic acid in serum                                                   Furthermore, analysis at baseline (n 5 30), 3 weeks (n 5 20 in the
+Colesevelam decreased the serum concentrations of total, un-                    liraglutide group and n 5 17 in the colesevelam group), or 6 weeks
+conjugated, and taurine- and glycine-conjugated deoxycholic                     (n 5 20 in the liraglutide group and n 5 15 in the colesevelam
+acid, whereas liraglutide increased the concentration of un-                    group) after treatment separately showed no eﬀect. Both the
+conjugated deoxycholic acid and decreased taurine-conjugated                    Chao1 and Shannon diversity index (Figure 7b) did not diﬀer
+deoxycholic acid (Figure 6a,c,e,g and Table 1). Colesevelam                     with treatment. Finally, because of relatively high variation and
+treatment reduced total and glycine-conjugated serum urso-                      low statistical power, no particular bacterial taxa could be iden-
+deoxycholic acid (see Supplementary Fig. S2A, S2E, http://links.                tiﬁed as responsible for that shift (Analysis of Composition of
+lww.com/CTG/B205 and Table 1), whereas liraglutide treatment                    Microbiomes and Linear discriminant analysis Eﬀect Size).
+did not aﬀect serum concentrations of lithocholic acid or urso-
+deoxycholic acid (see Supplementary Fig. S1, Fig. S2, http://links.
+lww.com/CTG/B205 and Table 1).                                                  DISCUSSION
+                                                                                In this article, we report that colesevelam results in a signiﬁcant
+                                                                                increase in the fecal concentration of most bile acid species ac-
+Secondary bile acids: deoxycholic acid, lithocholic acid, and                   companied by a reduction in the serum concentrations of several
+ursodeoxycholic acid in feces                                                   bile acid species. By contrast, liraglutide did not aﬀect fecal bile
+Colesevelam increased the fecal concentrations of total, un-                    acid concentrations but induced a small but statistically signiﬁ-
+conjugated, and glycine-conjugated deoxycholic acid, whereas                    cant increase in the serum concentrations of unconjugated bile
+these seemed unaﬀected by liraglutide (Figure 6b,d,h and                        acids, alluding to distinct modes of action of the 2 drugs.
+Table 1). After 6 weeks, total, unconjugated, and glycine-                           In accordance with previous ﬁndings (11–13), colesevelam in-
+conjugated deoxycholic acid was increased by colesevelam                        creased the fecal excretion of all the measured bile acid species, apart
+treatment compared with liraglutide treatment. Colesevelam                      from ursodeoxycholic acid, which was found in very low concen-
+treatment increased total and unconjugated fecal lithocholic acid               trations. This, combined with the decreased serum concentrations of
+(see Supplementary Figure S1B, S1D, http://links.lww.com/CTG/                   several bile acid species conﬁrms that intraluminal sequestration of
+B205 and Table 1), but neither lithocholic acid nor ursodeox-                   bile acids by colesevelam prevents their reabsorption. Speciﬁcally, the
+ycholic acid concentrations were aﬀected by liraglutide treatment               decrease in serum secondary bile acids and conjugated bile acids
+(see Supplementary Figure S1, Figure S2, http://links.lww.com/                  observed with colesevelam treatment indicates that primary and
+CTG/B205 and Table 1).                                                          conjugated bile acids bound by the sequestrant in the proximal small
+                                                                                intestine become less available for bacterial dehydroxylation and
+Fecal microbiome                                                                deconjugation in ileum and colon. Furthermore, previous in vitro
+The analysis of the 16S rRNA gene amplicon sequencing data                      binding studies have shown that bile acid sequestrants have a higher
+indicated no eﬀect on fecal microbiome composition (permuta-                    aﬃnity for dihydroxylated bile acids (i.e., chenodeoxycholic acid and
+tional multivariate analysis of variance based on Bray-Curtis                   deoxycholic acid) compared with trihydroxylated bile acids
+distance matrix; a total of 102 samples were included in the                    (i.e., cholic acid) (27–29), which in vivo translates into an increase in
+analysis, whereas the remaining 46 samples were excluded                        trihydroxylated bile acids at the expense of a decrease in
+
+American College of Gastroenterology                                                                           Clinical and Translational Gastroenterology
+    8
+COLON   Ellegaard et al
+
+
+
+
+        Figure 3. Unconjugated and conjugated bile acids. Effect of 3 and 6 weeks of treatment with liraglutide (green circles) or colesevelam (blue triangles) on the
+        levels of unconjugated bile acids (a, b), conjugated bile acids (c, d), taurine-conjugated (T-conj.) bile acids (e, f), and glycine-conjugated (G-conj.) bile acids
+        (g, h) in serum (a, c, e, g) and in feces (b, d, f, h). Data are presented as log-transformed geometric means with 95% confidence intervals; P values are adjusted
+        by the Benjamini and Hochberg procedure; asterisks represent statistical difference between data points at week 3 or 6 compared with baseline, daggers
+        represent statistical significance in the estimated treatment difference; */†P , 0.05; **/††P , 0.01; ***/†††P , 0.001. BA, bile acid; NA, not available.
+
+        dehydroxylated bile acids (30). Accordingly, we observe decreased                   become unavailable for absorption. In line with the overall
+        serum chenodeoxycholic acid and deoxycholic acid, and increased                     colesevelam-induced reduction of bile acid absorption, we and others
+        serum cholic acid with colesevelam treatment suggesting that the                    have previously reported that colesevelam treatment reduces the
+        dehydroxylated but to a lesser extent trihydroxylated bile acids                    plasma concentration of FGF19 (secreted from enterocytes in
+
+        Clinical and Translational Gastroenterology                                                                  VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+                                                                                                           Liraglutide and Colesevelam Change Bile Acid              9
+
+
+
+
+                                                                                                                                                                         COLON
+
+
+Figure 4. Cholic acid. Effect of 3 and 6 weeks of treatment with liraglutide (green circles) or colesevelam (blue triangles) on the levels of cholic acid (a, b),
+unconjugated cholic acid (c, d), taurine-conjugated (T-conj.) cholic acid (e, f), and glycine-conjugated (G-conj.) cholic acid (g, h) in serum (a, c, e, g) and in
+feces (b, d, f, h). Data are presented as log-transformed geometric means with 95% confidence intervals; P values are adjusted by the Benjamini and
+Hochberg procedure; asterisks represent statistical difference between data points at week 3 or 6 compared with baseline, daggers represent statistical
+significance in the estimated treatment difference; */†P , 0.05; **/††P , 0.01; ***/†††P , 0.001. CA, cholic acid; NA, not available.
+
+response to intestinal bile acid absorption and activation of the nu-              induced increase in plasma C4 concentrations, a biomarker for he-
+clear farnesoid X receptor) (12,13). Correspondingly, the reduced                  patic bile acid synthesis (11,12).
+concentration of circulating bile acids and FGF19—both potent                         Treatment for 6 weeks with liraglutide did not alter the bile acid
+inhibitors of hepatic bile acid synthesis—explains the colesevelam-                concentrations in feces. In serum, however, the concentrations of
+
+American College of Gastroenterology                                                                               Clinical and Translational Gastroenterology
+   10
+COLON   Ellegaard et al
+
+
+
+
+        Figure 5. Chenodeoxycholic acid. Effect of 3 and 6 weeks of treatment with liraglutide (green circles) or colesevelam (blue triangles) on the levels of
+        chenodeoxycholic acid (a, b), unconjugated chenodeoxycholic acid (c, d), and glycine-conjugated (G-conj.) chenodeoxycholic acid (e, f) in serum (a, c, e)
+        and in feces (b, d, f). Taurin-conjugated chenodeoxycholic acid was below detection range in both serum and feces. Data are presented as log-transformed
+        geometric means with 95% confidence intervals; P values are adjusted by the Benjamini and Hochberg procedure; asterisks represent statistical difference
+        between data points at week 3 or 6 compared with baseline, daggers represent statistical significance in the estimated treatment difference; */†P , 0.05;
+        **/††P , 0.01; ***/†††P , 0.001. CDCA, chenodeoxycholic acid; NA, not available.
+
+
+
+        unconjugated cholic acid, chenodeoxycholic acid, and deoxycholic               these bile acids. The exact mechanisms by which glucagon-like
+        acid were signiﬁcantly elevated. Deconjugation and dehydroxylation             peptide 1 receptor agonism inhibits gut motility remains unclear but
+        of bile acids in the small intestine are facilitated by bacterial enzymes      may involve direct actions on the enteric nervous system or intestinal
+        and result in an increased acid dissociation constant (pKa) making             smooth muscle cells (33). Furthermore, these increases in plasma
+        the bile acids less water-soluble, which in turn increases their passive       concentrations of bile acids may contribute to the reduced plasma
+        absorption because of reduced ionization. This is in line with the             concentration of C4 observed with liraglutide treatment (12). Taken
+        previously reported liraglutide-induced improvement in bile acid               together, liraglutide treatment seems to exert a corrective impact on
+        retention assessed by SeHCAT test (12). Studies show that liraglutide          BAD pathophysiology by increasing absorption and decreasing
+        increases the gastrointestinal transit time (31,32). Hence, we spec-           synthesis of bile acids.
+        ulate that the increased intestinal transit time induced by liraglutide           In our study, the gut microbiome was unaﬀected by the
+        treatment allows for a longer time for the bacterial enzymes to                treatment with both colesevelam and liraglutide as assessed by
+        deconjugate the bile acids leading to a larger pool of unconjugated            alpha and beta diversity analyses as well as taxonomic analysis.
+        bile acids in the lumen and a longer time for passive absorption of            This is in contrast with a recent study by Kumar et al (15) which
+
+
+        Clinical and Translational Gastroenterology                                                            VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+                                                                                                        Liraglutide and Colesevelam Change Bile Acid             11
+
+
+
+
+                                                                                                                                                                      COLON
+
+Figure 6. Deoxycholic acid. Effect of 3 and 6 weeks of treatment with liraglutide (green circles) or colesevelam (blue triangles) on the levels of deoxycholic
+acid (a, b), unconjugated deoxycholic acid (c, d), taurine-conjugated (T-conj.) deoxycholic acid (e, f), and glycine-conjugated (G-conj.) deoxycholic
+acid (g, h) in serum (a, c, e, g) and in feces (b, d, f, h). Data are presented as log-transformed geometric means with 95% confidence intervals; P values are
+adjusted by the Benjamini and Hochberg procedure; asterisks represent statistical difference between data points at week 3 or 6 compared with baseline,
+daggers represent statistical significance in the estimated treatment difference; */†P , 0.05; **/††P , 0.01; ***/†††P , 0.001. DCA, deoxycholic acid;
+NA, not available.
+
+
+reported a taxonomic shift after 8 weeks of colesevelam treatment                might explain the discrepancy between our and their ﬁndings.
+in patients with idiopathic BAD. Interestingly, they observed no                 Moreover, our study enrolled less than 20% of the number of
+eﬀect after 4 weeks of treatment, indicating that it takes longer                patients participating in the study by Kumar et al (15). Further
+time than 4 weeks for the eﬀect of treatment to manifest, which                  research is needed to understand the eﬀects of microbial
+
+American College of Gastroenterology                                                                             Clinical and Translational Gastroenterology
+   12
+COLON   Ellegaard et al
+
+
+
+
+        Figure 7. Microbial beta and alpha diversity analysis. Principal coordinate analysis plot based on the Bray-Curtis dissimilarity metric (a), indicating no
+        significant differences in relation to time or treatment (liraglutide and colesevelam). Differences were tested using a distance-based redundancy analysis,
+        with results presented in the plot (highlighted in red font). Bacterial species richness and alpha diversity (b) based on Chao1 and Shannon indices in patients
+        treated with liraglutide or colesevelam. (c) colesevelam; dbRDA, distance-based redundancy analysis; L, liraglutide; PCo, principal coordinate.
+
+        composition on bile acid metabolism and vice versa in terms of                    present data needs to be interpreted cautiously. Furthermore,
+        response to diﬀerent types of treatment.                                          serum and fecal concentrations of bile acids are aﬀected by
+           This study was not powered for the secondary endpoints                         a plethora of diﬀerent stimuli (such as diet, pH, and metabolism),
+        reported here; as such, any lack of signiﬁcant diﬀerences in the                  which were not evaluated in this study. Moreover, the fecal
+
+
+        Clinical and Translational Gastroenterology                                                                VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+                                                                                                       Liraglutide and Colesevelam Change Bile Acid                  13
+
+
+
+
+weights were not assessed, and consequently, the data do not                    4. Hofmann AF, Mysels KJ. Bile salts as biological surfactants. Colloids Surf
+allow for evaluation of total bile acids secreted. In addition, the                1987;30(1):145–73.
+                                                                                5. Ridlon JM, Kang DJ, Hylemon PB. Bile salt biotransformations by human
+study only included patients suﬀering from primary or post-                        intestinal bacteria. J Lipid Res 2006;47(2):241–59.
+cholecystectomy BAD; thus, whether the observations from this                   6. Watanabe M, Fukiya S, Yokota A. Comprehensive evaluation of the
+
+
+
+
+                                                                                                                                                                          COLON
+study apply to patients with secondary BAD remains unresolved.                     bactericidal activities of free bile acids in the large intestine of humans and
+    In conclusion, colesevelam and liraglutide both alleviate BAD                  rodents. J Lipid Res 2017;58(6):1143–52.
+                                                                                7. Merritt ME, Donaldson JR. Eﬀect of bile salts on the DNA and
+symptoms (12) but seem to have distinct modes of action.
+                                                                                   membrane integrity of enteric bacteria. J Med Microbiol 2009;58(Pt 12):
+Colesevelam increased fecal bile acid excretion leading to reduced                 1533–41.
+bile acid absorption and serum FGF19 concentrations increasing                  8. Prieto AI, Ramos-Morales F, Casadesús J. Bile-induced DNA damage in
+bile acid synthesis, whereas liraglutide treatment elevated circu-                 Salmonella enterica. Genetics 2004;168(4):1787–94.
+lating concentrations of unconjugated bile acids, known to reduce               9. Sorg JA, Sonenshein AL. Inhibiting the initiation of Clostridium diﬃcile
+                                                                                   spore germination using analogs of chenodeoxycholic acid, a bile acid.
+bile acid synthesis (as previously observed during liraglutide                     J Bacteriol 2010;192(19):4983–90.
+treatment of BAD).                                                             10. Tsuei J, Chau T, Mills D, et al. Bile acid dysregulation, gut dysbiosis, and
+                                                                                   gastrointestinal cancer. Exp Biol Med (Maywood) 2014;239(11):
+                                                                                   1489–504.
+CONFLICTS OF INTEREST                                                          11. Borup C, Vinter-Jensen L, Jørgensen SPG, et al. Eﬃcacy and safety of
+Guarantors of the article: Anne-Marie Ellegaard, MSc, PhD, and                     colesevelam for the treatment of bile acid diarrhoea: A double-blind,
+Filip K. Knop, MD, PhD.                                                            randomised, placebo-controlled, phase 4 clinical trial. Lancet
+                                                                                   Gastroenterol Hepatol 2023;8:321–31.
+Speciﬁc author contributions: M.L.K., D.P.S., J.L.F., and F.K.K.:              12. Kårhus ML, Brønden A, Forman JL, et al. Safety and eﬃcacy of liraglutide
+planned the study; M.L.K.: collected the data; A.M.E., M.L.K., D.P.S.,             versus colesevelam for the treatment of bile acid diarrhoea: A randomised,
+J.L.F., S.H.H., L.K., L.O.D., D.S.N., and F.K.K.: analyzed and                     double-blind, active-comparator, non-inferiority clinical trial. Lancet
+interpreted the data; A.M.E., L.K., and F.K.K.: drafted the                        Gastroenterol Hepatol 2022;7(10):922–31.
+                                                                               13. Vijayvargiya P, Camilleri M, Carlson P, et al. Eﬀects of colesevelam on
+manuscript; all authors revised the manuscript and approved the
+                                                                                   bowel symptoms, biomarkers, and colonic mucosal gene expression in
+ﬁnal draft submitted.                                                              patients with bile acid diarrhea in a randomized trial. Clin Gastroenterol
+Financial support: Novo Nordisk, Novo Nordisk Foundation,                          Hepatol 2020;18(13):2962–70.e6.
+Foundation for the Advancement of Medical Science under The A.P.               14. Garbutt JT, Kenney TJ. Eﬀect of cholestyramine on bile acid metabolism
+Møller and Chastine Mc-Kinney Møller Foundation. The funding                       in normal man. J Clin Invest 1972;51(11):2781–9.
+                                                                               15. Kumar A, Quraishi MN, Al-Hassi HO, et al. The analysis of gut
+sources had no role in the planning, data collection, interpretation, or           microbiota in patients with bile acid diarrhoea treated with colesevelam.
+publishing of the study.                                                           Front Microbiol 2023;14:1134105.
+Potential competing interests: The authors declare no conﬂicts of              16. Sagar NM, Duboc H, Kay GL, et al. The pathophysiology of bile acid
+interest in relation to this work.                                                 diarrhoea: Diﬀerences in the colonic microbiome, metabolome and bile
+                                                                                   acids. Sci Rep 2020;10(1):20436.
+Trial registration: EudraCT, 2018-003575-34.
+                                                                               17. Kårhus ML, Brønden A, Lyng Forman J, et al. Protocol for a randomised,
+                                                                                   double-blinded, placebo-controlled, double-dummy 6-week clinical trial
+Study Highlights                                                                   comparing the treatment eﬀects of the glucagon-like peptide 1 receptor
+                                                                                   agonist liraglutide versus the bile acid sequestrant colesevelam on bile acid
+  WHAT IS KNOWN                                                                    malabsorption. BMJ Open 2021;11(2):e044711.
+                                                                               18. Wiese S, Danielsen KV, Busk T, et al. Altered serum bile acid composition
+  3 Six weeks of treatment with colesevelam and liraglutide,                       is associated with cardiac dysfunction in cirrhosis. Aliment Pharmacol
+                                                                                   Ther 2023;58(4):453–62.
+       respectively, improves bile acid diarrhea symptoms.                     19. Mandal S, Van Treuren W, White RA, et al. Analysis of composition of
+  3 Colesevelam and liraglutide’s modes of action differ:                          microbiomes: A novel method for studying microbial composition.
+       Colesevelam binds bile acids in the gut lumen, whereas                      Microb Ecol Health Dis 2015;26:27663.
+       liraglutide decelerates small intestinal transit time.                  20. Bolyen E, Rideout JR, Dillon MR, et al. Reproducible, interactive, scalable
+                                                                                   and extensible microbiome data science using QIIME 2. Nat Biotechnol
+  WHAT IS NEW HERE                                                                 2019;37(8):852–7.
+                                                                               21. Segata N, Izard J, Waldron L, et al. Metagenomic biomarker discovery and
+  3 Evaluation of serum and fecal bile acid concentrations reveals                 explanation. Genome Biol 2011;12(6):R60.
+                                                                               22. Fitzmaurice GM, Laird NM, Ware JH. Front Matter. In Applied
+       that colesevelam enhances excretion of all bile acid species
+                                                                                   Longitudinal Analysis. Boston: John Wiley & Sons, Inc.; 2011.
+       and reduces absorption of secondary bile acids.
+  3
+                                                                               23. Coﬀman CJ, Edelman D, Woolson RF. To condition or not condition?
+       Liraglutide treatment increases absorption of unconjugated                  Analysing “change” in longitudinal randomised controlled trials. BMJ
+       bile acids.                                                                 Open 2016;6(12):e013096.
+  3    Fecal microbiome analysis shows no difference in                        24. Benjamini Y, Hochberg Y. Controlling the false discovery rate: A practical
+                                                                                   and powerful approach to multiple testing. J R Stat Soc Ser B
+       microbiome composition with either treatment.
+                                                                                   (Methodological) 1995;57(1):289–300.
+                                                                               25. R Core Team. R: A Language and Environment for Statistical Computing.
+                                                                                   R Foundation for Statistical Computing: Vienna, Austria, 2022 (https://
+                                                                                   www.R-project.org/).
+REFERENCES                                                                     26. Ozenne B, Forman J. LMMstar: Repeated measurement models for
+ 1. Walters JRF, Pattni SS. Managing bile acid diarrhoea. Therap Adv               discrete times. R package version 0.9.0.2023.
+    Gastroenterol 2010;3(6):349–57.                                            27. Luner PE, Amidon GL. Equilibrium and kinetic factors inﬂuencing bile
+ 2. Wedlake L, A’Hern R, Russell D, et al. Systematic review: The prevalence       sequestrant eﬃcacy. Pharm Res 1992;9(5):670–6.
+    of idiopathic bile acid malabsorption as diagnosed by SeHCAT scanning      28. Hanus M, Zhorov E. Bile acid salt binding with colesevelam HCl is not
+    in patients with diarrhoea-predominant irritable bowel syndrome.               aﬀected by suspension in common beverages. J Pharm Sci 2006;95(12):
+    Aliment Pharmacol Ther 2009;30(7):707–17.                                      2751–9.
+ 3. BouSaba J, Camilleri M. Bile acid diarrhea–as bad as it gets? Curr Opin    29. Benson GM, Alston DR, Hickey DMB, et al. SK&F 97426-A: A novel
+    Gastroenterol 2023;39(3):184–91.                                               bile acid sequestrant with higher aﬃnities and slower dissociation rates
+
+
+American College of Gastroenterology                                                                             Clinical and Translational Gastroenterology
+   14   Ellegaard et al
+
+
+
+
+            for bile acids in vitro than cholestyramine. J Pharm Sci 1997;86(1):           33. McLean BA, Wong CK, Campbell JE, et al. Revisiting the complexity of
+            76–81.                                                                             GLP-1 action from sites of synthesis to receptor activation. Endocr Rev
+        30. Blahová T, Peterková L, Lenı́ček M, et al. The eﬀect of colesevelam             2021;42(2):101–32.
+            treatment on bile acid and lipid metabolism and glycemic control in
+            healthy men. Physiol Res 2016;65(6):995–1003.
+COLON
+
+
+
+
+        31. Nakatani Y, Maeda M, Matsumura M, et al. Eﬀect of GLP-1 receptor
+            agonist on gastrointestinal tract motility and residue rates as evaluated by   Open Access This is an open access article distributed under the terms of the
+            capsule endoscopy. Diabetes Metab 2017;43(5):430–7.                            Creative Commons Attribution-Non Commercial-No Derivatives License 4.0
+        32. Maselli D, Atieh J, Clark MM, et al. Eﬀects of liraglutide on                  (CCBY-NC-ND), where it is permissible to download and share the work pro-
+            gastrointestinal functions and weight in obesity: A randomized clinical        vided it is properly cited. The work cannot be changed in any way or used
+            and pharmacogenomic trial. Obesity (Silver Spring) 2022;30(8):1608–20.         commercially without permission from the journal.
+
+
+
+
+        Clinical and Translational Gastroenterology                                                                VOLUME 15 | NOVEMBER 2024 www.clintranslgastro.com
+
