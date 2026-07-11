@@ -1,0 +1,594 @@
+                            NIH Public Access
+                            Author Manuscript
+                            Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Published in final edited form as:
+NIH-PA Author Manuscript
+
+
+
+
+                            Neurogastroenterol Motil. 2011 November ; 23(11): 995–e458. doi:10.1111/j.1365-2982.2011.01772.x.
+
+
+
+                           ASSOCIATION OF BILE ACID RECEPTOR TGR5 VARIATION
+                           AND TRANSIT IN HEALTH AND LOWER FUNCTIONAL
+                           GASTROINTESTINAL DISORDERS
+                           Michael Camilleri, M.D.,
+                           Clinical Enteric Neuroscience Translational and Epidemiological Research (CENTER), Mayo
+                           Clinic College of Medicine, Rochester, Minnesota
+                           Maria I. Vazquez-Roque, M.D., M.Sc.,
+                           Clinical Enteric Neuroscience Translational and Epidemiological Research (CENTER), Mayo
+                           Clinic College of Medicine, Rochester, Minnesota
+                           Paula Carlson, B.S.,
+                           Clinical Enteric Neuroscience Translational and Epidemiological Research (CENTER), Mayo
+NIH-PA Author Manuscript
+
+
+
+
+                           Clinic College of Medicine, Rochester, Minnesota
+                           Duane Burton,
+                           Clinical Enteric Neuroscience Translational and Epidemiological Research (CENTER), Mayo
+                           Clinic College of Medicine, Rochester, Minnesota
+                           Banny S. Wong, M.D., and
+                           Clinical Enteric Neuroscience Translational and Epidemiological Research (CENTER), Mayo
+                           Clinic College of Medicine, Rochester, Minnesota
+                           Alan R. Zinsmeister, Ph.D.
+                           Division of Biomedical Statistics and Informatics, Department of Health Sciences Research, Mayo
+                           Clinic College of Medicine, Rochester, Minnesota
+
+                           Abstract
+                                Background—The membrane bound bile acid (BA) receptor, TGR5, is located on myenteric,
+                                cholinergic and nitrergic neurons in colon and proximal small intestine. Our aim was to assess the
+                                association of genetic variation in TGR5 and small bowel (SBT) and colonic transit.
+NIH-PA Author Manuscript
+
+
+
+
+                                Methods—In 230 healthy controls and 414 patients with lower functional GI disorders (FGID:
+                                irritable bowel syndrome [IBS]-alternators [Alt] 84, IBS-constipation [IBS-C] 157, IBS-diarrhea
+                                [IBS-D] 173), we tested the association between TGR5 SNP rs11554825 (minor allele frequency
+                                41%) with symptom phenotype (total cohort) and intermediate phenotype (SBT or colonic transit
+                                by radioscintigraphy) which was available in 213 people in this cohort. The association with
+                                symptom phenotype was assessed using logistic regression, while the association with colonic
+                                filling at 6h [CF6], and colonic transit (geometric center [GC] at 24h) was assessed using
+                                ANCOVA, in each instance assuming a dominant genetic model.
+
+
+
+                           Copyright 2011 Mayo Foundation
+                           Corresponding author: Michael Camilleri, M.D., Mayo Clinic, Charlton 8-110, 200 1st Street SW, Rochester, MN 55905,
+                           camilleri.michael@mayo.edu, Phone: 507-266-2305.
+                           Disclosures: The authors have no conflicts of interest to disclose.
+                           Authors’ contributions: M. Camilleri: study conceptualization, writing protocol and paper; M.I. Vazquez-Roque: writing protocol and
+                           paper; P. Carlson: technologist genotyping; D. Burton: technologist transit measurements; B.S. Wong: writing paper; A.R.
+                           Zinsmeister: database management and statistical analysis.
+                           Camilleri et al.                                                                                              Page 2
+
+
+                                     Key Results—There was no significant association with symptom phenotype. We observed a
+                                     potential association of SNP rs11554825 with overall transit: CF6 (p=0.061) and GC24 (p=0.083).
+                                     The association of the SNP with CF6 in the IBS-D subgroup (p=0.017) indicated the TC/CC
+NIH-PA Author Manuscript
+
+
+
+
+                                     subgroup had an average 50% faster SBT compared to the TT subgroup. In IBS-D patients, GC24
+                                     was not significantly associated with rs11554825 (TC/CC vs TT).
+                                     Conclusions and Inferences—Variation in TGR5 may contribute to altered SBT and colonic
+                                     transit in lower FGID. Further studies are required to characterize the potential role of BA receptor
+                                     TGR5 in the mechanism and treatment of bowel dysfunction in lower FGID.
+
+                               Keywords
+                                     GpBAR1; diarrhea; intestine; colon
+
+                                               Bile acids (BAs) have significant effects on diverse gastroenterological, hepatic, endocrine
+                                               and metabolic functions; BAs regulate cells by activating nuclear and membrane-bound
+                                               receptors that regulate the expression of biosynthetic enzymes and binding proteins for BAs.
+                                               However, BAs also rapidly activate signaling pathways and cellular functions without the
+                                               requirement of transcription; these pathways include adenylate cyclase-cAMP generation
+                                               and calcium mobilization and generation of a series of kinases, which are involved in some
+                                               of the secretory and motor effects of BAs in the digestive tract. At the level of the intestine,
+                                               the ileal bile acid transporter or IBAT (also called the apical sodium-dependent bile acid
+NIH-PA Author Manuscript
+
+
+
+
+                                               transporter, ASBT) which is responsible for the active absorption of BAs in the ileum and
+                                               the maintenance of BA homeostasis. After BAs are absorbed, they bind to the nuclear
+                                               farnesoid-X receptors in the enterocytes, and this controls the synthesis of proteins such as
+                                               ileal bile acid binding protein and FGF-19 (1,2), the latter providing negative feedback to
+                                               the hepatic synthesis of bile acids.
+
+                                               There is a second membrane-bound BA receptor, TGR5 (also known as GpBAR1), which is
+                                               ubiquitous (3,4) and is activated by primary and secondary BAs to generate intracellular
+                                               cAMP (4). TGR5 has been associated with several metabolic functions including the control
+                                               of lipids and obesity (5), and the potential effects of bile acids on glycemic control (6)
+                                               through the BA activation of TGR5 receptors on the L cells of the intestine that produce
+                                               peptides such as the incretin glucagon-like peptide-1 (GLP-1) which may influence
+                                               glycemic control, peptide YY (PYY) and oxyntomodulin which affect gut motility (7).
+
+                                               Poole et al. recently reported that TGR5 is expressed by myenteric, cholinergic and
+                                               particularly nitrergic neurons in the colon as well as in the proximal small intestine; this
+                                               observation suggested that BAs may alter intestinal and colonic motility (8). Indeed, the
+                                               same authors showed that the secondary BA, deoxycholic acid, which is a GpBAR1 agonist,
+NIH-PA Author Manuscript
+
+
+
+
+                                               caused a rapid and sustained inhibition of spontaneous phasic activity of isolated segments
+                                               of ileum and colon by a neurogenic, cholinergic and nitrergic mechanism, and delayed
+                                               gastric and intestinal transit (8).
+
+                                               Given these observations in animal and in vitro studies, we wished to test the hypothesis that
+                                               genetic variation in TGR5 is associated with altered small bowel and colonic transit.
+                                               Specifically, given the inhibition of transit when BA activates TGR5, we considered that an
+                                               abnormally functioning TGR5 receptor (caused by a functional genetic variation in TGR5
+                                               gene) would reduce the inhibitory effect of endogenous BAs on transit and would, therefore,
+                                               be associated with acceleration of transit relative to the wild type variant. Our aim was to
+                                               assess the association of genetic variation in TGR5 and colonic and small bowel transit in
+                                               humans who were either healthy volunteers or patients with lower functional gastrointestinal
+                                               diseases (FGID).
+
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Camilleri et al.                                                                                             Page 3
+
+
+                               METHODS
+                               Design
+NIH-PA Author Manuscript
+
+
+
+
+                                               In a cohort of 230 healthy controls and 414 patients with lower FGID, we tested the
+                                               association between TGR5 SNP rs11554825 (located in exon 1, minor allele frequency 41%)
+                                               with symptom phenotype and intermediate phenotype (colonic transit) in health and FGID
+                                               based on Rome II criteria [irritable bowel syndrome (IBS)-alternators (Alt) 84, IBS-
+                                               constipation (IBS-C) or functional constipation (FC) 157, IBS-diarrhea (IBS-D) or
+                                               functional diarrhea (FD) 173]. The designation of symptom subgroups was based on a
+                                               standard bowel disease questionnaire (9) with specific questions a priori identified in the
+                                               instrument to characterize the FGID sub-phenotype. Small bowel or colonic transit (by
+                                               radioscintigraphy) was available in 213 people in this cohort.
+
+                               Subjects
+                                               Genomic DNA and phenotype data were collected with written informed consent in
+                                               previous studies from 2000 to 2010 (10–16). The Mayo Clinic Institutional Review Board
+                                               had reviewed and approved use of the collected data for this study. All participants had
+                                               authorized use of medical records and genomic DNA for research.
+
+                               Gastrointestinal and Colonic Transit
+NIH-PA Author Manuscript
+
+
+
+
+                                               An established, validated scintigraphic method was used to measure gastrointestinal and
+                                               colonic transit as previously described. Colonic transit by scintigraphy is a valid biomarker
+                                               of colonic dysmotility. The conduct and performance characteristics of this test are
+                                               summarized elsewhere (17–20).
+
+                                               During transit studies, participants continued estrogen replacement, birth control pills or
+                                               depot injection, stable doses of thyroid replacement, low-dose aspirin, and selective
+                                               serotonergic antidepressants. Exclusion criteria included organic diseases that might explain
+                                               the patients’ symptoms and use of medication for IBS or bowel dysfunction within 7 days
+                                               before or during the study.
+
+                                               The primary endpoint of colonic transit is the geometric center at 24 hours (GC24).
+                                               Secondary endpoints were the colonic GC at 8 and 48 hours, gastric emptying and small
+                                               bowel transit. The GC is the weighted average of count percentages in the different colonic
+                                               regions: ascending (AC), transverse (TC), descending (DC), rectosigmoid (RS), and stool;
+                                               the weighting factors are 1 to 5 respectively.
+NIH-PA Author Manuscript
+
+
+
+
+                                               A change in colonic GC24 of 1 unit is associated with a discernible (~0.65 point) change in
+                                               stool consistency on a validated 7-point stool form scale.
+
+                               Genotyping
+                                               Genomic DNA was isolated from whole blood shortly after blood draw using standard
+                                               methods and stored at −80°C until genotyping. Genotyping for TGR5 SNP rs11554825
+                                               (located in chromosome 2 position 218,834,054, exon 1, with minor allele frequency in our
+                                               patient cohort of 41%) was performed using TaqMan SNP Genotyping Assays (Applied
+                                               Biosystems, Foster City, CA) per the manufacturer’s instructions. Following PCR
+                                               amplification, end reactions were analyzed using ABI 7300FAST Real-Time PCR System
+                                               by Sequence Detection Software (Applied Biosystems). According to this genotyping, T is
+                                               the major allele and C the minor allele.
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Camilleri et al.                                                                                             Page 4
+
+
+                               Statistical Analysis
+                                               Hardy-Weinberg equilibrium (HWE) for the genotype distribution of the TGR5 SNP was
+                                               assessed using Weir’s exact test (21). The association with symptom phenotype (healthy
+NIH-PA Author Manuscript
+
+
+
+
+                                               volunteers vs. FGID overall, and separately, vs. FGID subtypes) was assessed using logistic
+                                               regression models incorporating gender as a covariate, the later model employed a
+                                               generalized logit link with healthy volunteers as the reference category. The association with
+                                               colonic filling at 6 hours (CF6), and colonic transit [geometric center (GC) at 24 hours] was
+                                               assessed using analysis of covariance (ANCOVA) models incorporating symptom
+                                               phenotype (HV, IBS-C, IBS-D, and IBS-A) as a covariate. In particular, ANCOVA models
+                                               which included a genotype by symptom phenotype interaction term were also examined to
+                                               assess potential differential genotype associations by symptom phenotype. A dominant
+                                               genetic model coding (TC/CC vs. TT) was used in both the logistic and ANCOVA analyses.
+                                               The reported p-values are unadjusted for examining the two endpoints of interest nor for
+                                               these specific assessments within the 4 symptom phenotype subgroups (IBS-Alt, IBS-C,
+                                               IBS-D, and healthy subjects).
+
+                               RESULTS
+                               Hardy-Weinberg Equilibrium (HWE) for Candidate SNP
+                                               TGR5 SNP rs11554825 in our entire cohort was in HWE relative to published data (22).
+NIH-PA Author Manuscript
+
+
+
+
+                               Demographics and Genotypes of Symptom and Transit Cohorts
+                                               Demographic characteristics and genotyping information of the full cohort of 644
+                                               participants (414 patients, 230 healthy volunteers) and the subset of 213 with colonic transit
+                                               are shown in Tables I and II, respectively. There was a significant association of having a
+                                               transit study with age and gender, but not the TGR5 genotype, with increasing odds for a
+                                               transit study in females (relative to males) and a decreasing odds with older age. However,
+                                               incorporating symptom phenotype in the model “explained” the association with gender,
+                                               although not surprisingly, the odds for having a transit study were significantly increased in
+                                               each subtype (relative to healthy controls).
+
+                               Association in Overall Cohort of TGR5 SNP with Symptom Phenotypes and Transit
+                               Measurements
+                                               There was no significant association with symptom phenotype (Table III).
+
+                                               We observed a modest overall association of SNP rs11554825 with transit in the entire
+                                               cohort of participants who underwent transit: CF6 (p=0.061) and colonic GC24 (p=0.083)
+                                               (Figure 1). The association with CF6 was most pronounced in the group of patients with
+NIH-PA Author Manuscript
+
+
+
+
+                                               IBS-D (p=0.017) with the TC/CC subgroup having an average 50% faster small bowel
+                                               transit time compared to CC subgroup. In contrast, colonic transit in IBS-D patients was not
+                                               significantly different in TC/CC compared to TT subgroups (p=0.35).
+
+                               DISCUSSION
+                                               Our study shows that there is an association between the TGR5 genotype variations
+                                               (rs11554825) and small intestinal transit in IBS-D patients, and possibly with both small
+                                               intestinal and colonic transit in a cohort of patients with lower FGID and healthy controls.
+
+                                               These findings are consistent with recent studies showing that TGR5 receptors are located
+                                               on nitrergic neurons whose activation results in inhibition of ileal and colonic motility and
+                                               inhibition of gastric and small intestinal transit (8). The TT genotype of rs11554825 (T
+                                               being the major allele) is associated with numerically slower small bowel and colonic transit
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Camilleri et al.                                                                                              Page 5
+
+
+                                               compared to the TC/CC subgroup, though neither reached statistical significance in the
+                                               entire IBS group or in the IBS-D group if adjustment for multiple endpoints and 4 subgroups
+                                               was applied. Our data are consistent with the hypothesis that the TC/CC subgroup alters the
+NIH-PA Author Manuscript
+
+
+
+
+                                               function of the TGR5 gene, reduces its expression, and hence reduces the nitrergic inhibition
+                                               of intestinal motility and transit, which manifests as faster transit in the TC/CC subgroup.
+                                               The functional significance of SNP rs11554825 is unclear, even though Hov et al. (22)
+                                               showed it was significantly associated with ulcerative colitis (p= 8.5*10−7). In fact, the
+                                               coding part of TGR5 is entirely in exon 2, and using confocal microscopy, flow cytometry
+                                               and a cAMP-sensitive luciferase assay, five of the non-synonymous mutations (W83R,
+                                               V178M, A217P, S272G and Q296X) in exon 2 were found to reduce or abolish TGR5
+                                               function (22).
+
+                                               Our participant cohort is representative of adults in the Unites States as there was no
+                                               deviation from the Hardy-Weinberg equilibrium. There was a significant association of
+                                               having a transit study with age and gender, but not with the TGR5 genotype. There were
+                                               increased odds for undergoing transit measurement in females (relative to males); however,
+                                               incorporating symptom phenotype in the model accounted for the association with gender
+                                               and this is attributable to the increased prevalence of IBS in females. The decreased odds of
+                                               undergoing transit measurements with older age are consistent with the higher prevalence of
+                                               lower FGIDs in younger adults. It was not surprising that the odds for having a transit study
+                                               were significantly increased in each subtype of lower FGID relative to healthy controls.
+NIH-PA Author Manuscript
+
+
+
+
+                                               In experimental animal studies, activation of TGR5 was associated with delayed gastric and
+                                               small intestinal transit (8). The mechanism of this effect is not fully understood (23);
+                                               however, it is conceivable that this results from activation of TGR5 receptors on
+                                               enteroendocrine cells, such as L cells, leading to the release of glucagon-like peptide-1
+                                               (GLP-1) with subsequent inhibition of proximal gut transit. Alternatively, activation of
+                                               neuronal mechanisms such as intrinsic primary afferent neurons and nitrergic neurons
+                                               ultimately inhibit intestinal transit.
+
+                                               In contrast, bile acids, such as chenodeoxycholic acid, induce acceleration of colonic transit
+                                               as shown in health and IBS-D patients (24,25), and induce high amplitude propagated
+                                               contractions (26), presumably by a different mechanism that may be activated by a higher
+                                               dose of the intraluminal bile acids than the dose that stimulates the neural or hormonal
+                                               mechanisms that retard gastric and small intestinal transit. It is interesting to note that
+                                               administrations of the bile acid, chenodeoxycholate, and the bile acid sequestrant,
+                                               colesevelam, in humans were associated with retardation of gastric emptying (24,25),
+                                               suggesting that both pathways that result in retardation of gastric emptying and acceleration
+                                               or delay of colonic transit in IBS-C and IBS-D respectively may occur concurrently. There
+NIH-PA Author Manuscript
+
+
+
+
+                                               is evidence that another bile acid sequestrant, colestimide, increased secretion of GLP-1 in
+                                               patients with type 2 diabetes mellitus, and this effect is mediated through the nuclear
+                                               receptor farnesoid X receptor (FXR) and the membrane receptor, TGR5. These actions may
+                                               enhance glycemic control either through the effects of GLP-1 on gastric emptying or FXR-
+                                               mediated regulation of energy substrate mobilization and storage (27–29).
+
+                                               Our study should be regarded as hypothesis-generating. Thus our hypothesis is that TGR5
+                                               impacts small bowel and colonic transit in humans. The functional significance of
+                                               rs11554825 is still not reported and, although it is in strong linkage disequilibrium with
+                                               SNPs in the 5’ untranslated region of the TGR5 gene, it has not been demonstrated to be in
+                                               linkage disequilibrium with the functional SNPs in exon 2 which is the section of the gene
+                                               that leads to the transcribed protein (22). It is also possible that SNP rs11554825 is in
+                                               linkage disequilibrium with the causative genetic variation in TGR5 that is responsible for
+                                               the alteration of gastrointestinal motility and that genetic variant has yet to be identified.
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Camilleri et al.                                                                                                           Page 6
+
+
+                                               The strengths of our study include the use of the standard, validated measurement of small
+                                               bowel and colonic transit as an intermediate phenotype with defined coefficient of variation,
+                                               and the relatively large number of participants included in the genetic association analysis.
+NIH-PA Author Manuscript
+
+
+
+
+                                               The weaknesses are: first, that SNP rs11554825 is not yet proven to have functional
+                                               consequences and therefore it may serve only as a marker of a genetic association; second,
+                                               the symptom phenotype information is based on a bowel disease questionnaire with
+                                               insufficient information to more accurately characterize bowel frequency and consistency;
+                                               and third, that the associations with colonic filling and colonic transit in the IBS group as a
+                                               whole are not statistically significant, and the subgroup (IBS-D) analysis (unadjusted for 4
+                                               groups) is not statistically significant. Our data are therefore hypothesis-generating.
+
+                                               In summary, variation in TGR5 may contribute to altered small bowel and colonic transit in
+                                               patients with lower FGID, particularly IBS-D patients. Further studies are indicated to
+                                               characterize the potential role of the bile acid receptor, TGR5, in the mechanism and
+                                               treatment of bowel dysfunction in lower FGID.
+
+                               Acknowledgments
+                                               This work was funded by grant RO1-DK079866 from National Institutes of Health to Dr. M. Camilleri and by
+                                               Mayo Clinic CTSA grant (RR24150). We thank Cindy Stanislav for excellent secretarial assistance.
+NIH-PA Author Manuscript
+
+
+
+
+                               REFERENCES
+                                               1. Claudel T, Staels B, Kuipers F. The Farnesoid X receptor: a molecular link between bile acid and
+                                                  lipid and glucose metabolism. Arterioscler Thromb Vasc Biol. 2005; 25:2020–2030. [PubMed:
+                                                  16037564]
+                                               2. Wang H, Chen J, Hollister K, Sowers LC, Forman BM. Endogenous bile acids are ligands for the
+                                                  nuclear receptor FXR/BAR. Mol Cell. 1999; 3:543–553. [PubMed: 10360171]
+                                               3. Maruyama T, Miyamoto Y, Nakamura T, et al. Identification of membrane-type receptor for bile
+                                                  acids (M-BAR). Biochem Biophys Res Commun. 2002; 298:714–719. [PubMed: 12419312]
+                                               4. Kawamata Y, Fujii R, Hosoya M, et al. A G protein-coupled receptor responsive to bile acids. J Biol
+                                                  Chem. 2003; 278:9435–9440. [PubMed: 12524422]
+                                               5. Kuipers F, Stroeve JH, Caron S, Staels B. Bile acids, farnesoid X receptor, atherosclerosis and
+                                                  metabolic control. Curr Opin Lipidol. 2007; 18:289–297. [PubMed: 17495603]
+                                               6. Katsuma S, Hirasawa A, Tsujimoto G. Bile acids promote glucagon-like peptide-1 secretion through
+                                                  TGR5 in a murine enteroendocrine cell line STC-1. Biochem Biophys Res Commun. 2005;
+                                                  329:386–390. [PubMed: 15721318]
+                                               7. Bajor A, Gillberg PG, Abrahamsson H. Bile acids: short and long term effects in the intestine. Scand
+                                                  J Gastroenterol. 2010; 45:645–664. [PubMed: 20334475]
+                                               8. Poole DP, Godfrey C, Cattaruzza F, et al. Expression and function of the bile acid receptor GpBAR1
+NIH-PA Author Manuscript
+
+
+
+
+                                                  (TGR5) in the murine enteric nervous system. Neurogastroenterol Motil. 2010; 22:814–825.
+                                                  [PubMed: 20236244]
+                                               9. Talley NJ, Phillips SF, Wiltgen CM, et al. Assessment of functional gastrointestinal disease: the
+                                                  bowel disease questionnaire. Mayo Clin Proc. 1990; 65:1456–1479. [PubMed: 2232900]
+                                               10. Odunsi-Shiyanbade ST, Camilleri M, McKinzie S, et al. Effects of chenodeoxycholate and a bile
+                                                    acid sequestrant, colesevelam, on intestinal transit and bowel function. Clin Gastroenterol Hepatol.
+                                                    2009; 8:159–165. [PubMed: 19879973]
+                                               11. Andresen V, Camilleri M, Kim HJ, et al. Is there an association between GNbeta3-C825T
+                                                    genotype and lower functional gastrointestinal disorders? Gastroenterology. 2006; 130:1985–1994.
+                                                    [PubMed: 16762621]
+                                               12. Camilleri CE, Carlson PJ, Camilleri M, et al. A study of candidate genotypes associated with
+                                                    dyspepsia in a U.S. community. Am J Gastroenterol. 2006; 101:581–592. [PubMed: 16464220]
+
+
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Camilleri et al.                                                                                                      Page 7
+
+
+                                               13. Camilleri M, Carlson P, Zinsmeister AR, et al. Mitochondrial DNA and gastrointestinal motor and
+                                                   sensory functions in health and functional gastrointestinal disorders. Am J Physiol. 2009;
+                                                   296:G510–G516.
+NIH-PA Author Manuscript
+
+
+
+
+                                               14. Kim HJ, Camilleri M, Carlson PJ, et al. Association of distinct alpha(2) adrenoceptor and serotonin
+                                                   transporter polymorphisms with constipation and somatic symptoms in functional gastrointestinal
+                                                   disorders. Gut. 2004; 53:829–837. [PubMed: 15138209]
+                                               15. Manabe N, Wong BS, Camilleri M, Burton D, McKinzie S, Zinsmeister AR. Lower functional
+                                                   gastrointestinal disorders: evidence of abnormal colonic transit in a 287 patient cohort.
+                                                   Neurogastroenterol Motil. 2010; 22 293-e82.
+                                               16. Rao AS, Wong BS, Camilleri M, et al. Chenodeoxycholate in females with irritable bowel
+                                                   syndrome-constipation: a pharmacodynamic and pharmacogenetic analysis. Gastroenterology.
+                                                   2010; 139:1549–1558. and Supplementary Material at www.gastrojournal.org. [PubMed:
+                                                   20691689]
+                                               17. Burton DD, Camilleri M, Mullan BP, Forstrom LA, Hung JC. Colonic transit scintigraphy labeled
+                                                   activated charcoal compared with ion exchange pellets. J Nucl Med. 1997; 38:1807–1810.
+                                                   [PubMed: 9374360]
+                                               18. Cremonini F, Mullan BP, Camilleri M, Burton DD, Rank MR. Performance characteristics of
+                                                   scintigraphic transit measurements for studies of experimental therapies. Aliment Pharmacol Ther.
+                                                   2002; 16:1781–1790. [PubMed: 12269971]
+                                               19. Deiteren A, Camilleri M, Bharucha AE, Burton D, McKinzie S, Rao AS, Zinsmeister AR.
+                                                   Performance characteristics of scintigraphic colon transit measurement in health and irritable
+                                                   bowel syndrome and relationship to bowel functions. Neurogastroenterol Motil. 2010; 22:415–
+NIH-PA Author Manuscript
+
+
+
+
+                                                   423. e95. [PubMed: 20025675]
+                                               20. Camilleri M. Scintigraphic biomarkers for colonic dysmotility. Clin Pharmacol Ther. 2010;
+                                                   87:748–753. [PubMed: 20410880]
+                                               21. Weir, BS. Hardy-Weinberg Disequilibrium. In: Weir, BS., editor. Genetic Data Analysis II:
+                                                   Methods for Discrete Population Genetic Data. Sunderland, MA: Sinauer Associates Publishers;
+                                                   1996. p. 98-101.
+                                               22. Hov JR, Keitel V, Laerdahl JK, et al. Mutational characterization of the bile acid receptor TGR5 in
+                                                   primary sclerosing cholangitis. PLoS One. 2010; 5:e12403. [PubMed: 20811628]
+                                               23. Keely SJ. Missing link identified: GpBAR1 is a neuronal bile acid receptor. Neurogastroenterol
+                                                   Motil. 2010; 22:711–717. [PubMed: 20553563]
+                                               24. Odunsi-Shiyanbade ST, Camilleri M, McKinzie S, et al. Effects of chenodeoxycholate and a bile
+                                                   acid sequestrant, colesevelam, on intestinal transit and bowel function. Clin Gastroenterol Hepatol.
+                                                   2010; 8:159–165. [PubMed: 19879973]
+                                               25. Rao AS, Wong BS, Camilleri M, et al. Chenodeoxycholate in females with irritable bowel
+                                                   syndrome-constipation: a pharmacodynamic and pharmacogenetic analysis. Gastroenterology.
+                                                   2010; 139:1549–1558. [PubMed: 20691689]
+                                               26. Bampton PA, Dinning PG, Kennedy ML, Lubowski DZ, Cook IJ. The proximal colonic motor
+                                                   response to rectal mechanical and chemical stimulation. Am J Physiol. 2002; 282:G443–G449.
+NIH-PA Author Manuscript
+
+
+
+
+                                               27. Fonseca VA, Handelsman Y, Staels B. Colesevelam lowers glucose and lipid levels in type 2
+                                                   diabetes: the clinical evidence. Diabetes Obes Metab. 2010; 12:384–392. [PubMed: 20415686]
+                                               28. Prawitt J, Caron S, Staels B. Bile acid metabolism and the pathogenesis of type 2 diabetes. Curr
+                                                   Diab Rep. 2011 Mar 24. [Epub ahead of print].
+                                               29. Knop FK. Bile-induced secretion of glucagon-like peptide-1: pathophysiological implications in
+                                                   type 2 diabetes? Am J Physiol. 2010; 299:E10–E13.
+
+
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                           Camilleri et al.                                                                                            Page 8
+NIH-PA Author Manuscript
+
+
+
+
+                                               Figure 1.
+                                               Association of TGR5 SNP rs11554825 with small bowel and colonic transit in the overall
+                                               cohort of patients and healthy controls who underwent transit measurement and, specifically,
+                                               in patients with IBS-D. A modest overall association is noted between SNP rs11554825 and
+                                               transit in the entire IBS cohort for Colonic filling at 6 h (CF6, p=0.061) and colonic transit
+                                               (GC24, p=0.083). The association with CF6 was most pronounced in IBS-D (p=0.017) with
+                                               the TC/CC subgroup having an average 50% faster small bowel transit time compared to the
+                                               TT subgroup. In contrast to the numerical difference in CF6 in the TC/CC subgroup
+                                               compared to TT subgroup in IBS-D, colonic transit in IBS-D patients was not significantly
+                                               different in the 2 subgroups.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                                                                                 NIH-PA Author Manuscript                                   NIH-PA Author Manuscript           NIH-PA Author Manuscript
+
+
+                                                                                                                                                                     Table I
+                                                                                 Demographics and Genotypes of All Participants
+
+                                                                                  Group                Healthy            IBS-Alt             IBS-C             IBS-D
+
+                                                                                  Genotype         TC/CC         TT   TC/CC     TT       TC/CC        TT    TC/CC       TT
+                                                                                                                                                                                                          Camilleri et al.
+
+
+
+
+                                                                                  N                 154          76    55           29    108         49     112        61
+
+                                                                                  Gender n (%F)    108(70)   54(71)   51(93)   26(90)    106(98)   44(89)   90(80)    52(85)
+
+                                                                                  Mean(±SEM) Age   37 ± 1    36 ± 2   41 ± 2   40 ± 2    46± 1     44 ± 2   45 ± 1    46 ± 2
+
+
+
+
+Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                                                                                                                                                                                                          Page 9
+                                                                                 NIH-PA Author Manuscript                                       NIH-PA Author Manuscript                      NIH-PA Author Manuscript
+
+
+                                                                                                                                                                       Table II
+                                                                                 Demographics and Genotypes of Participants with Transit Measurements
+
+                                                                                  Group                  Healthy                IBS-Alt                 IBS-C                  IBS-D
+
+                                                                                  Genotype        TC/CC            TT    TC/CC            TT     TC/CC          TT      TC/CC          TT
+                                                                                                                                                                                                                         Camilleri et al.
+
+
+
+
+                                                                                  N                 32             6       18             7        46           24        50           30
+
+                                                                                  Gender n (%F)   26(81)      6(100)     18(100)      7(100)     46(100)    23(96)       39(78)    23(77)
+
+                                                                                  Mean(±SEM)Age   34.0±1.7    33.3±6.1   38.3±2.8    34.1±4.3    41.2±1.4   34.8±2.2    42.8±2.0   41.1±3.0
+
+                                                                                  Mean(±SEM)BMI   26.4±1.0    24.4±1.1   27.9±1.1    29.1±1.4    25.6±0.7   25.6±0.6    27.2±0.8   28.0±1.0
+
+
+
+
+Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                                                                                                                                                                                                                         Page 10
+                                                                                 NIH-PA Author Manuscript                                                   NIH-PA Author Manuscript                                         NIH-PA Author Manuscript
+
+
+                                                                                                                                                                                   Table III
+                                                                                 Prevalence of Symptom Phenotype in the Lower FGID Cohort
+
+                                                                                                                                           IBS-Alt               FC and IBS-C              FD and IBS-D               Healthy
+                                                                                                                                                                                                                      Controls
+                                                                                                                                                                                                                                                        Camilleri et al.
+
+
+
+
+                                                                                  Genotype                                         TC/CC             TT        TC/CC          TT         TC/CC         TT        TC/CC           TT
+
+                                                                                  N (% of specific phenotype)                     55 (65.5)     29 (34.5)     108 (68.8)   49 (31.2)   112 (64.7)   61 (35.3)   154 (67.1)   76 (32.9)
+
+                                                                                  % of total genotype with specified phenotype      12.8             13.5       25.2         22.8         26.1        28.4        35.9           35.4
+
+                                                                                 FC= functional constipation; FD= functional diarrhea
+
+
+
+
+Neurogastroenterol Motil. Author manuscript; available in PMC 2012 November 1.
+                                                                                                                                                                                                                                                        Page 11
+

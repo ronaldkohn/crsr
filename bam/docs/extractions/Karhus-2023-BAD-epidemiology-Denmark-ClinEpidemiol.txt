@@ -1,0 +1,584 @@
+Clinical Epidemiology                                                                                                                                                                                  Dovepress
+                                                                                                                                                            open access to scientific and medical research
+
+
+  Open Access Full Text Article
+                                                                                                                                                                 ORIGINAL RESEARCH
+
+The Epidemiology of Bile Acid Diarrhea in Denmark
+Martin L Kårhus 1, *, Anne-Marie Ellegaard                                           1,
+                                                                                          *, Matilde Winther-Jensen                                                   2
+                                                                                                                                                                          , Susanne Hansen                                     2
+                                                                                                                                                                                                                                   ,
+Filip K Knop 1,3,4, *, Line L Kårhus 2, *
+1
+  Center for Clinical Metabolic Research, Copenhagen University Hospital – Herlev and Gentofte, Hellerup, Denmark; 2Center for Clinical Research
+and Prevention, Copenhagen University Hospital – Bispebjerg and Frederiksberg, Frederiksberg, Denmark; 3Steno Diabetes Center Copenhagen,
+Herlev, Denmark; 4Department of Clinical Medicine, Faculty of Health and Medical Science, University of Copenhagen, Copenhagen, Denmark
+
+*These authors contributed equally to this work
+
+Correspondence: Anne-Marie Ellegaard; Line L Kårhus, Email anne.marie.gade.ellegaard@regionh.dk; line.lund.kaarhus@regionh.dk
+
+
+Objective: Bile acid diarrhea (BAD) is a socially debilitating disease with frequent bowel movements, urgency, and fecal incon­
+tinence as the main symptoms. It is caused by excessive bile acid levels in the colon and is most commonly treated with bile acid
+sequestrants. It is estimated that 1–2% of the population suffers from the disease, but only a fraction of these are properly diagnosed
+with the gold standard ⁷⁵selenium-homotaurocholic acid (SeHCAT) test. Here, we use nationwide registries to describe the demo­
+graphic characteristics of individuals suffering from BAD in Denmark.
+Methods: Since the International Classification of Diseases diagnosis code for BAD was not used until 2021, we identified the BAD
+population by referral to SeHCAT testing followed by a prescription of a bile acid sequestrant (colestyramine, colestipol or
+colesevelam) within 365 days. The study period was from 2003 to 2021.
+Results: During the study period, a total of 5264 individuals with BAD were identified with large differences between the five regions in
+Denmark. The number of prescriptions of colestyramine and colesevelam, the number of SeHCAT tests, and the number of individuals
+diagnosed with BAD increased during the study period. The BAD population had more co-morbidities and more health care contacts as
+well as lower levels of education and income compared with age- and sex-matched controls from the general population.
+Conclusion: Using the Danish registries, we identified a BAD population, which seems to be inferior in health care and socio-
+economic parameters compared with the Danish general population.
+Keywords: Bile acid diarrhea, epidemiology, nationwide registries
+
+
+
+Introduction
+Bile acid diarrhea (BAD) is a gastrointestinal disease with an estimated prevalence of 1–2% in the general population.1 The main
+symptoms are loose stools, frequent bowel movements, and urgency, making it a socially debilitating disease.2 The symptoms are
+caused by a larger spillover of bile acids to the colon than in healthy individuals.3,4 BAD can occur without known underlying
+pathophysiology or be secondary to other conditions such as inflammatory bowel diseases, cholecystectomy, celiac disease,
+intestinal resection, or damage after radiotherapy.1,5 In Denmark, the disease is diagnosed with the gold standard ⁷⁵selenium-
+homotaurocholic acid (SeHCAT) test, where the 7-day retention of orally administered SeHCAT is measured. Even though the
+SeHCAT test is a well-known and accepted diagnostic tool,6–8 BAD was not registered as a diagnosis in WHO’s International
+Classification of Diseases Version 10 (ICD10) before 2021. Thus, before this, BAD was registered under, eg, irritable bowel
+syndrome with diarrhea or unspecified intestinal malabsorption, and other unspecified gastrointestinal diseases. Due to the
+missing diagnosis code, individuals suffering from BAD are difficult to follow in registries, and epidemiological characterization
+of this rather large but not well-known patient group is presently lacking. Individuals with BAD may, nevertheless, be identified
+based on referral to SeHCAT testing and the prescription of bile acid sequestrants, which are widely accepted as the first-line
+treatment of BAD.9,10 Bile acid sequestrants bind the bile acids in the gut lumen leading to alleviation of the symptoms.
+    In this nationwide registry-based study, we identify individuals suffering from BAD in Denmark to describe their
+demographics.
+
+                                            Clinical Epidemiology 2023:15 1173–1181                                                                                                                                          1173
+Received: 15 October 2023                                         © 2023 Kårhus et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+Accepted: 17 November 2023                                        php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+                                            work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+Published: 7 December 2023                  permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+                                   Kårhus et al                                                                                                       Dovepress
+
+
+                                   Methods
+                                   Data Sources
+                                   We used the national Danish registries to collect information on a cohort of individuals with presumed bile acid diarrhea
+                                   (BAD) in Denmark between 2003 and 2021. All Danish residents are assigned a unique personal ID number at birth or
+                                   immigration via the Civil Registration System.11 This number is used in all contacts with the health care system and other
+                                   authorities. We used this ID to link information across all registers. Thus, age, birthdate, and date of death, if deceased,
+                                   were identified using the Civil Registration System.11
+                                      Information on diagnoses, procedures, and treatments was retrieved from the Danish National Patient Register,12
+                                   which contains diagnoses and dates of all hospital contacts since 1977. Treatments and surgical procedures have been
+                                   registered since 1995. Since 1995, diagnoses have been coded using the ICD10 system.13
+                                      Using the Populations Education Register, we could assess educational status,14 while the Income Statistics Register
+                                   made it possible to divide the population into income groups.15
+                                      The Register of Medicinal Products Statistics contains all redeemed prescriptions on an individual level since 1995
+                                   and was used to identify BAD-relevant prescriptions.16 Prescriptions are coded using Anatomical Therapeutic Chemical
+                                   Classification (ATC) codes.17 All prescriptions in Denmark are handled by community pharmacies, ensuring that the
+                                   register contains all redeemed prescriptions.
+                                      Contacts with primary health care (general practitioners, practicing specialists) have been registered in the Health
+                                   Service Register since 1990.18 The reason for contact is not registered, but it is possible to assess the number of contacts
+                                   based on different providers, eg, general practitioners, physiotherapists, dentists, etc.
+
+
+                                   Study Population
+                                   Since 2021, the ICD10 diagnosis code K90.8B Bile acid diarrhea has been used in Denmark for confirmed BAD.
+                                   However, before 2021, the ICD10 code used to register BAD was not used. Hence, to identify individuals suffering from
+                                   BAD we used a combination of procedures and prescriptions. In Denmark, BAD is diagnosed using the SeHCAT test;
+                                   however, the result of the test is not registered in an easily retrievable way. Thus, we chose to define an individual as
+                                   diagnosed with BAD if this individual had a SeHCAT test registered (Danish procedural code: WGLGSSEXX) in the
+                                   National Patient Register followed by redemption of a prescription of bile acid sequestrant (colestipol [ATC code
+                                   C10AC02], colestyramine [ATC code C10AC01] or colesevelam [ATC code C10AC04]) within 365 days after SeHCAT
+                                   test. The window of 365 days after the SeHCAT test for the first prescription of bile acid sequestrant was chosen based on
+                                   clinical experience. The date of BAD diagnosis was defined as the date of redemption of the first prescription. We also
+                                   investigated redeemed prescriptions within one month, three months, six months, and without a time limit after the
+                                   SeHCAT test (Table S1), but these cut-offs were not used in the definition of the BAD population.
+                                       To be able to compare the BAD population with a non-BAD population, individuals suffering from BAD were
+                                   matched on sex and date of birth (±1 day) 1:10 with individuals from the general population. Matches were required to be
+                                   alive on the day of matching. It was possible to be a match to more than one individual suffering from BAD with
+                                   different match dates. The date of study entry was the date of BAD diagnosis for individuals suffering from BAD and the
+                                   date of matching for matches.
+
+
+                                   Covariates
+                                   Household income five years before entry was extracted and the average was calculated. Income was then divided into
+                                   tertiles for comparison.
+                                       Educational level was divided into groups based on the highest level of completed education at the time of study
+                                   entry, corresponding to the International Standard Classification of Education (ISCED). ISCED 0–2 contains pre-primary,
+                                   primary, and lower-secondary education. ISCED 3+5 entails high school/vocational education and short-cycle tertiary
+                                   education (no education is consistent with ISCED 4 in Denmark). ISCED 6–8 consists of median-length tertiary
+                                   education, bachelor, master, and PhD degrees.
+
+
+                                   1174      https://doi.org/10.2147/CLEP.S442054                                                     Clinical Epidemiology 2023:15
+                                             DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                                               Kårhus et al
+
+
+                                       Co-morbidities were defined according to the Nordic Multimorbidity Index (NMI), which has been found to predict
+                                   mortality more accurately than the previously used Charlson comorbidity index.19 The NMI uses hospital diagnoses and
+                                   redeemed prescriptions to assess co-morbidity status and assigns weights based on this status. We used diagnoses and
+                                   prescriptions 10 years before study entry.
+                                       Health care use outside hospitals (general practitioners and practicing specialists) was counted during the 10 years
+                                   before the study entry. More than 100 visits were pooled into one category as 100 or more visits. Contacts related to
+                                   physiotherapy, chiropractic, dentistry, rehabilitation, foot care, psychology, care for eyes or ears, dieticians, and help
+                                   classified as “others” were not included.
+
+
+                                   Statistical Analysis
+                                   Data are presented as mean + SD or median (25th–75th percentile for continuous data and n (%) for categorical data. No
+                                   formal statistical tests were performed.
+                                      The percentage of BAD patients in each region was calculated as the number of BAD patients diagnosed in each
+                                   region divided by the total number of inhabitants in the region during the study period. Inhabitants in each region were
+                                   identified using the Civil Register.
+
+
+                                   Results
+                                   During the study period, a total of 5264 individuals suffering from BAD, defined by a diagnosis of ICD10 K90.8B or
+                                   a SeHCAT test followed by a prescription of bile acid sequestrant within 365 days, were identified. Figure 1 shows the
+                                   selection process of the BAD population according to the abovementioned definition and the number of SeHCAT tests
+                                   and prescriptions during the study period. Only 70 individuals received the ICD10 code K90.8B during the study period.
+                                   When identifying individuals suffering from BAD by a SeHCAT test followed by a prescription of colestyramine,
+                                   colestipol, or colesevelam within 365 days, 5230 individuals were identified. Only 36 individuals were identified with
+                                   both definitions of BAD (Figure 2). Additionally, we investigated redeemed prescriptions within one month, three
+                                   months, six months, and without a time limit after the SeHCAT test. The number increased from 2694 after one month to
+                                   6379 individuals when no time constraint was used (Table S1).
+
+
+                                                                              SeHCAT tests between 2003-2021                                                     Prescriptions
+                                                                                         By id and date                                                    (Colestyramine, colestipol,
+                                                                                           n = 14,530                                                            colesevelam)
+                                                                                                                                                        n = 339,854 unique prescriptions
+
+
+
+                                                                               Unique SeHCAT test on different dates*                                        Unique individuals with
+                                                                                          n = 12,523                                                             prescriptions :
+                                                                                                                                                                   n = 30,789
+
+
+
+
+                                                                  ICD10 K908B (BAD):                         First SeHCAT test followed by relevant prescription within
+                                                                          n = 70                                                     365 days
+                                                             BAD date is date of first diagnosis                                     n = 5,230
+                                                                                                                         BAD date is prescription date
+
+
+
+                                                                                                       Individuals with either
+                                                                                                   diagnosis of ICD10 K908B or
+                                                                                                   with SeHCAT test followed by
+                                                                                                   prescription within 365 days:
+                                                                                                        n = 5,264 individuals
+
+
+                                   Figure 1 Flowchart of the selection process of the bile acid diarrhea (BAD) population.
+                                   Note: *Duplicates on the same individual have been removed, but an individual may have several procedures on different dates.
+                                   Abbreviations: ICD10, International Classification of Diseases Version 10; SeHCAT, ⁷⁵selenium-homotaurocholic acid.
+
+
+
+
+                                   Clinical Epidemiology 2023:15                                                                                                          https://doi.org/10.2147/CLEP.S442054
+                                                                                                                                                                                                                 1175
+                                                                                                                                                                                                 DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Kårhus et al                                                                                                                                             Dovepress
+
+
+
+
+                                                                     25,559            5,230      7,293                                        5,194
+                                                                                                            5,230 individuals
+                                                                                                            with BAD defined
+                                                                                                            by SeHCAT test
+                                                                                                            and prescriptions
+                                                                                                            of colestyramine,
+                                                                                                               colestipol or
+                                                                                                           colesevelam within
+                                                                                                             one year after
+                                                                Prescriptions of colestyramine,               SeHCAT test
+                                                                colestipol or colesevelam, per
+                                                                unique individual
+
+
+                                   Figure 2 Bile acid diarrhea (BAD) population defined as a SeHCAT test followed by a bile acid sequestrant prescription within one year after SeHCAT test (left side) and
+                                   the overlap between this definition and the ICD10 code K90.8B (BAD) (right side).
+                                   Abbreviations: ICD10, International Classification of Diseases Version 10; SeHCAT, ⁷⁵selenium-homotaurocholic acid.
+
+
+                                      For comparison of the baseline characteristics, 52,640 age- and sex-matched individuals from the general population
+                                   were identified (Table 1). We found regional differences in Denmark for diagnosis of BAD (Table 1 and Figure 3) with
+                                   markedly lower numbers in South Denmark (0.01% of the total population in the region) and highest numbers in North
+
+                                                         Table 1 Characteristics of Bile Acid Diarrhea (BAD) Population (Defined by a Diagnosis of ICD10
+                                                         Code K90.8B or a SeHCAT Test Followed by a Prescription of Colestyramine, Colestipol, or
+                                                         Colesevelam Within 365 Days) and Their Age- and Sex-Matched Controls (Matched 1:10)
+                                                                                                                                               BAD                   BAD Match
+
+                                                           Total number of individuals, n                                                      5264                  52,640
+
+                                                           Age, mean years (SD)                                                                51.56 (16.5)          51.56 (16.5)
+
+                                                           Female sex, n (%)                                                                   3381 (64.2)           33,810 (64.2)
+
+                                                           Region of Denmark
+
+                                                              Capital Region, n (%)                                                            2255 (42.9)           13,960 (30.8)
+
+                                                              Zealand, n (%)                                                                   678 (12.9)            6788 (15.0)
+
+                                                              Central Denmark Region, n (%)                                                    1315 (25.0)           10,177 (22.4)
+
+                                                              South Denmark, n (%)                                                             222 (4.2)             9804 (21.6)
+
+                                                              North Denmark, n (%)                                                             783 (14.9)            4662 (10.3)
+
+                                                           Median NMI co-morbiditya before BAD (25th–75th percentile)                          2 (1–2)               1 (0–2)
+
+                                                           Number of health care contacts 10 years before BAD or index dateb
+
+                                                              0 health care contacts, n (%)                                                    2888 (55)             32,291 (61)
+
+                                                              1–50 health care contacts, n (%)                                                 942 (18)              10,786 (6)
+
+                                                              51–100 health care contacts, n (%)                                               509 (10)              4882 (9)
+
+                                                              100+ health care contacts, n (%)                                                 925 (18)              4681 (9)
+
+                                                           Educational levelc
+
+                                                              ISCED 0–2, n (%)                                                                 13 (0.2)              298 (0.6)
+
+                                                              ISCED 3+5, n (%)                                                                 3809 (73.2)           31,472 (66.9)
+
+                                                              ISCED 6–8, n (%)                                                                 1385 (26.6)           15,251 (32.4)
+
+                                                                                                                                                                      (Continued)
+
+
+
+                                   1176        https://doi.org/10.2147/CLEP.S442054                                                                                      Clinical Epidemiology 2023:15
+                                               DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                                         Kårhus et al
+
+
+                                                         Table 1 (Continued).
+
+                                                                                                                                                   BAD                  BAD Match
+
+                                                         Household incomed
+
+                                                            1st tertile, n (%)                                                                     1768 (33.7)          15,463 (33.3)
+                                                              nd
+                                                            2       tertile, n (%)                                                                 1964 (37.4)          15,266 (32.9)
+
+                                                            3rd tertile, n (%)                                                                     1521 (29.0)          15,709 (33.8)
+                                                                a                                      19
+                                                       Notes: Nordic Multimorbidity Index (NMI). The NMI uses hospital diagnoses as well as redeemed prescriptions to assess co-
+                                                       morbidity status and assigns weights based on this status. We used diagnoses and prescriptions 10 years prior to study entry.
+                                                       b
+                                                        Health care use outside hospitals (general practitioners, practicing specialists) was counted during the 10 years prior to study
+                                                       entry. More than 100 visits were pooled into one category as 100 or more visits. cEducational level was divided into groups based
+                                                       on the highest level of completed education at the time of study entry, corresponding to the International Standard Classification
+                                                       of Education (ISCED). Group 1 contains pre-primary, primary, and lower secondary education, agreeing to ISCED 0–2. Group 2
+                                                       entails high school/vocational education and short-cycle tertiary education, corresponding to ISCED 3+5 (There is no education
+                                                       consistent with ISCED 4 in Denmark). Group 3 consists of median-length tertiary education, bachelor, master, and PhD degrees,
+                                                       corresponding to ISCED 6–8. dHousehold income 5 years before entry was extracted and the average was calculated. Income was
+                                                       then divided into tertiles for comparison.
+                                                       Abbreviations: BAD, bile acid diarrhea; SD, standard deviation.
+
+
+
+                                   Denmark (0.10%) and Capital Region (0.09%). Furthermore, individuals suffering from BAD had more co-morbidities
+                                   and more health care contacts than the matches from the general population, while individuals suffering from BAD had
+                                   a lower level of education and a lower income (Table 1).
+                                       The number of prescriptions of colestyramine and colesevelam as well as SeHCAT tests increased over time while
+                                   prescriptions of colestipol decreased (Figure 4). The first SeHCAT test was registered in 2003, and the number of
+                                   individuals undergoing this test increased to 1319 and 1301 per year in 2020 and 2021, respectively. The number of
+                                   annual, unique BAD diagnoses—defined by diagnosis with ICD10 code K90.8B or SeHCAT test followed by
+                                   a prescription of bile acid sequestrant within 365 days—increased from 26 in 2003 to 523 in 2021 (Figure 5).
+                                       We have recently shown that the glucagon-like peptide 1 (GLP-1) receptor agonist liraglutide is superior in reducing
+                                   stool frequency compared with the bile acid sequestrant colesevelam.20 Consequently, some gastroenterologists have
+
+
+
+
+                                                                             North Denmark
+                                                                                               0.10%
+
+
+
+
+                                                                                                            Central Denmark
+
+                                                                                       0.08%
+                                                                                                                          0.09%
+                                                                                                                                  Capital Region
+
+
+                                                                                     0.01%
+                                                                                                                  0.07%
+                                                                                                                                  Zealand
+
+
+                                                         South Denmark
+
+
+
+
+                                   Figure 3 Percentage of individuals with bile acid diarrhea (BAD) in each region in Denmark, as a percentage of total number of individuals living in the region during the
+                                   study period 2003–2021. BAD was defined by a diagnosis of ICD10 code K90.8B or a SeHCAT test followed by a prescription of bile acid sequestrant within 365 days.
+                                   Abbreviations: ICD10, International Classification of Diseases Version 10; SeHCAT, ⁷⁵selenium-homotaurocholic acid.
+
+
+
+
+                                   Clinical Epidemiology 2023:15                                                                                                    https://doi.org/10.2147/CLEP.S442054
+                                                                                                                                                                                                           1177
+                                                                                                                                                                                           DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Kårhus et al                                                                                                                                              Dovepress
+
+
+
+
+                                   Figure 4 Number of unique prescriptions of colestyramine (A), colestipol (B), colesevelam (C), and SeHCAT tests (D) per year during the study period. Prescriptions are
+                                   not unique per person, SeHCAT tests are unique per person and date.
+                                   Abbreviation: SeHCAT, ⁷⁵selenium-homotaurocholic acid.
+
+
+
+
+                                   Figure 5 Unique individual diagnoses with bile acid diarrhea (BAD) defined by a diagnosis with ICD10 code K90.8B or a SeHCAT test followed by a prescription of bile acid
+                                   sequestrant within 365 days.
+                                   Abbreviations: ICD10, International Classification of Diseases Version 10; SeHCAT, ⁷⁵selenium-homotaurocholic acid.
+
+
+
+
+                                   1178        https://doi.org/10.2147/CLEP.S442054                                                                                       Clinical Epidemiology 2023:15
+                                               DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                       Kårhus et al
+
+
+                                   started treating individuals suffering from BAD with liraglutide. Since the use of liraglutide in BAD treatment has
+                                   received increasing attention in recent years, we investigated the number of liraglutide prescriptions (ATC code:
+                                   A10BJ02) after SeHCAT test among individuals in the BAD population (Table S2). In total, 248 individuals suffering
+                                   from BAD received a first-time prescription of liraglutide after the SeHCAT test, and 172 individuals received 226
+                                   prescriptions with liraglutide after both the SeHCAT test and bile acid sequestrants prescription. However, when
+                                   including all registered SeHCAT tests in the total population including non-BAD individuals, 262 individuals received
+                                   a first-time prescription of liraglutide after the SeHCAT test (data not shown). The number of liraglutide prescriptions
+                                   over time reveals a peak in 2018 (n = 180,439) followed by a rapid decrease (Figure S1).
+
+                                   Discussion
+                                   Here, we used the Danish national registries to identify individuals suffering from BAD, defined by a diagnosis with
+                                   ICD10 code K90.8B or a SeHCAT test followed by a prescription of bile acid sequestrant within 365 days, in Denmark.
+                                   With this definition, 5264 individuals were identified. We found large regional differences in diagnosis frequency within
+                                   Denmark and that individuals suffering from BAD had lower income and attained lower education levels than age- and
+                                   sex-matched controls. To our knowledge, this is the first epidemiological characterization of individuals with BAD.
+                                       Based on the fact that the SeHCAT test is specifically used for the diagnosis of BAD and that the bile acid
+                                   sequestrants are widely accepted as first-line therapy for BAD, we are confident that the individuals identified with the
+                                   abovementioned definition actually have BAD. We acknowledge the reasonable probability that a potentially substantial
+                                   number of individuals suffering from BAD are not included in this definition. This includes individuals who have not
+                                   undergone a SeHCAT test but are treated with bile acid sequestrants prescribed in a trial-and-error approach and
+                                   individuals who are diagnosed with a SeHCAT test but refrain from medical treatment. Furthermore, an unknown
+                                   number of individuals suffering from BAD are never diagnosed. As such, our definition does not reflect the true
+                                   prevalence of BAD in the Danish population; rather it reflects a subset of the population that suffers from the disease
+                                   with a very high probability. Ideally, we would base our definition on the SeHCAT test results. However, the way these
+                                   results are registered requires manual extraction of the data, which is not feasible.
+                                       The lower level of education and income among individuals suffering from BAD compared with matched controls is
+                                   unfortunately not surprising. It is known that individuals suffering from the related disease irritable bowel syndrome have
+                                   more health care contacts, lower work productivity, and lower quality of life21–25. Assuming that the productivity and
+                                   quality of life of individuals suffering from BAD are similarly affected, we find it a plausible explanation of their reduced
+                                   educational level and household income reported here. Whether the more frequent health care contacts in the BAD
+                                   population are due to their BAD symptoms or are related to other diseases and conditions is hard to discern.
+                                       Since 2003, when the first SeHCAT test was performed in Denmark, the number of BAD diagnoses has increased. In
+                                   this study, we found large differences in the diagnosis frequency between the regions of Denmark. We speculate that
+                                   these differences do not reflect true region-specific differences in prevalence but rather regional differences in clinical
+                                   practice and diagnostic traditions since the five regions of Denmark are comparable regarding demographics and health-
+                                   related characteristics.26
+                                       Interestingly, individuals suffering from BAD have more co-morbidities. Whether this directly relates to BAD or
+                                   rather a confounding factor, such as obesity or the higher number of health care contacts, is presently unknown. Further
+                                   studies are warranted to investigate if certain types of co-morbidities are overrepresented in the BAD population and
+                                   whether there is a pathophysiological connection between these disorders and BAD.
+                                       Even though liraglutide is not approved for the treatment of BAD, we saw 262 individuals redeeming a prescription
+                                   of liraglutide after the SeHCAT test. This is most likely the result of our published case report and recent clinical proof-of
+                                   -concept study showing the superiority of liraglutide in reducing stool frequency compared with the bile acid sequestrant
+                                   colesevelam.20,27
+                                       The completeness of the Danish registries and the possibility to cross-reference across registries due to the individual
+                                   ID numbers are strengths of the study. Furthermore, the specific use of the gold standard SeHCAT test as a diagnostic test
+                                   with its unique procedure code ensures that individuals referred to the test are suspected to suffer from BAD. As in all
+                                   register studies, we rely on the registration of diagnoses and procedural tests being registered consistently. As the
+
+
+                                   Clinical Epidemiology 2023:15                                                                  https://doi.org/10.2147/CLEP.S442054
+                                                                                                                                                                         1179
+                                                                                                                                                         DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Kårhus et al                                                                                                                           Dovepress
+
+
+                                   diagnosis code for BAD is new, no validity studies exist. With regards to SeHCAT tests, these are likely to be registered
+                                   due to financial incentives. This, in combination with the validity of the Register of Medicinal Products, should ensure
+                                   that the combination of SeHCAT and redeeming a bile acid sequestrant prescription reflects a conservative, but valid way
+                                   of detecting BAD in Danish registers.
+
+
+                                   Conclusions
+                                   In conclusion, by using nationwide registries, we provide the first epidemiological characterization of individuals
+                                   suffering from BAD identified based on ICD10 code K90.8B or a SeHCAT test followed by a prescription of bile
+                                   acid sequestrant within 365 days showing lower education levels and more health care contacts compared with age- and
+                                   sex-matched controls.
+
+
+                                   Abbreviations
+                                   BAD, bile acid diarrhea; ICD10, the international classification of diseases version 10; SeHCAT, ⁷⁵selenium-
+                                   homotaurocholic acid; ATC, the anatomical therapeutic chemical classification; ISCED, the international standard
+                                   classification of education; NMI, the Nordic multimorbidity index; GLP-1, glucagon-like peptide 1.
+
+
+                                   Data Sharing Statement
+                                   The dataset supporting the conclusions of this article is based on data from Danish national health registers and restrictions
+                                   apply to the availability of these data, which were accessed through Statistics Denmark’s server under license for the current
+                                   study. According to Danish law, this information cannot be publicly available. A request for access to the data needs approval
+                                   from appropriate Danish authorities and are subject to Danish regulations on personal data protection.
+
+
+                                   Ethics Approval Statement
+                                   The study is approved by the Danish Data Protection Agency and registered in the Capital Region’s inventory (P-2022-
+                                   253). Danish law does not require informed consent for registry studies using administrative data.
+
+
+                                   Acknowledgments
+                                   We thank Janne Petersen for contributing to the conceptualization and planning of the study.
+
+
+                                   Author Contributions
+                                   All authors contributed to data analysis, drafting or revising the article, have agreed on the journal to which the article
+                                   will be submitted, gave final approval of the version to be published, and agree to be accountable for all aspects of the
+                                   work.
+                                      Martin L Kårhus and Anne-Marie Ellegaard share the first-authorship, Filip K. Knop and Line L Kårhus share the
+                                   last-authorship.
+
+
+                                   Disclosure
+                                   The authors declare no conflicts of interest.
+
+                                   References
+                                   1. Wedlake L, A’Hern R, Russell D, Thomas K, Walters JRF, Andreyev HJN. Systematic review: the prevalence of idiopathic bile acid malabsorption
+                                      as diagnosed by SeHCAT scanning in patients with diarrhoea-predominant irritable bowel syndrome. Aliment Pharmacol Ther. 2009;30(7):707–717.
+                                      doi:10.1111/j.1365-2036.2009.04081.x
+                                   2. Vijayvargiya P, Camilleri M. Update on bile acid malabsorption: finally Ready for prime time? Curr Gastroenterol Rep. 2018;20(3):10. doi:10.1007/
+                                      s11894-018-0615-z
+                                   3. Kårhus ML, Sonne DP, Thomasen M, et al. Enterohepatic, Gluco-metabolic, and Gut microbial characterization of individuals with bile acid
+                                      malabsorption. Gastro Hep Advances. 2022;1(3):299–312. doi:10.1016/j.gastha.2021.12.007
+                                   4. Wilcox C, Turner J, Green J. Systematic review: the management of chronic diarrhoea due to bile acid malabsorption. Aliment Pharmacol Ther.
+                                      2014;39(9):923–939. doi:10.1111/apt.12684
+
+
+
+                                   1180      https://doi.org/10.2147/CLEP.S442054                                                                        Clinical Epidemiology 2023:15
+                                             DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                      Kårhus et al
+
+
+                                    5. Farrugia A, Attard JA, Khan S, Williams N, Arasaradnam R. Postcholecystectomy diarrhoea rate and predictive factors: a systematic review of the
+                                       literature. BMJ Open. 2022;12(2):e046172. doi:10.1136/bmjopen-2020-046172
+                                    6. Baena García A, Partida Palma F, García Martínez S, de Bonilla Candau M, Pajares Vinardell M. 75Se-Homocholic acid taurine scintigraphy
+                                       (75SeHCAT®), a standard benchmark test in bile acid malabsorption? Rev Esp Med Nucl Imagen Mol (Engl Ed). 2019;38(5):305–311. doi:10.1016/
+                                       j.remn.2018.12.005
+                                    7. Notghi A, O’Brien J, Low CS, Thomson W. Measuring SeHCAT retention: a technical note. Nucl Med Commun. 2011;32(10):960–966.
+                                       doi:10.1097/MNM.0b013e32834a36af
+                                    8. Sciarretta G, Fagioli G, Furno A, et al. 75Se HCAT test in the detection of bile acid malabsorption in functional diarrhoea and its correlation with
+                                       small bowel transit. Gut. 1987;28(8):970–975. doi:10.1136/gut.28.8.970
+                                    9. National Institute for Health and Care Excellence (NICE) Guidelines: Bile Acid. Malabsorption: Colesevelam; 2013. Available from: https://www.
+                                       nice.org.uk/advice/esuom22/chapter/Key-points-from-the-evidence. Accessed November 28, 2023.
+                                   10. Orekoya O, McLaughlin J, Leitao E, Johns W, Lal S, Paine P. Quantifying bile acid malabsorption helps predict response and tailor sequestrant
+                                       therapy. Clin Med. 2015;15(3):252–257. doi:10.7861/clinmedicine.15-3-252
+                                   11. Pedersen CB. The Danish civil registration system. Scand J Public Health. 2011;39(7_suppl):22–25. doi:10.1177/1403494810387965
+                                   12. Schmidt M, Schmidt SAJ, Sandegaard JL, Ehrenstein V, Pedersen L, Sørensen HT. The Danish national patient registry: a review of content, data
+                                       quality, and research potential. Clin Epidemiol. 2015;7:449–490. doi:10.2147/CLEP.S91125
+                                   13. World Health Organization, International classification of diseases, 10th version; January, 2023. Available from: https://icd.who.int/browse10/2016/
+                                       en. Accessed November 28, 2023.
+                                   14. Jensen VM, Rasmussen AW. Danish education registers. Scand J Public Health. 2011;39(7_suppl):91–94. doi:10.1177/1403494810394715
+                                   15. Baadsgaard M, Quitzau J. Danish registers on personal income and transfer payments. Scand J Public Health. 2011;39(7_suppl):103–105.
+                                       doi:10.1177/1403494811405098
+                                   16. Wallach Kildemoes H, Toft Sørensen H, Hallas J. The Danish national prescription registry. Scand J Public Health. 2011;39(7_suppl):38–41.
+                                       doi:10.1177/1403494810394717
+                                   17. World Health Organization. Anatomical Therapeutic Chemical (ATC) classification. Available from: https://www.who.int/tools/atc-ddd-toolkit.
+                                       Accessed November 28, 2023.
+                                   18. Sahl Andersen J, De Fine Olivarius N, Krasnik A. The Danish national health service register. Scand J Public Health. 2011;39(7_suppl):34–37.
+                                       doi:10.1177/1403494810394718
+                                   19. Kristensen KB, Lund LC, Jensen PB, et al. Development and validation of a Nordic multimorbidity index based on hospital diagnoses and filled
+                                       prescriptions. Clin Epidemiol. 2022;14:567–579. doi:10.2147/CLEP.S353398
+                                   20. Kårhus ML, Brønden A, Forman JL, et al. Safety and efficacy of liraglutide versus colesevelam for the treatment of bile acid diarrhoea:
+                                       a randomised, double-blind, active-comparator, non-inferiority clinical trial. Lancet Gastroenterol Hepatol. 2022;7(10):922–931. doi:10.1016/
+                                       S2468-1253(22)00198-4
+                                   21. Paré P, Gray J, Lam S, et al. Health-related quality of life, work productivity, and health care resource utilization of subjects with irritable bowel
+                                       syndrome: baseline results from logic (longitudinal outcomes study of gastrointestinal symptoms in Canada), a naturalistic study. Clin Ther.
+                                       2006;28(10):1726–1735. doi:10.1016/j.clinthera.2006.10.010
+                                   22. Andrae DA, Patrick DL, Drossman DA, Covington PS. Evaluation of the Irritable Bowel Syndrome Quality of Life (IBS-QOL) questionnaire in
+                                       diarrheal-predominant irritable bowel syndrome patients. Health Qual Life Outcomes. 2013;11(1):208. doi:10.1186/1477-7525-11-208
+                                   23. Frändemark Å, Jakobsson Ung E, Törnblom H, Simrén M, Jakobsson S. Fatigue: a distressing symptom for patients with irritable bowel syndrome.
+                                       Neurogastroenterol Motil. 2017;29(1):e12898. doi:10.1111/nmo.12898
+                                   24. Frändemark Å, Törnblom H, Jakobsson S, Simrén M. Work productivity and activity impairment in Irritable Bowel Syndrome (IBS): a multifaceted
+                                       problem. J Am Coll Gastroenterol. 2018;113(10):1540. doi:10.1038/s41395-018-0262-x
+                                   25. Håkanson C, Sahlberg-Blom E, Nyhlin H, Ternestedt BM. Struggling with an unfamiliar and unreliable body: the experience of irritable bowel
+                                       syndrome. J Nurs Healthcare Chronic Illness. 2009;1(1):29–38. doi:10.1111/j.1365-2702.2008.01001.x
+                                   26. Henriksen DP, Rasmussen L, Hansen MR, Hallas J, Pottegård A. Comparison of the five Danish regions regarding demographic characteristics,
+                                       healthcare utilization, and medication use—a descriptive cross-sectional study. PLoS One. 2015;10(10):e0140197. doi:10.1371/journal.
+                                       pone.0140197
+                                   27. Kårhus ML, Brønden A, Røder ME, Leotta S, Sonne DP, Knop FK. Remission of bile acid malabsorption symptoms following treatment with the
+                                       glucagon-like peptide 1 receptor agonist liraglutide. Gastroenterology. 2019;157(2):569–571. doi:10.1053/j.gastro.2019.04.002
+
+
+
+
+                                       Clinical Epidemiology                                                                                                            Dovepress
+                                       Publish your work in this journal
+                                       Clinical Epidemiology is an international, peer-reviewed, open access, online journal focusing on disease and drug epidemiology, identification of
+                                       risk factors and screening procedures to develop optimal preventative initiatives and programs. Specific topics include: diagnosis, prognosis,
+                                       treatment, screening, prevention, risk factor modification, systematic reviews, risk & safety of medical interventions, epidemiology & biostatistical
+                                       methods, and evaluation of guidelines, translational medicine, health policies & economic evaluations. The manuscript management system is
+                                       completely online and includes a very quick and fair peer-review system, which is all easy to use.
+                                       Submit your manuscript here: https://www.dovepress.com/clinical-epidemiology-journal
+
+
+
+
+                                   Clinical Epidemiology 2023:15                                                                                                           DovePress    1181
+
+
+Powered by TCPDF (www.tcpdf.org)
+

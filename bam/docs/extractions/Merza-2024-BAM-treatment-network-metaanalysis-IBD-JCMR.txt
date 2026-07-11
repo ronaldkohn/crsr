@@ -1,0 +1,858 @@
+ Original Article                                                                                                                          J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+        Evaluation of Alternative Treatment Strategies for Bile Acid
+         Malabsorption in Inflammatory Bowel Disease Patients:
+                         A Network Meta-Analysis
+                   Nooraldin Merzaa, b, c, d, e, f, g, h, i, j, k, l , Omar Saabb, Yusuf Nawrasc, Roua Abdulhusseind,
+                   Ahmed Elmoursie, Lena Daddoof, Zinah Yaqoobg, Hiba Al Anid, Tamarah Al Hamdanyh,
+                        Ahmed Gadelmawlai, Mohamed Khalilj, Mona Hassank, Abdallah Kobeissyk
+
+
+
+Abstract                                                                                           Results: We found seven relevant articles involving 213 participants,
+                                                                                                   the average age being approximately 50 years, including 53 males
+Background: Bile acid malabsorption (BAM) is characterized by                                      and 92 females. Of the drugs examined, tropifexor was proved to be
+chronic watery diarrhea resulting from excessive bile acids in the                                 the most effective in raising the fibroblast growth factor 19 (FGF19)
+feces. BAM is often an overlooked cause of chronic diarrhea, with                                  levels and reducing the 7 alpha-hydroxy-4-cholesten-3-one (C4)
+its prevalence not being sufficiently researched. This review aimed                                levels, compared to the placebo (mean difference (MD) = 335.30,
+to assess existing literature that explores diverse treatment strategies,                          95% confidence interval (CI) (334.86, 335.74), MD = -24.60, 95%
+                                                                                                   CI (-25.37, -23.83); respectively). Compared to colesevelam and the
+to review the published studies that examine the various therapies for
+                                                                                                   placebo, liraglutide was more efficient in decreasing fecal bile acid
+BAM patients, emphasizing their influence on clinical results.
+                                                                                                   concentration (liraglutide; MD = -19, 95% CI (-37.61, -0.39)).
+Methods: We conducted a comprehensive review of various databases,
+                                                                                                   Conclusions: Tropifexor has been identified as the most successful
+including PubMed, Scopus, Web of Science, Cochrane Database, and
+                                                                                                   medication in mitigating BAM symptoms. To ensure more accurate
+EMBASE. Our criteria for inclusion focused on randomized controlled
+                                                                                                   results, there is a need for randomized controlled clinical trials that
+studies (RCTs) that evaluated the effectiveness of different treatment
+                                                                                                   involve a larger participant pool.
+options for patients with BAM. To rank the treatments, we adopted the
+frequentist approach through the “netrank” function of the network me-                             Keywords: Bile acid malabsorption; Bile acid diarrhea; Colesty-
+ta-analysis (NMA). Moreover, we utilized the “netsplit” function in the                            ramine; Colesevelam; Tropifexor; Loperamide; Liraglutide; Network
+NMA to separate direct and indirect evidence. Our analysis was carried                             meta-analysis
+out using RStudio version 1.4.1717 (2009 - 2021 RStudio, Inc.), and we
+used the “netmeta” and “meta” packages for NMA.
+
+
+Manuscript submitted August 8, 2023, accepted December 5, 2023                                     Introduction
+Published online March 16, 2024
+
+aDepartment of Internal Medicine, University of Toledo, Toledo, OH, USA                            Bile acid malabsorption (BAM), also known as bile acid diar-
+bDepartment of Internal Medicine, Cleavland Clinic, Cleavland, OH, USA                             rhea (BAD), is a disorder in the enterohepatic circulation. This
+cUniversity of Toledo College of Medicine and Life Sciences, Toledo, OH,                           condition leads to an excess of bile acids making their way to
+USA                                                                                                the colon, resulting in increased fluid secretion, mucus produc-
+dDepartment fo Internal Medicine, Al Mustansiriyah University, Baghdad,
+                                                                                                   tion, and gut motility [1]. These effects present themselves as
+Iraq                                                                                               symptoms such as diarrhea, bloating, fecal urgency, and loss of
+eDepartment of Internal Medicine, Harvard Medical School, Boston, MA,
+                                                                                                   bowel control [1]. BAM affects around 1% of the general pop-
+USA
+fDepartment of Internal Medicine, University of Baghdad, Baghdad, Iraq                             ulation and is prevalent in 25% to 50% of patients diagnosed
+gDepartment of Internal medicine and College of Medicine, University of Di-                        with irritable bowel syndrome with diarrhea (IBS-D) [2].
+yala, Diyala, Iraq                                                                                      There are three recognized types of BAM. The first type,
+hDepartment of Internal medicine, University of Michigan Ann Arbor, MI,
+                                                                                                   initially described by Hofmann et al [3] and Poley et al [4], is
+USA                                                                                                caused by the resection of the ileum and results in symptoms
+iFaculty of Medicine, Menoufia University, Menoufia, Egypt
+jDepartment of Cardiology, Cairo University, Cairo, Egypt
+                                                                                                   like diarrhea and mild steatorrhea. The second type is idio-
+kGastroenterology Department, University of Toledo, Toledo, OH, USA                                pathic, meaning it lacks an identifiable cause, and there are no
+lCorresponding Author: Nooraldin Merza, Department of Internal Medicine,                           discernible histological abnormalities in the ileum. However,
+University of Toledo, Toledo, OH, USA. Email: alyasiry1986@yahoo.com                               recent research has indicated a link between this type and de-
+                                                                                                   creased plasma levels of fibroblast growth factor 19 (FGF19),
+doi: https://doi.org/10.14740/jocmr5007                                                            which is known to inhibit bile acid production in the liver. The
+
+                                 Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+                           This article is distributed under the terms of the Creative Commons Attribution Non-Commercial 4.0 International License, which permits         33
+                                   unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited
+Treatment Strategies for BAM Patients                                                                            J Clin Med Res. 2024;16(2-3):33-45
+
+
+third type is associated with chronic pancreatitis, celiac dis-                 Human research ethics
+ease, and bacterial overgrowth in the small intestine.
+     The selenium-75-homocholic acid taurine (75SeHCAT)                         Our meta-analysis research study solely involved collecting
+test is one of the most dependable diagnostic methods for iden-                 and analyzing data from previously published studies and
+tifying BAM [1]. This test has high sensitivity and specificity,                did not entail any direct experimentation on humans. Con-
+ranging between 80-90% and 70-100%, respectively. An al-                        sequently, there was no necessity for human research ethics
+ternative diagnostic tool is the 7 alpha-hydroxy-4-cholesten-                   approval.
+3-one (C4) test, which indicates BAM when high levels of
+plasma C4 are detected. For type 1 BAM, this test has a sen-
+sitivity of 90% and a specificity of 77%. Type 2 BAM offers                     Search term
+a sensitivity of 97% and a specificity of 74%. Furthermore,
+the evaluation of blood levels of FGF19 is also diagnostically                  PubMed, Scopus, Web of Science, Cochrane, and EMBASE
+relevant in BAM. This factor has an inverse relationship with                   were searched through March, 2023, using the following
+C4 and a positive one with 75SeHCAT [4-9].                                      search strategy without any restrictions: (colestyramine OR
+     When the cause of BAM can be identified, therapy should                    resin OR colestyramin OR MK-135 OR Questran OR cuemid
+be specifically targeted toward treating the underlying condi-                  OR quantalan OR Cholybar OR Olestyr OR Locholest OR
+tion. In cases where the cause remains unknown, interventions                   Prevalite OR Novo-cholamine OR colestipol OR U-26597 OR
+may include a low-fat diet (less than 30 g per day), convention-                Colestid OR Cholestabyl OR colesevelam OR CholestaGel
+al anti-diarrheal medications, or bile acid sequestrants (BAS)                  OR Welchol OR GT-31104 OR Lodalis OR loperamide OR
+[3]. BAS class of drugs contains three primary components:                      R-18553 OR Imodium OR Maalox OR Imotil OR Diamode
+colestyramine, colestipol, and colesevelam, which are com-                      OR codeine OR methylmorphine OR isocodeine OR Ardinex
+mercially available [10, 11].                                                   OR aluminium hydroxide OR Alumina OR Alugel OR Alge-
+     While there is a lack of extensive studies on the efficacy                 ldrate OR Rocgel OR Brasivil OR Dialume OR Nephrox OR
+of colesevelam, research by Odunsi-Shiyanbade et al in 2010                     Pepsamer OR Alhydrogel OR Amphojel OR Alumanetriol OR
+[10] and Wedlake et al in 2009 [11] suggested it could be effec-                Basalgel OR Aldrox OR Amphojel OR Alu-Cap OR Dialume
+tive. It has been observed that patients who failed to respond                  OR Alu OR Alternagel OR Aloh OR liraglutide OR Victoza
+to colestyramine responded well to colesevelam, with many of                    OR Saxenda OR NN-2211) AND (bile acid-induced diarrhea
+them continuing long-term treatment. Given its palatable taste,                 OR cholerheic OR choleretic OR bile salt diarrhea OR bile salt
+colestipol may be a more practical and better-tolerated option                  malabsorption OR bile acid malabsorption OR BAM).
+than colestyramine [12].
+     Additional research is essential to determine the most effec-
+tive medication for treating BAM. As such, we conducted a sys-                  Eligibility criteria
+tematic review and network meta-analysis (NMA) to evaluate
+the efficacy of several drugs, including colestyramine, coleseve-               We exclusively focused on English-written randomized con-
+lam, tropifexor, loperamide, and liraglutide, in managing BAM.                  trolled trials (RCTs) that assessed the effectiveness of colesty-
+                                                                                ramine, colesevelam, tropifexor, loperamide, liraglutide, or
+Materials and Methods                                                           their combinations for treating BAM or BAD. We did not
+                                                                                consider animal studies, cohort and observational studies,
+                                                                                literature reviews, meta-analyses, book chapters, theses, edi-
+We adhered to the Preferred Reporting Items for Systematic                      torials, letters, or publications in other languages. Two sepa-
+Reviews and Meta-Analysis (PRISMA) guidelines, as well as                       rate reviewers conducted the selection process, evaluating the
+the Cochrane Handbook for Systematic Reviews, in conduct-                       studies’ appropriateness across three screening phases using
+ing our research [13, 14]. The study protocol was registered                    an Excel spreadsheet. A third reviewer intervened in cases of
+on the Open Science Framework (OSF) (registration digital                       discrepancies between the first two.
+object identifier (DOI): 10.17605/OSF.IO/4FRAC).
+                                                                                Risk of bias assessment
+Institutional Review Board (IRB) approval
+                                                                                We utilized the Cochrane tool version 2 for both parallel and
+The NMA research involves synthesizing and comparing data                       cross-over RCTs. This tool covers six domains: randomization
+from multiple previously published studies rather than collect-                 process, divergence from planned interventions, missing out-
+ing primary, new data from human participants. Given that it                    come data, outcome measurement, selection of reported results,
+is a secondary analysis of existing public data, and no further                 and overall bias. Notably, the risk of bias due to period and car-
+data is being collected directly from participants, there is no                 ryover effects is a domain unique to the cross-over tool. Each
+direct interaction or intervention with human subjects. As a re-                domain was classified as yes, probably yes, no, or no informa-
+sult, IRB approval, which primarily ensures the protection of                   tion. Any disagreements were subsequently discussed and re-
+the rights and welfare of human research participants, is not                   solved. Due to the limited number of studies included, we were
+usually required for NMA.                                                       unable to conduct an Egger’s test for publication bias [15].
+
+
+34                          Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+Merza et al                                                                                                      J Clin Med Res. 2024;16(2-3):33-45
+
+
+Inclusion and exclusion criteria                                                selected seven articles (with six suitable for analysis) that satis-
+                                                                                fied our inclusion criteria [10, 16-21]. Out of these, five were
+                                                                                parallel RCTs, one was a cross-over study with full text avail-
+The inclusion criteria were as follows: 1) RCT reporting the
+                                                                                able, and one was an abstract [10, 16-21]. Figure 1 presents a de-
+evaluation of the efficacy of several drugs, including colesty-
+                                                                                tailed breakdown of our search results and the reasons for article
+ramine, colesevelam, tropifexor, loperamide, and liraglutide,
+                                                                                exclusion. Table 1 [10, 16-21] presents a summary of the includ-
+in managing BAM; 2) publications reporting sufficient data
+                                                                                ed RCTs. Our research encompassed 213 participants, averaging
+to establish statistical analysis; and 3) studies published as
+                                                                                around 50 years of age, consisting of 53 males and 92 females.
+original articles. The exclusion criteria were as follows: 1) Full
+                                                                                The summary and foundational characteristics of the studies are
+text not electronically accessible; 2) Publication in a language
+                                                                                illustrated here (Supplementary Material 1, 2, www.jocmr.org).
+other than English; 3) Observational studies, comments, let-
+ters, editorials, protocols, guidelines, and review papers; and
+4) Studies with insufficient outcome data.                                      Results of risk of bias assessment
+
+Extraction of data                                                              All studies, except those by Odunsi-Shiyanbade et al [10]
+                                                                                (2010) and Camilleri et al [18] (2020), were evaluated as
+                                                                                low risk in the randomization process due to the absence of
+We used an Excel spreadsheet to compile the following data.
+Initially, we collected fundamental and summary details such                    adequate information about allocation concealment, randomi-
+as the number of participants in the study, the study’s design,                 zation, and baseline balance. As for intended interventions,
+inclusion criteria, the treatment plan prescribed, any pre-exist-               all the included studies apart from the study of Camilleri et al
+ing gastrointestinal conditions, the participants’ gender, age,                 [18] (2020) were deemed as having a minimal risk of bias in
+and body mass index (BMI). Subsequently, we documented ef-                      terms of deviation from planned treatments. All incorporated
+fectiveness outcomes, which included daily bowel movement                       articles were assessed as low risk concerning missing outcome
+frequency, stool classification according to the Bristol Stool                  data, outcome measurement, and selection of reported results.
+Form Scale (BSFS), FGF19 levels in pg/mL, C4 levels in ng/                      In terms of overall domains, all studies were judged to have a
+mL, and the total amount of fecal bile acids in mol/g. Two                      low risk, except for the study of Odunsi-Shiyanbade et al [10]
+authors independently performed this data extraction process.                   (2010), which was deemed to have some concerns, and Camill-
+Any discrepancies encountered were settled through a collec-                    eri et al [18] (2020), which was evaluated as high risk (Fig. 2).
+tive discussion among the reviewers.
+                                                                                Frequency of stool per day
+Data synthesis and analysis
+                                                                                This analysis revealed no significant difference in the ability of
+To synthesize the data, we calculated the post-treatment means.                 the investigated drugs, when compared to a placebo, to reduce
+When the standard deviation was not presented directly, we                      daily stool frequency in patients with BAM (colestyramine;
+computed it using algebraic recalculation or other approxima-                   mean difference (MD) = -11.85, 95% confidence internal (CI)
+tion methods. If necessary, data for analysis were not provided,                (-25.94, 2.25), liraglutide; MD = -1.01, 95% CI (-3.11, 1.09),
+we inferred it from published median values, ranges, or confi-                  colesevelam and loperamide; MD = -2.71, 95% CI (-37.95,
+dence intervals. To assess the heterogeneity among the trials,                  32.52), loperamide; MD = -0.01, 95% CI (-21.88, 21.85) and
+we used I2 statistics. Where heterogeneity was observed, we                     colesevelam; MD = -0.21, 95% CI (-1.17, 0.74)) (Fig. 3).
+utilized a random-effects model; otherwise, a fixed-effect mod-
+el was applied. We employed the frequentist approach for rank-                  FGF19 (pg/mL)
+ing the various treatment options, using the “netrank” function
+within the network. The NMA “netsplit” function was used to
+separate direct and indirect evidence. All our analyses were                    As illustrated in Figure 4, tropifexor emerged as the most ef-
+conducted using RStudio version 1.4.1717 (2009- 2 021 RStu-                     fective medication in increasing FGF19 levels compared to a
+dio, Inc.), applying the NMA packages “netmeta” and “meta”.                     placebo, among the drugs included in our study (MD = 335.30,
+                                                                                95% CI (334.86, 335.74)). Conversely, colesevelam (MD =
+                                                                                -78.07, 95% CI (-119.13, -37.01)) and colestyramine (1 g/day)
+Results                                                                         (MD = -51.70, 95% CI (-86.14, -17.26)) decreased FGF19 lev-
+                                                                                els. The other medicines, liraglutide (MD = -21.41, 95% CI
+                                                                                (-86.37, 43.55)) and colestyramine (250 mg/day) (MD = 85.60,
+Results of literature search and data collection
+                                                                                95% CI (-58.36, 229.56)), demonstrated inconclusive results.
+
+Our search across five databases resulted in 2,730 unique ar-
+                                                                                C4 (ng/mL)
+ticles. Upon review of titles and abstracts, we discarded 2,636
+papers that did not meet our eligibility criteria. After conducting
+a full-text screening, we further excluded 87 articles. We finally              As shown in Figure 5, tropifexor emerged as the most potent
+
+
+                            Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org                   35
+Treatment Strategies for BAM Patients                                                                           J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+
+        Figure 1. PRISMA flow diagram for literature search. PRISMA: the Preferred Reporting Items for Systematic Reviews and Meta-
+        Analysis; PICO: patient, intervention, comparison, and outcome.
+
+medication in decreasing the C4 levels compared to the place-                  effective than colesevelam in reducing the concentration of fe-
+bo among the drugs included in our study (MD = -24.60, 95%                     cal bile acids when compared to the placebo. Specifically, lira-
+CI (-25.37, -23.83)). In contrast, colesevelam (MD = 102.84,                   glutide had a MD of -19, with a 95% CI ranging from -37.61
+95% CI (52.52, -153.16)) and colestyramine (1 g/day) (MD =                     to -0.39. Conversely, colesevelam had an MD of -9.53, with a
+39.45, 95% CI (8.95, 69.95)) caused an increase in C4 levels.                  95% CI between -26.11 and 7.05 (Fig. 7).
+Other medications like liraglutide (MD = -4.83, 95% CI (-92,                        Table 1 [10, 16-21] presents the characteristics of the
+82.34)) and colestyramine (250 mg/day) (MD = 11.65, 95% CI                     studies included in our network meta-analysis, while Table 2
+(-22.27, 45.57)) did not present significant results.                          details the mechanisms of action for different treatments of
+                                                                               BAM, including colestyramine, colesevelam, tropifexor, lop-
+                                                                               eramide, and liraglutide.
+BSFS
+
+There was not a significant difference between the drugs in-                   Discussion
+cluded and the placebo in decreasing the BSFS in patients with
+BAM. Specifically, colesevelam had a MD of -0.61, with a                       This study examines the effectiveness of different treatment
+95% CI ranging from -1.22 to 0.00. Similarly, liraglutide had                  options for BAM. Our goal was to investigate and contrast the
+an MD of -0.35, with a 95% CI between -1.65 and 0.95 (Fig. 6).                 success of various therapeutic strategies for treating BAM in
+                                                                               patients afflicted with inflammatory bowel disease. We specif-
+                                                                               ically assessed their impact on clinical outcomes, focusing on
+Fecal total bile acids (µmol/g)
+                                                                               FGF19 and C4 levels, along with fecal bile acid concentration.
+                                                                                    Our NMA indicated that tropifexor outperformed other
+The findings from our study indicate that liraglutide was more                 drugs in terms of increasing FGF19 levels and reducing C4
+
+
+36                         Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+                                                                                                     Table 1. Summary of the Included Studies
+
+                                                                                                                                         Sample                                                                            Underlying
+                                                                                                     References         Groups                    Design   Inclusion criteria                            Regimen                        Findings                      Country
+                                                                                                                                                                                                                                                                                Merza et al
+
+
+                                                                                                                                         size                                                                              GI problem
+                                                                                                     Appleby et al,     Cholestyramine   7        RCT      Men and women aged 18 - 80 years with         A3384 250 mg      -            Serum FGF19 was               Sweden
+                                                                                                     2017 [16]          (1 g/day)                          a BMI between 18.5 and 35: 1) three           bid. or A3384                  suppressed, and bile acid
+                                                                                                                                                           stools of BSFS 5 per day on average,          1 g bid., or                   production upregulated
+                                                                                                                                                           calculated from 7 days off therapy;           placebo for                    on conventional bile acid
+                                                                                                                                                           2) SeHCAT 7-day retention of < 10%            2 weeks                        sequestrants, but not with
+                                                                                                                                                           (moderate or severe impairment), within                                      A3384. This colonic-
+                                                                                                                                                           the last 5 years with no change in                                           release formulation of
+                                                                                                                                                           symptoms since; 3) 21 bowel motions                                          colestyramine produced
+                                                                                                                                                           in the last 7 days before randomization,                                     symptomatic benefit in
+                                                                                                                                                           of which > 50% are BSFS ≥ 5; 4)                                              patients with BAD.
+                                                                                                                                                           macroscopically normal colonoscopy with
+                                                                                                                                                           no histological evidence of microscopic
+                                                                                                                                                           colitis within the last 5 years.
+                                                                                                                        Cholestyramine   6
+                                                                                                                        (250 mg/day)
+                                                                                                                        Placebo          6
+                                                                                                     Beigel et al,      Colesevelam      15       RCT      CD patients with ≥ 3 and ≤ 15 liquid          Patients          CD           We found significant          Germany
+                                                                                                     2014 [17]                                             stools/day in clinical remission, defined     received either                differences in favor for
+                                                                                                                                                           as CD activity index (CDAI) ≤ 150 points      colesevelam                    colesevelam treatment
+                                                                                                                                                           and CRP value ≤ 1 mg/dL were eligible         (3 × 2 tablets                 compared to placebo
+                                                                                                                                                           for the study, age ≥ 18 and ≤ 65 years,       a 625 mg/day)                  treatment for CD patients
+                                                                                                                                                           contraception in women, medication with       or identically                 with BAM regarding the
+                                                                                                                                                           either oral aminosalicylates, azathioprine,   shaped placebo                 reduction of the number
+                                                                                                                                                           mercaptopurine, methotrexate, oral            (3 × 2 tablets/                of liquid stools/day and
+                                                                                                                                                           steroids (10 mg/day), or anti-TNF alpha       day).                          stool consistency.
+                                                                                                                                                           antibody and cholestenone serum level
+                                                                                                                                                           of ≥ 50 ng/mL, which was centrally
+                                                                                                                                                           assessed at the screening visit.
+                                                                                                                        Placebo          11
+                                                                                                     Camilleri et al,   Tropifexor       10       Cross    Patients with primary bile acid diarrhea,     Tropifexor 60    -             Tropifexor 60 µg once         USA
+                                                                                                     2020 [18]          (60 µg/day)               over     who had not used bile acid sequestrants,      µg/placebo                     daily had acceptable
+                                                                                                                        - placebo                 RCT      aged ≥ 18 years weighing ≥ 50 kg, with        or placebo/                    safety and tolerability.
+                                                                                                                                                           a history of diarrheal symptoms for at        tropifexor 60                  Changes in FGF19 and C4
+
+
+
+
+Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+                                                                                                                                                           least 3 months prior to dosing, as defined    µg. In treatment               showed effective target
+                                                                                                                                                           by average stool frequency of ≥ 3 per         period 1,                      engagement; however,
+                                                                                                                                                           day when off therapy and average stool        patients                       higher doses may be
+                                                                                                                                                           form of > 5 on the Bristol Stool Chart;       received either                required to observe stool
+                                                                                                                                                           laboratory or radiological confirmation       tropifexor 60                  frequency changes.
+                                                                                                                                                           of bile acid malabsorption within the last    µg or placebo                  Slowing of ascending
+                                                                                                                                                           5 years as defined by evidence of fecal       orally once                    colon emptying suggests
+                                                                                                                                                           bile acid loss of ≥ 2,000 µmol/48 h with      daily for                      therapeutic potential of
+                                                                                                                                                           or 7-day 75SeHCAT retention of < 10%.         14 days.                       tropifexor in patients with
+                                                                                                                                                                                                                                        primary bile acid diarrhea.
+                                                                                                                                                                                                                                                                                J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+
+37
+                                                                                                     Table 1. Summary of the Included Studies - (continued)
+
+
+
+
+38
+                                                                                                                                         Sample                                                                           Underlying
+                                                                                                     References         Groups                    Design   Inclusion criteria                          Regimen                         Findings                       Country
+                                                                                                                                         size                                                                             GI problem
+                                                                                                                        Placebo -        10
+                                                                                                                        tropifexor
+                                                                                                                        (60 µg/day)
+                                                                                                     Devarakonda et     Colesevelam      17       RCT      -                                                              CD           We have demonstrated        UK
+                                                                                                     al, 2019 [19]                                                                                                                     that colesevelam is an
+                                                                                                                                                                                                                                       effective treatment for
+                                                                                                                                                                                                                                       postoperative BAM in
+                                                                                                                                                                                                                                       CD. Both colesevelam
+                                                                                                                                                                                                                                       and cholestyramine were
+                                                                                                                                                                                                                                       associated with a reduction
+                                                                                                                                                                                                                                                                                Treatment Strategies for BAM Patients
+
+
+
+
+                                                                                                                                                                                                                                       in stool frequency but only
+                                                                                                                                                                                                                                       colesevelam was associated
+                                                                                                                                                                                                                                       with a reduction in CDAI
+                                                                                                                                                                                                                                       and an improvement
+                                                                                                                                                                                                                                       in quality of life.
+                                                                                                                        Cholestyramine   10
+                                                                                                                        Loperamide       12
+                                                                                                                        Colesevelam      5
+                                                                                                                        and loperamide
+                                                                                                     Karhus et al,      Liraglutide      25       RCT      White individuals aged 18 - 75 years        Liraglutide      IBS-D          The superiority of             Denmark
+                                                                                                     2022 [20]                                             with SeHCAT verified moderate-to-           (one daily                      liraglutide compared
+                                                                                                                                                           severe primary bile acid diarrhea (≤        subcutaneous                    with colesevelam in
+                                                                                                                                                           10% 7-day bile acid retention), with no     injection                       reducing stool frequency
+                                                                                                                                                           diabetes, other GI diseases including       up-titrated                     suggests consideration of
+                                                                                                                                                           CD, ileal resection, previous history of    from 0.6 mg                     liraglutide as a potential
+                                                                                                                                                           radiation to the abdomen or the pelvis,     to 1.8 mg over                  new treatment modality for
+                                                                                                                                                           or recent or active malignancy.             3 weeks) or                     bile acid diarrhea, although
+                                                                                                                                                                                                       colesevelam                     larger confirmatory trials
+                                                                                                                                                                                                       (three capsules                 powered for superiority
+                                                                                                                                                                                                       of 625 mg                       are warranted
+                                                                                                                                                                                                       twice daily) and
+                                                                                                                                                                                                       the opposite
+                                                                                                                                                                                                       dummy for
+                                                                                                                                                                                                       6 weeks.
+
+
+
+
+Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+                                                                                                                        Colesevelam      25
+                                                                                                     Odunsi-            Colesevelam      12       RCT      All participants had fasting plasma         Colesevelam        IBS-D        Sodium chenodeoxycholate USA
+                                                                                                     Shiyanbade et                                         7alpha-C4 (C4) levels measured              HCl (625-mg                     in health and colesevelam
+                                                                                                     al, 2010 [10]                                         to assess for underlying BAM and            tablets) and the                in IBS-D patients
+                                                                                                                                                           had serum FGF19 levels measured.            placebo (312.5-                 have opposite effects
+                                                                                                                                                           Participants also completed the following   mg capsules)                    on colonic transit and
+                                                                                                                                                           questionnaires: Hospital Anxiety                                            fecal parameters.
+                                                                                                                                                           and Depression Scale,16 Symptom
+                                                                                                                                                           Checklist 90 (SCL-90) (somatization),
+                                                                                                                                                           and bowel function by validated daily
+                                                                                                                                                                                                                                                                                J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+
+                                                                                                                                                           diaries including BSFS scores.
+Merza et al                                                                                                                                                                                                                                                                                                                                                              J Clin Med Res. 2024;16(2-3):33-45
+
+
+                                                                                                                                                                                                                                                                                                                                              levels. Liraglutide emerged as the most effective drug in re-
+
+
+
+
+                                                                                                                                                     RCT: randomized controlled study; BMI: body mass index; GI: gastrointestinal; CD: Crohn’s disease; BSFS: Bristol Stool Form Scale; 75SeHCAT: selenium-75-homocholic acid taurine;
+                                                                                                                                                     bid: twice daily; BAD: bile acid diarrhea; CDAI: Crohn’s disease activity index; BAM: bile acid malabsorption; IBS-D: irritable bowel syndrome with diarrhea; FGF19: fibroblast growth
+                                                                                                                                                                                                                                                                                                                                              ducing bile concentration in stools. On the other hand, co-
+                                                             Country
+
+                                                                                                                                                                                                                                                                                                                                              lesevelam and colestyramine, which bind to and isolate bile
+                                                                                                                    USA
+                                                                                                                                                                                                                                                                                                                                              acid in the feces, were observed to increase C4 levels while
+                                                                                                                                                                                                                                                                                                                                              simultaneously reducing FGF19 levels, thus elevating the total
+
+                                                                                       stool, hepatic BA synthesis,
+                                                                                                                                                                                                                                                                                                                                              fecal bile acid.
+                                                                                       increases delivery of total
+
+
+
+
+                                                                                       regulate BA, farnesoid X,
+
+                                                                                       Larger studies are needed
+                                                                                       In a randomized trial, we
+
+
+
+
+                                                                                       and GPBAR1 receptors.
+                                                                                       expression of genes that
+                                                                                                                                                                                                                                                                                                                                                    Liraglutide, a glucagon-like peptide-1 (GLP-1) receptor
+
+
+
+
+                                                                                       to determine the effects
+                                                                                       found that colesevelam
+
+                                                                                       and secondary BAs to
+
+
+
+
+                                                                                       on clinical responses.
+                                                                                       and colonic mucosal                                                                                                                                                                                                                                    agonist, was more effective in decreasing fecal bile acid con-
+                                                                                                                                                                                                                                                                                                                                              centration than colesevelam and placebo. This finding further
+                                                                                                                                                                                                                                                                                                                                              establishes the role of liraglutide in gut motility and the se-
+                                                                                                                                                                                                                                                                                                                                              cretion of gastrointestinal hormones, which can influence bile
+                                                             Findings
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              acid reabsorption, facilitating passive bile acid reabsorption
+                                                                                                                                                                                                                                                                                                                                              and consequently decreasing the volume delivered to the colon
+                                                                                                                                                                                                                                                                                                                                              [21, 22]. Bile acid triggers the activation of the Farnesoid X re-
+                                                                                                                                                                                                                                                                                                                                              ceptor (FXR) during reabsorption, which escalates the release
+                                                           GI problem
+                                                           Underlying
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              of FGF19 and curbs bile acid secretion [22]. This sequence of
+                                                                                                                                                                                                                                                                                                                                              events contributes to the reduction of fecal bile acid levels by
+                                                                                       IBS-D
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              diminishing motility and enhancing absorption. FXR agonists,
+                                                                                                                                                                                                                                                                                                                                              both directly and indirectly, are crucial during bile acid biosyn-
+                                                                                                                                                                                                                                                                                                                                              thesis via FGF19 [23]. Bile acid stimulates the FXR receptor,
+                                                                                       1,875mg (three
+                                                                                       Colesevelam,
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              which is found in various organs including the liver, intestines,
+                                                                                       taken orally,
+                                                                                       or matching
+                                                                                       tablets, 625
+
+
+
+
+                                                                                       twice daily.
+                                                                                       (ratio 1:1),
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              and kidneys [24]. FXR agonists include tropifexor, obeticholic
+                                                                                       mg each),
+                                                             Regimen
+
+
+
+
+                                                                                       placebo
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              acid, and chenodeoxycholic acid (CDCA).
+                                                                                                                                                                                                                                                                                                                                                    Tropifexor, a non-bile acid FXR agonist, demonstrated the
+                                                                                                                                                                                                                                                                                                                                              most substantial impact on raising FGF19 levels and reducing
+                                                                                                                                                                                                                                                                                                                                              C4 levels compared to placebo, making it a promising option
+                                                                                       months previously, of recurrent abdominal
+                                                                                       for at least 3 months, with onset at least 6
+                                                                                       Females and males aged 18 - 75. An IBS
+
+
+
+
+                                                                                       alpha C4 ≥ 40 ng/mL or FGF19 ≤ 80 pg/
+                                                                                       mL or fecal bile acid > 2,000 µmol/48 h
+                                                                                       diagnosis based on the Rome III criteria
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              for managing BAM. Our results echo existing literature sup-
+                                                                                       pain or discomfort. Biomarkers serum
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              porting the role of FGF19 in regulating bile acid synthesis and
+                                                                                                                                                                                                                                                                                                                                              suggesting that increasing FGF19 levels could be beneficial
+                                                                                                                                                                                                                                                                                                                                              in the management of BAM. Furthermore, our findings align
+                                                                                                                                                                                                                                                                                                                                              with other studies reporting that an elevated C4 level, a marker
+                                                                                                                                                                                                                                                                                                                                              of bile acid synthesis, is related to BAM, therefore, its reduc-
+                                                                                                                                                                                                                                                                                                                                              tion is a desired outcome. Research by Pellicciari et al [25]
+                                                             Inclusion criteria
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              in 2004 suggested that obeticholic acid is more potent than
+                                                                                                                                                                                                                                                                                                                                              chenodeoxycholic acid (CDCA) [25]. Moreover, two studies
+                                                                                                                                                                                                                                                                                                                                              confirmed the effectiveness of obeticholic acid in BAM treat-
+                                                                                                                                                                                                                                                                                                                                              ment [26, 27].
+                                                                                                                                                                                                                                                                                                                                                    In the study by Appleby et al [16] in 2017, colestyramine
+                                                                                                                                                                                                                                                                                                                                              was found to decrease FGF19 levels; however, it showed no
+  Table 1. Summary of the Included Studies - (continued)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              impact on the release of colonic pellets in BAM patients. The
+                                                             Design
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              reduction in FGF19 levels was 28% in BAM patients, com-
+                                                                                       RCT
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              pared to 58% in healthy participants. Nonetheless, due to the
+                                                                                                                                                                                                                                                                                                                                              premature cessation of enrollment, the study suffered from
+                                                                                                                                                                                                                                                                                                                                              reduced statistical power [16]. Another study conducted by
+                                                           Sample
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              Odunsi-Shiyanbade et al [10] in 2010 found no significant dif-
+                                                           size
+                                                           12
+                                                           15
+
+
+
+
+                                                                                                                                           15
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              ference between colesevelam and placebo. Beigel et al [17]
+                                                                                                                                                                                                                                                                                                                                              in 2014 observed that colesevelam significantly reduced stool
+                                                                                                                                                                                                                                                                                                                                              frequency, improved stool consistency, and served as an alter-
+                                                                                  Colesevelam
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              native for patients with Crohn’s disease who did not respond
+                                                                                                                                                                                                                                                                                                                                              to cholestyramine. However, the study fell short in terms of
+                                                             Groups
+
+                                                                                  Placebo
+
+
+
+
+                                                                                                                                           Placebo
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              sample size, requiring 46 patients but analyzing only 26.
+                                                                                                                                                                                                                                                                                                                                                    The 2020 study by Camilleri et al [18] also had similar sta-
+                                                                                                                                                     factor 19; BA: bile acid.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              tistical power limitations due to the early halt in recruitment.
+                                                                                                                                                                                                                                                                                                                                              Nevertheless, they concluded that tropifexor demonstrated
+                                                                                       Vijayvargiya et
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              satisfactory safety and tolerability in primary BAM patients.
+                                                                                       al, 2020 [21]
+                                                             References
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                              While in a 2022 study by Karhus et al [20], colesevelam was
+                                                                                                                                                                                                                                                                                                                                              found to reduce bowel frequency by 25% in patients with mod-
+                                                                                                                                                                                                                                                                                                                                              erate-to-severe BAM, while liraglutide reduced stool frequen-
+                                                                                                                                                                                                                                                                                                                                              cy by 27% and absorbed bile acids and C4 more efficiently
+
+
+                                                                                                                Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org                                                                                                                                                                                           39
+Treatment Strategies for BAM Patients                                                                            J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+
+                                             Figure 2. Risk of bias assessment for included studies.
+
+
+
+
+        Figure 3. The forest network plot for the analysis of the frequency of stool per day outcome. The study demonstrated no substan-
+        tial difference between the examined drugs and placebo in terms of their efficacy in decreasing daily stool frequency. MD: mean
+        difference; CI: confidence interval.
+
+
+
+40                          Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+Merza et al                                                                                                      J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+
+        Figure 4. The forest network plot for the analysis of the FGF19 (pg/mL) outcome. The chart illustrates that tropifexor was the
+        most potent drug in elevating FGF19 levels, outperforming the placebo and other drugs in our study. MD: mean difference; CI:
+        confidence interval; FGF19: fibroblast growth factor 19.
+
+
+
+
+        Figure 5. The network forest plot that analyses the C4 (ng/mL) outcome. This visualization demonstrates that tropifexor stands
+        out as the most effective drug in reducing C4 levels when compared to placebo among the assessed medications. MD: mean
+        difference; CI: confidence interval.
+
+
+
+                            Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org                   41
+Treatment Strategies for BAM Patients                                                                             J Clin Med Res. 2024;16(2-3):33-45
+
+
+
+
+        Figure 6. The network forest plot that analyses the Bristol Stool Form Scale (BSFS) outcome. The plot reveals no substantial
+        difference between the tested drugs and the placebo when it comes to reducing the BSFS score in patients diagnosed with BAM.
+        MD: mean difference; CI: confidence interval; BAM: bile acid malabsorption.
+
+
+
+
+        Figure 7. The forest network plot for the analysis of total fecal bile acids (µmol/g) outcome. The plot demonstrates that liraglutide
+        was more effective than colesevelam in diminishing fecal bile acid concentrations when compared with a placebo. MD: mean
+        difference; CI: confidence interval.
+
+
+
+42                           Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+Merza et al                                                                                                       J Clin Med Res. 2024;16(2-3):33-45
+
+
+Table 2. Mechanism of Action of Colestyramine, Colesevelam, Tropifexor, Loperamide, and Liraglutide for Treatment of Bile Acid
+Malabsorption
+
+ Drug            Mechanism of action
+ Colestyramine Cholestyramine resin adsorbs and combines with the bile acids in the intestine to form an insoluble complex which is excreted
+               in the feces. This results in a partial removal of bile acids from the enterohepatic circulation by preventing their absorption.
+ Colesevelam     Colesevelam hydrochloride is a non-absorbed, lipid-lowering polymer that binds bile acids in the intestine, impeding their
+                 reabsorption.
+ Tropifexor      Activation of tropifexor inhibits bile acid synthesis and increases bile acid conjugation, transport, and excretion, thereby
+                 protecting the liver from the harmful effects of bile accumulation, leading to considerable interest in tropifexor as a therapeutic
+                 target for the treatment of cholestasis and nonalcoholic steatohepatitis.
+ Loperamide      Loperamide, a synthetic opiate agonist, decreases peristaltic activity and inhibits secretion, resulting in the reduction of fluid
+                 and electrolyte loss and an increase in stool consistency.
+ Liraglutide     Through liraglutide-induced prolongation of small intestinal transit time allowing a greater degree of passive and active bile
+                 acid reabsorption through the small intestine and thereby reducing spillover of bile acids.
+
+
+than colesevelam.                                                                included in our study may also affect the generalizability of the
+     Existing research has demonstrated the effectiveness of                     findings. In addition, our study primarily concentrated on the
+colestyramine and colestipol in treating patients with BAM                       immediate impact of the interventions on clinical outcomes.
+[12, 28]. Patients tend to tolerate colestipol better due to its                 However, future research should consider patients’ quality of
+more appealing taste. Colesevelam presents a viable alternative                  life, given that symptoms like chronic diarrhea can consider-
+for those unresponsive to colestyramine [10-12]. However, it                     ably affect daily activities. It is also crucial to investigate these
+should be noted that it can limit the bioavailability of several                 treatments’ potential long-term side effects, a perspective our
+drugs, including warfarin, digoxin, diuretics, beta-blockers,                    study did not explore. In meta-analysis studies, subgroup anal-
+and fat-soluble vitamins. Therefore, these drugs should be con-                  ysis is a valuable method to explore potential sources of het-
+sumed 1 h before ingesting BAS [29-30].                                          erogeneity and to gain insights into specific subpopulations.
+     Additionally, regular monitoring for deficiencies in fat-                   However, when fewer than 10 RCTs are available, conducting
+soluble vitamins is recommended, especially for pregnant or                      a subgroup analysis can be challenging and potentially mis-
+breastfeeding women. Vitamin supplementation may be nec-                         leading. With a limited number of studies, there is a height-
+essary, with careful scheduling to ensure appropriate intervals                  ened risk of type I errors, where false-positive results can be
+between doses. Dietary modifications may also significantly                      identified. Moreover, with such a small sample size, the power
+contribute to the alleviation of BAM symptoms [19, 31, 32].                      to detect genuine subgroup effects is diminished, leading to
+     Given the results of our NMA, clinicians should be aware                    potential type II errors. Additionally, the sparseness of data
+of the potential therapeutic advantages of tropifexor in manag-                  might lead to imprecise and unstable estimates, undermining
+ing BAM, especially in patients where conventional treatments                    the reliability and validity of the subgroup findings. Therefore,
+may have been suboptimal. The noted efficacy of tropifexor in                    in the context of meta-analyses with fewer than 10 RCTs, it
+elevating FGF19 levels and reducing C4 levels suggests its po-                   is generally advisable to approach or forgo subgroup analyses
+tential as a front-line therapy for BAM, particularly in patients                with caution.
+with a more pronounced imbalance of these markers. Further-                           Above all, the necessity for larger, high-quality RCTs is
+more, the superior efficiency of liraglutide in decreasing fecal                 emphasized by our study. To secure a more solid evidence base
+bile acid concentration compared to colesevelam and placebo                      for BAM management, it is essential that future research en-
+sheds light on an alternative therapeutic avenue for clinicians                  gage more participants in RCTs.
+to explore [19].                                                                      In sum, while our study illuminates possible treatment
+     In terms of future research, it would be valuable to delve                  strategies for BAM, it also highlights the urgent need for fur-
+into the mechanism of action of these drugs at a molecular                       ther, more extensive research in this field. Considering the im-
+level to understand their effects more comprehensively. Addi-                    pact of BAM on the quality of life of patients with inflamma-
+tionally, observational studies could be beneficial in assessing                 tory bowel disease, the implementation of these interventions
+long-term outcomes and potential side effects of these treat-                    should be guided by more robust evidence to ensure the best
+ments in real-world settings. Lastly, investigating patient sub-                 patient outcomes.
+groups based on the severity of BAM or associated comorbidi-
+ties might provide more tailored therapeutic recommendations
+                                                                                 Conclusions
+for individualized patient care.
+     While our findings contribute meaningful insights into the
+management of BAM, they should be viewed tentatively due                         Our study found tropifexor to be the most effective medication
+to several limitations. Firstly, the relatively small sample size,               in boosting FGF19 levels and reducing C4 levels. Liraglutide
+resulting from the limited availability of eligible studies, hin-                emerged as the most potent treatment for reducing fecal bile
+ders the robustness of our results. The varied patient profiles                  acid concentrations.
+
+
+                             Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org                    43
+Treatment Strategies for BAM Patients                                                                            J Clin Med Res. 2024;16(2-3):33-45
+
+
+Supplementary Material                                                          Data Availability
+
+Suppl 1. Baseline characteristics of included studies.                          The authors declare that data supporting the findings of this
+Suppl 2. Continued: baseline characteristics of included stud-                  study are available within the article.
+ies.
+                                                                                Abbreviations
+Acknowledgments
+                                                                                BAM: bile acid malabsorption; BAD: bile acid diarrhea; BAS:
+None to declare.                                                                bile acid sequestrants; NMA: network meta-analysis; IBS-D:
+                                                                                irritable bowel syndrome with diarrhea; 75SeHCAT: seleni-
+                                                                                um-75-homocholic acid taurine; C4 test: 7-alpha-C4 level test;
+Financial Disclosure                                                            FGF19: fibroblast growth factor 19; RCTs: randomized con-
+                                                                                trolled trials; PRISMA: Preferred Reporting Items for System-
+This study required no funding.                                                 atic Reviews and Meta-Analysis; OSF: Open Science Frame-
+                                                                                work; BSFS: Bristol Stool Form Scale
+
+Conflict of Interest
+                                                                                References
+The authors declare that they have no conflict of interest.                     1.     Wilcox C, Turner J, Green J. Systematic review: the man-
+                                                                                       agement of chronic diarrhoea due to bile acid malabsorp-
+Informed Consent                                                                       tion. Aliment Pharmacol Ther. 2014;39(9):923-939. doi
+                                                                                       pubmed
+                                                                                2.     Camilleri M. Bile Acid diarrhea: prevalence, pathogen-
+In our research project, which encompassed a meta-analysis                             esis, and therapy. Gut Liver. 2015;9(3):332-339. doi pub-
+and network meta-analysis, obtaining informed consent was                              med pmc
+deemed unnecessary. This decision is grounded in the nature                     3.     Hofmann AF, Poley JR. Cholestyramine treatment of
+of our study, which exclusively involved the analysis of exist-                        diarrhea associated with ileal resection. N Engl J Med.
+ing published data, rather than direct interaction with human                          1969;281(8):397-402. doi pubmed
+participants or the use of personal, identifiable data. Our meth-               4.     Hofmann AF, Poley JR. Role of bile acid malabsorption
+odologies relied solely on publicly available data from previ-                         in pathogenesis of diarrhea and steatorrhea in patients
+ous studies, ensuring that there was no breach of privacy or                           with ileal resection. I. Response to cholestyramine or re-
+confidentiality for any individual. Since the data used were ag-                       placement of dietary long chain triglyceride by medium
+gregated and anonymized, and our research did not entail any                           chain triglyceride. Gastroenterology. 1972;62(5):918-
+intervention or interaction with human subjects, it fell outside                       934. pubmed
+the scope of ethical considerations that necessitate informed                   5.     Walters JR, Tasleem AM, Omer OS, Brydon WG, Dew
+consent. This approach is consistent with standard practices                           T, le Roux CW. A new mechanism for bile acid diarrhea:
+for secondary data analysis in research, where the primary                             defective feedback inhibition of bile acid biosynthesis.
+data collection process has already addressed ethical consid-                          Clin Gastroenterol Hepatol. 2009;7(11):1189-1194. doi
+erations, including consent.                                                           pubmed
+                                                                                6.     Brydon WG, Nyhlin H, Eastwood MA, Merrick MV. Se-
+                                                                                       rum 7 alpha-hydroxy-4-cholesten-3-one and selenoho-
+Author Contributions                                                                   mocholyltaurine (SeHCAT) whole body retention in the
+                                                                                       assessment of bile acid induced diarrhoea. Eur J Gastro-
+Manuscript writing and overview of published works: Noor-                              enterol Hepatol. 1996;8(2):117-123. doi pubmed
+aldin Merza, Omar Saab, Yusuf Nawras, Roua Abdulhussein,                        7.     Eusufzai S, Axelson M, Angelin B, Einarsson K. Serum
+Ahmed Elmoursi, Lena Daddoo, Zinah Yaqoob, Hiba Al Ani,                                7 alpha-hydroxy-4-cholesten-3-one concentrations in the
+Tamarah Al Hamdany, Ahmed Gadelmawla, Mohamed Khal-                                    evaluation of bile acid malabsorption in patients with diar-
+il, Mona Hassan, and Abdallah Kobeissy. Manuscript prepa-                              rhoea: correlation to SeHCAT test. Gut. 1993;34(5):698-
+ration and editing: Mona Hassa, Nooraldin Merza, Ahmed                                 701. doi pubmed pmc
+Elmoursi, Ahmed Gadelmawla, Mohamed Khalil, Yusuf                               8.     Sauter GH, Munzing W, von Ritter C, Paumgartner G.
+Nawras, and Abdallah Kobeissy. Final drafting, review, and                             Bile acid malabsorption as a cause of chronic diarrhea:
+approval: Nooraldin Merza, Abdallah Kobeissy, and Mona                                 diagnostic value of 7alpha-hydroxy-4-cholesten-3-one in
+Hassan contributed to drafting the final version of the manu-                          serum. Dig Dis Sci. 1999;44(1):14-19. doi pubmed
+script, undertaking critical revisions for important intellectual               9.     Pattni SS, Brydon WG, Dew T, Walters JR. Fibroblast
+content, and endorsing the final approval of the version to be                         Growth Factor 19 and 7alpha-Hydroxy-4-Cholesten-
+published.                                                                             3-one in the Diagnosis of Patients With Possible Bile
+
+
+44                          Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org
+Merza et al                                                                                                      J Clin Med Res. 2024;16(2-3):33-45
+
+
+      Acid Diarrhea. Clin Transl Gastroenterol. 2012;3(7):e18.                         Ryks M, Rhoten D, et al. Effects of colesevelam on bowel
+      doi pubmed pmc                                                                   symptoms, biomarkers, and colonic mucosal gene expres-
+10.   Odunsi-Shiyanbade ST, Camilleri M, McKinzie S, Bur-                              sion in patients with bile acid diarrhea in a randomized
+      ton D, Carlson P, Busciglio IA, Lamsam J, et al. Effects of                      trial. Clin Gastroenterol Hepatol. 2020;18(13):2962-
+      chenodeoxycholate and a bile acid sequestrant, coleseve-                         2970.e2966. doi pubmed pmc
+      lam, on intestinal transit and bowel function. Clin Gastro-               22.    Karhus ML, Bronden A, Roder ME, Leotta S, Sonne DP,
+      enterol Hepatol. 2010;8(2):159-165. doi pubmed pmc                               Knop FK. Remission of Bile Acid Malabsorption Symp-
+11.   Wedlake L, Thomas K, Lalji A, Anagnostopoulos C, An-                             toms Following Treatment With the Glucagon-Like Pep-
+      dreyev HJ. Effectiveness and tolerability of colesevelam                         tide 1 Receptor Agonist Liraglutide. Gastroenterology.
+      hydrochloride for bile-acid malabsorption in patients with                       2019;157(2):569-571. doi pubmed
+      cancer: a retrospective chart review and patient question-                23.    Kir S, Kliewer SA, Mangelsdorf DJ. Roles of FGF19 in
+      naire. Clin Ther. 2009;31(11):2549-2558. doi pubmed                              liver metabolism. Cold Spring Harb Symp Quant Biol.
+12.   Smith MJ, Cherian P, Raju GS, Dawson BF, Mahon S,                                2011;76:139-144. doi pubmed
+      Bardhan KD. Bile acid malabsorption in persistent diar-                   24.    Zhang Y, Kast-Woelbern HR, Edwards PA. Natural
+      rhoea. J R Coll Physicians Lond. 2000;34(5):448-451.                             structural variants of the nuclear receptor farnesoid X
+      pubmed pmc                                                                       receptor affect transcriptional activation. J Biol Chem.
+13.   Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoff-                               2003;278(1):104-110. doi pubmed
+      mann TC, Mulrow CD, Shamseer L, et al. The PRISMA                         25.    Pellicciari R, Costantino G, Camaioni E, Sadeghpour
+      2020 statement: an updated guideline for reporting sys-                          BM, Entrena A, Willson TM, Fiorucci S, et al. Bile acid
+      tematic reviews. BMJ. 2021;372:n71. doi pubmed pmc                               derivatives as ligands of the farnesoid X receptor. Syn-
+14.   Cochrane handbook for systematic reviews of interven-                            thesis, evaluation, and structure-activity relationship of
+      tions. Wiley. 2019.                                                              a series of body and side chain modified analogues of
+15.   Egger M, Davey Smith G, Schneider M, Minder C. Bias                              chenodeoxycholic acid. J Med Chem. 2004;47(18):4559-
+      in meta-analysis detected by a simple, graphical test.                           4569. doi pubmed
+      BMJ. 1997;315(7109):629-634. doi pubmed pmc                               26.    Mroz MS, Keating N, Ward JB, Sarker R, Amu S, Aviello
+16.   Appleby RN, Bajor A, Gillberg PG, Graffner H, Sim-                               G, Donowitz M, et al. Farnesoid X receptor agonists at-
+      ren M, Ung KA, Walters J. Effects of conventional and                            tenuate colonic epithelial secretory function and prevent
+      a novel colonic-release bile acid sequestrant, A3384, on                         experimental diarrhoea in vivo. Gut. 2014;63(5):808-817.
+      fibroblast growth factor 19 and bile acid metabolism in                          doi pubmed
+      healthy volunteers and patients with bile acid diarrhoea.                 27.    Walters JR, Johnston IM, Nolan JD, Vassie C, Pruzanski
+      United European Gastroenterol J. 2017;5(3):380-388. doi                          ME, Shapiro DA. The response of patients with bile acid
+      pubmed pmc                                                                       diarrhoea to the farnesoid X receptor agonist obeticholic
+17.   Beigel F, Teich N, Howaldt S, Lammert F, Maul J, Bre-                            acid. Aliment Pharmacol Ther. 2015;41(1):54-64. doi
+      iteneicher S, Rust C, et al. Colesevelam for the treatment                       pubmed
+      of bile acid malabsorption-associated diarrhea in patients                28.    Wedlake L, A'Hern R, Russell D, Thomas K, Walters
+      with Crohn's disease: a randomized, double-blind, place-                         JR, Andreyev HJ. Systematic review: the prevalence of
+      bo-controlled study. J Crohns Colitis. 2014;8(11):1471-                          idiopathic bile acid malabsorption as diagnosed by Se-
+      1479. doi pubmed                                                                 HCAT scanning in patients with diarrhoea-predominant
+18.   Camilleri M, Nord SL, Burton D, Oduyebo I, Zhang Y,                              irritable bowel syndrome. Aliment Pharmacol Ther.
+      Chen J, Im K, et al. Randomised clinical trial: significant                      2009;30(7):707-717. doi pubmed
+      biochemical and colonic transit effects of the farnesoid X                29.    Scaldaferri F, Pizzoferrato M, Ponziani FR, Gasbarrini G,
+      receptor agonist tropifexor in patients with primary bile                        Gasbarrini A. Use and indications of cholestyramine and
+      acid diarrhoea. Aliment Pharmacol Ther. 2020;52(5):808-                          bile acid sequestrants. Intern Emerg Med. 2013;8(3):205-
+      820. doi pubmed                                                                  210. doi pubmed
+19.   Devarakonda A, Arnott I, Satsangi J. The efficacy of                      30.    Walters JR, Pattni SS. Managing bile acid diarrhoea.
+      colesevelam to treat bile acid malabsorption in Crohn's                          Therap Adv Gastroenterol. 2010;3(6):349-357. doi pub-
+      disease: data from TOPPIC trial. J Crohns Colitis.                               med pmc
+      2019;13(Supplement_1):S470-S471. doi                                      31.    Vijayvargiya P, Camilleri M. Update on bile acid malab-
+20.   Karhus ML, Bronden A, Forman JL, Haaber A, Knudsen                               sorption: finally ready for prime time? Curr Gastroenterol
+      E, Langholz E, Dragsted LO, et al. Safety and efficacy                           Rep. 2018;20(3):10. doi pubmed
+      of liraglutide versus colesevelam for the treatment of                    32.    Jackson A, Lalji A, Kabir M, Muls A, Gee C, Vyoral S,
+      bile acid diarrhoea: a randomised, double-blind, active-                         Shaw C, et al. The efficacy of a low-fat diet to manage
+      comparator, non-inferiority clinical trial. Lancet Gastro-                       the symptoms of bile acid malabsorption - outcomes in
+      enterol Hepatol. 2022;7(10):922-931. doi pubmed                                  patients previously treated for cancer. Clin Med (Lond).
+21.   Vijayvargiya P, Camilleri M, Carlson P, Nair A, Nord SL,                         2017;17(5):412-418. doi pubmed pmc
+
+
+
+
+                            Articles © The authors | Journal compilation © J Clin Med Res and Elmer Press Inc™ | www.jocmr.org                   45
+
