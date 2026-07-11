@@ -1,0 +1,696 @@
+Received: 27 February 2019         | First decision: 10 March 2019 | Accepted: 25 June 2019
+DOI: 10.1111/apt.15420
+
+
+
+
+Abnormalities of mucosal serotonin metabolism and 5‐HT3
+receptor subunit 3C polymorphism in irritable bowel syndrome
+with diarrhoea predict responsiveness to ondansetron
+
+David Gunn1,2                        | Klara Garsed3 | Ching Lam4 | Gulzar Singh1,2 | Melanie Lingaya1,2 |
+Verena Wahl5 | Beate Niesler5 | Amanda Henry6 | Ian P. Hall6 | Peter Whorwell7                                                                           |
+Robin Spiller1,2
+
+
+1
+ NIHR Nottingham Biomedical Research
+Centre, Nottingham University Hospitals                     Summary
+NHS Trust and the University of                             Background: Irritable bowel syndrome with diarrhoea (IBS‐D) is a common condition,
+Nottingham, Nottingham, UK
+2                                                           greatly reducing the quality of life with few effective treatment options available.
+ Nottingham Digestive Diseases Centre,
+School of Medicine, University of                           Aim: To report the beneficial response shown in our trial with the 5‐hydroyx‐
+Nottingham, Nottingham, UK
+                                                            tryptamine (5‐HT) receptor 3 antagonist, ondansetron in IBS‐D
+3
+    Royal Derby Hospital, Derby, UK
+4
+                                                            Methods: A randomised, placebo‐controlled, cross‐over trial of 5 weeks of ondan‐
+ Northern General Hospital, Sheffield
+Teaching Hospitals NHS Foundation Trust,                    setron versus placebo in 125 patients meeting modified Rome III criteria for IBS‐D
+Sheffield, UK                                               as previously described. Patients were compared to 21 healthy controls. 5‐HT and
+5
+ Department of Human Molecular Genetics,
+                                                            5‐HIAA were measured in rectal biopsies. Whole gut transit time was assessed using
+Institute of Human Genetics, University
+Hospital Heidelberg and Interdisciplinary                   a radio‐opaque marker technique. Whole blood DNA was genotyped for an insertion
+Center for Neurosciences (IZN), University
+                                                            polymorphism in the promoter region of the serotonin transporter gene SLC6A4, as
+of Heidelberg, Heidelberg, Germany
+6
+ Department of Therapeutics and Molecular                   well as single nucleotide polymorphisms (SNPs) of the tryptophan hydroxylase gene
+Medicine, NIHR Nottingham Biomedical                        TPH1 and 5‐HT3 receptor genes HTR3A, C and E.
+Research Centre, Nottingham, UK
+7                                                           Results: Patients’ biopsies showed significantly higher 5‐HIAA levels (2.1 (1.2‐4.2)
+ Department of
+Neurogastroenterology, University of                        pmol/mg protein vs 1.1 (0.4‐1.5) in controls, P < .0001). 39 patients used < 4 mg/d
+South Manchester Wythenshawe General
+                                                            (“super‐responders”) while 55 required ≥ 4 mg/d. 5‐HT concentrations in rectal biop‐
+Hospital, Manchester, UK
+                                                            sies were significantly lower in super‐responders (21.3 (17.0‐31.8) vs 37.7 (21.4‐61.4),
+Correspondence
+                                                            P = .0357) and the increase in transit time on ondansetron was significantly greater
+Prof. Robin Spiller, NIHR Nottingham
+Biomedical Research Centre, Nottingham                      (15.6 (1.8‐31) hours vs 3.9 (−5.1‐17.9) hours). Stool consistency responders were more
+University Hospitals NHS Trust and the
+                                                            likely to carry the CC genotype of the SNP p.N163K rs6766410 of the HTR3C gene
+University of Nottingham, Nottingham, UK.
+Email: robin.spiller@nottingham.ac.uk                       (33% vs 14%, P = .0066).
+                                                            Conclusion: IBS‐D patients have significant abnormalities in mucosal 5‐HT metab‐
+                                                            olism. Those with the lowest concentration of 5‐HT in rectal biopsies showed the
+                                                            greatest responsiveness to ondansetron.
+
+
+
+
+The Handling Editor for this article was Professor Alexander Ford, and it was accepted for publication after full peer‐review.
+
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+© 2019 The Authors. Alimentary Pharmacology & Therapeutics Published by John Wiley & Sons Ltd
+
+538     |   wileyonlinelibrary.com/journal/apt
+            	                                 Aliment Pharmacol Ther. 2019;50:538–546.
+GUNN et al                                                                                                                                | 539
+1 | I NTRO D U C TI O N
+                                                                           2 | M ATE R I A L S A N D M E TH O DS
+
+When patients with irritable bowel syndrome with diarrhoea (IBS‐D)
+                                                                           2.1 | Design
+are asked to report their most bothersome symptoms, erratic bowel
+habit and urgency are the most common.1 Urgency and the associated         The design was as previously described.10 In brief, 125 patients with
+occasional faecal incontinence cause significant distress and anxiety,     IBS‐D meeting Rome III criteria11 were recruited from gastroenterol‐
+which substantially impair their quality of life. Serotonin (5‐hydroxy‐    ogy clinics in Nottingham and Manchester and randomised to re‐
+tryptamine (5‐HT)), a neurotransmitter in the gut has many effects         ceive either 5 weeks of ondansetron, then 5 weeks of placebo or
+which are relevant to this aspect of IBS, stimulating intestinal secre‐    placebo followed by ondansetron, with at least 2 weeks washout be‐
+tion and colonic motility.2 5‐HT 3 (5‐HT3) receptor antagonists includ‐    tween the two treatment periods. Doses were titrated for the first
+ing alosetron, cilansetron and ramosetron which block these effects        3 weeks of each treatment period, maintaining a constant dose for
+and slow whole gut transit have been shown in meta‐analysis to be          the final 2 weeks. Twenty‐one healthy volunteers were recruited as
+                                3
+effective treatments for IBS‐D. Alosetron was withdrawn because of         controls for comparison. They completed the same questionnaires
+adverse events including severe constipation and ischaemic colitis.4 It    as IBS‐D patients, underwent rectal mucosal biopsy and provided
+has now been reintroduced under a FDA‐managed risk evaluation and          normal values for colonic transit studies.
+mitigation strategy but is not widely used. Ramosetron, a potent highly
+specific 5‐HT3 receptor antagonist has been shown to be similarly ef‐
+                                                                           2.2 | Data collection
+fective and recently another 5‐HT3 receptor antagonist, ondansetron,
+has also been shown to be effective without causing ischaemic colitis.     The following personal baseline data were collected: age, sex,
+   Our previous studies which focused on post‐infectious IBS (PI‐          Hospital Anxiety and Depression Scale (HADS)12 score, Patient
+IBS), two‐thirds of whom have IBS‐D, had shown an increased number         Health Questionnaire 12 Somatic Symptom (PHQ‐12)13 score and
+                                           5
+of 5‐HT containing enteroendocrine cells. We also showed in animal         Perceived Stress Scale14 score. IBS Quality of Life Questionnaire15
+                 6
+models of PI‐IBS that colonic mucosal 5‐HT was elevated immedi‐            and IBS Severity Scoring System16 scores were collected at base‐
+ately after infection and 5‐hydroxyindole acetic acid (5‐HIAA)/5‐HT        line and at the end of each treatment period. A previously described
+ratios were increased while, serotonin transporter gene (SERT gene         daily stool diary17 was used to collect stool form information (using
+SLC6A4) mRNA expression was depressed up to 56 days post‐infec‐            the Bristol Stool Form Score (BSFS),18 abdominal pain perception,
+tion, these two changes suggesting long‐lasting accelerated mucosal        urgency to defecate and abdominal bloating (all three scored on a
+5‐HT turnover. This was associated with enhanced firing of afferent        0‐3 scale). Frequency of defecation and number of days with bloat‐
+neurons during colonic distension, a feature which could be blocked        ing, pain or urgency were recorded. Whole gut transit time was
+by ondansetron. This led us to hypothesise that increased 5‐HT avail‐      measured after 5 weeks of each treatment using the Metcalf's radio‐
+ability in the intestinal mucosa could be the driver of symptoms and       opaque marker technique.19
+the explanation of the benefit of 5‐HT3 receptor antagonists in IBS‐D.
+   There are marked individual differences in responsiveness to 5‐
+                                                                           2.3 | Biopsy analysis
+HT3 receptor antagonists which have been correlated with common
+polymorphisms in key genes governing the synthesis and reuptake of         All 70 patients recruited from Nottingham were invited to undergo
+5‐HT, as well as the structure of the 5‐HT receptors. Responsiveness       unprepared flexible sigmoidoscopy to obtain high rectal/sigmoid
+to alosetron was shown in one trial to be greater with the homo‐           biopsies and 57 consented to this additional procedure. Two of the
+zygous l/l variant of the 5‐HTTLPR (serotonin‐transporter‐linked           samples were immediately frozen in liquid nitrogen for analysis of
+polymorphic region) of SLC6A4.7 Furthermore, the gene TPH1 en‐             serotonin and 5‐HIAA content by high‐performance liquid chroma‐
+coding tryptophan hydroxylase 1, the rate limiting enzyme for sero‐        tography (HPLC), two in RNALater for gene expression studies, one
+tonin synthesis in enterochromaffin cells of the gut, contains several     for incubation at 25°C in 95% O2 for assay of 5‐HT release from a
+single nucleotide polymorphisms (SNPs), including rs4537731 and            0‐30 minute period as previously described20 (Data S1). Finally, one
+rs211105, which have been reported to predict responsiveness to            biopsy was embedded in paraffin for routine histology to exclude
+             8
+ramosetron. Finally, the SNP of HTR3C p.N163K rs6766410 pre‐               microscopic colitis. Real‐time polymerase chain reaction (PCR) was
+dicts chemotherapy‐induced vomiting,9 which is known to be driven          used to assess the relative expression of TPH1 with respect to the
+largely by serotonin. This led us to hypothesize that the sensitivity to   housekeeping gene hypoxanthine phosphoribosyltransferase 1
+ondansetron might in part be dependent on genetic variability due          (HPRT1). RNA was extracted and analysed according to the previously
+to polymorphisms in these genes.                                           reported method.21
+   We now present the biomarkers of mucosal 5‐HT metabolism
+along with the genetic markers obtained from patients participating
+                                                                           2.4 | Plasma 5‐HIAA
+in our double‐blind cross‐over trial whose clinical results have been
+previously reported,10 aiming to further characterise IBS‐D patients       We assessed fasting plasma 5‐HIAA using HPLC as previously
+who respond to ondansetron therapy.                                        described. 22
+540    |                                                                                                                                 GUNN et al
+
+
+                                                                             baseline”. 24 Our pain assessments on a 0‐3 scale did not allow us to
+2.5 | Genotyping
+                                                                             calculate a pain responder rate according to FDA guidelines which
+Blood samples were taken at visit 1. DNA was extracted from 200 µl           were published after our study was initiated.
+of citrated blood using the QIAamp DNA Blood Mini Kit (Qiagen
+Cat. No. 51106) and subsequently genotyped for 62 patients who
+provided samples for the following polymorphisms: 5‐HTTLPR
+                                                                             2.7 | Data analysis
+(serotonin‐transporter‐linked polymorphic region) residing within            Analysis was performed using Graphpad Prism version 7.0c
+the promoter region of the serotonin transporter gene SLC6A4 as              (GraphPad Software, La Jolla California, USA). Efficacy parameters
+described previously. 23 Genotyping of the SNPs within the trypto‐           were calculated for each patient as the difference in the endpoints
+phan hydroxylase gene TPH1 rs211105 (noncoding SNP), rs4537731               measured in the last 2 weeks of the ondansetron and placebo periods.
+(noncoding SNP), and in 5‐HT3 receptor genes including HTR3A c.‐                Baseline and rectal biopsy data were analysed for differences
+42C > T (rs1062613), HTR3B p.Y129S (rs1176744), HTR3C p.N163K                between patients and healthy volunteers using unpaired t‐tests and
+(rs6766410) and HTR3E c.*76G > A (rs56109847) was carried out                Mann‐Whitney tests on parametric and nonparametric data, respec‐
+by the KASPar® assay (KBiosciences, Ltd, Hoddesdon, United                   tively. Subsequent analysis based on their stool form responder sta‐
+Kingdom) using KASP by design primer mixes as recommended by                 tus and mean ondansetron dose was done as below.
+the manufacturer. Thermal cycling was performed in Mastercycler                 Genotype data was correlated with stool form responder status,
+vapo.protect thermal cyclers (Eppendorf). An initial 15‐minute incu‐         baseline clinical features, biopsy results, final ondansetron dose,
+bation at 95°C was followed by 20 cycles consisting of 10 s at 94°C,         whole gut transit time and TPH1 mRNA expression. Chi‐squared
+5 s at 57°C and 10 s at 72°C, followed by 23 cycles consisting of 10 s       tests were performed for stool form responder status, and one‐way
+at 94°C, 5 s at 57°C and 10 s at 72°C. After thermal cycling, results        ANOVA and Kruskal‐Wallis tests were performed on parametric and
+were analysed using the fluorescence plate reader of the 7500 Fast           nonparametric data respectively.
+Real‐Time PCR System (Applied Biosystems, Foster City, California).
+About 10% of the samples were repeated to ensure genotyping
+accuracy.
+                                                                             3 | R E S U LT S
+
+2.6 | Responder definition                                                   3.1 | Participants
+
+Our original study was a pilot study, so we used stool form rather           Healthy volunteers were age and sex matched to patients. Mean pa‐
+than pain as our primary endpoint since it was known to have had             tient and control ages were 41 and 43 years and percentage female
+a much lower placebo response rate. Therefore, in this paper, we             were 71% and 76% respectively. The patients taking part in the trial
+used the US Food and Drug Administration (FDA) definition of a               were, as expected, more anxious, more stressed and showed greater
+“stool consistency responder” as a “patient who experiences a 50             somatic symptoms with significantly higher HAD, perceived stress
+percent or greater reduction in the number of days per week with at          scale and PHQ‐12 scores compared to controls (Table 1). There were
+least one stool that has a consistency of Type 6 or 7 compared with          no differences between patients consented for biopsy and those
+
+
+
+TA B L E 1 Demographics of study participants showing details of patients’ and healthy volunteers’ mental health and bowel function.
+There were no significant differences between those undergoing biopsy and those choosing not to have this extra test
+
+                                                   Patients without biopsy       Patients with biopsy        Heathy volunteers
+ Variable                                          (n = 68)                      (n = 57)                    (n = 21)                 P value
+
+ Age                                                 40 (12)                       42 (12)                    43 (18)                   .5921
+ Sex (women), n (%)                                  53 (78)                       36 (63)                     16 (76)                  .1693
+ Patient Health Questionnaire 12                      8 (3.5)                      7.3 (3.7)                  2.2 (1.8)               <.0001
+ Anxiety                                            9.8 (4.3)                      9.5 (4.8)                  5.2 (2.7)                 .0001
+ Depression, median (IQR)                           5.5 (3‐10)                       4 (2‐8.8)                  1 (1‐2)               <.0001
+ Hospital Anxiety and Depression Scale             16.3 (7.4)                    14.8 (8.2)                   6.8 (3.3)               <.0001
+ Perceived Stress Scale                              19 (7.5)                     17.5 (7.9)                 11.2 (6.0)                 .0003
+ Bowel frequency, median (IQR)                      2.6 (1.9‐4)                    2.8 (2‐4)                  1.1 (1‐1.4)             <.0001
+ Stool form                                         5.4 (0.8)                      5.4 (0.6)                  3.5 (0.7)               <.0001
+
+Note: Data are mean (SD), unless stated. P values, were significant, demonstrate differences between the patient population and healthy volunteers
+with no difference between the two patient groups. P values are obtained from one‐way ANOVA and Kruskal‐Wallis tests for parametric and non‐
+parametric data respectively.
+GUNN et al                                                                                                                                                           | 541
+
+                                                            ***                                      3.3 | Plasma 5‐HIAA
+                                        30
+
+                                                                                                     Despite higher biopsy levels, median plasma 5‐HIAA (nmol/l) was
+                                                                                                     significantly lower in patients vs controls (16.2 vs 20.8, P < .0001).
+5HIAA concentration (pmol/mg protein)
+
+
+
+
+                                                                                                     3.4 | Stool form responders
+                                        20
+                                                                                                     107/125 IBS‐D patients completed daily stool diaries to allow as‐
+                                                                                                     sessment of response, of which 82 patients met FDA criteria for
+                                                                                                     stool form responders. As shown in Table 3, they had significantly
+                                                                                                     lower baseline average abdominal pain scores and pain occurred
+                                                                                                     on fewer days per week. They also reported lower average urgency
+                                        10                                                           scores and urgency on fewer days per week. Responders tended
+                                                                                                     to be younger, with lower HAD scores and to have slower colonic
+                                                                                                     transit; however, these differences failed to reach conventional sta‐
+                                                                                                     tistical significance. There were no significant differences in either
+                                                                                                     baseline stool form or frequency (Data S1).
+
+                                         0
+                                                                                                     3.5 | Features of patients showing increased
+                                                                           rs
+                                                        s
+
+
+
+
+                                                                                                     responsiveness to ondansetron (super‐responders)
+                                                                       ee
+                                                       nt
+                                                      tie
+
+
+
+
+                                                                      nt
+                                                                      lu
+                                                  pa
+
+
+
+
+                                                                  vo
+                                                  D
+
+
+
+
+                                                                  y
+                                             S-
+
+
+
+
+                                                                                                     About 39 IBS‐D patients adjusted their daily dose to < 4 mg on‐
+                                                                lth
+                                             IB
+
+
+
+
+                                                            ea
+
+
+
+
+                                                                                                     dansetron per day, compared to 55 requiring a dose of ≥ 4 mg
+                                                            H
+
+
+
+
+F I G U R E 1 Colonic biopsy 5‐hydroxyindole acetic acid (5‐                                         ondansetron. Patients on < 4 mg/d (super‐responders) were more
+HIAA) concentrations (median, interquartile range) in pmol/                                          commonly female (92% vs 58%, P = .003) and had slightly firmer
+mg protein in IBS-D patients (n = 57) and healthy volunteers                                         baseline stools (5.1 vs 5.4, P = .0159). Other baseline clinical fea‐
+(n = 21); ***P = 0.0001                                                                              tures including pain, urgency and bloating as assessed from days
+                                                                                                     with each symptom and average severity scores; HADS, anxiety,
+who did not. As required for entry into the trial10 IBS‐D patients re‐                               depression and PHQ‐12 scores were not significantly different
+ported significantly higher bowel frequency.                                                         (see supplementary data).
+                                                                                                        There were, however, significant differences in 5‐HT con‐
+                                                                                                     centration in rectal biopsies which were significantly lower in
+3.2 | Rectal biopsies
+                                                                                                     super‐responders (21.3 (17.0‐31.8) vs 37.7, (21.4‐61.4), P = .0357)
+Rectal biopsies were obtained from 57 of the 125 patients complet‐                                   (Figure 2). There were no differences between the groups in biopsy
+ing the trial and 21 controls. Biopsy 5‐HIAA levels were significantly                               5‐HIAA, 5‐HIAA /5‐HT, plasma 5‐HIAA and biopsy TPH1 mRNA
+higher in IBS‐D patients (Figure 1) as were the 5‐HIAA /5‐HT ra‐                                     expression (Table 4). However super‐responders, despite the lower
+tios (Table 1). There were, however, no significant differences be‐                                  dose, showed a fourfold greater increase in whole gut transit time
+tween patients and controls for biopsy 5‐HT nor 5‐HT release in the                                  when on ondansetron compared to placebo (15.6 vs 3.9, P = .0398)
+first 30 minutes (see Table 2).                                                                      (Figure 3).
+
+
+
+
+TA B L E 2 Colonic biopsy 5‐HIAA,
+                                                                                                                                        Healthy volunteers
+5‐HT, 5‐HIAA/5‐HT, and 5‐HT release
+                                                                            Variable                           Patients (n = 57)        (n = 21)                 P value
+during 30 min incubation for IBS‐D
+patients and healthy volunteers                                             biopsy 5‐HIAA (pmol/mg                  2.1 (1.2‐4.2)        1.1 (0.4‐1.5)           .0001
+                                                                             protein)
+                                                                            biopsy 5‐HIAA/5‐HT                 0.06 (0.03‐0.16)         0.02 (0.02‐0.05)         .0038
+                                                                            biopsy 5‐HT (pmol/mg protein)          31.2 (20.1‐46.0)     39.1 (16.5‐46.7)         .9288
+                                                                            biopsy 5‐HT release in 30mins          17.2 (13.5‐23.1)     23.8 (13.8‐44.2)         .078
+                                                                             (pmol/mg wet weight)
+                                                                            Biopsy 5‐HT release in 30mins/          0.8 (0.3‐1.1)        0.8 (0.2‐2.2)           .851
+                                                                             Biopsy 5‐HT content
+
+                                                                           Note: Data are median (IQR). P values obtained from Mann‐Whitney tests.
+542                             |                                                                                                                            GUNN et al
+
+
+                                                                                                                           TA B L E 3 Demographics, psychological
+                                                                       Stool form         Stool form
+                                                                                                                           assessments, stool diary results and
+                                                                       responder          nonresponder
+                                                                                                                           markers of serotonin turnover in patients
+         Variable                                                      (n = 82)           (n = 25)           P value
+                                                                                                                           subdivided into those who met FDA “stool
+         Age                                                            40 (12)            45 (11)            .0539        form responder” criteria and those who
+         Sex (female), n (%)                                             61 (74)           16 (64)            .446         did not
+         Hospital Anxiety and Depression Scale                         14.7 (7.0)         17.8 (8.3)          .0774
+         Patient Health Questionnaire 12                                7.4 (3.4)          8.2 (3.9)          .3189
+         Placebo whole gut transit (hours), median (IQR)                18 (9‐31)          10 (6.3‐24.8)      .0625
+         Baseline days with abdominal pain, median (IQR)                   5 (3‐7)           7 (5‐7)          .0175
+         Baseline average abdominal pain score                          1.2 (0.7)          1.8 (0.8)          .0023
+         Baseline days with urgency, median (IQR)                          6 (4.8‐7)         7 (6.5‐7)        .0014
+         Baseline average urgency score, median (IQR)                   1.4 (1‐2)          2.4 (1.6‐2.6)     <.0001
+         Baseline days with bloating, median (IQR)                         6 (3‐7)           6 (3.5‐7)        .498
+         Baseline average bloating score                                1.3 (0.8)          1.4 (0.9)          .4438
+         Baseline average stool form                                    5.3 (0.7)          5.5 (0.8)          .2498
+         Baseline average stool frequency, median (IQR)                 2.6 (1.9‐3.9)      2.9 (1.9‐3.9)      .7266
+                                                             a
+         Biopsy 5‐HT (pmol/mg protein), median (IQR)                   28.6 (18.3‐42)     44.3 (25.5‐65.7)    .0642
+         Biopsy 5‐HIAA (pmol/mg protein), median (IQR)a                 2.1 (1‐4.1)        1.6 (1‐4)          .6567
+         Biopsy 5‐HIAA /5‐HT, median (IQR)a                            0.06 (0.03‐0.20)   0.03 (0.02‐0.08)    .2731
+         Plasma 5‐HIAA (nmol/l), median (IQR)b                         16.5 (13.1‐19.8)   16.3 (12.7‐18)      .7022
+
+Note: Data are mean (SD) unless stated. P values obtained from unpaired t tests and Mann‐Whitney
+tests for parametric and nonparametric data respectively.
+Abbreviations: 5‐HT, serotonin; 5‐HIAA, 5‐Hydroxyindoleacetic acid.
+a
+  Numbers in each group: n = 40 stool form responder; n = 9 stool form nonresponder.
+b
+  Numbers in each group: n = 53 stool form responder; n = 10 stool form nonresponder.
+
+
+                                150                     *                                       3.6 | Effect of genotype on treatment response
+
+                                                                                                Stool form responders were more likely to carry the homozygous CC
+                                                                                                genotype p.N163K rs6766410 of the HTR3C gene which was found
+                                                                                                in 33% of responders compared to 14% of nonresponders, (P = .0066,
+Biopsy 5-HT content (pmol/mg)
+
+
+
+
+                                                                                                Table 5). The polymorphism in HTR3E c.*76G > A rs561098476
+                                100                                                             showed a trend towards association with more responders carry‐
+                                                                                                ing the GG genotype compared to nonresponders, although this was
+                                                                                                nonsignificant (P = .09, see supplementary data). Patients carrying the
+                                                                                                genotype TT of the HTR3A SNP rs1062613 reported significant im‐
+                                                                                                provement of both days with bloating (1.7 (2.6) vs 5.0 (2.5), P = .035)
+                                                                                                and average bloating score (0.38 (0.7) vs 1.4 (1.0), P = .018). The sig‐
+                                    50
+                                                                                                nificances were only found comparing the genotypes TT vs CT, and
+                                                                                                not with CT vs CC or TT vs CC, probably due to the small number
+                                                                                                of TT individuals (see supplementary data). No other significant as‐
+                                                                                                sociations with any of the genotypes tested were found for the sec‐
+                                                                                                ondary endpoints such as 5‐HT or 5‐HIAA levels, or 5‐HIAA/5‐HT
+                                    0                                                           ratio (Table S1). Surprisingly no significant effect was seen for the two
+                                                                                                TPH1 SNPs on TPH1 mRNA levels (Data S1).
+                                              g
+
+
+
+
+                                                                       g
+                                          m
+
+
+
+
+                                                                   m
+                                         <4
+
+
+
+
+                                                                 –>4
+
+
+
+
+                                          Daily ondansetron dose                                3.7 | TPH1 mRNA expression
+F I G U R E 2 Biopsy serotonin (5‐HT) content (median,
+                                                                                                Seventy‐eight patient rectal biopsies were analysed for TPH1 mRNA
+interquartile range) in pmol/mg protein subdivided by daily dose
+                                                                                                expression levels. There were no significant correlations with base‐
+showing a significantly lower biopsy 5‐HT content in patients
+taking < 4 mg (n = 17) compared with those taking ≥ 4 mg                                        line clinical features, biopsy 5‐HT or biopsy 5‐HIAA concentrations
+ondansetron daily (n = 32), P = 0.0357                                                          (Data S1).
+GUNN et al                                                                                                                                                            | 543
+TA B L E 4 Colonic transit and markers
+                                                                                                                   <4 mg                 ≥4 mg
+of colonic mucosal serotonin turnover
+                                                                                                                   ondansetron           ondansetron
+in IBS‐D patients, subdivided into those
+                                                                      Variable                                     (n = 17)              (n = 32)               P value
+requiring < 4 mg (super‐responders) and
+those requiring ≥ 4 mg/d of ondansetron                               Biopsy 5‐HT (pmol/mg protein)                21.3 (17.0‐31.8)      37.7 (21.4‐61.4)       .0357
+                                                                      Biopsy 5‐HT release in 30 min (pmol/mg       23.8 (10.9‐26.4)      17.1 (14‐21.8)         .23
+                                                                       wet weight)
+                                                                      Biopsy 5‐HT release in 30 min/ Biopsy         1.1 (0.6‐2.1)         0.4 (0.3‐0.8)         .0818
+                                                                       5‐HT content
+                                                                      Plasma 5‐HIAA (nmol/l)a                        17 (14.2‐20.0)      16.0 (12.3‐18.1)       .1733
+                                                                      Biopsy TPH1 mRNA relative expressionb        0.61 (0.54‐0.80)      0.61 (0.42‐0.95)       .6554
+                                                                      Placebo whole gut transit time (hours)c        18 (7‐30)             14 (7‐29)            .7545
+                                                                      Difference in whole gut transit time on      15.6 (1.8‐31)          3.9 (−5.1‐17.9)       .0398
+                                                                       ondansetron versus placebo (h)d
+
+                                                                     Note: Data are median (IQR). P values obtained from Mann‐Whitney tests.
+                                                                     Abbreviations: 5‐HT, serotonin; 5‐HIAA, 5‐Hydroxyindoleacetic acid; TPH1, Tryptophan hydroxy‐
+                                                                     lase 1.
+                                                                     a
+                                                                       Numbers in each group: n = 22 <4 mg ondansetron; n = 41 ≥4 mg ondansetron.
+                                                                     b
+                                                                       Numbers in each group: n = 17 <4 mg ondansetron; n = 37 ≥4 mg ondansetron.
+                                                                     c
+                                                                       Numbers in each group: n = 35 <4 mg ondansetron; n = 51 ≥4 mg ondansetron.
+                                                                     d
+                                                                       Numbers in each group: n = 33 <4 mg ondansetron; n = 46 ≥4 mg ondansetron.
+
+
+
+                                                                                                increased mucosal concentrations of the 5‐HT metabolite 5‐
+4 | D I S CU S S I O N
+                                                                                                HIAA together with an increased 5‐HIAA/ 5‐HT ratio suggesting
+                                                                                                greater turnover of mucosal 5‐HT in IBS‐D patients. Previous evi‐
+Several previous studies examining different aspects of serotonin
+                                                                                                dence excess 5‐HT stimulates secretion and motility, this provides
+metabolism have indicated that this is disturbed in IBS‐D patients
+                                                                                                a rationale for the use of both TPH1 inhibitors28 and 5‐HT3 receptor
+with greater post‐prandial 5‐HT in platelet‐poor plasma22,25 and re‐
+                                                                                                antagonists in IBS‐D. The effectiveness of 5‐HT3 receptor antago‐
+duced SERT mRNA levels in both duodenal20 and colonic biopsies in
+                                                                                                nists has been confirmed in meta‐analyses3 which show particu‐
+some26 but not all27 studies. The current study found significantly
+                                                                                                lar benefit for urgency and loose stools. 29 However, the number
+                                                                                                of patients needed to treat to get one responder more than with
+                                                         *                                      placebo is 7.7, indicating that there are subgroups of individual pa‐
+                                     80                                                         tients who respond better, as is true of all IBS treatments. Our ini‐
+                                                                                                tial trial, which uniquely allowed patients to select their optimum
+                                                                                                dose, showed striking differences in the doses chosen, with over
+Change in whole guttransit (hours)
+
+
+
+
+                                     60
+                                                                                                half using 4 mg or less per day while some used the maximum al‐
+                                     40                                                         lowed of 24 mg/d. These differences suggest that there existed a
+                                                                                                subgroup with greater sensitivity to ondansetron which we have
+
+                                     20                                                         termed “super‐responders”. We, therefore, looked to see what bio‐
+                                                                                                markers predicted “super‐responder status”.
+                                                                                                   We found that rectal biopsies of the super‐responders had a sig‐
+                                      0
+                                                                                                nificantly lower 5‐HT concentration than those requiring larger doses.
+                                                                                                When the 5‐HT released from the biopsies over 30 minutes was ex‐
+                                     –20
+                                                                                                pressed as a percentage of the biopsy 5‐HT concentration, there was
+                                                                                                a trend for this to be elevated but this was not statistically significant
+                                     –40
+                                                                                                owing to wide variability in this measure. Comparing Tables 2 and 4 it
+                                                g
+
+
+
+
+                                                                      g
+
+
+
+
+                                                                                                can be seen that healthy volunteers’ mucosal 5‐HT values were similar
+                                            m
+
+
+
+
+                                                                     m
+                                           <4
+
+
+
+
+                                                                –>4
+
+
+
+
+                                                                                                to the group requiring ≥ 4 mg. This suggests that it is the super‐respond‐
+                                            Daily ondansetron dose
+                                                                                                ers who have abnormally low mucosal 5‐HT though the other 5‐HT pa‐
+F I G U R E 3 Difference in whole gut transit (median, interquartile                            rameters were similar to both healthy controls and the other patients.
+range in hours) while taking ondansetron compared to placebo
+                                                                                                   The super‐responders showed a four‐fold greater change in transit
+treatment, subdivided into those taking < 4 mg (n = 33) and those
+                                                                                                even although they were taking a dose which was a quarter of that ob‐
+taking ≥ 4 mg (n = 46) ondansetron daily. Despite taking a lower
+dose those taking < 4 mg showed a significantly greater increase in                             served in those requiring larger doses, again objectively supporting the
+transit time, P = 0.0398                                                                        idea that super‐responders are very much more sensitive to the drug.
+544    |                                                                                                                                      GUNN et al
+
+
+                                                                                                            TA B L E 5 Effect of the polymorphism
+                                       AA genotype       CA genotype        CC genotype
+                                                                                                            HTR3C p.N163K rs6766410 on IBS‐D
+ Variable                              (n = 15)          (n = 54)           (n = 28)          P value
+                                                                                                            patients’ FDA stool responder status,
+ Stool responder (n = 22), %           14                53                 33                .0066         expressed as a percentage of responder
+ Stool nonresponder (n = 73), %        18                68                 14                              status patient population; and clinical
+                                                                                                            features while on ondansetron
+ Average stool form, mean (SD)         3.6 (1.5)         4.1 (1.3)          3.9 (1)           .5143
+ Average stool frequency               2 (1.1‐3.1)       1.8 (1.4‐2.9)      1.6 (1.2‐2.4)     .5892
+ Days with abdominal pain              4 (1.4‐6.5)       6 (2.5‐7)          5 (1.5‐6.5)       .0923
+ Average abdominal pain score          0.6 (0.2‐1.4)     1.4 (0.6‐2.1)      0.9 (0.3‐1.3)     .0241
+ Days with urgency                     3.8 (2.3‐6.6)     5 (2.4‐6.5)        3 (1‐6.3)         .2863
+ Average urgency score, mean (SD)      1.2 (1)           1.2 (0.8)          0.8 (0.7)         .1276
+ Days with bloating                    5 (2‐6.5)         5.8 (1.9‐7)        3 (0.5‐6.3)       .207
+ Average bloating score                0.8 (0.1‐1.4)     1.4 (0.3‐2.1)      0.6 (0.1‐1.5)     .1636
+
+Note: Data are median (IQR) unless stated. P values for clinical features while on ondansetron are
+obtained from one‐way ANOVA and Kruskal‐Wallis tests for parametric and nonparametric data
+respectively. For FDA stool responder and polymorphisms the P value is obtained from a Chi‐
+squared test.
+
+
+Having less serotonin in the biopsy could be either because of reduced           laboratory facilities and staff needed were available and we allowed
+synthesis or accelerated turnover. The tendency for increased 5‐HT               patients to choose whether to have the extra biopsies. We felt that
+release when expressed as a percentage of biopsy serotonin content,              this was important to facilitate recruitment to the main trial and as
+though just failing to reach conventional statistical significance, would        Table 1 shows, we did not find any differences between patients
+tend to support this interpretation and might explain why they were so           who opted to have biopsies compared to those who did not, so we
+much more sensitive to ondansetron if excess 5‐HT was driving their              do not think this introduced any bias.
+symptoms. Future studies might use in vivo assessment of 5‐HT release                 Although we chose to study variants in the HTR3C gene with pre‐
+                                                              30
+as has recently been done in animals to address this issue.                      vious evidence for potential influence on response to 5‐HT, these
+      The striking slowing of transit seen in super‐responders has im‐           findings need to be interpreted with caution as none of the genetic
+portant implications. We have previously reported from this same                 analyses were corrected for multiple testing and being post hoc need
+patient group that the faecal protease levels correlated negatively              to be replicated before they can be accepted. We were unable to link
+with transit time and positively with average urgency in IBS‐D pa‐               known SNPs in the genes encoding the SERT gene SLC6A4 or TPH1
+tients.31 As others have confirmed, urgency is strongly related to               with a clinically significant pattern of symptom features nor respon‐
+fast transit in IBS‐D32 but just exactly why slowing transit helps is            siveness to ondansetron, as has been suggested by others for the
+uncertain. We hypothesise that, by allowing more time for the co‐                related drug ramosetron,34 but our numbers were probably too low
+lonic microbiota to deconjugate bile acids and degrade endogenous                for such an analysis. Also relevant is the fact that we did not find a
+proteases,31 the slowing of transit may prevent the sensitisation of             correlation between TPH1 SNPs examined and mRNA levels for TPH1.
+the rectum that these endogenous irritants can cause. However, fur‐              These data are compatible with data in Gtex35 showing that rs21105
+ther intervention trials using other nonserotonergic agents to slow              has no significant eQTL signatures. rs4537731 has significant eQTL
+transit, such as loperamide, will be needed to decide what is unique             signatures in skin and thyroid but not in nerve or gut tissue.
+about the 5‐HT3 receptor antagonist's action.                                         Our pilot study asked subjects for pain scores on a 0‐3 scale,
+      Our finding that stool form responders were more likely to carry           which is insufficient to define a decrease in pain by at least 30% as
+the CC genotype p.N163K rs6766410 of HTR3C fits with the data                    recommended by the FDA. Consequently, we defined response by
+                   9
+of Fasching et al which suggested CC was more sensitive to che‐                  the change in stool consistency which is suboptimal in an IBS study.
+motherapy‐induced vomiting, known to be driven largely by sero‐                  Future studies should take this into account by using an 11‐point
+tonin. This substitution has a predicted possible functional effect on           pain scale allowing an assessment using both pain and stool consis‐
+the receptor (polyphen233 score 0.798). If those with CC genotype                tency response according to FDA guidance.
+are more sensitive to the effects of 5‐HT this might help explain the                 While psychological factors are thought to be important in IBS
+benefit of a drug which blocks its action.                                       we found no differences in anxiety nor somatisation between super‐
+      Like many mechanistic studies which make substantial demands               responders and non‐super‐responders, in keeping with ondanse‐
+on patients we were probably underpowered for many of our sec‐                   tron's known lack of central effects.
+ondary endpoints. Since our study was carried out on patients                         Overall, our study is important for highlighting the heterogeneity
+referred to secondary care they can only be generalised to this pop‐             of IBS‐D and indicates that personalised medicine approach is both
+ulation which may differ from that seen in primary care. We only                 necessary and possible if we know the mode of action and can eas‐
+requested biopsies for patients recruited in Nottingham where the                ily assess the key factors determining response to particular drugs.
+GUNN et al                                                                                                                                        | 545
+Rectal biopsy 5‐HT might be such a parameter for 5‐HT receptor                    symptom relief and constipation in nonconstipated irritable bowel
+3 antagonists, however, rectal biopsy assessment of 5‐HT turnover                 syndrome: a systematic review and meta‐analysis of randomized
+                                                                                  controlled trials. Clin Gastroenterol Hepatol. 2008;6:545‐555.
+is not currently a feasible clinical test. The immediate value of our
+                                                                             4.   Chang L, Chey WD, Harris L, Olden K, Surawicz C, Schoenfeld P.
+findings is that it encourages us to further subdivide IBS‐D. Some                Incidence of ischemic colitis and serious complications of consti‐
+plainly have serotonin excess, but others appear to have quite differ‐            pation among patients using alosetron: systematic review of clini‐
+ent mechanisms such as excessive secretions or impaired absorption                cal trials and post‐marketing surveillance data. Am J Gastroenterol.
+                                                                                  2006;101:1069‐1079.
+which we should explore further. Examining the response to 4 mg
+                                                                             5.   Dunlop SP, Jenkins D, Neal KR, Spiller RC. Relative importance of
+daily of ondansetron could be a simple test to identify at least one              enterochromaffin cell hyperplasia, anxiety, and depression in post‐
+subgroup which is not currently readily identifiable. Future studies              infectious IBS. Gastroenterology. 2003;125:1651‐1659.
+of other nonserotonergic agents might use this, as we currently do           6.   Keating C, Beyak M, Foley S, et al. Afferent hypersensitivity in a
+                                                                                  mouse model of post‐inflammatory gut dysfunction: role of altered
+with a trial of colestyramine, to exclude patients with a known mech‐
+                                                                                  serotonin metabolism. J Physiol. 2008;586:4517‐4530.
+anism of diarrhoea and thus improve response rates to the newer              7.   Camilleri M, Atanasova E, Carlson PJ, et al. Serotonin‐transporter
+agents under trial.                                                               polymorphism pharmacogenetics in diarrhea‐predominant irritable
+                                                                                  bowel syndrome. Gastroenterology. 2002;123:425‐432.
+                                                                             8.   Shiotani A, Kusunoki H, Manabe N, et al. Biomarkers for predicting
+DISCL AIMER                                                                       effectiveness of ramosetron in IBS‐D: expression of S100a protein
+                                                                                  and polymorphisms of Tph‐1 and 5‐HTT. AGA Abstr. 2014;S‐108.
+This is a summary of independent research funded by the National             9.   Fasching PA, Kollmannsberger B, Strissel PL, et al. Polymorphisms
+Institute for Health Research Biomedical Research Unit. The views                 in the novel serotonin receptor subunit gene HTR3C show different
+expressed are those of the author(s) and not necessarily those of the             risks for acute chemotherapy‐induced vomiting after anthracycline
+                                                                                  chemotherapy. J Cancer Res Clin Oncol. 2008;134:1079‐1086.
+NHS, the NIHR or the Department of Health.
+                                                                            10.   Garsed K, Chernova J, Hastings M, et al. A randomised trial of on‐
+                                                                                  dansetron for the treatment of irritable bowel syndrome with diar‐
+                                                                                  rhoea. Gut. 2014;63:1617‐1625.
+AC K N OW L E D G E M E N T S
+                                                                            11.   Drossman DA. The functional gastrointestinal disorders and the
+Declaration of personal interests: RS has received research funding               Rome III process. Gastroenterology. 2006;130:1377.
+                                                                            12.   Zigmond AS, Snaith RP. The hospital anxiety and depression scale.
+from Lesaffre and Ironwood. He has also acted on advisory boards
+                                                                                  Acta Psychiatr Scand. 1983;67:361‐370.
+for Allergan, Commonwealth Diagnostics International, Danone,               13.   Spiller RC, Humes DJ, Campbell E, et al. The patient health ques‐
+Ipsen and Yuhan, and received speakers' fees from Menarini. Other                 tionnaire 12 somatic symptom scale as a predictor of symptom
+authors declare no conflicts of interest.                                         severity and consulting behaviour in patients with irritable bowel
+                                                                                  syndrome and symptomatic diverticular disease. Aliment Pharmacol
+                                                                                  Ther. 2010;32:811‐820.
+AU T H O R S H I P                                                          14.   Levenstein S, Prantera C, Varvo V, et al. Development of the per‐
+                                                                                  ceived stress questionnaire: a new tool for psychosomatic research.
+Guarantor of the article: RS.                                                     J Psychosom Res. 1993;37:19‐32.
+   Author contributions: RS, PW and KG, design and conception of            15.   Hahn BA, Kirchdoerfer LJ, Fullerton S, Mayer E. Evaluation of a new
+                                                                                  quality of life questionnaire for patients with irritable bowel syn‐
+trial; KG, CL, PW and RS, Subject recruitment and trial oversight;
+                                                                                  drome. Aliment Pharmacol Ther. 1997;11:547‐552.
+GS, ML, AH and VW, analysis of samples; DG, RS, BN, IH, KG, data
+                                                                            16.   Francis CY, Morris J, Whorwell PJ. The irritable bowel severity
+interpretation and writing of manuscript; RS, Manuscript guarantor;               scoring system: a simple method of monitoring irritable bowel syn‐
+All authors, final review prior to submission.                                    drome and its progress. Aliment Pharmacol Ther. 1997;11:395‐402.
+                                                                            17.   Marciani L, Cox EF, Hoad CL, et al. Postprandial changes in small
+                                                                                  bowel water content in healthy subjects and patients with irritable
+ORCID                                                                             bowel syndrome. Gastroenterology. 2010;138:469‐477.e1.
+                                                                            18.   Heaton KW, O’Donnell L. An office guide to whole‐gut transit
+David Gunn       https://orcid.org/0000-0003-1436-7754                            time. Patients’ recollection of their stool form. J Clin Gastroenterol.
+                                                                                  1994;19:28‐30.
+Peter Whorwell        https://orcid.org/0000-0002-5220-8474
+                                                                            19.   Metcalf AM, Phillips SF, Zinsmeister AR, MacCarty RL, Beart RW,
+Robin Spiller    https://orcid.org/0000-0001-6371-4500                            Wolff BG. Simplified assessment of segmental colonic transit.
+                                                                                  Gastroenterology. 1987;92:40‐47.
+                                                                            20.   Foley S, Garsed K, Singh G, et al. Impaired uptake of serotonin
+                                                                                  by platelets from patients with irritable bowel syndrome cor‐
+REFERENCES
+                                                                                  relates with duodenal immune activation. Gastroenterology.
+ 1. Tillisch K, Labus JS, Naliboff BD, et al. Characterization of the al‐         2011;140:1434‐1443.
+    ternating bowel habit subtype in patients with irritable bowel syn‐     21.   Humes DJ, Simpson J, Smith J, et al. Visceral hypersensitiv‐
+    drome. Am J Gastroenterol. 2005;100:896‐904.                                  ity in symptomatic diverticular disease and the role of neuro‐
+ 2. Gershon MD. Review article: roles played by 5‐hydroxytrypt‐                   peptides and low grade inflammation. Neurogastroenterol Motil.
+    amine in the physiology of the bowel. Aliment Pharmacol Ther.                 2012;24:318‐e163.
+    1999;13(Suppl 2):15‐30.                                                 22.   Dunlop SP, Coleman NS, Blackshaw E, et al. Abnormalities of 5‐
+ 3. Andresen V, Montori VM, Keller J, West CP, Layer P, Camilleri M.              hydroxytryptamine metabolism in irritable bowel syndrome. Clin
+    Effects of 5‐Hydroxytryptamine (Serotonin) type 3 antagonists on              Gastroenterol Hepatol. 2005;3:349‐357.
+546   |                                                                                                                                       GUNN et al
+
+
+23. Niesler B, Kapeller J, Fell C, et al. 5‐HTTLPR and STin2 polymor‐            31. Tooth D, Garsed K, Singh G, et al. Characterisation of faecal prote‐
+    phisms in the serotonin transporter gene and irritable bowel syn‐                ase activity in irritable bowel syndrome with diarrhoea: origin and
+    drome: effect of bowel habit and sex. Eur J Gastroenterol Hepatol.               effect of gut transit. Gut. 2014;63:753‐760.
+    2010;22:856‐861.                                                             32. Basilisco G, De Marco E, Tomba C, Cesana BM. Bowel urgency
+24. FDA. Guidance for Industry: Irritable Bowel Syndrome ‐ Clinical                  in patients with irritable bowel syndrome. Gastroenterology.
+    Evaluation of Drugs for Treatment. 2012. http://www.fda.gov/                     2007;132:38‐44.
+    downl​o ads/Drugs/​G uida​n ceCo​m plia​n ceRe​g ulat​o ryIn​f orma​t ion/   33. Adzhubei IA, Schmidt S, Peshkin L, et al. A method and server
+    Guida​nces/UCM20​5269.pdf. Accessed April 30, 2019.                              for predicting damaging missense mutations. Nat Methods.
+25. Atkinson W, Lockhart S, Whorwell PJ, Keevil B, Houghton LA.                      2010;7:248‐249.
+    Altered 5‐hydroxytryptamine signaling in patients with consti‐               34. Shiotani A, Kusunoki H, Ishii M, et al. Pilot study of biomarkers for
+    pation‐ and diarrhea‐predominant irritable bowel syndrome.                       predicting effectiveness of ramosetron in diarrhea‐predominant
+    Gastroenterology. 2006;130:34‐43.                                                irritable bowel syndrome: expression of S100A10 and polymor‐
+26. Coates MD, Mahoney CR, Linden DR, et al. Molecular defects in                    phisms of TPH1. Neurogastroenterol Motil. 2015;27:82‐91.
+    mucosal serotonin content and decreased serotonin reuptake                   35. Genotype‐Tissue Expression (GTEx) project. https​://gtexp​ortal.org.
+    transporter in ulcerative colitis and irritable bowel syndrome.                  Accessed December 6, 2018.
+    Gastroenterology. 2004;126:1657‐1664.
+27. Camilleri M, Andrews CN, Bharucha AE, et al. Alterations in ex‐
+    pression of p11 and SERT in mucosal biopsy specimens of pa‐                  S U P P O R T I N G I N FO R M AT I O N
+    tients with irritable bowel syndrome. Gastroenterology. 2007;132:
+    17‐25.                                                                       Additional supporting information will be found online in the
+28. Brown PM, Drossman DA, Wood A, et al. The tryptophan hy‐                     Supporting Information section at the end of the article.
+    droxylase inhibitor LX1031 shows clinical benefit in patients
+    with nonconstipating irritable bowel syndrome. Gastroenterology.
+    2011;141:507‐516.
+                                                                                    How to cite this article: Gunn D, Garsed K, Lam C, et al.
+29. Lembo AJ, Olden KW, Ameen VZ, Gordon SL, Heath AT, Carter
+    EG. Effect of alosetron on bowel urgency and global symptoms in                 Abnormalities of mucosal serotonin metabolism and 5‐HT3
+    women with severe, diarrhea‐predominant irritable bowel syn‐                    receptor subunit 3C polymorphism in irritable bowel
+    drome: Analysis of two controlled trials. Clin Gastroenterol Hepatol.           syndrome with diarrhoea predict responsiveness to
+    2004;2:675‐682.
+                                                                                    ondansetron. Aliment Pharmacol Ther. 2019;50:538–546.
+30. Patel BA. Mucosal serotonin overflow is associated with colonic
+    stretch rather than phasic contractions. Neurogastroenterol Motil.              https​://doi.org/10.1111/apt.15420​
+    2016;28:914‐923.
+

@@ -1,0 +1,453 @@
+                            J Physiol 592.14 (2014) pp 2943–2950                                                                                                                  2943
+
+                            TO P I C A L R E V I E W
+
+
+                            Neuro-humoral signalling by bile acids and the TGR5
+                            receptor in the gastrointestinal tract
+                            Nigel W. Bunnett
+                            Monash Institute of Pharmaceutical Sciences, Parkville, Australia and Department of Pharmacology, University of Melbourne, Australia
+
+
+
+                                           Abstract In addition to their role in the digestion and absorption of dietary fats, bile acids (BAs)
+                                           are tightly regulated signalling molecules. Their levels in the intestinal lumen, circulation and
+                                           tissues fluctuate after feeding and fasting, and as a result of certain diseases and therapies. BAs
+                                           regulate many cell types in the gut wall and beyond by activating nuclear and plasma membrane
+                                           receptors. Of these, the G protein-coupled receptor TGR5 has emerged as a key mediator of the
+The Journal of Physiology
+
+
+
+
+                                           non-genomic actions of BAs. TGR5 is a cell-surface receptor that couples to Gαs, formation of
+                                           cAMP, activation of protein kinase A and extracellular signal-regulated kinases, and inhibition
+                                           of inflammatory signalling pathways. TGR5 has been implicated in mediating the actions of
+                                           BAs on secretion of glucagon-like peptide 1 and glucose homeostasis, gastrointestinal motility
+                                           and transit, electrolyte and fluid transport in the colon, bile formation and secretion, sensory
+                                           transduction and inflammation. TGR5 agonists have been developed as treatments for metabolic,
+                                           inflammatory and digestive disorders, and emerging evidence suggests that TGR5 mutations
+                                           are associated with inflammatory diseases. Thus, TGR5 plays an important role in the normal
+                                           processes of digestion and is a new therapeutic target for important digestive diseases.
+                                           (Received 13 January 2014; accepted after revision 4 March 2014; first published online 10 March 2014)
+                                           Corresponding author N. W. Bunnett: Monash Institute of Pharmaceutical Sciences, 381 Royal Parade, Parkville, VIC
+                                           3052, Australia. Email: nigel.bunnett@monash.edu
+
+                                           Abbreviations BA, bile acid; CA, cholic acid; CDCA, chenodeoxycholic acid; CGRP, calcitonin gene-related peptide;
+                                           DCA, deoxycholic acid; EC cell, enterochromaffin cell; GLP-1, glucagon-like peptide-1; GPCR, G protein-coupled
+                                           receptor; GRP, gastrin releasing peptide; LCA, lithocholic acid.
+
+
+                            Introduction                                                                     through the activation of nuclear and plasma membrane
+                                                                                                             receptors. This review concerns the neuro-humoral
+                            Bile acids (BAs), the main component of bile, are a
+                                                                                                             actions of BAs within the gastrointestinal system that
+                            large and complex family of amphipathic molecules
+                                                                                                             are mediated by the plasma membrane receptor TGR5
+                            synthesized from cholesterol. They show remarkable
+                                                                                                             (GpBAR1, M-BAR, GPBA, GPR131). TGR5 mediates
+                            structural heterogeneity between species and within
+                                                                                                             the actions of BAs on disparate patho-physiological
+                            the same species in different tissues, compartments
+                                                                                                             processes, ranging from glucose homeostasis to peri-
+                            and patho-physiological states (reviewed in Hofmann
+                                                                                                             stalsis, and TGR5 is a therapeutic target for disorders
+                            & Hagey, 2008). Their structural diversity is matched
+                                                                                                             of metabolism, inflammation, digestion and sensation
+                            by functional diversity, including the digestion and
+                                                                                                             (reviewed in Thomas 2008; Lieu et al. 2014).
+                            absorption of dietary fats and hormone-like effects
+
+                             Nigel Bunnett is a National Health and Medical Research Council Australia Fellow, Professor of Pharmacology and Medicine, and
+                             Deputy Director of the Monash Institute of Pharmaceutical Sciences. He obtained a PhD from the University of Cambridge, spent
+                             25 years at the University of California, San Francisco, and joined Monash University in 2011. Nigel’s research investigates the
+                             signalling mechanisms that underlie pain, itch and neurogenic inflammation. He is recognized for his work on defining the
+                             functions and regulation of G protein-coupled receptors and transient receptor potential ion channels, major cell-surface proteins
+                             that are essential for sensory transduction and neurogenic inflammation.
+
+
+
+
+                            
+                            C 2014 The Authors. The Journal of Physiology 
+                                                                          C 2014 The Physiological Society                                              DOI: 10.1113/jphysiol.2014.271155
+2944                                                         N. W. Bunnett                                                           J Physiol 592.14
+
+
+BAs are regulated messenger molecules                                   humans include deoxycholic acid (DCA) and lithocholic
+                                                                        acid (LCA). These transformations increase the hydro-
+The concentrations of bile acids within the intestinal
+                                                                        phobicity of secondary BAs, which are then passively
+lumen and general circulation fluctuate during physio-
+                                                                        absorbed across colonocytes. Absorbed BAs pass through
+logical states, and can be affected by disease and therapy
+                                                                        the portal circulation back to the liver, where they may be
+(Fig. 1). In humans, the principal primary BAs, cholic acid
+                                                                        reconjugated and stored in the gallbladder for re-use.
+(CA) and chenodeoxycholic acid (CDCA), are synthesized
+                                                                           In view of the episodic nature of bile secretion and
+from cholesterol in hepatocytes. Prior to secretion into
+                                                                        absorption, the concentrations of BAs in the intestine
+the canalicular lumen, they are conjugated to glycine
+                                                                        and circulation wax and wane during feeding and fasting
+or taurine, which increases their hydrophobicity. Bile is
+                                                                        (Angelin et al. 1982), reminiscent of the circulating levels
+secreted into the intestine during feeding. By virtue of
+                                                                        of gut hormones. Indeed, BAs have hormone-like actions
+their amphipathic nature, BAs aggregate in the aqueous
+                                                                        on multiple cells types. Nuclear receptors (e.g. farnesoid
+intestinal environment to form micelles that solubilise
+                                                                        X receptor) mediate the genomic actions of BAs (reviewed
+the digestion products of triglycerides (fatty acids and
+                                                                        in Lefebvre et al. 2009). TGR5 is a plasma membrane BA
+monoglycerides), promoting absorption. Conjugated BAs
+                                                                        receptor that mediates the rapid, non-genomic effects of
+are actively absorbed by enterocytes of the terminal
+                                                                        BAs (Lieu et al. 2014).
+ileum via the apical sodium-dependent BA transporter
+(ASBT) and the basolateral organic solute transporter                   TGR5 is a G protein-coupled BA receptor
+(Ostα/Ostβ). The small amounts of secreted BAs that
+escape ileal uptake (∼5%) enter the colon, where bacterial              TGR5 is a seven transmembrane domain G protein-
+enzymes deconjugate, oxidize and dehydroxylate the                      coupled receptor (GPCR) that couples to Gαs, leading
+primary bile acids, forming the secondary BAs, which in                 to activation of adenylyl cyclase, formation of cAMP
+
+
+
+
+             Figure 1. Synthesis, secretion and enterohepatic circulation of BAs in humans
+             (1) Primary bile acids are synthesized in hepatocytes from cholesterol. (2) BAs are conjugated to glycine and
+             taurine and are stored in the gallbladder at high concentrations. (3) After feeding, conjugated BAs are secreted
+             in the intestine where they emulsify dietary fats and form mixed micelles that facilitate digestion and absorption
+             of the products of triglyceride digestion. (4) Conjugated BAs are not passively absorbed in the small intestine,
+             but are actively and efficiently absorbed in the terminal ileum by the apical sodium BA co-transporter at the
+             apical membrane of enterocytes of the terminal ileum. (5) In the colon, bacteria deconjugate, oxidise and hydro-
+             xylatedehydroxylate conjugated primary bile acids to form secondary bile acids, which are passively absorbed. (6)
+             Conjugated and unconjugated BAs enter to portal vein and recirculate to the liver for reuse Ursodeoxycholic acid
+             (UDCA).
+                                                                       
+                                                                       C 2014 The Authors. The Journal of Physiology 
+                                                                                                                     C 2014 The Physiological Society
+J Physiol 592.14                                                    Bile acid receptors                                                    2945
+
+and stimulation of protein kinase A (PKA; Maruyama                               and internalize after binding agonists, activated TGR5
+et al. 2002; Kawamata et al. 2003). In Chinese Hamster                           remains at the plasma membrane where it can transmit
+Ovary CHO-TGR5 cells, BAs stimulate cAMP production                              sustained signals (Jensen et al. 2013). This unusual lack
+with an order of potency of taurolithocholic acid                                of desensitization may have implications for BA signalling
+(TLCA) > LCA  DCA > CDCA > CA (Kawamata                                         and the therapeutic use of TGR5 agonists.
+et al. 2003). TGR5 also transactivates the epidermal
+growth factor receptor, which activates extracellular signal                     Neuro-humoral signalling by BAs and TGR5 in the
+regulated kinases (Yasuda et al. 2007; Cao et al. 2013),                         gastrointestinal tract
+and inhibits nuclear factor kappa-light-chain-enhancer of
+activated β cells NF-κB-mediated inflammatory signalling                         BAs have many patho-physiological effects in the gastro-
+(Wang et al. 2011). In addition to generating cAMP, TGR5                         intestinal tract (Fig. 2). They regulate hormone secretion,
+activation in brain neurons and astrocytes can also increase                     motility, electrolyte and fluid transport, formation and
+[Ca2+ ]i , although whether this involves mobilization of                        storage of bile, sensory transduction and inflammation.
+intracellular calcium ions or activation of a calcium                            Some of these actions depend on TGR5 and others occur
+channel in the plasma membrane is unclear (Keitel et al.                         by unknown mechanisms. TGR5 is present in epithelial
+2010).                                                                           cells of the intestine and gallbladder, where the high
+   An α-helical domain in the C-terminus facilitates TGR5                        concentrations of luminal BAs may activate the receptor
+sorting to the plasma membrane and interaction with                              at apical membranes. However, TGR5 is also expressed at
+BAs in the extracellular fluid (Spomer et al. 2014).                             the basolateral membrane of certain epithelial cells, and by
+However, in contrast to most GPCRs, which desensitize                            neurons, smooth muscle cells and immune cells (Fig. 3).
+
+
+
+
+                   Figure 2. Potential functions of TGR5 in the digestive system
+                   (1) Luminal BAs activate TGR5 on L cells to stimulate release of GLP-1, which promotes insulin secretion and
+                   inhibits food intake and gastric emptying, all of which lower blood glucose. (2) In the colon, BAs activate TGR5
+                   on EC cells to stimulate release of 5–HT and on enteric neurons to stimulate release of CGRP. 5–HT and CGRP
+                   promote peristalsis. (3) In the gallbladder, activation of TGR5 on epithelial cells stimulates chloride secretion and
+                   activation of TGR5 on myocytes inhibits contractility. (4) In the skin and possibly in the intestine, BAs activate
+                   TGR5 on primary sensory neurons to induce hyperexcitability and release of GRP, a transmitter of itch and possibly
+                   irritant sensations. (5) BAs can activate TGR5 on immune cells of the liver and colon to suppress the release of
+                   proinflammatory cytokines and thereby dampen inflammation.
+
+
+
+C 2014 The Authors. The Journal of Physiology 
+                                              C 2014 The Physiological Society
+2946                                                          N. W. Bunnett                                                           J Physiol 592.14
+
+
+Although the permeability of the intestinal epithelium                   thereby improves glucose homeostasis in obese mice
+to BAs varies between regions and for particular BAs,                    (Thomas et al. 2009; Fig. 3). This mechanism may
+the secondary BAs (LCA and DCA) are lipophilic and                       account for the beneficial effects of anionic exchange
+readily cross membranes, and circulating levels of BAs                   resins on glycaemic control in type 2 diabetes mellitus. By
+wax and wane during feeding and fasting (Angelin et al.                  sequestering BAs in the lumen of the small intestine, resins
+1982). Thus, it is probable that absorbed BAs can regulate               suppress BA and lipid absorption, promote cholesterol
+multiple cells within the gut wall and beyond. The levels                conversion to BAs, and are therapeutically valuable
+of BAs in the intestinal lumen, circulation and tissues                  cholesterol-lowering drugs. These drugs improve hyper-
+also vary due to disease and therapy, which can lead to                  glycaemia in obese mice by TGR5-dependent mechanisms
+TGR5-dependent pathology.                                                (Harach et al. 2012; Potthoff et al. 2013). When fed to
+                                                                         obese mice, BA sequestrants improve glucose homeo-
+Hormone secretion. Glucagon-like peptide-1 (GLP-1)                       stasis by a mechanism that involves TGR5-dependent
+is a hormone from enteroendocrine L cells of the                         upregulation in the colon of pre-proglucagon expression
+small intestine that lowers blood glucose by stimulating                 and GLP-1 release (Harach et al. 2012). Although there
+secretion of insulin through suppression of food intake                  are elevated levels of total BAs in the faeces of mice treated
+and gastric emptying. BAs stimulate TGR5-dependent                       with sequestrants, whether treatment with sequestrants
+release of GLP-1 from the mouse enteroendocrine cell line                also increases colonic levels of unbound BAs that are
+STC-1 (Katsuma et al. 2005), and BA-evoked activation                    able to stimulate GLP-1 release from colonic L cells
+of TGR5 in the intestine stimulates GLP-1 release and                    remains to be determined. The resins also suppress
+
+
+
+
+             Figure 3. Neuro-humoral signalling of BAs and TGR5 in the gastrointestinal wall
+             (1) In the small intestine, luminal BAs can activate TGR5 on L cells to induce secretion of the hormone GLP-1. (2)
+             In the colon, luminal BAs can activate TGR5 on EC cells to stimulate secretion of 5–HT, which activates 5–HT4
+             receptors on intrinsic primary afferent neurons, which release CGRP, a mediator of the ascending and descending
+             components of the peristaltic reflex. Absorbed BAs may directly activate TGR5 on enteric neurons to induce release
+             of CGRP. (3) TGR5 is expressed by gastric myocytes, where activation by absorbed BAs can inhibit contractility. (4)
+             Absorbed BAs may activate TGR5 on colonocytes to inhibit chloride secretion. (5) Absorbed BAs activate TGR5 on
+             colonic macrophages to suppress secretion of tumour necrosis factor α and dampen inflammation. (6) By analogy
+             to the skin, absorbed BAs may activate TGR5 on primary sensory neurons that transmit irritant signals to the spinal
+             cord.
+
+                                                                        
+                                                                        C 2014 The Authors. The Journal of Physiology 
+                                                                                                                      C 2014 The Physiological Society
+J Physiol 592.14                                                    Bile acid receptors                                                  2947
+
+hepatic glucose production in obese mice by TGR5-                                be treatments for constipation, whereas antagonists could
+and GLP-1-dependent inhibition of hepatic glycogenolysis                         be therapies for diarrhoea. Moreover, genetic variations
+(Potthoff et al. 2013). However, TGR5 agonists can also                          in TGR5 may contribute to altered small bowel transit
+activate TGR5 on pancreatic β cells to stimulate insulin                         (Camilleri et al. 2011).
+secretion (Kumar et al. 2012). These findings provided
+a rationale for the use of TGR5 agonists to treat type 2                         Electrolyte and fluid transport. BAs can both stimulate
+diabetes.                                                                        and inhibit electrolyte and fluid secretion in the colon.
+                                                                                 Whereas acute exposure of T84 colonocytes to high
+                                                                                 concentrations of DCA stimulates chloride secretion,
+Motility. BAs have regional effects on gastrointestinal                          which may be secondary to cell injury, chronic exposure to
+motility. When administered by gavage, BAs inhibit gastric                       low concentrations of BAs inhibits the actions of calcium-
+emptying and small intestinal transit (Poole et al. 2010).                       and cAMP-dependent secretagogues (Keating et al. 2009).
+These effects may be mediated by activation of TGR5                              Although the mechanisms of these effects are uncertain,
+on enteroendocrine cells, enteric neurons or myocytes                            TGR5 has been implicated as a mediator of the inhibitory
+(Fig. 3). BA-evoked release of GLP-1 could slow gastric                          actions of BAs in the rat colon. TGR5 is highly expressed
+emptying and transit, which remains to be investigated.                          in colonic crypts, and the TGR5 agonists inhibit basal
+TGR5 is expressed by inhibitory motor neurons of the                             and carbachol-stimulated chloride secretion from iso-
+myenteric plexus, and BAs that activate TGR5, such as                            lated, nerve-free segments of rat colon (Ward et al. 2013).
+DCA, inhibit spontaneous contractions of longitudinal                            Although the physiological relevance of the anti-secretory
+muscle in isolated segments of mouse ileum by a neuro-                           actions of BAs remain to be defined, this mechanism may
+genic and nitrergic mechanism (Poole et al. 2010). TGR5                          promote fluid absorption and thereby restrict fluid loss
+is also expressed by gastric myocytes, where activation                          after excess colonic delivery of BAs. Since TGR5 is also
+causes relaxation through inhibition of the RhoA/Rho                             expressed by submucosal neurons (Poole et al. 2010),
+kinase pathway (Rajagopal et al. 2013).                                          further studies are required to determine whether BAs
+   Conversely, when applied to the mucosal surface of                            can also regulate transport by a neurogenic mechanism.
+colonic segments at physiological concentrations, DCA                            However, the bile salt sodium deoxycholate stimulates
+and LCA stimulate peristalsis in wild-type but not                               secretion from the rat small intestine by a neuronal
+Tgr5–/– mice (Alemi et al. 2013b). BAs activate TGR5                             mechanism (Karlström et al. 1986), suggesting that TGR5
+on enterochromaffin (EC) cells and intrinsic primary                             expressed by submucosal neurons may also contribute to
+afferent neurons to stimulate release of the peristaltic                         the effects of BAs on electrolyte and fluid secretion.
+transmitters 5-hydroxytryptamine (5-HT) and calcitonin
+gene-related peptide (CGRP) (Fig. 3). Thus, luminal BAs
+may activate TGR5 on EC cells to induce release of 5-HT,                         Bile formation and storage. Since BAs are present in
+which activates 5-HT4 receptors on intrinsic primary                             high concentrations in bile, and TGR5 is abundant in
+afferent neurons to stimulate release of CGRP. Once                              gallbladder epithelium and muscle, it is not surprising
+absorbed, BAs may also directly stimulate CGRP release.                          that TGR5 controls bile formation and storage. BAs
+CGRP stimulates ascending and descending interneurons                            stimulate TGR5- and cAMP/PKA-dependent activation of
+that transmit the peristaltic reflex. The importance of                          the cystic fibrosis transmembrane conductance regulator
+BA-evoked and TGR5-dependent colonic peristalsis is                              (CFTR) channel in gallbladder epithelial cells, leading to
+underscored by the finding that overall gastrointestinal                         chloride secretion (Keitel et al. 2009). Hydrophobic bile
+transit is impaired in Tgr5–/– mice, which are constipated,                      salts stimulate TGR5-, cAMP/PKA-dependent activation
+whereas Tgr5-transgenic mice show accelerated colonic                            of ATP-sensitive potassium channels in gallbladder
+transit (Alemi et al. 2013b).                                                    myocytes, leading to hyperpolarization and decreased
+   Increased colonic delivery of BAs, which can occur after                      contractility (Lavoie et al. 2010). The importance of
+cholecystectomy due to continuous bile secretion and after                       TGR5-induced secretion and relaxation of the gallbladder
+small bowel inflammation or resection due to diminished                          is highlighted by the finding that BAs and TGR5-selective
+BA absorption, can cause diarrhoea, perhaps by over-                             agonists increase gallbladder volume in wild-type but not
+activation of TGR5. Decreased delivery of BAs, which                             Tgr5–/– mice (Li et al. 2011). The existence of this intrinsic
+can occur during cholestatic disease due to decreased bile                       mechanism involving TGR5 that regulates gallbladder
+secretion, can cause constipation, which may depend on                           filling has implications for the side-effects of TGR5
+depressed TGR5 activity. These findings have therapeutic                         agonists that are under development for the treatment
+implications. BAs have been ingested for millennia to                            of metabolic diseases.
+treat constipation (Thorner, 1955), and inhibitors of ileal
+BA transporters relieve constipation by increasing colonic                       Sensory transduction. Patients with cholestatic disease
+delivery of BAs (Camilleri, 2012). TGR5 agonists may also                        have elevated circulating and tissue levels of BAs and
+
+
+C 2014 The Authors. The Journal of Physiology 
+                                              C 2014 The Physiological Society
+2948                                                    N. W. Bunnett                                                         J Physiol 592.14
+
+
+sometimes exhibit sensory abnormalities, which include          Conclusions
+an intractable pruritus. TGR5 mediates the pruritogenic
+                                                                Although the effects of BAs on the gastrointestinal tract
+actions of BAs in mice, and may thereby contribute to
+                                                                have been recognized for millennia, only recently have the
+sensory abnormalities in patients with cholestatic disease
+                                                                receptors that mediate these effects been described. Of
+(Alemi et al. 2013a). TGR5 is expressed in a subpopulation
+                                                                these, TGR5 has been identified as a mediator of many of
+of small-diameter neurons of dorsal root ganglia, and
+                                                                the rapid and non-genomic patho-physiological effects of
+BAs cause hyperexcitability of these neurons and evoke
+                                                                BAs. Physiological roles of TGR5 in the digestive system
+scratching by TGR5-dependent mechanisms (Alemi et al.
+                                                                include stimulation of GLP-1 secretion and control of
+2013a). Itch is a protective mechanism that results in
+                                                                blood glucose, control of transit and electrolyte and fluid
+scratching, which removes potentially damaging irritants
+                                                                transport in the colon, and regulation of the formation
+from the skin. The sensation of itch derives only after
+                                                                and storage of bile. TGR5 may also participate in irritant
+irritant stimulation to the skin. Given that the gut lumen
+                                                                sensory reflexes in the digestive system and control
+is replete with irritants, including BAs that can excite
+                                                                inflammation. These findings have provided an impetus
+sensory nerves, it is probable that similar irritant reflexes
+                                                                for the development of TGR5 agonists to treat disorders
+exist within the gut, a possibility that deserves further
+                                                                of metabolism, inflammation and motility. However,
+investigation.
+                                                                given the role of TGR5 in gallbladder function, itch
+                                                                and proliferation, TGR5 agonists may have detrimental
+                                                                side-effects, and in some cases antagonists may be useful
+Inflammation. TGR5 has been implicated in both
+                                                                therapies. Further understanding of the functions of TGR5
+induction and suppression of inflammation. The reflux
+                                                                in the digestive system requires TGR5 knockout and trans-
+of bile into the pancreatic duct is a potential cause of
+                                                                genic mice and studies with TGR5-selective agonists, and
+acute pancreatitis, and TGR5 has been implicated as a
+                                                                a deeper understanding of the process of TGR5 signalling
+mediator of BA-induced pancreatitis (Perides et al. 2010).
+                                                                and regulation. Furthermore, it is possible that molecules
+TGR5 is localized to the apical pole of acinar cells, and
+                                                                that are structurally related to BAs are also agonists of
+the retrograde infusion of taurolithocholic acid-3-sulfate
+                                                                TGR5 in the gut. The observation that neurosteroids can
+into the pancreatic duct causes pancreatitis in wild-type
+                                                                activate TGR5 (Keitel et al. 2010) suggests that studies
+but not Tgr5–/– mice. Isolated acinar cells lacking TGR5
+                                                                of neurosteroid signalling in the digestive system are
+are protected from the actions of BAs on pathological
+                                                                warranted.
+calcium transients, intracellular activation of zymogens,
+and injury. Although these findings implicate TGR5
+on acinar cells as a mediator of pancreatitis after bile
+reflux, the physiological function of TGR5 in the exocrine      References
+pancreas is unknown.
+   Other studies point to an immunosuppressive, anti-           Alemi F, Kwon E, Poole DP, Lieu T, Lyo V, Cattaruzza F,
+inflammatory function of TGR5. TGR5 is expressed by               Cevikbas F, Steinhoff M, Nassini R, Materazzi S,
+peripheral blood monocytes, differentiated macrophages            Guerrero-Alba R, Valdez-Morales E, Cottrell GS, Schoonjans
+and dendritic cells, and TGR5 activation inhibits cytokine        K, Geppetti P, Vanner SJ, Bunnett NW & Corvera CU
+                                                                  (2013a). The TGR5 receptor mediates bile acid-induced itch
+generation by macrophages (Kawamata et al. 2003; Yoneno
+                                                                  and analgesia. J Clin Invest 123, 1513–1530.
+et al. 2013; Fig. 3). TGR5 is upregulated in intestinal         Alemi F, Poole DP, Chiu J, Schoonjans K, Cattaruzza F, Grider
+macrophages from patients with Crohn’s disease, where             JR, Bunnett NW & Corvera CU (2013b). The receptor TGR5
+activation inhibits the production of tumour necrosis             mediates the prokinetic actions of intestinal bile acids and is
+factor-α (Kawamata et al. 2003; Yoneno et al. 2013). The          required for normal defecation in mice. Gastroenterology
+TGR5 gene on chromosome 2q35 is close to a genetic                144, 145–154.
+variant associated with ulcerative colitis and primary          Angelin B, Björkhem I, Einarsson K & Ewerth S (1982).
+sclerosing cholangitis, a chronic inflammatory condition          Hepatic uptake of bile acids in man. Fasting and
+of the bile duct, and several loss-of-function TGR5               postprandial concentrations of individual bile acids in portal
+mutations have been identified in primary sclerosing              venous and systemic blood serum. J Clin Invest 70,
+cholangitis (Hov et al. 2011). Further studies are                724–731.
+                                                                Camilleri M (2012). Pharmacology of the new treatments for
+required to determine the contribution of TGR5 to
+                                                                  lower gastrointestinal motility disorders and irritable bowel
+inflammatory diseases of the gastrointestinal system.             syndrome. Clin Pharmacol Ther 91, 44–59.
+However, TGR5 inhibits NF-κB-mediated inflammatory              Camilleri M, Vazquez-Roque MI, Carlson P, Burton D, Wong
+signalling and Tgr5–/– mice exhibit enhanced lipopoly-            BS & Zinsmeister AR (2011). Association of bile acid
+saccharide-induced hepatitis, indicating the importance           receptor TGR5 variation and transit in health and lower
+of this anti-inflammatory pathway (Pols et al. 2011; Wang         functional gastrointestinal disorders. Neurogastroenterol
+et al. 2011).                                                     Motil 23, 995–999, e458.
+
+                                                                
+                                                                C 2014 The Authors. The Journal of Physiology 
+                                                                                                              C 2014 The Physiological Society
+J Physiol 592.14                                                    Bile acid receptors                                                   2949
+
+Cao W, Tian W, Hong J, Li D, Tavares R, Noble L, Moss SF &                       Li T, Holmstrom SR, Kir S, Umetani M, Schmidt DR, Kliewer
+   Resnick MB (2013). Expression of bile acid receptor TGR5 in                      SA & Mangelsdorf DJ (2011). The G protein-coupled bile
+   gastric adenocarcinoma. Am J Physiol Gastrointest Liver                          acid receptor, TGR5, stimulates gallbladder filling. Mol
+   Physiol 304, G322–G327.                                                          Endocrinol 25, 1066–1071.
+Harach T, Pols TW, Nomura M, Maida A, Watanabe M,                                Lieu T, Jayaweera G & Bunnett NW (2014). Gpba: A G
+   Auwerx J & Schoonjans K (2012). TGR5 potentiates GLP-1                           protein-coupled receptor for bile acids and an emerging
+   secretion in response to anionic exchange resins. Sci Rep 2,                     therapeutic target for disorders of digestion and sensation.
+   430.                                                                             Br J Pharmacol 171, 1156–1166.
+Hofmann AF & Hagey LR (2008). Bile acids: chemistry,                             Maruyama T, Miyamoto Y, Nakamura T, Tamai Y, Okada H,
+   pathochemistry, biology, pathobiology, and therapeutics.                         Sugiyama E, Nakamura T, Itadani H & Tanaka K (2002).
+   Cell Mol Life Sci 65, 2461–2483.                                                 Identification of membrane-type receptor for bile acids
+Hov JR, Keitel V, Schrumpf E, Haussinger D & Karlsen TH                             (M-BAR). Biochem Biophys Res Commun 298, 714–719.
+   (2011). TGR5 sequence variation in primary sclerosing                         Perides G, Laukkarinen JM, Vassileva G & Steer ML (2010).
+   cholangitis. Dig Dis 29, 78–84.                                                  Biliary acute pancreatitis in mice is mediated by the
+Jensen DD, Godfrey CB, Niklas C, Canals M, Kocan M, Poole                           G-protein-coupled cell surface bile acid receptor Gpbar1.
+   DP, Murphy JE, Alemi F, Cottrell GS, Korbmacher C,                               Gastroenterology 138, 715–725.
+   Lambert NA, Bunnett NW & Corvera CU (2013). The bile                          Pols TW, Nomura M, Harach T, Lo Sasso G, Oosterveer MH,
+   acid receptor TGR5 does not interact with β-arrestins or                         Thomas C, Rizzo G, Gioiello A, Adorini L, Pellicciari R,
+   traffic to endosomes but transmits sustained signals from                        Auwerx J & Schoonjans K (2011). TGR5 activation inhibits
+   plasma membrane rafts. J Biol Chem 288, 22942–22960.                             atherosclerosis by reducing macrophage inflammation and
+Karlström L, Cassuto J, Jodal M & Lundgren O (1986).                               lipid loading. Cell Metab 14, 747–757.
+   Involvement of the enteric nervous system in the intestinal                   Poole DP, Godfrey C, Cattaruzza F, Cottrell GS, Kirkland JG,
+   secretion induced by sodium deoxycholate and sodium                              Pelayo JC, Bunnett NW & Corvera CU (2010). Expression
+   ricinoleate. Scand J Gastroenterol 21, 331–340.                                  and function of the bile acid receptor GpBAR1 (TGR5) in
+Katsuma S, Hirasawa A & Tsujimoto G (2005). Bile acids                              the murine enteric nervous system. Neurogastroenterol Motil
+   promote glucagon-like peptide-1 secretion through TGR5 in                        22, 814–825, e227–818.
+   a murine enteroendocrine cell line STC-1. Biochem Biophys                     Potthoff MJ, Potts A, He T, Duarte JA, Taussig R, Mangelsdorf
+   Res Commun 329, 386–390.                                                         DJ, Kliewer SA & Burgess SC (2013). Colesevelam suppresses
+Kawamata Y, Fujii R, Hosoya M, Harada M, Yoshida H, Miwa                            hepatic glycogenolysis by TGR5-mediated induction of
+   M, Fukusumi S, Habata Y, Itoh T, Shintani Y, Hinuma S,                           GLP-1 action in DIO mice. Am J Physiol Gastrointest Liver
+   Fujisawa Y & Fujino M (2003). A G protein-coupled                                Physiol 304, G371–G380.
+   receptor responsive to bile acids. J Biol Chem 278,                           Rajagopal S, Kumar DP, Mahavadi S, Bhattacharya S, Zhou R,
+   9435–9440.                                                                       Corvera CU, Bunnett NW, Grider JR & Murthy KS (2013).
+Keating N, Mroz MS, Scharl MM, Marsh C, Ferguson G,                                 Activation of G protein-coupled bile acid receptor, TGR5,
+   Hofmann AF & Keely SJ (2009). Physiological                                      induces smooth muscle relaxation via both Epac- and
+   concentrations of bile acids down-regulate agonist induced                       PKA-mediated inhibition of RhoA/Rho kinase pathway. Am
+   secretion in colonic epithelial cells. J Cell Mol Med 13,                        J Physiol Gastrointest Liver Physiol 304, G527–G535.
+   2293–2303.                                                                    Spomer L, Gertzen CG, Schmitz B, Häussinger D, Gohlke H &
+Keitel V, Cupisti K, Ullmer C, Knoefel WT, Kubitz R &                               Keitel V (2014). A membrane-proximal, C-terminal α-helix
+   Haussinger D (2009). The membrane-bound bile acid                                is required for plasma membrane localization and function
+   receptor TGR5 is localized in the epithelium of human                            of the G protein-coupled receptor (GPCR) TGR5. J Biol
+   gallbladders. Hepatology 50, 861–870.                                            Chem 289, 3689–3702.
+Keitel V, Görg B, Bidmon HJ, Zemtsova I, Spomer L, Zilles K &                   Thomas C, Auwerx J & Schoonjans K (2008). Bile acids and the
+   Häussinger D (2010). The bile acid receptor TGR5                                membrane bile acid receptor TGR5–connecting nutrition
+   (Gpbar-1) acts as a neurosteroid receptor in brain. Glia 58,                     and metabolism. Thyroid 18, 167–174.
+   1794–1805.                                                                    Thomas C, Gioiello A, Noriega L, Strehle A, Oury J, Rizzo G,
+Kumar DP, Rajagopal S, Mahavadi S, Mirshahi F, Grider JR,                           Macchiarulo A, Yamamoto H, Mataki C, Pruzanski M,
+   Murthy KS & Sanyal AJ (2012). Activation of transmembr-                          Pellicciari R, Auwerx J & Schoonjans K (2009).
+   ane bile acid receptor TGR5 stimulates insulin secretion in                      TGR5-mediated bile acid sensing controls glucose
+   pancreatic β cells. Biochem Biophys Res Commun 427,                              homeostasis. Cell Metab 10, 167–177.
+   600–605.                                                                      Thorner RS (1955). The effect of exclusion of the bile upon
+Lavoie B, Balemba OB, Godfrey C, Watson CA, Vassileva G,                            gastrointestinal motility. Am J Roentgenol Radium Ther Nucl
+   Corvera CU, Nelson MT & Mawe GM (2010). Hydrophobic                              Med 74, 1096–1122.
+   bile salts inhibit gallbladder smooth muscle function via                     Wang YD, Chen WD, Yu D, Forman BM & Huang W (2011).
+   stimulation of GPBAR1 receptors and activation of KATP                           The G-protein-coupled bile acid receptor, Gpbar1 (TGR5),
+   channels. J Physiol 588, 3295–3305.                                              negatively regulates hepatic inflammatory response through
+Lefebvre P, Cariou B, Lien F, Kuipers F & Staels B (2009). Role                     antagonizing nuclear factor κ light-chain enhancer of
+   of bile acids and bile acid receptors in metabolic regulation.                   activated B cells (NF-κB) in mice. Hepatology 54,
+   Physiol Rev 89, 147–191.                                                         1421–1432.
+
+
+
+C 2014 The Authors. The Journal of Physiology 
+                                              C 2014 The Physiological Society
+2950                                                  N. W. Bunnett                                                         J Physiol 592.14
+
+
+Ward JB, Mroz MS & Keely SJ (2013). The bile acid receptor,   Yoneno K, Hisamatsu T, Shimamura K, Kamada N, Ichikawa R,
+  TGR5, regulates basal and cholinergic-induced secretory       Kitazume MT, Mori M, Uo M, Namikawa Y, Matsuoka K,
+  responses in rat colon. Neurogastroenterol Motil 25,          Sato T, Koganei K, Sugita A, Kanai T & Hibi T (2013). TGR5
+  708–711.                                                      signalling inhibits the production of pro-inflammatory
+Yasuda H, Hirata S, Inoue K, Mashima H, Ohnishi H & Yoshiba     cytokines by in vitro differentiated inflammatory and intesti-
+  M (2007). Involvement of membrane-type bile acid receptor     nal macrophages in Crohn’s disease. Immunology 139, 19–29.
+  M-BAR/TGR5 in bile acid-induced activation of epidermal
+  growth factor receptor and mitogen-activated protein        Additional information
+  kinases in gastric carcinoma cells. Biochem Biophys Res
+  Commun 354, 154–159.                                        Competing interests
+                                                              None declared.
+
+                                                              Funding
+                                                              This work is supported by NHMRC 63303, 1049682, 1031886
+                                                              and Monash University.
+
+
+
+
+                                                              
+                                                              C 2014 The Authors. The Journal of Physiology 
+                                                                                                            C 2014 The Physiological Society
+

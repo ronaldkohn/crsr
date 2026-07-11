@@ -1,0 +1,934 @@
+                                 HHS Public Access
+                                 Author manuscript
+                                 Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+Author Manuscript
+
+
+
+
+                    Published in final edited form as:
+                     Clin Gastroenterol Hepatol. 2020 December ; 18(13): 2962–2970.e6. doi:10.1016/j.cgh.2020.02.027.
+
+
+
+                    Effects of Colesevelam on Bowel Symptoms, Biomarkers, and
+                    Colonic Mucosal Gene Expression in Patients with Bile Acid
+                    Diarrhea in a Randomized Trial
+                    Priya Vijayvargiya, M.D., Michael Camilleri, M.D., Paula Carlson, B.S., Asha Nair, Ph.D., Sara
+                    Linker Nord, Michael Ryks, Deborah Rhoten, Duane Burton, M.H.A., Irene Busciglio, B.S.,
+                    Alan Lueke, B.S.#, W. Scott Harmsen, M.S.*, Leslie J. Donato, Ph.D.#
+Author Manuscript
+
+
+
+
+                    Clinical Enteric Neuroscience Translational and Epidemiological Research (C.E.N.T.E.R.),
+                    Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN
+                    *Division of Biomedical Statistics and Informatics, Department of Health Sciences Research,
+
+                    Mayo Clinic, Rochester, MN
+                    #Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN
+
+
+
+                    Abstract
+                         Background & Aims: Approximately one-third of patients with IBS-diarrhea (IBS-D) have
+                         increased bile acid (BA) synthesis or excretion. An open-label study showed benefits of
+                         colesevelam on bowel functions, consistent with luminal BA sequestration by colesevelam. We
+                         compared the effects of colesevelam vs placebo on symptoms and gene expression patterns in the
+Author Manuscript
+
+
+
+
+                         sigmoid colon mucosa in patients with BA diarrhea associated with IBS-D.
+
+                         Methods: We performed a double-blind, parallel-group study of 30 adults with IBS-D and
+                         evidence of increased BA synthesis or fecal excretion, from December 2017 through December
+                         2018 at a single center. Patients were randomly assigned (1:1) to groups given colesevelam (3
+
+
+
+                    Address for correspondence: Michael Camilleri, M.D., Mayo Clinic, Charlton Bldg., Rm. 8-110, 200 First St. S.W., Rochester, MN
+                    55905, camilleri.michael@mayo.edu, Tele: 507-266-2305.
+                    Specific author contributions:
+                    Michael Camilleri: principal investigator; author of manuscript
+                    Priya Vijayvargiya: fellow investigator, screening of patients; co-author
+                    Paula Carlson: Mucosal expression studies
+                    Asha Nair: Analysis of mucosal RNA-sequencing and other gene data
+                    Irene Busciglio and Sara Linker-Nord: recruitment of participants, conduct of study
+Author Manuscript
+
+
+
+
+                    Duane Burton, Michael Ryks, Deborah Rhoten: conduct and analysis of GI and colonic transit, intestinal and colonic permeability,
+                    assistance with endoscopy and biopsies
+                    W. Scott Harmsen: biostatistician
+                    Alan Lueke: measurement of fecal fat and bile acids
+                    Leslie J. Donato: supervision of measurement of fecal fat and bile acids, co-author
+                    Conflicts of interest:
+                    Michael Camilleri has received funding from Allergan, NGM Pharmaceuticals and Novartis to study treatment of patients with bile
+                    acid disorders and irritable bowel syndrome and from Takeda for studies in gastroparesis; he has no other personal conflicts of interest.
+                    The other authors have no conflicts of interest.
+                    ClinicalTrials.Gov registration number: NCT03270085; Mayo Clinic IRB #17-004639
+                    Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+                    customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+                    the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered
+                    which could affect the content, and all legal disclaimers that apply to the journal pertain.
+                    Vijayvargiya et al.                                                                                              Page 2
+
+
+                             tablets, 625 mg each) or matching placebo, orally twice daily for 4 weeks. Stool diaries
+Author Manuscript
+
+
+
+
+                             documented bowel functions for 8 days before and 28 days during colesevelam or placebo. Stool
+                             and fasting serum samples were collected for analyses of fecal BAs and serum levels of C4 and
+                             FGF19. We measured colonic transit by scintigraphy, mucosal permeability by in vivo excretion of
+                             saccharide probes, and mRNA levels in rectosigmoid biopsies. All measurements were made at
+                             baseline and on the last days of treatment. The primary endpoints were change in total fecal BA
+                             concentration and stool consistency.
+
+                             Results: Compared with placebo, colesevelam was associated with significant changes in
+                             sequestered fecal total BA excretion (P<.001) and serum levels of C4 and FGF19 (both P<.001),
+                             and with a mean increase in fecal level of deoxycholic acid (10%; P=.07) compared to placebo.
+                             Colesevelam decreased colon mucosal expression of NR1H4 and P2RY4 and increased expression
+                             of GPBAR1, compared with baseline. Stool frequency and consistency, colonic transit, and
+                             permeability did not differ significantly between groups. Colesevelam was well tolerated.
+Author Manuscript
+
+
+
+
+                             Conclusions: In a randomized trial, we found that colesevelam increases delivery of total and
+                             secondary BAs to stool, hepatic BA synthesis, and colonic mucosal expression of genes that
+                             regulate BA, farnesoid X, and GPBAR1 receptors. Larger studies are needed to determine the
+                             effects on clinical responses. ClinicalTrials.gov no: NCT03270085
+
+                       Keywords
+                             sequestrant; hepatic synthesis; cholesterol; bile acid-binding
+
+
+                       BACKGROUND
+                                            Irritable bowel syndrome (IBS) affects ~11% and IBS-diarrhea (IBS-D) affects ~5% of the
+                                            U.S. population1 and often impairs quality of life.2 IBS is currently defined by symptoms
+Author Manuscript
+
+
+
+
+                                            (i.e., abdominal discomfort associated with bowel disturbances) in the absence of organic
+                                            disease on routine testing. Current concepts on IBS focus on disturbances of peripheral
+                                            mechanisms (colonic transit, mucosal immune function, visceral hypersensitivity), and
+                                            central nervous system (CNS) hypervigilance.3,4,5 These peripheral perturbations may
+                                            results from effects of intraluminal irritants [such as mal-digested carbohydrates (producing
+                                            short chain fatty acids ((SCFA)) or fats], excess of bile acids (BAs), bioactive amines (e.g.,
+                                            serotonin),6 mucosal barrier function (TJ proteins),7 immune activation, increased small
+                                            intestinal and colonic permeability, and alterations in microbiome. In fact, alterations in
+                                            colonic BA levels have been shown to affect all of these mechanisms,8 and about one-third
+                                            of patients with IBS have alterations in fecal BA excretion and hepatic BA synthesis rates
+                                            compared to healthy controls.9
+Author Manuscript
+
+
+
+
+                                            A meta-analysis showed BA diarrhea (BAD) in up to 50% of patients with chronic
+                                            functional diarrhea or IBS-D based on 75SeHCAT retention test (not available in USA), and
+                                            these studies also showed the test identifies patients most likely to respond to BA
+                                            sequestrants.10 Efficacy of colestipol or cholestyramine or colesevelam has been
+                                            documented predominantly in open-label trials, sometimes with flexible dosing schedules.
+                                            11,12, 13
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                             Page 3
+
+
+                                            With new diagnostic tests for BAD, specifically fecal BA measurements and fasting serum
+                                            C4,14 it is now possible to specifically diagnose idiopathic BAD in patients with symptoms
+Author Manuscript
+
+
+
+
+                                            of IBS-D.
+
+                                            In a previous study, we showed increased mucosal expression, in the 47 IBS-D patients
+                                            (compared to healthy controls), of genes related to BA absorption (SLC10A2 for ASBT),
+                                            BA synthesis (NR1H4 for FXR), ion transport (GUCA2B and PDZD3), immune function
+                                            (C4BP4 and CCL20), and barrier function (CLDN1 and FN1). In contrast, no such
+                                            differential expression was noted in mucosal biopsies from patients with IBS-C.15
+
+                                            Our study aim was to compare effects of the BA sequestrant, colesevelam, and placebo on
+                                            bowel functions, BA synthesis and excretion, colonic transit, intestinal and colonic mucosal
+                                            permeability, and mucosal expression of genes in sigmoid colon mucosa in patients with
+                                            BAD in association with IBS-D.
+Author Manuscript
+
+
+
+
+                       METHODS
+                       Study Design, Randomization, and Experimental Protocol
+                                            We conducted a single-center, randomized, double-blinded, single-dose level, parallel-group,
+                                            controlled, 28-day trial of the effects of colesevelam, 1875mg (3 tablets, 625mg each), or
+                                            matching placebo (ratio 1:1), taken orally, twice daily, in 30 patients with IBS-D and prior
+                                            evidence of increased BA synthesis or fecal excretion. Placebo consisted of gelatin, titanium
+                                            dioxide, and FDA/E172 red iron oxide.
+
+                                            The study was conducted at Mayo Clinic, Rochester Minnesota, and participants were
+                                            recruited from December 2017 to December 2018. Identification and eligibility of
+                                            participants are detailed in Supplemental Materials.
+Author Manuscript
+
+
+
+
+                                            The experimental protocol is shown in Figure 1. All of the authors had access to the study
+                                            data and approved the final manuscript. The study statistician generated by computer a
+                                            stratified randomization sequence designed for equal distribution of patients on treatment or
+                                            placebo and BMI (<35 and ≥35kg/m2). Further details are provided in Supplemental
+                                            Materials under random allocation.
+
+                                            Characterization of patient symptoms at screening, exclusions based on concomitant
+                                            medications or illnesses and details on the colesevelam treatment are detailed in the
+                                            Supplemental Materials. Patients who were on a bile acid sequestrant before the start of the
+                                            study discontinued the sequestrant at least 30 days before initial study visit.
+Author Manuscript
+
+
+
+
+                       Small Intestinal and Colonic Permeability: In Vivo 13C Mannitol Excretion after Oral Load
+                                            After baseline urine collection, 100mg 13C mannitol and 1g lactulose dissolved in 250mL of
+                                            water was administered. Urine collections were pooled for baseline (pre-test dose), 0–2, 2–8
+                                            and 8–24 hours following administration of test sugars, and excreted sugar concentrations
+                                            were measured by HPLC-tandem MS as previously published.16
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                               Page 4
+
+
+                       Biological Samples and Measurements of Bile Acid Parameters
+Author Manuscript
+
+
+
+
+                                            Blood samples were collected in the morning after overnight fasting before starting the
+                                            colesevelam and on the morning after the 28-day dosing with colesevelam.
+
+                                            Random stools samples were collected before starting the colesevelam and after day 28 of
+                                            dosing with colesevelam. Participants provided a single random stool sample. The samples
+                                            were sent to a central laboratory to be frozen immediately for subsequent testing for fecal
+                                            BAs by HPLC, tandem mass spectrometry. Data are expressed as μmol/g stool.
+
+                       Laboratory Measurements of Bile Acid Parameters
+                                            Additional information regarding serum 7α-hydroxy-4-cholesten-3-one (C4) testing and
+                                            fecal bile acid excretion are available in the Supplemental Materials.
+Author Manuscript
+
+
+
+
+                       Rectosigmoid Mucosal Expression of Genes Using RNA-Sequencing
+                                            The methods used and selection of genes of interest (previously associated with BAD) are
+                                            shown in the Supplemental Materials.
+
+                       Statistical Power and Analysis
+                                            These are detailed in the Supplemental Materials.
+
+                                            Endpoints for analysis—The primary endpoint for analysis was the change in the total
+                                            fecal BAs concentration (μmol/g stool) from baseline in response to treatment with
+                                            colesevelam compared to placebo. Since the fecal BA measurement included an extraction
+                                            step that freed the BAs into the stool water, the effect of colesevelam was measured as an
+                                            increase in fecal BA excretion. The co-primary patient response endpoint was stool
+Author Manuscript
+
+
+
+
+                                            consistency. The secondary endpoints addressed other effects of colesevelam compared to
+                                            placebo in patients with IBS-D and BAD; these endpoints were appraised primarily for the
+                                            entire 4-week treatment period:
+
+                                                 a.       Percent fecal primary (CDCA and CA) and secondary (DCA and LCA) BA
+                                                          excretion
+
+                                                 b.       Fasting serum C4 and serum FGF19
+
+                                                 c.       Stool frequency
+
+                                                 d.       Colonic transit measured at 24h and 48h
+
+                                                 e.       Small intestinal and colonic permeability
+
+                                                 f.       Mucosal expression of genes of interest previously associated with BAD17
+Author Manuscript
+
+
+
+
+                                            The comparisons of stool parameters (frequency and consistency) were performed as
+                                            prespecified for the total duration (4 weeks) of treatment and in post-hoc analyses for the
+                                            last 7 days of treatment, as well as for the 57% of patients with elevated C4 or decreased
+                                            FGF19 compared to those with normal serum biomarkers.
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                             Page 5
+
+
+                       RESULTS
+Author Manuscript
+
+
+
+
+                       Demographics
+                                            Table 1 shows the demographics and baseline data of participants in the study and
+                                            documents the absence of any statistically significant differences between the 2 groups. The
+                                            CONSORT flow chart and participant disposition are shown in Figure 2. One person
+                                            withdrew from the study secondary to personal reasons, but was included within the analysis
+                                            in accordance with intention to treat principles. Within this cohort, 30% (9/30) were
+                                            diagnosed with BAD based on elevated total fecal BA, 57% (17/30) based on elevated
+                                            primary fecal BA, and 13% (4/30) based on elevated C4.
+
+                                            Thirty-five percent of patients (7/20) were receiving bile acid sequestrant before the first
+                                            (screening) study visit. Four patients were on cholestyramine, 4 grams daily or BID; 2 were
+                                            on colestipol, 1-2 grams BID; and 1 patient was on colesevelam, 1,875 mg BID. All patients
+Author Manuscript
+
+
+
+
+                                            stopped the sequestrant therapy at least 30 days before the initial study visit.
+
+                       Effects of Colesevelam on Stool Form and Bowel Function
+                                            Table 1 and Figure 3 summarize the group data and individual participant data regarding the
+                                            patient response outcomes. While there were numerical improvements in stool number and
+                                            stool consistency in several participants, there were no significant group differences in the
+                                            analysis of least square means, which account for the pre-study observations in each group.
+
+                                            During the last week of treatment compared to baseline (Figure 3), there was numerical,
+                                            non-significant improvement in stool frequency with colesevelam [delta from baseline −0.65
+                                            (−1.6 to −0.5)] compared to placebo [delta from baseline −0.3 (−0.14 to 0.0)] (p=0.93).
+                                            Average stool consistency during the last 7 days of treatment was not significant between the
+Author Manuscript
+
+
+
+
+                                            two treatment groups: colesevelam −0.6 (−1.7 to −0.1) and placebo −0.55 (−0.94 to −0.07)
+                                            (p=0.41).
+
+                                            There were no significant differences in stool consistency or frequency in the 57% of
+                                            participants with baseline elevated C4 or decreased FGF19 (p=0.46 and p=0.36,
+                                            respectively).
+
+                       Pharmacodynamic Effects of Colesevelam on Fecal BA Excretion and Fasting Serum C4
+                       and FGF19
+                                            Binding and sequestration of BAs in stool with colesevelam are demonstrated by the
+                                            increased fecal total BAs (Table 1), as well as an average 10% increase in sequestration of
+                                            the secretory, secondary BA, deoxycholic acid; the increased sequestration and loss of BAs
+Author Manuscript
+
+
+
+
+                                            were associated with the expected increase in serum C4 and decease in serum FGF19. These
+                                            data illustrate that colesevelam achieved its pharmacodynamics effects.
+
+                       Correlation of Fecal BA Excretion and Bowel Functions
+                                            Based on non-linear regression analysis, increased fecal BA sequestration (expressed as
+                                            concentration of total fecal bile acids per gram of stool) was associated with a higher
+                                            reduction in stool frequency (Rs=0.28, p<0.01 for the entire 4 weeks and Rs=0.41, p <0.01
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                              Page 6
+
+
+                                            for the last 7 days of treatment compared to baseline) with colesevelam. In contrast, there
+Author Manuscript
+
+
+
+
+                                            was an increase in stool frequency observed with placebo during the last 7 days of treatment
+                                            (Rs=0.47, p=0.14). There was no significant correlation seen with the amount of total fecal
+                                            BA sequestered and improvement in stool consistency with colesevelam (Rs=0.11, p=0.75)
+                                            or placebo (Rs=0.17, p=0.61).
+
+                       Effects of Treatment on Mucosal Permeability and Gastrointestinal and Colonic Transit
+                                            Table 1 shows there were no significant differences in small intestinal or colonic
+                                            permeability, or in stomach, small bowel and colonic transit. Data for 13C-mannitol
+                                            excretion are included in Table 1.
+
+                       Effects of Treatment on Mucosal Expression Based on RNA Sequencing
+                                            Using standard criteria of false discovery rate (FDR) <5% and log2 fold change ≥1 or ≤−1,
+Author Manuscript
+
+
+
+
+                                            there were 1051 genes that were different in the mucosal biopsies taken post-colesevelam
+                                            compared to post-placebo, as illustrated in the heatmap of differential expression shown in
+                                            Supplemental Figure 1 (left side: colesevelam [orange] and placebo [cyan] groups). Based
+                                            on canonical pathway analysis (Supplemental Figure 1, right side), the vast majority of the
+                                            differentially expressed mucosal genes are associated with immune functions, such as Th1
+                                            and Th2 activation pathways and signaling in T helper cells. Given that these mechanisms
+                                            have not been previously definitively associated with BAD or functional diarrhea, we
+                                            explored the genes previously reported to be associated with BAD.
+
+                       Effects of Treatment on Mucosal mRNA Expression Related to Bile Acid Pathways
+                                            In order to account for potential intra-individual differences in mRNA expression, we
+                                            analyzed the ratio of post- / pre-mRNA expression for each individual, and then compared
+Author Manuscript
+
+
+
+
+                                            the data for all participants available in the two treatment groups. These data were available
+                                            for 8/15 patients in the colesevelam group and 9/15 patients in the placebo group. Biopsies
+                                            were available at baseline for one additional patient in each group; however, this participant
+                                            elected not to undergo repeat biopsy at the end of treatment.
+
+                                            RNA sequencing with ingenuity pathway analysis demonstrated significant or borderline
+                                            differences in the colesevelam- and placebo-treated groups for the ratio between post- and
+                                            pre-treatment mRNA expression in rectosigmoid mucosal biopsies (Figure 4). Colesevelam
+                                            treatment was associated with reduced expression of NR1H4 (gene for FXR receptor) and
+                                            P2RY4 (gene involved in glial cell function) and with increased expression of GPBAR1 (bile
+                                            acid receptor). There were numerical increases in VIP (neurotransmitter, secretagogue) and
+                                            CCL20 (cytokine) expression that did not reach statistical significance.
+Author Manuscript
+
+
+
+
+                       Adverse Events
+                                            No serious adverse events were reported throughout the study.
+
+
+                       DISCUSSION
+                                            Our study demonstrates expected pharmacodynamic effects of colesevelam such as increase
+                                            in sequestered total fecal BAs, increase in fasting serum C4 reflecting compensatory BA
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                              Page 7
+
+
+                                            synthesis, and the expected reciprocal reduction in serum FGF19. There was also a
+Author Manuscript
+
+
+
+
+                                            numerical increase in sequestration of deoxycholic acid in stool with colesevelam (p=0.07).
+                                            However, there were no significant effects on stool frequency and consistency with
+                                            colesevelam compared to placebo, although there was variable clinical responsiveness to
+                                            colesevelam among patients with BAD. The pharmacodynamics observations reassure us
+                                            that it is unlikely that noncompliance or inappropriate timing of medication contributed to
+                                            the nonsignificant changes in patient response outcomes (stool frequency and consistency).
+
+                                            Small intestinal and colonic permeability and gastrointestinal and colonic transit were not
+                                            different in the two treatment groups; in our prior study, colesevelam did not significantly
+                                            alter colonic transit, although the ascending colon emptying T1/2 on colesevelam treatment
+                                            correlated with baseline serum C4 level,18 and genetic variants in FGFR4 rs351855 and
+                                            KLB rs4975017 identified a subset of IBS-D patients with beneficial response to
+                                            colesevelam.19
+Author Manuscript
+
+
+
+
+                                            In addition to the biochemical pharmacodynamic effects, our study demonstrates alterations
+                                            in mucosal expression in genes of interest in the BA pathway and their biological effects.
+                                            The upregulation of the CCL20 gene related to inflammation in response to colesevelam
+                                            compared to placebo is surprising and unexplained since BAs can induce a histological
+                                            picture similar to microscopic colitis, there is high prevalence of bile acid diarrhea in
+                                            collagenous colitis (mean 41%and lymphocytic colitis (mean 29%; reviewed in ref.20), and
+                                            86% of the patients with BAD and microscopic colitis responded to BA sequestrant,
+                                            cholestyramine.21
+
+                                            The positive transcriptomics findings were reduced expression of NR1H4 (nuclear receptor
+                                            subfamily 1, group H, member 4 gene for FXR receptor) and P2RY4 (pyrimidergic receptor
+Author Manuscript
+
+
+
+
+                                            P2Y, G-protein coupled, 4 gene involved in glial cell function) and increased expression of
+                                            GPBAR1 (G protein-coupled bile acid receptor 1; synonym TGR5 or Takeda G coupled BA
+                                            receptor). These observations suggest that, in the presence of the BA sequestrant, a reduction
+                                            in expression of the gene for FXR protein may reflect the reduction in BA absorption by
+                                            colonocytes; normally, the absorbed BAs bind to the nuclear FXR receptor and result in the
+                                            synthesis of FGF19. Consistent with this hypothesis is our observation of reduced FGF19 in
+                                            fasting serum samples. Activation of P2RY4 is a downstream effect in BAD, based on our
+                                            prior studies, and intraluminal sequestration of the BAs likely results in a reduced activation
+                                            of glial signaling, which is involved in the control of mucosal secretion.22-24 Finally, the
+                                            increased expression of GPBAR1 with colesevelam is consistent with the prior observation
+                                            that this receptor (aka TGR5) is required for colesevelam to induce GLP-1 and alter hepatic
+                                            glycogen metabolism, and that BAs bound to colesevelam activate a prolonged TGR5-
+                                            mediated cAMP response.25 The latter observation may also explain the inter-individual
+Author Manuscript
+
+
+
+
+                                            variability in the response to colesevelam observed in our study, since the persistent
+                                            activation of cAMP by the sequestered BAs in some patients may itself result in colonic
+                                            secretion and variation in patient response outcomes.
+
+                                            Our data suggest that further large, placebo-controlled, randomized studies of longer
+                                            duration are required, particularly given the numerical difference in stool frequency in the
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                               Page 8
+
+
+                                            last week of the current trial, and the availability of only few placebo- or active-comparator
+                                            controlled trials.26,27
+Author Manuscript
+
+
+
+
+                                            In a previous double-blind, randomized, controlled trial, patients with IBS-D with and
+                                            without BA diarrhea were given cholestyramine, 4 grams twice daily, compared to
+                                            hydroxypropyl cellulose for 8 weeks. Although the study did not demonstrate efficacy on the
+                                            primary endpoint of less than or equal to 3 bowel movements per day, there was a significant
+                                            decrease in watery bowel movements compared to the hydroxypropyl cellulose. Based on
+                                            previous evaluations, we know that hydryoxypropyl cellulose will also bind fecal BAs, and
+                                            this may have complicated the assessment of the results.26 In a longer open-label study
+                                            utilizing dose titration of cholestyramine, there was a significant improvement in stool
+                                            consistency and frequency, and cholestyramine was utilized for a median of 35 months,11 far
+                                            longer than the 4 week duration of our trial.
+Author Manuscript
+
+
+
+
+                                            In addition, the optimal doses for the BA sequestrants or FXR agonists for BAD are still
+                                            incompletely understood. For example, improvement in BA retention after cholestyramine
+                                            occurred in 50% of patients with post-cholecystectomy BAD, and normalization was
+                                            achieved in only 20% of patients,28 and only of 27 patients with BAD responded with
+                                            colestipol treatment.12
+
+                                            A placebo-controlled trial of colesevelam in secondary bile acid diarrhea after ileal resection
+                                            in Crohn's disease showed significant clinical efficacy; however, the level of BA excretion
+                                            was likely different from the current study.27
+
+                                            The goal of BA sequestrants is not to bind all intestinal BAs, as that would conceivably
+                                            cause diarrhea associated with fat malabsorption.29 In theory, an ileocolonic released form
+                                            of BA sequestrant may have better efficacy, but this would need to be evaluated in
+Author Manuscript
+
+
+
+
+                                            prospective, clinical studies in patients with BA diarrhea. Cholestyramine enterocoated with
+                                            cellulose acetate phthalate has been shown to be effective in patients after ileal resection.30
+
+                       Limitations
+                                            Our assessment of clinical responses is clearly impacted by the sample size (15 per
+                                            treatment group), missing mucosal gene expression data in a few participants, the fact that
+                                            this is a single-center study and 3 patients had BSFS <5 and bowel frequency <3/day at
+                                            baseline, but did meet Rome III IBS-D criteria; these factors reduce generalizability of the
+                                            results and conclusions. Based on the variations in responses observed for bowel movements
+                                            per day and consistency (standard deviation for each 0.7), with the sample size of 15 per
+                                            treatment group, the study was powered to detect a change in bowel frequency of 0.75/day
+                                            and stool consistency of 0.75 on the 7-point Bristol Stool Form Scale. Changes of 0.5 for
+Author Manuscript
+
+
+
+
+                                            both endpoints would require 32 patients per treatment arm, based on these data.
+                                            Importantly, the colesevelam dose used in this study was selected from the approved dose
+                                            for treatment of hyperlipidemia and type 2 diabetes, and further dose explorations may be
+                                            required, especially in view of the documented variability of responsiveness to all BA
+                                            sequestrants, and the potential role of mucosal genetic variation in pivotal genes19 in the bile
+                                            acid synthesis pathway (specifically FGFR4 and KLB) may also require examination.
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                                                    Page 9
+
+
+                       Conclusion
+Author Manuscript
+
+
+
+
+                                            Our study is consistent with the literature documenting that, to date, the optimal dosing of
+                                            BA sequestrants is unclear, despite the significant pharmacodynamics effects of serum C4,
+                                            FGF19, and BA sequestration with colesevelam in this study, and the positive correlation
+                                            between improved stool frequency and consistency and the binding and fecal excretion of
+                                            BAs. However, stool frequency and consistency were not significantly different between
+                                            colesevelam and placebo treatment. Larger studies with dose titration treatment for longer
+                                            durations are required to further identify the correct dose of sequestrant to optimize or
+                                            individualize therapy. Our observations suggest that differences in the expressions of
+                                            mucosal genes associated with BAs and their proteins, especially FXR and GPBAR1, may
+                                            contribute to the variable responses.
+
+
+                       Supplementary Material
+Author Manuscript
+
+
+
+
+                                            Refer to Web version on PubMed Central for supplementary material.
+
+
+                       Acknowledgements:
+                                            The authors thank Mrs. Cindy Stanislav for excellent secretarial assistance.
+
+                                            Funding support: Dr. Camilleri’s research on bile acid diarrhea and specifically this clinical trial are supported by
+                                            grant R01-DK115950 from National Institutes of Health and by Mayo Foundation (Atherton and Winifred W. Bean
+                                            Endowed Professorship). The study was conducted with the help of the Nursing Core of Mayo Clinic CCaTS grant
+                                            #UL1-TR000135 from National Institutes of Health.
+
+
+                       Abbreviations:
+                                               BA                        bile acid
+Author Manuscript
+
+
+
+
+                                               BAD                       bile acid diarrhea
+
+                                               BDQ                       bowel disease questionnaire
+
+                                               C4                        7α-hydroxy-4-cholesten-3-one
+
+                                               CA                        cholic acid
+
+                                               CDCA                      chenodeoxycholic acid
+
+                                               DCA                       deoxycholic acid
+
+                                               FGF-19                    Fibroblast growth factor 19
+
+                                               GPBAR1                    G protein-coupled bile acid receptor 1
+Author Manuscript
+
+
+
+
+                                               HAD                       Hospital Anxiety and Depression Scale
+
+                                               IBS                       irritable bowel syndrome
+
+                                               IBS-D                     diarrhea-predominant irritable bowel syndrome
+
+                                               KLB                       klotho beta
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                                      Page 10
+
+
+                                               LCA                     lithocholic acid
+Author Manuscript
+
+
+
+
+                                               NSAIDs                  non-steroidal anti-inflammatory drugs
+
+                                               SNRIs                   serotonin and norepinephrine reuptake inhibitors
+
+                                               UDCA                    ursodeoxycholic acid
+
+
+                       References
+                                            1. Lovell RM, Ford AC. Global prevalence of and risk factors for irritable bowel syndrome: a meta-
+                                               analysis. Clin Gastroenterol Hepatol 2012;10:712–721. [PubMed: 22426087]
+                                            2. Mönnikes H Quality of life in patients with irritable bowel syndrome. J Clin Gastroenterol
+                                               2011;45(Suppl.):S98–S101. [PubMed: 21666428]
+                                            3. Camilleri M, McKinzie S, Busciglio I, Low PA, Sweetser S, Burton D, Baxter K, Ryks M,
+                                               Zinsmeister AR. Prospective study of motor, sensory, psychological and autonomic functions in 119
+Author Manuscript
+
+
+
+
+                                               patients with irritable bowel syndrome. Clin Gastroenterol Hepatol 2008;6:772–781, e.14.
+                                               [PubMed: 18456567]
+                                            4. Mayer EA, Tillisch K. The brain-gut axis in abdominal pain syndromes. Annu Rev Med
+                                               2011;62:381–396. [PubMed: 21090962]
+                                            5. Camilleri M Peripheral mechanisms in irritable bowel syndrome. N Engl J Med 2012;367:1626–
+                                               1635. [PubMed: 23094724]
+                                            6. Mawe GM, Hoffman JM. Serotonin signalling in the gut-functions, dysfunctions and therapeutic
+                                               targets. Nat Rev Gastroenterol Hepatol 2013;10:473–486. [PubMed: 23797870]
+                                            7. Bertiaux-Vandaële N, Youmba SB, Belmonte L, Lecleire S, Antonietti M, Gourcerol G, Leroi AM,
+                                               Déchelotte P, Ménard JF, Ducrotté P, Coëffier M. The expression and the cellular distribution of the
+                                               tight junction proteins are altered in irritable bowel syndrome patients with differences according to
+                                               the disease subtype. Am J Gastroenterol 2011;106:2165–2173. [PubMed: 22008894]
+                                            8. Vijayvargiya P, Camilleri M. Update on bile acid malabsorption: finally ready for prime time? Curr
+                                               Gastroenterol Rep 2018;20(3):10. [PubMed: 29582208]
+Author Manuscript
+
+
+
+
+                                            9. Valentin N, Camilleri M, Altayar O, Vijayvargiya P, Acosta A, Nelson AD, Murad MH. Biomarkers
+                                               for bile acid diarrhoea in functional bowel disorder with diarrhoea: a systematic review and meta-
+                                               analysis. Gut 2016;65:1951–1959. [PubMed: 26347530]
+                                            10. Wedlake L, A’Hern R, Russell D, Thomas K, Walters JR, Andreyev HJ. Systematic review: the
+                                                 prevalence of idiopathic bile acid malabsorption as diagnosed by SeHCAT scanning in patients
+                                                 with diarrhoea-predominant irritable bowel syndrome. Aliment Pharmacol Ther 2009;30:707–717.
+                                                 [PubMed: 19570102]
+                                            11. Stotzer P-O, Abrahamsson H, Bajor A, Sadik R. Effect of cholestyramine on gastrointestinal transit
+                                                 in patients with idiopathic bile acid diarrhea: a prospective, open-label study. Neuroenterology
+                                                 2013;2:Article ID 235657. doi:10.4303/ne/235657
+                                            12. Bajor A, Törnblom H, Rudling M, Ung KA, Simrén M. Increased colonic bile acid exposure: a
+                                                 relevant factor for symptoms and treatment in IBS. Gut 2015;64:84–92. [PubMed: 24727487]
+                                            13. Camilleri M, Acosta A, Busciglio I, Boldingh A, Dyer RB, Zinsmeister AR, Lueke A, Gray A,
+                                                 Donato LJ. Effect of colesevelam on faecal bile acids and bowel functions in diarrhoea-
+                                                 predominant irritable bowel syndrome. Aliment Pharmacol Ther 2015;41:438–448. [PubMed:
+Author Manuscript
+
+
+
+
+                                                 25594801]
+                                            14. Vijayvargiya P, Camilleri M. Commentary: Practice change in the diagnosis of bile acid diarrhea.
+                                                 Gastroenterology 2019;156:1233–1238. [PubMed: 30844373]
+                                            15. Camilleri M, Carlson P, Acosta A, Busciglio I. Colonic mucosal gene expression and genotype in
+                                                 irritable bowel syndrome patients with normal or elevated fecal bile acid excretion. Am J Physiol
+                                                 Gastrointest Liver Physiol 2015;309:G10–G20. [PubMed: 25930081]
+                                            16. Grover M, Camilleri M, Hines J, Burton D, Ryks M, Wadhwa A, Sundt W, Dyer R, Singh RJ. 13C
+                                                 mannitol as a novel biomarker for measurement of intestinal permeability. Neurogastroenterol
+                                                 Motil 2016;28:1114–1119. [PubMed: 26914765]
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                                     Page 11
+
+
+                                            17. Camilleri M, Carlson P, Acosta A, Busciglio I. Colonic mucosal gene expression and genotype in
+                                                irritable bowel syndrome patients with normal or elevated fecal bile acid excretion. Am J Physiol
+Author Manuscript
+
+
+
+
+                                                Gastrointest Liver Physiol 2015;309:G10–G20. [PubMed: 25930081]
+                                            18. Odunsi-Shiyanbade ST, Camilleri M, McKinzie S, Burton D, Carlson P, Busciglio IA, Lamsam J,
+                                                Singh R, Zinsmeister AR. Effects of chenodeoxycholate and a bile acid sequestrant, colesevelam,
+                                                on intestinal transit and bowel function. Clin Gastroenterol Hepatol 2010;8:159–165. [PubMed:
+                                                19879973]
+                                            19. Wong BS, Camilleri M, Carlson PJ, Odunsi-Shiyanbade S, McKinzie S, Busciglio I, Burton D,
+                                                Zinsmeister AR. Pharmacogenetics of the effects of colesevelam on colonic transit in irritable
+                                                bowel syndrome with diarrhea. Dig Dis Sci 2012;57:1222–1226. [PubMed: 22271411]
+                                            20. Rasmussen MA1, Munck LK Systematic review: are lymphocytic colitis and collagenous colitis
+                                                two subtypes of the same disease - microscopic colitis? Aliment Pharmacol Ther 2012;36:79–90.
+                                                [PubMed: 22670660]
+                                            21. Fernandez-Bañares F, Esteve M, Salas A, Forné TM, Espinos JC, Martín-Comin J, Viver JM. Bile
+                                                acid malabsorption in microscopic colitis and in previously unexplained functional chronic
+                                                diarrhea. Dig Dis Sci 2001;46:2231–2238. [PubMed: 11680602]
+Author Manuscript
+
+
+
+
+                                            22. Esposito G, Cirillo C, Sarnelli G, De Filippis D, D'Armiento FP, Rocco A, Nardone G, Petruzzelli
+                                                R, Grosso M, Izzo P, Iuvone T, Cuomo R. Enteric glial-derived S100B protein stimulates nitric
+                                                oxide production in celiac disease.Gastroenterology 2007;133:918–925. [PubMed: 17678654]
+                                            23. MacEachern SJ, Patel BA, Keenan CM, Dicay M, Chapman K, McCafferty DM, Savidge TC, Beck
+                                                PL, MacNaughton WK, Sharkey KA. Inhibiting inducible nitric oxide synthase in enteric glia
+                                                restores electrogenic ion transport in mice with colitis. Gastroenterology 2015;149:445–455.e3.
+                                                [PubMed: 25865048]
+                                            24. Cirillo C, Sarnelli G, Turco F, Mango A, Grosso M, Aprea G, Masone S, Cuomo R.
+                                                Proinflammatory stimuli activates human-derived enteroglial cells and induces autocrine nitric
+                                                oxide production. Neurogastroenterol Motil 2011;23:e372–e382. [PubMed: 21762414]
+                                            25. Potthoff MJ, Potts A, He T, Duarte JA, Taussig R, Mangelsdorf DJ, Kliewer SA, Burgess SC.
+                                                Colesevelam suppresses hepatic glycogenolysis by TGR5-mediated induction of GLP-1 action in
+                                                DIO mice. Am J Physiol Gastrointest Liver Physiol 2013;304:G371–G380. [PubMed: 23257920]
+                                            26. Fernández-Bañares F, Rosinach M, Piqueras M, Ruiz-Cerulla A, Modolell I, Zabana Y, Guardiola
+                                                J, Esteve M. Randomised clinical trial: colestyramine vs. hydroxypropyl cellulose in patients with
+Author Manuscript
+
+
+
+
+                                                functional chronic watery diarrhoea. Aliment Pharmacol Ther 2015;41: 1132–1140. [PubMed:
+                                                25858478]
+                                            27. Beigel F, Teich N, Howaldt S, Lammert F, Maul J, Breiteneicher S, Rust C, Göke B, Brand S,
+                                                Ochsenkuhn T. Colesevelam for the treatment of bile acid malabsorption-associated diarrhea in
+                                                patients with Crohn's disease: a randomized, double-blind, placebo-controlled study. J Crohns
+                                                Colitis 2014;8:1471–1479. [PubMed: 24953836]
+                                            28. Sciarretta G, Furno A, Mazzoni M, Malaquti P. Post-cholecystectomy diarrhea: evidence of bile
+                                                acid malabsorption assessed by SeHCAT test. Am J Gastroenterol 1992;87:1852–1854. [PubMed:
+                                                1449156]
+                                            29. Hofmann AF, Poley JR. Role of bile acid malabsorption in pathogenesis of diarrhea and steatorrhea
+                                                in patients with ileal resection. I. Response to cholestyramine or replacement of dietary long chain
+                                                triglyceride by medium chain triglyceride. Gastroenterology 1972;62:918–934. [PubMed:
+                                                5029077]
+                                            30. Jacobsen O, Højgaard L, Hylander Møller E, Wielandt TO, Thale M, Jarnum S, Krag E. Effect of
+Author Manuscript
+
+
+
+
+                                                enterocoated cholestyramine on bowel habit after ileal resection: a double blind crossover study.
+                                                Br Med J (Clin Res Ed) 1985;290:1315–1318.
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                       Page 12
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                            Figure 1.
+                                            Experimental design
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                       Page 13
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                            Figure 2.
+                                            CONSORT flow chart and participant disposition
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                          Page 14
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                            Figure 3.
+                                            Effects of colesevelam on stool frequency and consistency in patients with diarrhea-
+                                            predominant irritable bowel syndrome and bile acid diarrhea. Same color lines within each
+                                            cohort represent the same patient.
+Author Manuscript
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                    Vijayvargiya et al.                                                                                        Page 15
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                            Figure 4.
+                                            Expression of genes of interest in sigmoid colonic mucosa comparing two treatment groups
+                                            for post- / pre-mRNA expression
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                          Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                                                                                    Author Manuscript                                     Author Manuscript                                       Author Manuscript                                       Author Manuscript
+
+
+                                                                                                                                                                                              Table 1.
+                                                                                                  Demographics and baseline and post-treatment values in the two groups for bowel function endpoints, fecal bile acids, fecal weight and
+                                                                                                  serum C4 and FGF19, permeability and GI transit.
+                                                                                          There were no significant differences in the two groups at baseline. Data show median (IQR). At baseline, colonic transit at 24 h was the only transit
+                                                                                          parameter measured. P values compare data at end of treatment for colesevelam and placebo with baseline values as covariates.
+                                                                                                                                                                                                                                                                                   Vijayvargiya et al.
+
+
+
+
+                                                                                                                       Group                                               Placebo, n=15                                         Colesevelam, n=15                       P value
+                                                                                                                        Age                                                     44 (34-52)                                            56 (40-67)
+
+                                                                                                                      Sex, F/M                                                    11/4                                                      13/2
+
+                                                                                                                     BMI kg/m2                                            33.2 (28.0-36.7)                                         33.6 (28.2-36.4)
+
+                                                                                                                                                          N       Baseline          N            Treatment         N       Baseline            N        Treatment
+                                                                                                                  # stools per day                        15    2.4 (1.6-3.7)       15          2.2 (1.6-2.9)      14     3.8 (2.3-5.0)       15       3.1 (1.6-3.8)      0.91
+
+                                                                                                                 Stool form (BSFS)                        15    5.2 (4.8-6.0)       15          4.6 (4.3-5.0)      14     5.5 (5.0-6.4)       15       4.6 (3.9-5.2)      0.81
+
+                                                                                                      Total fecal BA excretion (μmoles/g stool)           15    5.2 (3.0-6.7)       14          3.6 (2.6-7.2)      13     3.2 (1.4-5.4)       15      10.7 (8.2-17.4)    <0.001
+
+                                                                                                              Fecal CDCA excretion %                      15   6.5 (0.6-17.4)       14         6.04 (1.0-18.4)     13    8.7 (1.4-20.3)       15       2.7 (1.1-10.4)     0.57
+
+                                                                                                               Fecal CA excretion %                       15   13.8 (0.3-40.9)      14         3.8 (0.4-26.4)      13   19.8 (0.6-33.2)       15       0.9 (0.4-7.7)      0.34
+
+                                                                                                           Fecal 1° BA (CDCA + CA) %                      15   15.7 (1 – 48.1)      14         9.8 (1.2 – 37.1)    13   25.8 (1.3 – 49.3)     15      2.7 (1.3 – 15.6)    0.41
+
+                                                                                                               Fecal LCA excretion %                      15   23.5 (6.8-43.4)      14        28.8 (10.3-33.7)     13   22.8 (9.2-35.6)       15      29.4 (22.7-31.8)    0.89
+
+                                                                                                              Fecal DCA excretion %                       15    46.8 (24-56)        14         54.3 (41.7-64)      13   52.6 (37.5-61.8)      15      64.1 (57.3-67.5)    0.07
+
+                                                                                                           Fecal 2° BA (LCA + DCA) %                      15   83.4 (59 – 99)       14       90.1 (61.2 – 98.8)    13   71.8 (50.5-98.7)      15   97.3 (83.7 – 98.7)     0.43
+
+                                                                                                                 Serum C4 (ng/mL)                         15    31.4 (20-50)        14           29 (17-52)        13     45.5 (37-85)        15      112.5 (89-205)     <0.001
+
+                                                                                                               Serum FGF19 (pg/mL)                        15    84 (67-217)         14         83.7 (67-161)       13     48.3 (34-95)        15       26 (18-33.5)      <0.001
+
+                                                                                                SB (0-2h) permeability, 13C-mannitol excretion (%)*       14   12.6 (9.3-15.7)      14         12.9 (8.9-14.4)     15   10.3 (6.0-12.8)       13      11.0 (7.4-18.2)     0.73
+
+                                                                                              Colonic (8-24h) permeability, 13C-mannitol excretion (%)*   15    3.4 (3.0-7.1)       14          3.0 (2.2-3.8)      14   3.84 (2.5-5.45)       14       3.1 (1.0-4.1)      0.98
+
+
+
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2021 December 01.
+                                                                                                             Gastric emptying T1/2, min                                             14       116.4 (101.4-140.3)                              15   107.6 (92.3-125.4)     0.23
+
+                                                                                                               Colonic filling at 6h, %                                             14        55.5 (33.7-75.0)                                15   71.0 ( 27.0-86.0)      0.38
+
+                                                                                                                Colonic transit GC24                      14   2.7 (2.6 – 3.2)      14            2.6 ( 2-4)       15    3.3 (2.5 -4.4)       15       2.7 (2.3-3.8)      0.65
+
+                                                                                                                Colonic transit GC48                                                14            4.6 (4-5)                                   15       4.8 (3.9-5.0)      0.57
+
+                                                                                          *
+                                                                                           100mg dose of 13C-mannitol administered BMI=body mass index; BSFS=Bristol Stool Form Scale; BA=bile acid; CDCA=chenodeoxycholic acid; CA=cholic acid; DCA=deoxycholic acid;
+                                                                                          LCA=lithocholic acid; Primary = 1°; Secondary = 2°; SB=small bowel
+                                                                                                                                                                                                                                                                                   Page 16
+

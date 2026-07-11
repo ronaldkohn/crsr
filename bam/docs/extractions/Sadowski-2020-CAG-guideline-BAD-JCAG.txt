@@ -1,0 +1,1134 @@
+                                          Journal of the Canadian Association of Gastroenterology, 2020, 3(1), e10–e27
+                                                                                           doi: 10.1093/jcag/gwz038
+                                                                                                       Original Article
+                                                                       Advance Access publication 6 December 2019
+
+
+Original Article
+
+Canadian Association of Gastroenterology Clinical Practice
+Guideline on the Management of Bile Acid Diarrhea
+Daniel C. Sadowski1, Michael Camilleri2, William D. Chey3, Grigorios I. Leontiadis4, John K. Marshall4,
+Eldon A. Shaffer5, Frances Tse4, Julian R. F. Walters6
+1
+ Division of Gastroenterology, Royal Alexandra Hospital, Edmonton, Alberta, Canada; 2Division of Gastroenterology
+
+
+
+
+                                                                                                                                                         Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+and Hepatology, Mayo Clinic, Rochester, Minnesota, USA; 3Division of Gastroenterology, University of Michigan Health
+System, Ann Arbor, Michigan, USA; 4Division of Gastroenterology, Farncombe Family Digestive Health Research Institute,
+McMaster University, Hamilton, Ontario, Canada; 5Division of Gastroenterology, University of Calgary, Calgary, Alberta,
+Canada; 6Division of Digestive Diseases, Imperial College London, London, UK
+Correspondence: Daniel C. Sadowski, MD, Division of Gastroenterology, University of Alberta, Edmonton, Alberta, T6G 2X8,
+Canada, e-mail: sadowski@ualberta.ca
+
+Abstract
+Background and Aims: Chronic diarrhea affects about 5% of the population overall. Altered bile
+acid metabolism is a common but frequently undiagnosed cause.
+Methods: We performed a systematic search of publication databases for studies of assessment and
+management of bile acid diarrhea (BAD). The certainty (quality) of evidence and strength of recom-
+mendations were rated according to the Grading of Recommendation Assessment, Development and
+Evaluation approach. Patient population, intervention, comparator and outcome questions were de-
+veloped through an iterative process and were voted on by a group of specialists.
+Results: The certainty of evidence was generally rated as very low. Therefore, 16 of 17 recommenda-
+tions are conditional. In patients with chronic diarrhea, consideration of risk factors (terminal ileal
+resection, cholecystectomy or abdominal radiotherapy), but not additional symptoms, was recom-
+mended for identification of patients with possible BAD. The group suggested testing using 75selenium
+homocholic acid taurine (where available) or 7α-hydroxy-4-cholesten-3-one, including patients with
+irritable bowel syndrome with diarrhea, functional diarrhea and Crohn’s disease without inflammation.
+Testing was suggested over empiric bile acid sequestrant therapy (BAST). Once remediable causes are
+managed, the group suggested cholestyramine as initial therapy, with alternate BAST when tolerability
+is an issue. The group suggested against BAST for patients with extensive ileal Crohn’s disease or resec-
+tion and suggested alternative antidiarrheal agents if BAST is not tolerated. Maintenance BAST should
+be given at the lowest effective dose, with a trial of intermittent, on-demand administration, concurrent
+medication review and reinvestigation for patients whose symptoms persist despite BAST.
+Conclusions: Based on a systematic review, BAD should be considered for patients with chronic diar-
+rhea. For patients with positive results from tests for BAD, a trial of BAST, initially with cholestyramine,
+is suggested.
+
+Keywords: C4; Fibroblast growth factor 19; FGF19; IBS; SeHCAT
+
+
+
+
+© 2019 by the Canadian Association of Gastroenterology and the AGA Institute
+This article is being published jointly in Journal of the Canadian Association of Gastroenterology and Clinical Gastroenterology and Hepatology.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://                     e10
+creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium,
+provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                          e11
+
+Diarrhea is a common symptom in the general population of              have been guidelines on the management of chronic diarrhea from
+developed countries. Among community-dwelling persons the              the American Gastroenterological Association (9), and the British
+1-month rate of diarrhea was 7.6% in Canada and the United             Society of Gastroenterology (10), but diagnosis and management
+States, 6.4% in Australia and 3.4% in Ireland; approximately           of BAD was not assessed extensively in these publications. The
+20% of subjects sought medical care for this symptom (1).              British Society of Gastroenterology updated guidelines on the in-
+The prevalence of chronic diarrhea has been estimated to affect        vestigation of chronic diarrhea in adults (11), published after the
+approximately 5% of this population overall (2), and may be            consensus meeting, addressed some issues related to BAD.
+higher among older individuals (3).                                      The purpose of this guideline is to critically review the litera-
+   The most common causes of chronic diarrhea in clinical              ture relating to diagnostic testing, and the induction and main-
+practice are functional disorders (e.g., irritable bowel syn-          tenance treatment of BAD, with the aim of developing specific
+drome [IBS]), and inflammatory diseases (e.g., Crohn’s dis-            consensus recommendations for patients with BAD.
+ease, celiac disease) (3). However, a common but frequently
+underdiagnosed cause of chronic diarrhea is dysregulated bile
+
+
+
+
+                                                                                                                                               Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+                                                                       Methods
+acid recycling within the enterohepatic circulation: either ex-
+cessive biosynthesis/secretion of bile acids, or malabsorption         Scope and Purpose
+of bile acids by the ileum. Unabsorbed bile acids in the colon         These consensus statements focused on specific issues pertaining
+appear to cause diarrhea by stimulating fluid, mucus, or sodium        to the medical management of BAD, which the participants and
+secretion; increasing gastrointestinal motility; damaging the          GRADE experts (F.T., G.I.L.) identified a priori.
+mucosa or stimulating defecation (3,4).
+   Three subtypes of bile acid diarrhea (BAD) have been                Sources, Literature Searches and Systematic Reviews
+described: type 1, patients with terminal ileal disease (e.g.,         The Editorial Office of the Cochrane Upper Gastrointestinal and
+Crohn’s disease, resection) or radiation injury resulting in im-       Pancreatic Diseases Group at McMaster University performed
+paired reabsorption of bile acids; type 2, idiopathic or primary;      a systematic search of Medline, Embase, and the Cochrane
+and type 3, other conditions (e.g., celiac disease, cholecystec-       Central Register of Controlled Trials for literature published
+tomy) that alter intestinal motility or bile acid absorption (3,5).    between 1990 and September 2017. Key search terms were as
+BAD has been reported in approximately 25% to 35% of patients          follows: bile acid, cholecystectomy, cholestyramine, colestipol,
+with chronic diarrhea or diarrhea-predominant IBS (IBS-D)              colesevelam, diarrhea, loperamide, malabsorption, resection,
+(6). Rates are even higher in patients with underlying terminal        SeHCAT and sequestrants. An additional search of the databases
+ileal disease, or other conditions such as cholecystectomy.            for SeHCAT trials published before 1990 (database inception as
+   The diagnosis of BAD continues to be a challenge, although          start date) also was performed. Only human studies published in
+this may be improved in the future with the general availa-            English were considered. Further details of the search strategies
+bility of screening serologic tests and other diagnostic tests         are provided in Supplementary Appendix 1.
+(discussed later). Although a treatment trial with bile acid
+sequestrant therapy (BAST) often is used, this approach has            Assessment of the Certainty (Quality) of Evidence
+not been studied adequately, and likely os imprecise, and may          Before the face-to-face meeting, the statements were converted
+lead to both under-treatment and overtreatment. Specific diag-         to specific patient population, intervention, comparator and out-
+nostic tests are under investigation, particularly radiodiagnostic     come (PICO) questions by the two nonvoting methodologists
+measurement of bile acid pool loss with 75selenium homocholic          (F.T., G.I.L.). The overall certainty of evidence (CoE) was de-
+acid taurine (SeHCAT; GE Healthcare Canada, Inc, Ontario,              termined using the Grading of Recommendation Assessment,
+Canada), or measurement of serum levels of biomarkers of bile          Development and Evaluation (GRADE) approach (12) to as-
+acid synthesis including 7α-hydroxy-4-cholesten-3-one (C4)             sess risk of bias (of individual studies and overall across studies),
+or the ileal regulatory hormone, fibroblast growth factor 19           indirectness, inconsistency, imprecision, as well as other
+(FGF19). SeHCAT testing is unavailable in some countries               considerations (including publication bias). As described in
+(including the United States).                                         GRADE (12,13) and used in previous consensus guidelines from
+   BAD generally is not cured, and as is the case with many            the Canadian Association of Gastroenterology (CAG) (14–18),
+chronic gastrointestinal diseases or disorders, many patients          CoE was graded as very low, low, moderate or high. GRADE
+will require lifelong treatment (7,8). Treatment is generally          evaluations for each statement were provided before the con-
+with BAST, but also is dependent on the underlying causes of           sensus meeting and discussed during the consensus meeting.
+BAD, severity of symptoms or the presence of other comorbid              The consensus group agreed that four statements (Statements
+illnesses (e.g., Crohn’s disease, celiac disease).                     11, 13, 14 and 17) met GRADE criteria for good practice
+   BAD is an understudied, often underappreciated condition,           statements that these recommendations were clinically ob-
+and questions remain regarding its diagnosis and treatment. There      vious, and that collection and GRADE assessment of evidence
+e12                                                            Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+for these statements was not a good use of resources (19).                members of the consensus group. The manuscript then was
+Although formal GRADE evaluations were not performed,                     made available to all CAG members for comment over a 2-week
+details of these statements are provided in the text.                     period before submission for publication.
+  Approved product labeling from government regulatory                      In accordance with CAG policy, written disclosures of any
+agencies varies from country to country, and although not                 potential conflicts of interest for the 24 months before the con-
+ignored, recommendations are based on evidence from the lit-              sensus meeting were provided by all participants, reviewed by the
+erature and consensus discussion and may not fully reflect the            CAG ethics committee and made available to all group members.
+product labeling for a given country.
+                                                                          Recommendation Statements
+Consensus Process                                                         The individual recommendation statements are provided
+A face-to-face consensus meeting was held in Toronto, Canada,             and include the strength of recommendation and certainty of
+in February 2018. The international consensus group comprised             supporting evidence (according to the GRADE approach),
+five voting gastroenterologists (including the chair: D.C.S.),            and the voting result. This is followed by a discussion of the
+
+
+
+
+                                                                                                                                               Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+from Canada, the United States and the United Kingdom. Other              evidence considered for the specific statement. A summary
+participants included a nonvoting moderator ( J.K.M.), the two            of the recommendation statements is provided in Table 1.
+GRADE experts (F.T., G.I.L.) and a nonvoting observer.                    See Supplementary Appendix 1 for detailed CoE assessments
+   The consensus process was facilitated by the CAG via a web-            (including a description of the study limitations, inconsist-
+based consensus platform (ECD Solutions, Atlanta, GA). The                ency, indirectness, imprecision and publication bias) and the
+platform allowed consensus participants to review results of the          Evidence-to-Decision frameworks.
+initial literature searches and select and link the references to spe-
+cific statements. Copies of the selected references were available        Diagnosis of BAD
+to all members of the consensus group. The full consensus group
+voted anonymously on their level of agreement with the individual           Statement 1. In patients with chronic
+statements using a modified Delphi process (20,21). Participants            nonbloody diarrhea, we recommend using
+suggested revisions and commented on the statements, after                  risk factors (history of terminal ileal resection,
+which, the specific statements were revised through two iterations.         cholecystectomy, or abdominal radiotherapy)
+   At the 1-day consensus meeting, evidence for each of the                 as the initial assessment to identify patients
+PICO questions was presented, after which an Evidence-to-                   with possible BAD.
+Decision framework was completed (22). Each PICO question                   GRADE: Strong recommendation, very-low-
+was discussed and revised, and voting members anonymously                   certainty evidence.
+indicated their level of agreement on a scale of 1 to 5. In favour          Vote: on PICO question: strongly yes, 60%;
+of a specific strategy was defined as 75% or more of votes being            yes, 40%.
+5 (strongly yes) or 4 (yes). A vote against the strategy was de-
+fined as 75% or more of votes being 1 (strongly no) or 2 (no).
+A vote of 3 indicated neutrality. Once reaching agreement on the            Statement 2. In patients with chronic
+PICO question, the strength of the recommendation (strong                   nonbloody diarrhea, we suggest against using
+versus conditional) was determined based on the following four              symptom presentation as the initial assess-
+components: (i) CoE, (ii) benefit/harm balance, (iii) patients’             ment to identify patients with possible BAD.
+values/preferences and (iv) resource requirements (23). When                GRADE: conditional recommendation, very-
+the CoE was low or very low, unless at least one of the other               low-certainty evidence.
+three factors was overwhelmingly strong, the strength of the                Vote: on PICO question: no, 100%.
+recommendation typically would default (without a vote) to
+conditional, using the phrasing ‘we suggest’. If the statement            Key Evidence
+warranted a vote, and 75% or more of participants voted as                No published randomized controlled trials (RCTs) were avail-
+strong, then the recommendation would be designated as                    able comparing the clinical impact of using versus not using
+strong and the phrasing contained ‘we recommend’.                         risk factors or symptom presentation for the diagnosis of BAD,
+   During the meeting, consensus was not reached on four of the           therefore evidence from observational, diagnostic test accuracy
+PICO questions; therefore, no statement was developed and no              (DTA) studies was evaluated. Overall, studies have shown that
+recommendations were made. Evidence and subsequent discussion             history of terminal ileal resection, cholecystectomy or radi-
+pertaining to these four questions is summarized briefly in the text.     otherapy are the risk factors associated most commonly with
+   The manuscript was drafted initially by the meeting chair              having a positive SeHCAT test suggestive of a BAD diagnosis
+(D.C.S.), and then reviewed and revised by the remaining                  (Table 2) (24–30).
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                   e13
+
+Table 1. Summary of consensus recommendations for the management of BAD
+Diagnosis of BAD
+Statement 1. In patients with chronic nonbloody diarrhea, we recommend using risk factors (history of terminal ileal resection,
+  cholecystectomy, or radiotherapy) as the initial assessment to identify patients with possible BAD.
+GRADE. Strong recommendation, very low-certainty evidence. Vote on PICO question: strongly yes, 60%; yes, 40%.
+Statement 2. In patients with chronic nonbloody diarrhea, we suggest against using symptom presentation as the initial assessment
+  to identify patients with possible BAD.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: no, 100%.
+Statement 3. In patients with chronic diarrhea including IBS-D and functional diarrhea, we suggest SeHCAT testing to identify
+  patients with BAD.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: strongly yes, 20%; yes, 80%.
+Statement 4. In patients with small intestinal Crohn’s disease without objective evidence of inflammation who have persistent
+
+
+
+
+                                                                                                                                      Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+  diarrhea, we suggest SeHCAT testing.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: strongly yes, 20%; yes, 80%.
+Statement 5. In patients with chronic diarrhea including IBS-D and functional diarrhea, we suggest using a C4 assay to identify
+  possible BAD.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: strongly yes, 20%; yes, 60%;
+  neutral, 20%.
+Statement 6. In patients with suspected BAD, we suggest against initiating empiric BAST over performing SeHCAT to establish a
+  diagnosis of BAD.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: yes, 20%; no, 40%; strongly no,
+  40%.
+
+Induction therapy for BAD (BAST)
+Statement 7. In patients with type 1 or type 3 BAD, we suggest the use of treatments for remediable causes (e.g., Crohn’s disease,
+  microscopic colitis, SIBO) in addition to treatment for BAD for induction of clinical response.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: strongly yes, 80%; yes, 20%.
+Statement 8. In patients with BAD, we suggest using cholestyramine over no treatment for induction of clinical response.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: strongly yes, 60%; yes, 40%.
+Statement 9. In patients with BAD, we suggest using cholestyramine over other BASTs as initial therapy for induction of clinical
+  response.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: yes, 80%; neutral, 20%.
+Statement 10. In patients with BAD who are unable to tolerate cholestyramine, we suggest using an alternate BAST for induction
+  of clinical response.
+GRADE. Conditional recommendation, low-certainty evidence. Vote on PICO question: strongly yes, 40%; yes, 60%.
+Statement 11. In patients with BAD receiving empiric BAST, gradual daily dose titration should be used to minimize side effects.
+Designated a good practice statement
+Statement 12. In patients with Crohn’s disease with extensive ileal involvement or resection, we suggest against using BAST.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question (should we use BAST?): yes, 20%;
+  no, 80%.
+
+Maintenance therapy for BAD (BAST)
+Statement 13. In patients with BAD who respond to BAST, we suggest that intermittent, on-demand dosing be tried.
+GRADE. Conditional recommendation, very-low-certainty evidence. Vote on PICO question: yes, 80%; neutral, 20%.
+Statement 14. In patients with BAD who are unable to tolerate BAST, we suggest using alternative antidiarrheal agents versus no
+  treatment for long-term symptomatic therapy.GRADE. Conditional recommendation, very-low-certainty evidence. Vote on
+  PICO question: yes, 100%.
+Statement 15. In patients with BAD receiving empiric BAST, maintenance therapy should be used at the lowest dose needed to
+  minimize symptoms.
+Designated a good practice statement
+e14                                                             Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+Table 1. Continued
+Maintenance therapy for BAD (BAST)
+Statement 16. In patients with BAD and recurrent or worsening symptoms despite stable BAST, diagnostic re-evaluation should be
+  conducted.
+Designated a good practice statement
+Statement 17. In patients being considered for BAST, a review of concurrent medications should be conducted to minimize the
+  potential for drug interactions.
+Designated a good practice statement
+
+Statements with no recommendations
+No recommendation A. In patients with chronic diarrhea including IBS-D and functional diarrhea, the consensus group could not
+ make a recommendation for or against the use of FGF19 assay to identify possible BAD.
+
+
+
+
+                                                                                                                                                      Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+GRADE. NO recommendation, very-low-certainty evidence. Vote on PICO question: strongly yes, 20%; neutral, 80%.
+No recommendation B. In patients receiving long-term maintenance therapy with BAST, the consensus group could not make a
+ recommendation for or against measuring fat-soluble vitamin levels at baseline and annually thereafter.
+GRADE. NO recommendation; very-low-certainty evidence. Vote on PICO question: yes, 20%; neutral, 80%.
+
+   The strength of each recommendation was assigned by the consensus group, per the GRADE system, as strong (“we recommend...”) or con-
+ditional (“we suggest...”). A recommendation could be classified as strong despite low-certainty evidence to support it, or conditional despite the
+existence of high-certainty evidence due to the 4 components considered in each recommendation (risk:benefit balance, patients’ values and
+preferences, cost and resource allocation and certainty of evidence).
+   BAD, bile acid diarrhea; BAST, bile acid sequestrant therapy; C4, 7α-hydroxy-4-cholesten-3-one; FGF19, fibroblast growth factor 19; GRADE,
+Grading of Recommendation Assessment, Development and Evaluation; IBS-D, diarrhea-predominant irritable bowel syndrome; PICO, patient
+population, intervention, comparator, and outcome; SeHCAT, 75selenium homocholic acid taurine; SIBO, small intestinal bacterial overgrowth.
+
+Table 2. Risk factors in patients with chronic nonbloody diarrhea most commonly associated with having a positive SeHCAT test sugges-
+tive of a BAD diagnosis
+Risk factor                                  SeHCAT, <10% (at least moderate)                      SeHCAT, <15% (at least mild)
+Cholecystectomy                              78% (26)                                              86%; 95% CI, 71%–95% (26)
+                                             68%; OR, 5.70; 95% CI, 2.42–13.46 (25)                68%; OR, 2.51; 99% CI, 1.10–5.77 (24)
+                                             21% (24)                                              57%; OR, 2.54; 95% CI, 1.36–4.74 (29)
+TI resection or right hemicolectomy          100% (44)97% (28)                                     92%; OR, 12.4; 99% CI, 2.42–63.8
+ for Crohn’s disease                         91%; OR, 15.83; 95% CI, 2.62–95.69 (25)                 (24)91%; 95% CI, 78%–87% (26)
+                                             87% (24)                                              87%; OR, 5.0; 95% CI, 2.20–11.4 (29)
+TI resection or right hemicolectomy          76% (24)                                              82%; OR, 7.94; 99% CI, 1.02– 61.6 (24)
+ for reasons other than Crohn’s              71% (29)
+ disease
+Radiotherapy without resection               18% (30)                                              62% (27)
+                                                                                                   36% (30)
+Radiotherapy with resection                  71% (30)                                              88% (30)
+
+   BAD, bile acid diarrhea; OR, odds ratio; SeHCAT, 75selenium homocholic acid taurine; TI, terminal ileum.
+
+   No symptoms have consistently been predictive of a greater                 All studies had either a high or unclear risk of bias, inconsist-
+likelihood of having SeHCAT-diagnosed BAD among patients                    ency (with respect to the specific symptoms and clinical charac-
+with chronic diarrhea. Rates of abdominal pain or discomfort, dis-          teristics as risk factors for BAD) and imprecision.
+tension, bloating, flatulence and urgency, were similar or less fre-
+quent among patients with BAD and those with diarrhea resulting             Discussion
+from other causes (24,31–33). Some studies have reported an as-             In patients presenting with nonbloody chronic diarrhea or
+sociation between stool weight, consistency or frequency, and a             IBS-D, rates of SeHCAT retention suggestive of BAD are
+higher risk of BAD among patients with chronic diarrhea, but no             much higher in those with risk factors compared with those
+diagnostic accuracy data, or definitions, are available (7,31–35).          in whom other possible causes have been excluded. Rates of
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                       e15
+
+BAD were lower in patients without compared with those                 Key Evidence
+with risk factors, specifically rates of severe BAD (SeHCAT            Data on the diagnostic accuracy of the SeHCAT retention test
+retention, <5%) were approximately 10% (6,36) compared                 (as an initial test for diagnosis) were derived from two prospec-
+with 24% to 48% (24,26,29), rates of at least moderate BAD             tive DTA studies, both conducted by Sciarretta et al. (37,40)
+(SeHCAT retention, <10%) were 19% to 39% (6,25,34,36)                  in Italy. These were designed as case–control studies to assess
+compared with 38% to 58% (24,26,29), and rates of at least             the ability of SeHCAT retention to discriminate between cases
+mild BAD (SeHCAT retention, <15%) were 24% to 27%                      and controls. However, using other secondary results, a 2013
+(6,24,36) compared with 46% to 68% (24,26,29). The risk                Health Technology Assessment calculated the diagnostic ac-
+factors most commonly identified are shown in Table 2. In              curacy of SeHCAT retention for predicting the response to
+patients with ileal resection, BAD appeared to be independent          BAST (41). In the first study, the sensitivity and specificity of
+of resection length; resections of less than 10 cm were suffi-         SeHCAT retention (cut-off value, <5%) were 85.7% (95% con-
+cient to cause BAD (26).                                               fidence interval [CI], 42.1 to 99.6) and 100% (95% CI, 54.1
+   The potential harms of using clinical risk factors as a triage      to 100), respectively, in a subgroup of patients (n = 13) with
+
+
+
+
+                                                                                                                                            Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+test for BAD could include overdiagnoses leading to unnec-             diarrhea without evidence of intestinal or extraintestinal pa-
+essary diagnostic tests and/or treatments, or underdiagnoses           thology (37,41). The second study, which included 46 patients
+leading to ongoing patient suffering. In patients with ileal re-       with IBS-D or cholecystectomy, found the sensitivity and spec-
+section, there is an extremely high risk of BAD, and diagnostic        ificity of SeHCAT retention (cut-off value, <8%) were 95.0%
+testing may not be necessary before treatment, whereas patients        (95% CI, 75.1 to 99.9) and 96.2% (95% CI, 80.4 to 99.9), re-
+with chronic diarrhea after a cholecystectomy or after radio-          spectively (40,41). In both studies, a response to BAST was de-
+therapy may warrant diagnostic tests. No consistent correlation        fined as the disappearance of diarrhea. No studies were found
+has been found between the length of resection and SeHCAT              that measured the diagnostic accuracy of SeHCAT in patients
+retention, therefore, all patients should be considered at high        with chronic diarrhea, which avoided a case–control design and
+risk after resection (25,26,37).                                       used a proven reference standard (because there is currently
+   Other conditions such as diabetes, pancreatitis, small in-          no such reference standard, apart from the surrogate response
+testinal bacterial overgrowth (SIBO), microscopic colitis,             to BAST).
+vagotomy and celiac disease have been associated occa-                    Both DTA studies were found to be at serious risk of bias with
+sionally, but not consistently, with an increased risk of BAD          respect to the index tests and reference standards used, serious
+(26,38).                                                               indirectness of the study populations and index tests, and very
+   No symptoms have been identified that reliably will pre-            serious imprecision as a result of the very small sample sizes,
+dict a diagnosis of BAD. In fact, data suggest that reliance on        and the lower limit of the CI crossing the threshold for a clin-
+symptoms can lead to underdiagnosis in clinical practice; one          ically useful diagnostic test. This suggests that the data are in-
+survey found that 44% of patients reported they had experi-            sufficient to support or refute the clinical utility of SeHCAT in
+enced symptoms for more than 5 years before diagnosis (39).            patients with IBS-D. Therefore, other factors and indirect sup-
+Although symptom presentation is inaccurate for BAD, it                portive evidence were considered.
+continues to play a role in the differential diagnosis to rule out
+other conditions.                                                      Discussion
+   Based on the available data, the consensus group recommends         Overall, the CoE for the diagnostic accuracy of SeHCAT was
+that in patients with chronic nonbloody diarrhea, a history of         determined to be very low. As discussed in Statement 1, the
+terminal ileal resection, cholecystectomy or radiotherapy, but         prevalence data suggest that up to 40% of patients with func-
+not symptom presentation, be used during the initial assess-           tional diarrhea or IBS-D may have at least moderate BAD as
+ment to help identify patients with BAD.                               assessed by a SeHCAT cut-off value less than 10% (6,25,34,36).
+                                                                          In addition, a systematic review (SR) including 15 obser-
+  Statement 3. In patients with chronic diarrhea                       vational studies showed a correlation between the severity of
+  including IBS-D and functional diarrhea, we                          SeHCAT loss and response to treatment with BAST: response
+  suggest SeHCAT testing to identify patients                          to cholestyramine was 96% in patients with less than 5% reten-
+  with BAD.                                                            tion, 80% at less than 10% retention and 70% at less than 15% re-
+  GRADE: Conditional recommendation, very-                             tention (6). This was not confirmed by a newer SR of 21 studies
+  low-certainty evidence.                                              that found response rates with BAST of 67% at less than 5% re-
+  Vote: on PICO question: strongly yes, 20%;                           tention, 73% at less than 8% to 11.7% retention and 59% at less
+  yes, 80%.                                                            than 15% retention (42). However, one study (26) published
+                                                                       after the earlier SR, which included a large number of patients
+e16                                                         Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+with secondary BAD, made a disproportionately large contri-            remission (other than diarrhea) who had normal hematology
+bution to the group with less than 5% retention in this second         and C-reactive protein levels (28). SeHCAT retention was
+analysis. Response rates were much lower in patients with neg-         abnormal (<10%) in 54% of patients. Of the 24 patients with
+ative SeHCAT tests; only 15% of patients had a good or partial         abnormal SeHCAT retention, 20 received initial conventional
+response compared with 65.6% of patients with a SeHCAT re-             treatment (prednisolone ± mesalamine), followed by BAST
+tention less than 15% (29). A study has been proposed to eval-         when conventional treatment failed. Response rates were 55%
+uate the diagnostic accuracy of SeHCAT retention in which the          with conventional treatment, and 40% with BAST, with 5%
+test result will be concealed from clinicians and patients, and all    failing both treatments. The treatment duration and outcome
+patients will receive BAST (43).                                       assessments, as well as the use of BAST in patients with normal
+   Cost effectiveness and feasibility also were considered. The        SeHCAT retention, were not clearly described. The diagnostic
+Health Technology Assessment assessed the cost effectiveness           accuracy and the effects of using test results to inform manage-
+of SeHCAT testing compared with response to BAST based                 ment choices could not be calculated because of the lack of a
+on data from three small trials and rather limited assumptions         control group.
+
+
+
+
+                                                                                                                                            Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+(41). They concluded that for the short term (first 6 months),            The CoE was downgraded to very low because of a very se-
+the optimal choice between SeHCAT testing and no SeHCAT                rious risk of bias (with regard to the reference standard, pa-
+testing depended on willingness to pay, but that a trial of BAST       tient flow and timing) and very serious imprecision (very small
+would be more cost effective. From the long-term perspective,          sample size).
+the optimal choice was a trial of BAST, no SeHCAT testing, or
+SeHCAT testing with a cut-off retention value of less than 15%         Discussion
+depending on the scenario. Feasibility can be an issue in some         Although there is very-low-certainty evidence supporting the
+areas because nuclear medicine facilities or the isotope may not       use of SeHCAT testing to guide management decisions in
+be available.                                                          patients with Crohn’s disease, testing may play a role in patients
+   BAST has poor tolerance and a high dropout rate; a posi-            with ileal Crohn’s disease in complete remission who have on-
+tive SeHCAT test may have the additional benefit of providing          going chronic diarrhea.
+the clinician with a stronger argument to encourage patients             Observational studies have suggested that almost half of the
+to stay on therapy when a definite diagnosis of BAD has been           patients with ileal Crohn’s disease who have not undergone
+made (44). Other factors to consider are the potential harms of        resection will have a positive SeHCAT, suggestive of a diag-
+SeHCAT use, such as radiation risk, patient inconvenience and          nosis of at least moderate BAD (Table 3) (25,26,28,29). These
+anxiety and loss of opportunity to use BAST in cases of false-         patients may have a two to four times greater likelihood of
+negative results. Cut-off values to initiate treatment are some-       having a positive SeHCAT compared with having a negative
+times inconsistent (45), and the role of borderline SeHCAT             test (25,29).
+retention in therapeutic decisions is ill defined.                       Given the association between positive SeHCAT testing and
+   Taking all of these issues together, the consensus group            response to BAST in patients with Crohn’s disease who continue
+concluded that SeHCAT retention is a relatively safe test,             to have persistent diarrhea despite conventional treatments,
+BAST is a relatively safe treatment (although poorly tolerated),       the consensus group made a conditional recommendation in
+and the anticipated benefit of SeHCAT retention testing likely         favour of SeHCAT testing in patients with Crohn’s disease who
+outweighs the uncertainty of the evidence. Although other tests        have no objective evidence of active inflammation.
+show promise for the future, SeHCAT retention has been the
+most widely tested, with consistent results.
+                                                                       Table 3. Prevalence of positive SeHCAT tests in patients with
+                                                                       ileal Crohn’s disease who have not undergone resection
+  Statement 4. In patients with small intestinal
+  Crohn’s disease without objective evidence of                        SeHCAT               Prevalence
+  inflammation who have persistent diarrhea,
+                                                                       <10%                 80%; OR, 3.76; 95% CI, 1.10–12.60 (25)
+  we suggest SeHCAT testing.
+                                                                         (at least          54% (28)
+  GRADE: Conditional recommendation, very-
+                                                                         moderate)          52% (26)
+  low-certainty evidence.
+                                                                                            43% (29)
+  Vote: on PICO question: strongly yes, 20%;
+                                                                                            35% (24)
+  yes, 80%.
+                                                                       <15%                 76%; 95% CI, 57%–90% (26)
+                                                                         (at least          52%; OR, 1.88; 95% CI, 1.04‒3.41 (29)
+Key Evidence
+                                                                         mild)              35% (24)
+An observational cohort study included a subgroup of
+44 patients with unoperated Crohn’s disease in clinical                   OR, odds ratio; SeHCAT, 75selenium homocholic acid taurine.
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                                e17
+
+                                                                       adequately as a reference standard. Theoretically, C4 and FGF19
+  Statement 5. In patients with chronic diarrhea                       should be good markers of bile acid loss. C4 is a metabolic in-
+  including IBS-D and functional diarrhea, we sug-                     termediate in the rate-limiting step for the synthesis of bile
+  gest using a C4 assay to identify possible BAD.                      acids from hepatic cholesterol. FGF19 is a hormone released
+  GRADE: Conditional recommendation, very-                             by ileal enterocytes after stimulation of nuclear farnesoid X
+  low-certainty evidence.                                              receptors, typically by absorbed bile acids. Both markers have
+  Vote: on PICO question: strongly yes, 20%;                           been correlated with fecal loss of bile acids (Figure 1) (51–53).
+  yes, 60%; neutral, 20%.                                              In addition, FGF19 levels have been shown to correlate with C4
+                                                                       levels (54).
+                                                                         Currently, there are no well-defined cut-off values for the di-
+  No recommendation A: In patients with chronic
+                                                                       agnosis of BAD. In one prospective study, a C4 level of 52.5 ng/
+  diarrhea including IBS-D and functional diar-
+                                                                       mL or greater and a FGF19 level of 61.7 pg/mL or less were di-
+  rhea, the consensus group could not make a
+                                                                       agnostic for BAD (51). Other observational studies have used
+
+
+
+
+                                                                                                                                                     Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+  recommendation for or against the use of the
+                                                                       cut-off values of 30 to 48 ng/mL for C4 (46,55). One study
+  FGF19 assay to identify possible BAD.
+                                                                       found a wide range of normal values for C4 (corrected for cho-
+  GRADE: No recommendation, very-low-
+                                                                       lesterol) from 0.76 to 8.0 mg/mol and for FGF19 from 48 to
+  certainty evidence.
+                                                                       343 pg/mL (33).
+  Vote: on PICO question: strongly yes, 20%;
+  neutral, 80%.
+
+Key Evidence
+The majority of published DTAs compared C4(46–48) and
+FGF19(32,49,50) assays with SeHCAT testing. These showed
+good inverse correlation between C4 and SeHCAT testing, and
+between FGF19 and SeHCAT testing, however, the overall
+CoE for the diagnostic accuracy of SeHCAT was assessed for
+Statement 3 and determined to be very low. Therefore, the true
+diagnostic accuracy of these tests cannot be estimated from
+these studies.
+   One study assessing C4 and FGF19 assays used direct meas-
+urement of 48-hour fecal bile acid as a reference standard (51).
+This prospective DTA study included 30 patients with IBS-D who
+had replicate C4 and FGF19 samples 5 years apart that could be
+compared with fecal bile acid levels. When patients with a prior
+cholecystectomy were excluded, the sensitivity and specificity of
+serum C4 were 40% and 85%, respectively, with a 40% positive
+predictive value and an 85% negative predictive value for the di-
+agnosis of BAD. For FGF19, the sensitivity and specificity were
+20% and 75%, respectively, with a 17% positive predictive value
+and a 79% negative predictive value for the diagnosis of BAD.
+   The CoE was downgraded to very low because of the moder-
+ately serious risk of bias and very serious imprecision (CI lower
+limits crossed the threshold for clinically useful diagnostic tests,
+small sample sizes) in the DTA that used fecal bile acid levels
+as the reference standard (51). Similarly, there was very serious
+risk of bias and serious indirectness in the studies that used         Figure 1. Enterohepatic circulation of bile acids. C4 is a metabolic inter-
+SeHCAT retention as the reference standard.                            mediate in the rate-limiting step for the synthesis of bile acids from he-
+                                                                       patic cholesterol. FGF19 is a hormone released by ileal enterocytes after
+                                                                       stimulation of nuclear farnesoid X receptors by absorbed bile acids. BA,
+Discussion
+                                                                       bile acid; C4, 7 α-hydroxy-4-cholesten-3-one; CA, cholic acid; CDCA,
+Although there appears to be a good correlation (inverse) be-          chenodeoxycholic acid; DCA, deoxycholic acid; FGF19, fibroblast
+tween C4 and SeHCAT results, and between FGF19 and                     growth factor 19; LCA, lithocholic acid. Reprinted with permission from
+SeHCAT results, SeHCAT retention has not been validated                Vijayvargiya and Camilleri (53).
+e18                                                          Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+  Insufficient evidence is available with C4, and even less             test-and-treat strategy was preferred for most patients, it was
+with FGF19. In addition, the FGF19 assay was not avail-                 recognized that SeHCAT testing or other diagnostic tests are
+able as a commercial clinical test at the time of the meeting,          not available in some areas. In these cases, a trial of BAST may
+which impacts the feasibility of implementing that test.                be the only option.
+Therefore, the consensus group made a conditional recom-
+mendation in favour of C4, but was unable to make a rec-                Induction Therapy for BAD
+ommendation for or against the use of the FGF19 assay to
+identify BAD.                                                             Statement 7. In patients with type 1 or type 3
+                                                                          BAD, we suggest the use of treatments for re-
+  Statement 6. In patients with suspected BAD,                            mediable causes (e.g., Crohn’s disease, micro-
+  we suggest against initiating empiric BAST                              scopic colitis, SIBO) in addition to treatment
+  over performing SeHCAT to establish a diag-                             for BAD for induction of clinical response.
+  nosis of BAD.                                                           GRADE: Conditional recommendation, very-
+
+
+
+
+                                                                                                                                             Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+  GRADE: Conditional recommendation, very-                                low-certainty evidence.
+  low-certainty evidence.                                                 Vote: on PICO question: strongly yes, 80%;
+  Vote: on PICO question (in patients with                                yes, 20%.
+  suspected BAD, should we initiate empiric
+  BAST over performing SeHCAT to estab-                                 Key Evidence
+  lish a diagnosis of BAD?): yes, 20%; no, 40%;                         No RCTs or directly applicable cohort studies were identified
+  strongly no, 40%.                                                     in which treatment for remediable causes was compared
+                                                                        with BAST in patients with type 1 or type 3 BAD. A cohort
+Key Evidence                                                            study (described in Statement 4), included subgroups of
+No direct comparative or DTA studies were found to inform               patients with IBS-D (n = 65, n = 40 treated) and unoperated
+this statement. As described in Statement 3, the two studies on         Crohn’s disease in clinical remission (other than diarrhea,
+the diagnostic accuracy of SeHCAT testing for predicting re-            n = 24, n = 20 treated) who were diagnosed with BAD
+sponse to BAST yielded very low-certainty evidence in favour            (SeHCAT retention, <10%) (28). The rates of response to
+of using SeHCAT testing (37,40). The cost-effectiveness anal-           initial conventional treatment (prednisone ± mesalamine
+ysis included in the Health Technology Assessment conducted             for Crohn’s disease patients, or antidiarrheal agents for non-
+by Riemsma et al. (41) found that in the short term, a trial of         Crohn’s disease patients) were 55% among treated Crohn’s
+BAST may be the optimal choice. However, over the long term,            disease patients, and 15% among treated IBS-D patients.
+the optimal choice (trial of BAST, no SeHCAT testing, or                Conventional therapy followed by BAST was successful in
+SeHCAT at a cut-off retention value 15%) varied depending on            40% of treated Crohn’s disease patients and 70% of treated
+the scenario. The analysis provided very low CoE regarding the          IBS-D patients.
+optimal strategy.                                                         This study lacked a control group and blinding, and had a
+                                                                        subjective outcome measure. No evidence was found for other
+Discussion                                                              conditions (e.g., microscopic colitis, SIBO). The CoE was
+There is very little evidence to determine the relative role of         downgraded to very low because of serious risk of bias, indirect-
+testing with SeHCAT testing versus using an empiric trial               ness and imprecision.
+of BAST to make a diagnosis of BAD. Other factors were
+considered when making a conditional recommendation                     Discussion
+against empiric treatment.                                              Little data were available to define the role of other non-BAST
+  A poor response to a therapeutic trial of BAST could be related       treatments in patients with BAST and comorbid conditions.
+to noncompliance and early discontinuation, which could result          Specific treatments for comorbid conditions that may cause
+in a falsely negative diagnosis with patients being denied other ef-    diarrhea (e.g., Crohn’s disease, microscopic colitis, SIBO) may
+fective alternative BAST that may be better tolerated (38,56). As       achieve control of diarrhea and other symptoms, but, con-
+discussed in Statement 3, a definitive diagnosis of BAD may help        versely, this may delay BAST for BAD. In addition, depending
+educate and motivate patients to adhere to treatment (38,44).           on the condition, the treatment (e.g., corticosteroids, immu-
+  Conversely, in patients in whom there is a very high index of         nosuppressive agents, biologics or antibiotics) may be asso-
+suspicion (in whom a positive SeHCAT test is found in >90%),            ciated with more risks or side effects than BAST treatment,
+such as terminal ileum resection or right hemicolectomy, early          and the investigations may be more invasive and costly (e.g.,
+initiation of therapy may be preferred. In addition, although a         colonoscopy).
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                           e19
+
+   As mentioned in Statement 4, patients with Crohn’s disease          Key Evidence
+with continuing diarrhea have a high rate of BAD. These patients       One RCT compared cholestyramine with hydroxypropyl cellu-
+were still more likely to benefit from conventional treatment, al-     lose (HPC) (63). Although HPC was chosen as a placebo, it may
+though some did benefit from BAST (28).                                be pharmacologically active, and a small case series suggested it
+   Some studies have suggested that BAD and collagenous co-            may be effective in BAD (63,64). The RCT was an 8-week study
+litis are associated, but likely are independent diseases (57–59).     in 26 patients with chronic functional watery diarrhea or IBS-D,
+In case series of collagenous colitis, BAST improved symptoms,         of which 77% of the cholestyramine-treated and 54% of HPC-
+but had no effect on histopathology (57). In another case              treated patients had a SeHCAT retention rate of 10% or less (63).
+series, 86% of patients with microscopic colitis who had BAD           There was no significant difference in clinical remission rates (de-
+benefited from BAST, whereas no patients with collagenous co-          fined as <3 bowel movements/d over 1 week, with <1 watery
+litis without BAD improved (59). The etiology of microscopic           stool/d) between treatments (53.8% versus 38.4%; P = 0.43).
+colitis is not well defined, and may include infectious agents,        However, there was a significant improvement in the decrease
+medications, or other causes in some patients, which may re-           in watery stools per day (−92.4% ± 3.5% versus −75.8% ± 7.1%;
+
+
+
+
+                                                                                                                                                Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+quire other specific treatments. Other treatments that may be          P = 0.048). Because HPC binds bile acids and may have a bulking
+beneficial include corticosteroids, antibiotics, antidiarrheal         effect, it may have some efficacy for BAD (63–66); this makes it
+agents or immunosuppressive therapies (59,60).                         difficult to interpret the lack of significant differences in clinical
+   In a large case series, 36% of patients with SIBO who were          remission rates with HPC compared with cholestyramine.
+tested had SeHCAT retention less than 10% (26). These                     A SR of 23 cohort studies including 801 patients with BAD
+patients may benefit from BAST, but antibiotic therapy is the          found that first-line cholestyramine was successful in 69.8%
+current standard for SIBO (61). The etiology of SIBO is very           of patients overall, 67% of those with SeHCAT retention less
+complex and may involve disorders of protective antibacterial          than 5%, 73% of those with SeHCAT retention less than 8%
+mechanisms, anatomic abnormalities, or motility disorders.             to 11.7%, and 59% of those with SeHCAT retention less than
+Patients with SIBO require treatment of the underlying disease,        15% (42). Study designs, patient populations, inclusion and
+as well as nutritional support (62).                                   exclusion criteria, diagnostic tests and cut-off values for BAD,
+   Although there is little evidence to guide therapeutic              cholestyramine dosing and timing of administration, and
+decisions, in patients with comorbid conditions, BAD may not           definitions of clinical response varied widely among the studies.
+be the sole cause of symptoms. Although some patients will re-         An additional cohort study published after the SR reported a re-
+spond to BAST for BAD, others might not, or may have other             sponse rate of 56% with first-line cholestyramine in 87 patients
+symptoms in addition to diarrhea that will not benefit from            with BAD (defined as SeHCAT <15%) (67).
+BAST. Therefore, the consensus group agreed that it was pru-              Although the RCT found that the rate of drug-related ad-
+dent to individualize therapy and address other remedial causes        verse events did not differ between cholestyramine and
+of gastrointestinal symptoms, with the order of therapy guided         hydroxypropyl cellulose (63), the SR of cohort studies reported
+by severity of each condition.                                         that 11% of patients found cholestyramine intolerable because
+                                                                       of unpalatability or side effects (range, 0% to 46%) (42). The
+                                                                       most common side effects included abdominal bloating and
+  Statement 8. In patients with BAD, we sug-                           pain, dyspepsia, nausea/vomiting, flatulence, borborygmi,
+  gest using cholestyramine over no treatment                          abdominal distension, constipation and increased severity of
+  for induction of clinical response.                                  diarrhea. In the additional cohort study, almost half (45%) of
+  GRADE: Conditional recommendation, very-                             treatment failures were related to medication intolerance (67).
+  low-certainty evidence.                                              However, both studies had no control group for comparisons,
+  Vote: on PICO question: strongly yes, 60%;                           and relationships to the study drug were not assessed.
+  yes, 40%.                                                               RCTs assessing the efficacy of cholestyramine compared with
+                                                                       other BAST in patients with BAD were not found. Evidence
+                                                                       for using cholestyramine over other BASTs as initial therapy
+  Statement 9. In patients with BAD, we sug-
+                                                                       considered other factors such as adverse events, clinical experi-
+  gest using cholestyramine over other BASTs
+                                                                       ence and cost. There is no direct evidence that cholestyramine is
+  as initial therapy for induction of clinical
+                                                                       associated with more side effects than other BAST. However, an
+  response.
+                                                                       RCT of BAST for cardiovascular disease prevention reported
+  GRADE: Conditional recommendation, very-
+                                                                       higher rates of gastrointestinal side effects (55% versus 16%),
+  low-certainty evidence.
+                                                                       and lower rates of compliance (53% versus 77%) with adjunc-
+  Vote: on PICO question: yes, 80%; neutral,
+                                                                       tive cholestyramine compared with monotherapy with a statin
+  20%.
+                                                                       (68). In contrast, a SR of 6 RCTs in patients with diabetes found
+e20                                                           Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+that adverse rates with adjunctive colesevelam were similar to           Key Evidence
+placebo (relative risk, 1.06; 95% CI, 0.97 to 1.15), with the            No RCT data were available comparing alternate BASTs with
+most common events with colesevelam being gastrointestinal-              either placebo or other treatments as second-line therapy in
+related (e.g., constipation, dyspepsia and nausea) and minor in          patients with BAD who are unable to tolerate cholestyramine.
+nature (69). The majority of clinical experiences with BASTs in          One RCT compared first-line colesevelam and placebo for
+BAD has been with cholestyramine, with few data on the other             BAD-associated diarrhea in 26 patients with Crohn’s disease
+agents; in addition, colesevelam and colestipol tend to be more          in remission (70). There was a statistically nonsignificant im-
+costly compared with cholestyramine.                                     provement in the primary end point (proportion of patients
+   The overall CoE was very low. Very serious indirectness and se-       with >30% reduction of liquid stools/day) with colesevelam
+rious imprecision were found in the RCT (63), with a serious risk        (66.7%) versus placebo (27.3%) based on intention-to-
+of bias, indirectness and imprecision in the cohort studies (42,67).     treat analysis (risk difference, 0.394; 95% CI, −0.012 to
+                                                                         0.706; P = 0.0566). Colesevelam significantly improved
+Discussion                                                               the secondary end points of the reduction in the number of
+
+
+
+
+                                                                                                                                              Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+Clear RCT evidence showing the benefits of BAST was not avail-           liquid stools per day and improvement in stool consistency
+able, however, case series and SRs of observational studies support      compared with placebo. This trial did not assess colesevelam
+a dramatic and rapid response for many patients. Although no pa-         as second-line therapy, and had a very small sample size;
+tient preference data were found, the high dropout rates in all of       therefore, the CoE was downgraded to low for serious indi-
+these studies suggest that some patients may place a greater value       rectness and imprecision.
+on being free of the side effects or unpalatability of cholestyramine       Additional evidence comes from a SR of four observational
+compared with reduction in their diarrhea frequency or severity.         cohort studies (n = 63) that assessed the efficacy of second-
+However, because BAST targets the problem, the potential higher          line colesevelam after failure of cholestyramine and reported
+response rates in patients with more severe BAD (as measured             a success rate of 57% (range, 42% to 100%) (42). One other
+by SeHCAT retention) (6) and the lack of response in patients            cohort study published after the SR included 15 patients who
+who test negative for BAD (29) (see Statement 3), the consensus          had not responded to cholestyramine and received second-
+group suggested that patients with BAD receive treatment with            line treatment with colesevelam (67). Of these patients, 47%
+BAST over no treatment. This was a conditional recommendation            had a successful response. The CoE from the observational
+because of the very low CoE and poor tolerability profile, making        trials was downgraded to very low for serious risks of bias and
+it important to discuss the benefits and side effects with patients.     imprecision.
+    Although the consensus group suggested that cholestyramine              There is no direct evidence that colesevelam is associ-
+be used initially over the other BAST agents (colesevelam or             ated with a higher or lower frequency of adverse effects than
+colestipol), there are few comparative data. Compared with               cholestyramine or other BASTs. In the RCT, colesevelam gen-
+cholestyramine, colesevelam has a four to six times stronger             erally was well tolerated; adverse events were mild (constipa-
+binding affinity to bile acids. It may be better tolerated and           tion, bloating and nausea) and occurred in similar proportions
+have fewer clinical interactions (67). The majority of clin-             to colesevelam and placebo groups (40.0% versus 36.4%)
+ical experiences to date are with cholestyramine, with a lim-            (70). For safety, the SR included one RCT and four observa-
+ited number of cases using other BAST agents (29,33,38,70).              tional cohort studies, and found that 9% were unable to tol-
+Response rates with first-line use of other BASTs have been re-          erate colesevelam because of unpalatability or side effects (42).
+ported at 67% with colesevelam (70) and 55% with colestipol              In the additional observational study, no patients reported
+(33). Although cholestyramine appears to be less costly than             treatment intolerance with colesevelam (67). As discussed in
+colesevelam or colestipol, the lack of comparative data casts            Statement 8, tolerability data for BASTs in nongastrointestinal
+doubt on whether cholestyramine should be preferred; there-              conditions suggested high rates of gastrointestinal side effects
+fore, this was a conditional recommendation.                             with cholestyramine, while colesevelam had side effects rates
+                                                                         similar to placebo (68,69).
+  Statement 10. In patients with BAD who are                                There have been limited reports describing the use of
+  unable to tolerate cholestyramine, we sug-                             colestipol as second-line therapy after failure of cholestyramine
+  gest using an alternate BAST for induction of                          (42,71).
+  clinical response.
+  GRADE: Conditional recommendation, low-
+                                                                         Discussion
+  certainty evidence.
+                                                                         Case series data have suggested that patients who fail or are
+  Vote: on PICO question: strongly yes, 40%;
+                                                                         unable to tolerate cholestyramine may benefit from second-
+  yes, 60%.
+                                                                         line BAST (29). In a large series of patients given one or
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                       e21
+
+more BAST, there were no significant differences in good/              of side effects and intolerance (42). Gradual dose titration of
+partial response rates between the cholestyramine (74%) and            BAST may reduce the risks of side effects, increase compliance
+colesevelam (73%). However, whether alternate BAST was                 and potentially reduce costs.
+used as first- or second-line therapy was not described (29).
+Although, not regulatory approved for BAD, use of second-line            Statement 12. In patients with Crohn’s dis-
+colesevelam in clinical practice appears to be quite common.             ease with extensive ileal involvement or re-
+In a survey of patients followed up for up to 13 years, 38% of           section, we suggest against using BAST.
+respondents continued with cholestyramine, while 32% had                 GRADE: Conditional recommendation, very-
+switched to colesevelam (56). The consensus group agreed that            low-certainty evidence.
+compared with cholestyramine, colesevelam has a favourable               Vote: on PICO question (In patients with
+benefit:risk profile and greater ease of administration (tablet          Crohn’s disease with extensive ileal involve-
+versus granules/powder). However, because of the limited clin-           ment or resection, should we use BAST vs no
+ical experience and higher cost, it is suggested that it be reserved     BAST?): yes, 20%; no, 80%.
+
+
+
+
+                                                                                                                                            Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+for second-line use.
+                                                                       Key Evidence
+  Statement 11. In patients with BAD receiving                         There are no long-term studies assessing the safety of
+  empiric BAST, gradual daily dose titration                           cholestyramine in patients with extensive ileal resection. It
+  should be used to minimize side effects.                             has been suggested that use of BAST in these patients can
+  Designated a good practice statement                                 lead to an increased rate of steatorrhea (74,75). A small series
+                                                                       of nine patients, in whom three had ileal resection greater
+Key Evidence                                                           than 100 cm and steatorrhea greater than 20 g/day, found
+Good practice statement, CoE not assessed.                             that the use of cholestyramine led to a small decrease in di-
+                                                                       arrhea, but an increase in steatorrhea with substantial caloric
+Discussion                                                             loss (74,75).
+In general, most cohort studies reported gradual dose titration
+for cholestyramine to clinical response (42,67). However,              Discussion
+there was no mention of dose titration of colesevelam or               It is unclear how extensive a resection is required to produce
+colestipol.                                                            negative consequences with BAST. In the case reports, the
+   In BAD studies, cholestyramine generally was started at a low       risk of steatorrhea was increased in patients with resections of
+dose of 2 to 4 g/day and titrated based on response (maximum,          greater than 100 cm (74,75).
+4 to 24 g/day) (42,67). In an open-label study, the colestipol            Other data have shown no correlation between the length of re-
+dose was initiated at 1 g twice daily, with an increase of 1 g/d       section, SeHCAT retention and response to BAST. In case series
+every other day (33). In BAD studies, colesevelam has been             of patients with ileal resection of up to 200 cm, the majority had
+prescribed in a dose of two tablets (625 mg) three times per           severe BAD and responded to BAST (26,76,77). In one case
+day (70,72).                                                           series, the mean length of resection was not significantly dif-
+   Product labeling for BAST agents recommends that                    ferent in patients who did or did not respond to BAST (35 versus
+cholestyramine be started at one 4-g dose daily and titrated           46 cm) (78).
+to effect with a maximum of 24 g/day for all patients (73).               SeHCAT testing in patients with large ileal resection al-
+Initiation of colestipol granules (tablets) is recommended             most universally will indicate severe bile acid wasting and
+at 5 g (2 g) either once or twice daily, increasing by 5 g/day         is unlikely to be of discriminatory clinical value. Although
+(2 g once or twice per day), but no more frequently than 1 per         there are very few reports of adverse consequences of BAST
+month, with a maximum of 30 g/day (16 g/day). No dose ti-              use in patients with extensive resection, the consensus group
+tration is recommended for colesevelam. Colesevelam is dosed           concluded that the risk of steatorrhea makes it prudent to err
+at 3.75 g/day as three 625-mg tablets twice daily, 6 tablets once      on the side of caution and avoid BAST in this patient group.
+daily, or one 3.75-g powder packet once daily. These colestipol        Furthermore, there is concern that these patients may have
+and colesevelam doses are regulatory approved for cholesterol-         extensive inflammatory disease that should be identified
+lowering indications.                                                  and treated with anti-inflammatory approaches rather than
+   Generally, it is intuitive to gradually titrate medication to       BAST. However, in some cases, the benefits may outweigh
+maximize symptom relief and minimize side effects. This is             the risks, and patients should be evaluated on a case-by-case
+particularly relevant with BAST because of the high frequency          basis.
+e22                                                         Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+Maintenance Therapy for BAD
+                                                                         Statement 14. In patients with BAD who
+  Statement 13. In patients with BAD who re-                             are unable to tolerate BAST, we suggest
+  spond to BAST, we suggest that intermittent,                           using alternative anti-diarrheal agents vs.
+  on-demand dosing be tried.                                             no treatment for long-term symptomatic
+  GRADE: Conditional recommendation, very-                               therapy.
+  low-certainty evidence.                                                GRADE: Conditional recommendation, very-
+  Vote: on PICO question: yes, 80%; neutral,                             low-certainty evidence.
+  20%.                                                                   Vote: on PICO question: yes, 100%
+
+
+Key Evidence                                                           Key Evidence
+No studies were found that directly compared different                 No studies were found that systematically assessed the effec-
+dosing strategies in patients with BAD who had responded               tiveness of other antidiarrheal agents in patients with BAD who
+
+
+
+
+                                                                                                                                            Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+to BAST. Two small cohort studies suggested that for some              are unable to tolerate BAST. As described in Statement 8, 1
+patients, BAD symptoms could remain controlled with                    RCT that compared cholestyramine with HPC found no dif-
+on-demand therapy or no therapy at all (7,8). In a prospec-            ference in clinical remission (53.8% versus 38.4%) or adverse
+tive cohort study of patients with postcholecystectomy BAD,            events (63).
+cholestyramine (2 to 12 g/day for 1‒6 months) was effec-                  Three cohort studies assessed first-line loperamide in
+tive in 23 of 26 patients, and 9 of 23 (39%) patients expe-            patients with BAD; however, the effectiveness was difficult to
+rienced recurrent diarrhea when treatment was withdrawn.               estimate because of differences in patient populations, study
+Bowel habit remained regular in 14 patients (61%) who took             designs and outcome measurements (mainly subjective im-
+the drug occasionally (on demand) in the event of sporadic             provement of symptoms) (28,79,80). A randomized, dou-
+episodes of slight diarrhea (8). In the other cohort study in          ble-blind, cross-over RCT in 18 patients with chronic diarrhea
+patients with BAD and IBS-D, recurrent diarrhea occurred in            resulting from chronic radiation enteritis compared loper-
+33 of 35 (94%) of patients when cholestyramine (2‒8 mg/                amide (3 mg twice daily) and placebo for 14 days (79). The
+day for 1 month) was withdrawn, and the drug was prescribed            study did not include dichotomized response rates, but did re-
+again at the dose that controlled the patient’s symptoms (7).          port significant improvements in stool frequency, stool weight
+Only 6% of patients were able to discontinue therapy without           and SeHCAT retention with loperamide as compared with pla-
+suffering recurrent diarrhea.                                          cebo. In a prospective cohort study of 19 patients with chronic
+                                                                       diarrhea resulting from ileal irradiation and/or resection, 13
+Discussion                                                             patients with resections of 20 to 50 cm (n = 7) or no resection
+Evidence suggests that some patients with BAD will require             (n = 6) showed normalized or improved SeHCAT retention,
+regular daily dosing, whereas others may be able to discon-            with symptomatic improvement while on loperamide (80).
+tinue completely or use on-demand therapy for symptom                  In six patients with resection greater than 80 cm, SeHCAT
+control. The dose or frequency of BAST required to control             retention remained abnormal, and only three patients had
+symptoms may be dependent on the severity of symptoms,                 slight improvement of diarrhea with loperamide. In another
+underlying causes of BAD, or the presence of other comorbid            cohort study, 27 of 96 (28%) patients reported improvement
+illnesses (e.g., gastroenteritis, Clostridium difficile infection).    with conventional antidiarrheal agents; however, this included
+The need for BAST also may be affected by use of medications           codeine, loperamide or prednisolone (not considered an an-
+that cause constipation, which may reduce the need for BAST,           tidiarrheal agent), and did not specify response to individual
+or by medications that cause diarrhea, which may increase the          medications (28).
+need for BAST.
+   Long-term use of BAST should balance the potentially                Discussion
+high rate of relapse of diarrhea against the high rate of adverse      Given the poor tolerability and high discontinuation rates with
+events, poor palatability and uncertainty around long-term             BAST, alternative treatments often are needed. HPC may im-
+harms (e.g., malabsorption of fat and vitamins). Therefore,            prove diarrhea in patients with BAD through its bulking effects
+the consensus group suggested that during ongoing long-                and its ability to bind bile acids (63–66). In addition, some
+term therapy, intermittent, on-demand therapy should be                patients may benefit from loperamide; given its low cost and rel-
+attempted to minimize exposure to BAST, encourage compli-              atively good safety profile (although no cost-effectiveness data
+ance and minimize costs.                                               are available), a treatment trial may be warranted.
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                         e23
+
+
+  Statement 15. In patients with BAD receiving                           Statement 17. In patients being considered
+  empiric BAST, maintenance therapy should be                            for BAST, a review of concurrent medications
+  used at the lowest dose needed to minimize                             should be conducted to minimize the poten-
+  symptoms.                                                              tial for drug interactions.
+  Designated a good practice statement                                   Designated a good practice statement
+
+
+Key Evidence                                                           Key Evidence
+Good practice statement, CoE not assessed.                             Good practice statement, CoE not assessed.
+
+Discussion                                                             Discussion
+The importance of minimizing exposure to BAST was discussed            BAST agents may bind other drugs given concurrently, which
+
+
+
+
+                                                                                                                                              Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+in Statement 11 (dose titration during induction) and Statement        necessitates separating administration to minimize the risk of
+13 (use of intermittent or discontinuing dosing during mainte-         reduced absorption of the concomitant medication. Health
+nance therapy).                                                        Canada recommends that when a drug interaction cannot be
+  Cohort studies have reported the use of cholestyramine for 6         excluded, patients should take other drugs at least 1 hour before
+to 44 months, which was titrated to response (42). In one study,       or 4 to 6 hours after the BAST (73,83,84). Gastric emptying
+patients were allowed to titrate their own dose of cholestyramine      studies have suggested that a window of 3 hours between ad-
+(between 2 and 16 g/day) and sustained responses for over              ministration of BAST and other medications is adequate to
+1 year (81). Colesevelam has been used for up to 44 months             avoid potential interactions such as binding (85).
+with some patients titrating the dose down (72).                         Examples of some medications that may interact when
+                                                                       coadministered with cholestyramine or colestipol include thyroid
+  Statement 16. In patients with BAD and recur-                        preparations, warfarin, hydrochlorothiazide, furosemide, phen-
+  rent or worsening symptoms despite stable                            ylbutazone, phenobarbital, tetracycline, penicillin G, digoxin,
+  BAST, diagnostic re-evaluation should be                             mycophenolic acid and estrogen-containing drugs (3,73,84).
+  conducted.                                                           Colesevelam has a different structure that maximizes interactions
+  Designated a good practice statement                                 with bile salt and reduces the potential for interactions with other
+                                                                       drugs (86,87). Colesevelam does not appear to interact with
+                                                                       some medications (e.g., digoxin, fenofibrate, lovastatin, meto-
+Key Evidence                                                           prolol, pioglitazone, quinidine, repaglinide, valproic acid, vera-
+Good practice statement, CoE not assessed.                             pamil), but has been found to reduce the absorption of others
+                                                                       (e.g., glyburide, levothyroxine and oral contraceptives), and may
+Discussion                                                             interact with warfarin and phenytoin (83).
+Other diagnoses are common in patients with BAD, and a
+diagnosis of BAD is seen frequently in patients with other               No recommendation B. In patients receiving
+conditions (see Statement 1). As discussed in Statement 7,               long-term maintenance therapy with BAST,
+some patients may need specific treatments for other causes of           the consensus group could not make a rec-
+chronic diarrhea.                                                        ommendation for or against measuring
+   BAD can have a variable course, and fat intake can cause              fat-soluble vitamin levels at baseline and an-
+fluctuations in SeHCAT retention and severity of BAD. Low-fat            nually thereafter.
+dietary interventions can improve gastrointestinal symptoms for          GRADE: NO recommendation; very-low-
+some patients (82). However, sudden worsening of symptoms                certainty evidence.
+not related to dietary changes should prompt re-evaluation.              Vote: on PICO question: yes, 20%; neutral, 80%
+The differential diagnosis should consider conditions such as
+microscopic colitis, Crohn’s disease, celiac disease, SIBO and         Key Evidence
+functional bowel disease. Strategies in patients with worsening        The literature search failed to identify any relevant article
+symptoms might include repeating SeHCAT testing with an                assessing fat-soluble vitamin levels before and after initiation
+escalation of therapy if needed, as well as other tests, such as       of long-term maintenance therapy with BAST. Because of the
+stool tests for infectious etiologies, blood tests, colonoscopy,       action of BAST agents in sequestering bile acids, these agents
+hydrogen breath tests as determined by the underlying cause of         theoretically may interfere with normal fat absorption, thus
+BAD, and the patient’s history, risk factors and symptoms.             reducing absorption of folic acid and fat-soluble vitamins A,
+e24                                                        Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+D and K (73,83,84). Whether this interference can result in           standard. This is because patients responding to BAST may
+clinical consequences is based on rare case reports. Since 1970,      be true-positive patients with a true response, but also may be
+there have been only a few reports of hypoprothrombinemia or          false-positive patients with a placebo response. To date, only
+hemorrhage in adults (88,89), and of hypoprothrombinemia,             two small DTA studies have reported information on the prob-
+hemorrhage or folate deficiency in paediatric patients (90–92)        ability of response to treatment with BAST for people with a
+taking cholestyramine.                                                negative SeHCAT test, and no DTA studies have incorporated
+                                                                      a blinded placebo arm (37,40). Consequently, the lack of ev-
+Discussion                                                            idence of the accuracy of the SeHACT test based on a refer-
+Cholestyramine has been associated with reduced vitamin and           ence standard and the variation in cut-off values of test results
+folate levels during long-term use (73). However, colestipol use      led to important uncertainties in the cost-effectiveness analyses
+for 1 to 2 years had no effect on vitamin A or folic acid levels,     in determining the optimal strategy in investigating BAD (41).
+and only a small effect on vitamin D levels (84). Colesevelam         Therefore, one of the research priorities in BAD is for the scien-
+was not associated with significant reductions in the absorption      tific and clinical communities to agree on a reference standard
+
+
+
+
+                                                                                                                                            Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+of vitamins A, D, E or K during clinical studies of up to 1 year      that best represents BAD (e.g., response to BAST), with full
+(83). In general, the approved product labels recommend sup-          understanding that the reference standard is and likely will be
+plementation of vitamins A, D and K only if a deficiency occurs       imperfect.
+(73,83,84).                                                              Given the paucity of high-certainty evidence on diagnostic
+   The rare cases of vitamin K deficiency resulting in increased      tests, there is also a need for well-designed DTA studies
+risk of coagulopathy have occurred within a few weeks to              comparing SeHCAT, C4 assay, FGF19, and total and primary
+months or years after the start of therapy (89), and generally can    bile acid measurement in stool, with a reference standard for
+be corrected with oral vitamin K. Although during long-term           BAD (e.g., response to BAST) by applying both the index
+use periodic monitoring of vitamin levels and prothrombin             tests and reference standard to all patients (94,95), as well
+time sometimes are advised (3,93), the group did not reach            as RCTs comparing SeHCAT testing versus an empiric trial
+consensus on the value of annual routine monitoring. Most of          of BAST in patients with suspected BAD including an as-
+the consensus participants were neutral on this issue, although       sessment of objective clinical efficacy and safety outcome
+it was suggested that performing an international normalized          measures. A placebo-controlled RCT of BAST (colesevelam)
+ratio at intervals during long-term treatment may be prudent.         in patients with evidence of BAD, based on fecal bile acid
+                                                                      measurements, is ongoing (NCT03270085) and the results
+                                                                      will help to inform the role of fecal bile acids as a diagnostic
+Conclusions                                                           test for BAD (96).
+The group recognized that specific, high-certainty evidence              It is important to note that the diagnostic accuracy of total
+was lacking in many areas and recommended further studies             and primary bile acid excretion has not been assessed formally
+that would improve the data available in future methodological        by GRADE for this guideline because it was not a topic initially
+evaluations.                                                          proposed for inclusion a priori. Nevertheless, there have been
+  In DTA studies, the diagnostic accuracy of an index test (a test    recent publications on assessing 48-hour total and primary bile
+under evaluation) is determined by comparing its results with         acid fecal excretion (a test available in North America) as a di-
+that of a reference standard (best available method to deter-         agnostic test for BAD (95). Recent advances also have assessed
+mine the presence or absence of a target condition), by applying      whether this test could be optimized by including assays of pri-
+both in individuals who are suspected of having the target con-       mary bile acids (95). Most (if not all) have been observational
+dition of interest. However, if the reference standard does not       studies that have found significant correlation or association be-
+correspond perfectly to a true target condition, estimates of the     tween increased fecal bile acids and certain conditions that can
+accuracy of the index test can be biased. The main challenge          cause diarrhea (i.e., IBS-D, chronic functional diarrhea) (95,97–
+in conducting DTA studies for BAD is the lack of a widely ac-         99). Although observational studies can provide evidence of
+cepted or universally agreed-upon reference standard because          significant association or correlation between predictor and
+the condition is defined and classified based on pathophysio-         outcome variables, they cannot prove causality because there
+logic mechanisms and its response to treatment (BAST). In             are always residual confounding variables (unmeasured or im-
+addition, the index tests (SeHCAT, C4, FGF19, fecal bile acid         precisely measured) that may have affected the results. Spurious
+assay) provide a continuous measure of metabolic function.            associations also can arise with reverse causality. Future prospec-
+Hence, DTA studies are not the most appropriate study design          tive studies are required to validate the diagnostic accuracy for
+(41). In studies in which all patients are tested with the index      BAD of primary bile acids at various cut-off concentrations in a
+tests and all patients are treated with BAST, response to treat-      single stool sample against a reference standard (i.e., the ability
+ment can provide an imperfect, but the best available, reference      of this test to accurately predict response to BAST).
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                             e25
+
+   RCTs are needed to compare cholestyramine with other                SUPPLEMENTARY DATA
+BASTs for the treatment of BAD. In addition, evidence is
+                                                                       Supplementary data are available at Journal of the Canadian
+needed to guide dosing schedules. This includes assessment
+                                                                       Association of Gastroenterology online.
+of whether there is any advantage to morning versus eve-
+ning dosing and once-daily versus divided doses of BAST
+to maximize benefits and minimize interactions with other              Acknowledgments
+medications. Theoretically, there may be some efficacy benefits        The consensus group would like to thank Pauline Lavigne and Steven
+to targeting dosing to times of maximum gallbladder emptying,          Portelance (unaffiliated) who provided medical writing services and
+such as postprandially or in the morning, but more research is         editorial assistance on their behalf, supported by funds from the
+needed. In hypercholesterolemia there were no significant vari-        Canadian Association of Gastroenterology; and Paul Sinclair, Cindy
+ations in the hypocholesterolemic effects when cholestyramine          Roll and Adria Cehovin (Canadian Association of Gastroenterology
+was timed with meals to optimize exposure to bile in the du-           representatives: administrative and technical support, and logistical
+                                                                       assistance).
+odenum that followed gallbladder emptying (100). However,
+
+
+
+
+                                                                                                                                                  Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+                                                                          As per Canadian Association of Gastroenterology policy for all
+the relevant mechanisms in BAD may be different, particularly
+                                                                       clinical practice guidelines, the manuscript was made available to all
+because the therapeutic aim is to reduce the effects of free secre-
+                                                                       Canadian Association of Gastroenterology members for commenting
+tory bile acid in the colon.                                           before submission for publication. Members were notified that the
+   In conclusion, current evidence suggests that the accuracy of       manuscript was available on the members-only section of the Canadian
+diagnostic tests (e.g., SeHCAT, C4) in predicting BAD or re-           Association of Gastroenterology website and open for comment for a
+sponse to treatment are highly uncertain. Economic evaluation          2-week period.
+suggests that strategies of either an empiric trial of BAST or per-
+forming SeHCAT testing may be cost effective depending on
+                                                                       Funding
+the scenarios and society’s willingness to pay. Therefore, either
+                                                                       This guideline was supported through unrestricted grants to the
+strategy may be used to identify patients with possible BAD
+                                                                       Canadian Association of Gastroenterology by Pendopharm and
+depending on cost, available resources, local expertise and pa-
+                                                                       GE Healthcare Canada, neither of which had any involvement in
+tient preferences.
+                                                                       the development of this guideline. The Canadian Association of
+                                                                       Gastroenterology administered all aspects of the meeting, and the
+Canadian Association of Gastroenterology Statement                     funding sources had no involvement in the process at any point, and
+This clinical practice guideline on the management of BAD              were not made aware of any part of the process from the development
+was developed under the direction of Dr Daniel Sadowski, in            of search strings and the statements, to drafting and approval of these
+accordance with the policies and procedures of the Canadian            guidelines.
+Association of Gastroenterology and under the direction
+of the Canadian Association of Gastroenterology Clinical               Conflicts of interest
+Affairs. It has been reviewed by the Canadian Association
+                                                                       These authors disclose the following: John K. Marshall has served on
+of Gastroenterology Practice Affairs and Clinical Affairs              the advisory boards of AbbVie, Allergan, AstraZeneca, Boehringer-
+Committees and the Canadian Association of Gastroenterology            Ingelheim, Celgene, Celltrion, Ferring, Hospira, Janssen, Merck,
+Board of Directors. The clinical practice guideline was devel-         Pfizer, Pharmascience, Shire, and Takeda, has consulted for Lupin,
+oped after a thorough consideration of medical literature and          Merck, and Pharmascience, and has served on the speaker’s bureau
+the best available evidence and clinical experience. It represents     for AbbVie, Allergan, Ferring, Janssen, Shire, and Takeda; Michael
+the consensus of a Canadian, U.S. and UK panel comprising              Camilleri has served on the advisory boards of Allergan and BioKier,
+experts on this topic. The clinical practice guideline aims to pro-    has consulted for AstraZeneca, Dignify Therapeutics, Elobix AB,
+vide a reasonable and practical approach to care for specialists,      Enterin, Ironwood, Shire, Takeda, and Theravance, and has received
+and allied health professionals are charged with the duty of pro-      educational and/or research grants from Allergan, AstraZeneca, Elira,
+                                                                       NGM Biopharma, Novartis Pharma, Novo Nordisk, and Rhythm;
+viding optimal care to patients and families, and can be subject
+                                                                       William D. Chey has served on the advisory boards of the American
+to change as scientific knowledge and technology advance and
+                                                                       College of Gastroenterology, the American Neurogastroenterology
+as practice patterns evolve. The clinical practice guideline is not
+                                                                       and Motility Society, and the Rome Foundation, and has consulted
+intended to be a substitute for physicians using their individual      for Allergan, Biomerican, IM Health, Ironwood, Nestle, Prometheus
+judgment in managing clinical care in consultation with the pa-        Diagnostics, QOL Medical, Ritter, Salix, and Shire; Julian R. F. Walters
+tient, with appropriate regard to all the individual circumstances     has consulted for ENYO Pharma, GE Healthcare, Intercept Pharma,
+of the patient, diagnostic and treatment options available and         Metacrine, Inc, Novartis Pharma, Pharmascience, Prometheus
+available resources. Adherence to these recommendations will           Diagnostics, and Zealand Pharma, has received educational and/or re-
+not necessarily produce successful outcomes in every case.             search grants from ENYO Pharma, GE Healthcare, Intercept Pharma,
+e26                                                                               Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1
+
+Novartis Pharma, and Prometheus Diagnostics, and has served on the                            26. Borghede MK, Schlütter JM, Agnholt JS, et al. Bile acid malabsorption investigated
+                                                                                                  by selenium-75-homocholic acid taurine ((75)SeHCAT) scans: Causes and treat-
+speaker’s bureau of GE Healthcare; and Eldon A. Shaffer has served on
+                                                                                                  ment responses to cholestyramine in 298 patients with chronic watery diarrhoea. Eur
+the speaker’s bureau of Pendopharm. The remaining authors disclose                                J Intern Med 2011;22(6):e137–40.
+no conflicts.                                                                                 27. Ludgate SM, Merrick MV. The pathogenesis of post-irradiation chronic diarrhoea:
+                                                                                                  Measurement of SeHCAT and B12 absorption for differential diagnosis determines
+                                                                                                  treatment. Clin Radiol 1985;36(3):275–8.
+                                                                                              28. Smith MJ, Cherian P, Raju GS, et al. Bile acid malabsorption in persistent diarrhoea. J
+References                                                                                        R Coll Physicians Lond 2000;34(5):448–51.
+1.  Scallan E, Majowicz SE, Hall G, et al. Prevalence of diarrhoea in the community in        29. Murray IA, Murray LK, Woolson KL, et al. Incidence and predictive factors for positive
+    Australia, Canada, Ireland, and the United States. Int J Epidemiol 2005;34(2):454–60.         75SeHCAT test: Improving the diagnosis of bile acid diarrhoea. Scand J Gastroenterol
+2. Fine KD, Schiller LR. AGA technical review on the evaluation and management of                 2017;52(6–7):698–703.
+    chronic diarrhea. Gastroenterology 1999;116(6):1464–86.                                   30. Valdes Olmos R, den Hartog Jager F, Hoefnagel C, et al. Imaging and retention
+3. Barkun AN, Love J, Gould M, et al. Bile acid malabsorption in chronic diarrhea:                measurements of selenium 75 homocholic acid conjugated with taurine, and the
+    Pathophysiology and treatment. Can J Gastroenterol 2013;27(11):653–9.                         carbon 14 glycochol breath test to document ileal dysfunction due to late radiation
+4. Schiller LR, Pardi DS, Sellin JH. Chronic diarrhea: Diagnosis and management. Clin             damage. Eur J Nucl Med 1991;18:124–8.
+    Gastroenterol Hepatol 2017;15(2):182–93.e3.                                               31. Ung KA, Kilander AF, Lindgren A, et al. Impact of bile acid malabsorption on
+5. Mottacki N, Simrén M, Bajor A. Review article: Bile acid diarrhoea - pathogenesis,             steatorrhoea and symptoms in patients with chronic diarrhoea. Eur J Gastroenterol
+
+
+
+
+                                                                                                                                                                                                Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+    diagnosis and management. Aliment Pharmacol Ther 2016;43(8):884–98.                           Hepatol 2000;12(5):541–7.
+6. Wedlake L, A’Hern R, Russell D, et al. Systematic review: The prevalence of idiopathic     32. Pattni SS, Brydon WG, Dew T, et al. Fibroblast growth factor 19 in patients with bile
+    bile acid malabsorption as diagnosed by SeHCAT scanning in patients with diarrhoea-           acid diarrhoea: A prospective comparison of FGF19 serum assay and SeHCAT reten-
+    predominant irritable bowel syndrome. Aliment Pharmacol Ther 2009;30(7):707–17.               tion. Aliment Pharmacol Ther 2013;38(8):967–76.
+7. Galatola G, Ferraris R, Pellerito R, et al. The prevalence of bile acid malabsorption      33. Bajor A, Törnblom H, Rudling M, et al. Increased colonic bile acid exposure: A rele-
+    in irritable bowel syndrome and the effect of cholestyramine: An uncontrolled open            vant factor for symptoms and treatment in IBS. Gut 2015;64(1):84–92.
+    multicentre study. Eur J Gastroenterol Hepatol 1992;4:533–7.                              34. Stotzer PO, Abrahamsson H, Bajor A, et al. Are the definitions for chronic diarrhoea
+8. Sciarretta G, Furno A, Mazzoni M, et al. Post-cholecystectomy diarrhea: Evidence               adequate? Evaluation of two different definitions in patients with chronic diarrhoea.
+    of bile acid malabsorption assessed by SeHCAT test. Am J Gastroenterol                        United European Gastroenterol J 2015;3(4):381–6.
+    1992;87(12):1852–4.                                                                       35. Williams AJ, Merrick MV, Eastwood MA. Idiopathic bile acid malabsorption–a review
+9. American Gastroenterological Association medical position statement: Guidelines                of clinical presentation, diagnosis, and response to treatment. Gut 1991;32(9):1004–6.
+    for the evaluation and management of chronic diarrhea. Gastroenterology                   36. Aziz I, Mumtaz S, Bholah H, et al. High prevalence of idiopathic bile acid diarrhea
+    1999;116:1461–3.                                                                              among patients with diarrhea-predominant irritable bowel syndrome based on Rome
+10. Thomas PD, Forbes A, Green J, et al. Guidelines for the investigation of chronic              III Criteria. Clin Gastroenterol Hepatol 2015;13(9):1650–5.e2.
+    diarrhoea, 2nd edition. Gut 2003;52(Suppl 5):v1–15.                                       37. Sciarretta G, Vicini G, Fagioli G, et al. Use of 23-selena-25-homocholyltaurine
+11. Arasaradnam RP, Brown S, Forbes A, et al. Guidelines for the investigation of                 to detect bile acid malabsorption in patients with illeal dysfunction or diarrhea.
+    chronic diarrhoea in adults: British Society of Gastroenterology, 3rd edition. Gut            Gastroenterology 1986;91(1):1–9.
+    2018;67(8):1380–99.                                                                       38. Lin S, Sanders DS, Gleeson JT, et al. Long-term outcomes in patients diagnosed with
+12. Guyatt GH, Oxman AD, Vist GE, et al.; GRADE Working Group. GRADE: An                          bile-acid diarrhoea. Eur J Gastroenterol Hepatol 2016;28(2):240–5.
+    emerging consensus on rating quality of evidence and strength of recommendations.         39. Bannaga A, Kelman L, O’Connor M, et al. How bad is bile acid diarrhoea: An online survey of
+    BMJ 2008;336(7650):924–6.                                                                     patient-reported symptoms and outcomes. BMJ Open Gastroenterol 2017;4(1):e000116.
+13. Sultan S, Falck-Ytter Y, Inadomi JM. The AGA institute process for developing clin-       40. Sciarretta G, Fagioli G, Furno A, et al. 75Se HCAT test in the detection of bile acid
+    ical practice guidelines part one: Grading the evidence. Clin Gastroenterol Hepatol           malabsorption in functional diarrhoea and its correlation with small bowel transit. Gut
+    2013;11(4):329–32.                                                                            1987;28(8):970–5.
+14. Enns RA, Hookey L, Armstrong D, et al. Clinical practice guidelines for the use of        41. Riemsma R, Al M, Corro Ramos I, et al. SeHCAT [tauroselcholic (selenium-75)
+    video capsule endoscopy. Gastroenterology 2017;152(3):497–514.                                acid] for the investigation of bile acid malabsorption and measurement of bile acid
+15. Nguyen GC, Seow CH, Maxwell C, et al.; IBD in Pregnancy Consensus Group;                      pool loss: A systematic review and cost-effectiveness analysis. Health Technol Assess
+    Canadian Association of Gastroenterology. The Toronto consensus statements for                2013;17(61):1–236.m
+    the management of inflammatory bowel disease in pregnancy. Gastroenterology               42. Wilcox C, Turner J, Green J. Systematic review: The management of chronic diarrhoea
+    2016;150(3):734–57.e1.                                                                        due to bile acid malabsorption. Aliment Pharmacol Ther 2014;39(9):923–39.
+16. Fallone CA, Chiba N, van Zanten SV, et al. The Toronto consensus for the treatment of     43. Reid F, Peacock J, Coker B, et al. A multicenter prospective study to investigate the di-
+    helicobacter pylori infection in adults. Gastroenterology 2016;151(1):51–69.e14.              agnostic accuracy of the SeHCAT test in measuring bile acid malabsorption: Research
+17. Bressler B, Marshall JK, Bernstein CN, et al.; Toronto Ulcerative Colitis Consensus           protocol. JMIR Res Protoc 2016;5(1):e13.
+    Group. Clinical practice guidelines for the medical management of nonhospitalized         44. Nyhlin H, Merrick MV, Eastwood MA. Bile acid malabsorption in Crohn’s disease and
+    ulcerative colitis: The Toronto consensus. Gastroenterology 2015;148(5):1035–58.              indications for its assessment using SeHCAT. Gut 1994;35(1):90–3.
+    e3.                                                                                       45. Summers JA, Peacock J, Coker B, et al. Multicentre prospective survey of SeHCAT
+18. Nguyen GC, Bernstein CN, Bitton A, et al. Consensus statements on the risk, pre-              provision and practice in the UK. BMJ Open Gastroenterol 2016;3(1):e000091.
+    vention, and treatment of venous thromboembolism in inflammatory bowel disease:           46. Sauter GH, Münzing W, von Ritter C, et al. Bile acid malabsorption as a cause of
+    Canadian Association of Gastroenterology. Gastroenterology 2014;146(3):835–48.                chronic diarrhea: Diagnostic value of 7alpha-hydroxy-4-cholesten-3-one in serum.
+    e6.                                                                                           Dig Dis Sci 1999;44(1):14–9.
+19. Guyatt GH, Schünemann HJ, Djulbegovic B, et al. Guideline panels should not               47. Färkkilä MA, Kairemo KJ, Taavitsainen MJ, et al. Plasma lathosterol as a screening test
+    GRADE good practice statements. J Clin Epidemiol 2015;68(5):597–600.                          for bile acid malabsorption due to ileal resection: Correlation with 75SeHCAT test
+20. Dalkey N. An experimental study of group opinion: The Delphi method. Futures                  and faecal bile acid excretion. Clin Sci (Lond) 1996;90(4):315–9.
+    1969;1:408–26.                                                                            48. Brydon WG, Nyhlin H, Eastwood MA, et al. Serum 7 alpha-hydroxy-4-cholesten-3-
+21. Cook DJ, Greengold NL, Ellrodt AG, et al. The relation between systematic reviews             one and selenohomocholyltaurine (SeHCAT) whole body retention in the assess-
+    and practice guidelines. Ann Intern Med 1997;127(3):210–6.                                    ment of bile acid induced diarrhoea. Eur J Gastroenterol Hepatol 1996;8(2):117–23.
+22. Alonso-Coello P, Schünemann HJ, Moberg J, et al.; GRADE Working Group. GRADE              49. Johnston IM, Nolan JD, Pattni SS, et al. Characterizing factors associated with
+    Evidence to Decision (EtD) frameworks: A systematic and transparent approach to               differences in fgf19 blood levels and synthesis in patients with primary bile acid diar-
+    making well informed healthcare choices. 1: Introduction. BMJ 2016;353:i2016.                 rhea. Am J Gastroenterol 2016;111(3):423–32.
+23. Guyatt GH, Oxman AD, Kunz R, et al.; GRADE Working Group. Going from evi-                 50. Borup C, Syversen C, Bouchelouche P, et al. Diagnosis of bile acid diarrhoea by fasting
+    dence to recommendations. BMJ 2008;336(7652):1049–51.                                         and postprandial measurements of fibroblast growth factor 19. Eur J Gastroenterol
+24. Gracie DJ, Kane JS, Mumtaz S, et al. Prevalence of, and predictors of, bile acid              Hepatol 2015;27(12):1399–402.
+    malabsorption in outpatients with chronic diarrhea. Neurogastroenterol Motil              51. Vijayvargiya P, Camilleri M, Carlson P, et al. Performance characteristics of serum
+    2012;24(11):983–e538.                                                                         C4 and FGF19 measurements to exclude the diagnosis of bile acid diarrhoea in IBS-
+25. Kurien M, Evans KE, Leeds JS, et al. Bile acid malabsorption: An under-investigated           diarrhoea and functional diarrhoea. Aliment Pharmacol Ther 2017;46(6):581–8.
+    differential diagnosis in patients presenting with diarrhea predominant irritable bowel   52. Camilleri M. Physiological underpinnings of irritable bowel syndrome:
+    syndrome type symptoms. Scand J Gastroenterol 2011;46(7–8):818–22.                            Neurohormonal mechanisms. J Physiol 2014;592(14):2967–80.
+Journal of the Canadian Association of Gastroenterology, 2020, Vol. 3, No. 1                                                                                                        e27
+
+53. Vijayvargiya P, Camilleri M. Current practice in the diagnosis of bile acid diarrhea.       76. Williams CN, Dickson RC. Cholestyramine and medium-chain triglyceride in pro-
+    Gastroenterology 2019;156(5):1233–8.                                                             longed management of patients subjected to ileal resection or bypass. Can Med Assoc
+54. Pattni SS, Brydon WG, Dew T, et al. Fibroblast growth factor 19 and 7α-hydroxy-                  J 1972;107(7):626–31.
+    4-cholesten-3-one in the diagnosis of patients with possible bile acid diarrhea. Clin       77. Ford GA, Preece JD, Davies IH, et al. Use of the SeHCAT test in the investigation of
+    Transl Gastroenterol 2012;3:e18.                                                                 diarrhoea. Postgrad Med J 1992;68(798):272–6.
+55. Brydon WG, Culbert P, Kingstone K, et al. An evaluation of the use of serum 7-alpha-        78. Worobetz L, Wilkinson A, Chmielowiec C, et al. Evaluation of SeHCAT test in de-
+    hydroxycholestenone as a diagnostic test of bile acid malabsorption causing watery               termining ileal involvement and dysfunction in Crohn’s disease. Can J Gastroenterol
+    diarrhea. Can J Gastroenterol 2011;25(6):319–23.                                                 1993;7:597–601.
+56. Damsgaard B, Dalby HR, Krogh K, et al. Long-term effect of medical treatment of             79. Yeoh EK, Horowitz M, Russo A, et al. Gastrointestinal function in chronic radiation
+    diarrhoea in 377 patients with SeHCAT scan diagnosed bile acid malabsorption from                enteritis–effects of loperamide-N-oxide. Gut 1993;34(4):476–82.
+    2003 to 2016; a retrospective study. Aliment Pharmacol Ther 2018;47(7):951–7.               80. Valdés Olmos RA, Taal BG, Hoefnagel CA, et al. 75SeHCAT in the assessment of
+57. Ung KA, Kilander A, Nilsson O, et al. Long-term course in collagenous colitis and the            improved bile acid absorption in patients with ileal damage by delaying bowel mo-
+    impact of bile acid malabsorption and bile acid sequestrants on histopathology and               tility with loperamide. Eur J Gastroenterol Hepatol 1993;5:941–6.
+    clinical features. Scand J Gastroenterol 2001;36(6):601–9.                                  81. Menon S, Jones BJ. Postinfective bile acid malabsorption: Is this a long-term condi-
+58. Pardi DS. Diagnosis and management of microscopic colitis. Am J Gastroenterol                    tion? Eur J Gastroenterol Hepatol 2011;23(4):308–10.
+    2017;112(1):78–85.                                                                          82. Watson L, Lalji A, Bodla S, et al. Management of bile acid malabsorption using low-fat
+59. Fernandez-Bañares F, Esteve M, Salas A, et al. Bile acid malabsorption in micro-                 dietary interventions: A useful strategy applicable to some patients with diarrhoea-
+    scopic colitis and in previously unexplained functional chronic diarrhea. Dig Dis Sci            predominant irritable bowel syndrome? Clin Med (Lond) 2015;15(6):536–40.
+
+
+
+
+                                                                                                                                                                                              Downloaded from https://academic.oup.com/jcag/article/3/1/e10/5661094 by guest on 11 July 2026
+    2001;46(10):2231–8.                                                                         83. Lodalis (colesevelam) Product Monograph. Laval, Quebec, Canada: Valeant Canada
+60. Baert D, Coppens M, Burvenich P, et al. Chronic diarrhoea in non collagenous micro-              LP, October 16, 2014.
+    scopic colitis: Therapeutic effect of cholestyramine. Acta Clin Belg 2004;59(5):258–62.     84. Colestid (colestipol) Product Monograph. Kirkland, Quebec, Canada: Pfizer
+61. Fan X, Sellin JH. Review article: Small intestinal bacterial overgrowth, bile acid mal-          Canada, Inc, October 7, 2013.
+    absorption and gluten intolerance as possible causes of chronic watery diarrhoea.           85. Camilleri M. Drug-resin drug interactions in patients with delayed gastric emptying:
+    Aliment Pharmacol Ther 2009;29(10):1069–77.                                                      What is optimal time window for drug administration? Neurogastroenterol Motil
+62. Bures J, Cyrany J, Kohoutova D, et al. Small intestinal bacterial overgrowth syndrome.           2016;28(8):1268–71.
+    World J Gastroenterol 2010;16(24):2978–90.                                                  86. Scaldaferri F, Pizzoferrato M, Ponziani FR, et al. Use and indications of
+63. Fernández-Bañares F, Rosinach M, Piqueras M, et al. Randomised clinical trial:                   cholestyramine and bile acid sequestrants. Intern Emerg Med 2013;8(3):205–10.
+    Colestyramine vs. hydroxypropyl cellulose in patients with functional chronic watery        87. Steinmetz KL, Schonder KS. Colesevelam: Potential uses for the newest bile resin.
+    diarrhoea. Aliment Pharmacol Ther 2015;41(11):1132–40.                                           Cardiovasc Drug Rev 2005;23(1):15–30.
+64. Brydon WG, Walters JR, Ghosh S, et al. Letter: Hydroxypropyl cellulose as therapy           88. Gross L, Brotman M. Hypoprothrombinemia and hemorrhage associated with
+    for chronic diarrhoea in patients with bile acid malabsorption - possible mechanisms.            cholestyramine therapy. Ann Intern Med 1970;72(1):95–6.
+    Aliment Pharmacol Ther 2016;44(3):306–7.                                                    89. Vroonhof K, van Rijn HJ, van Hattum J. Vitamin K deficiency and bleeding after long-
+65. Torcello-Gómez A, Fernández Fraguas C, Ridout MJ, et al. Effect of substituent pat-              term use of cholestyramine. Neth J Med 2003;61(1):19–21.
+    tern and molecular weight of cellulose ethers on interactions with different bile salts.    90. Shojania AM, Grewar D. Hypoprothrombinemic hemorrhage due to cholestyramine
+    Food Funct 2015;6(3):730–9.                                                                      therapy. CMAJ 1986;134(6):609–10.
+66. Tsuchida E, Yamamoto K, Miyatake K, et al. Molecular assembly of cholesterol-bearing        91. Sadler LC, Lane M, North R. Severe fetal intracranial haemorrhage during treatment
+    poly (allylamine) for binding bile salts in water. Macromolecules 1997;30:4235–7.                with cholestyramine for intrahepatic cholestasis of pregnancy. Br J Obstet Gynaecol
+67. Orekoya O, McLaughlin J, Leitao E, et al. Quantifying bile acid malabsorption helps              1995;102(2):169–70.
+    predict response and tailor sequestrant therapy. Clin Med (Lond) 2015;15(3):252–7.          92. West RJ, Lloyd JK. The effect of cholestyramine on intestinal absorption. Gut
+68. Eriksson M, Hådell K, Holme I, et al. Compliance with and efficacy of treatment with             1975;16(2):93–8.
+    pravastatin and cholestyramine: A randomized study on lipid-lowering in primary             93. Westergaard H. Bile Acid malabsorption. Curr Treat Options Gastroenterol
+    care. J Intern Med 1998;243(5):373–80.                                                           2007;10(1):28–33.m
+69. Ooi CP, Loke SC. Colesevelam for type 2 diabetes mellitus. Cochrane Database Syst           94. Camilleri M, Busciglio I, Acosta A, et al. Effect of increased bile acid synthesis
+    Rev 2012;12:CD009361.                                                                            or fecal excretion in irritable bowel syndrome-diarrhea. Am J Gastroenterol
+70. Beigel F, Teich N, Howaldt S, et al. Colesevelam for the treatment of bile acid                  2014;109(10):1621–30.
+    malabsorption-associated diarrhea in patients with Crohn’s disease: A randomized,           95. Vijayvargiya P, Camilleri M, Chedid V, et al. Analysis of fecal primary bile acids
+    double-blind, placebo-controlled study. J Crohns Colitis 2014;8(11):1471–9.                      detects increased stool weight and colonic transit in patients with chronic functional
+71. Ung KA, Gillberg R, Kilander A, et al. Role of bile acids and bile acid binding agents in        diarrhea. Clin Gastroenterol Hepatol 2019;17(5):922–9.e2.
+    patients with collagenous colitis. Gut 2000;46(2):170–5.                                    96. Camilleri M. Trial to understand efficacy of colesevelam in diarrhea predominant
+72. Wedlake L, Thomas K, Lalji A, et al. Effectiveness and tolerability of colesevelam hy-           IBS patients with bile acid malabsorption. Last update 2017. Available at: https://
+    drochloride for bile-acid malabsorption in patients with cancer: A retrospective chart           clinicaltrials.gov/ct2/show/NCT03270085. Accessed December 6, 2018.
+    review and patient questionnaire. Clin Ther 2009;31(11):2549–58.                            97. Dior M, Delagrèverie H, Duboc H, et al. Interplay between bile acid metab-
+73. Olestyr (cholestyramine) Product Monograph. Montreal, Quebec, Canada:                            olism and microbiota in irritable bowel syndrome. Neurogastroenterol Motil
+    Pharmascience, Inc, 2017.                                                                        2016;28(9):1330–40.
+74. Hofmann AF, Poley JR. Role of bile acid malabsorption in pathogenesis of diar-              98. Hou RG, Fan L, Liu JJ, et al. Bile acid malabsorption is associated with diarrhea in
+    rhea and steatorrhea in patients with ileal resection. I. Response to cholestyramine             acute phase of colitis. Can J Physiol Pharmacol 2018;96(12):1328–36.
+    or replacement of dietary long chain triglyceride by medium chain triglyceride.             99. Arya LA. Rationale for investigating stool metabolites and microbiota in women with
+    Gastroenterology 1972;62(5):918–34.                                                              fecal incontinence. Dis Colon Rectum 2017;60(2):249–52.
+75. Poley JR, Hofmann AF. Role of fat maldigestion in pathogenesis of steatorrhea               100. Sirtori M, Pazzucconi F, Gianfranceschi G, et al. Efficacy of cholestyramine
+     in ileal resection. Fat digestion after two sequential test meals with and without              does not vary when taken before or during meals. Atherosclerosis
+     cholestyramine. Gastroenterology 1976;71(1):38–44.                                              1991;88(2–3):249–52.
+

@@ -1,0 +1,1078 @@
+nature medicine
+
+Article                                                                                                   https://doi.org/10.1038/s41591-023-02565-4
+
+
+MDMA-assisted therapy for moderate
+to severe PTSD: a randomized,
+placebo-controlled phase 3 trial
+
+Received: 2 June 2023                                    Jennifer M. Mitchell 1,2,3 , Marcela Ot’alora G. 4, Bessel van der Kolk5,
+                                                         Scott Shannon6, Michael Bogenschutz 7, Yevgeniy Gelfand8, Casey Paleos9,
+Accepted: 24 August 2023
+                                                         Christopher R. Nicholas10, Sylvestre Quevedo2,11, Brooke Balliett12,
+Published online: 14 September 2023                      Scott Hamilton13, Michael Mithoefer 14, Sarah Kleiman15,
+                                                         Kelly Parker-Guilbert16, Keren Tzarfaty17,18, Charlotte Harrison13,
+    Check for updates
+                                                         Alberdina de Boer19, Rick Doblin20, Berra Yazar-Klosinski13 & MAPP2 Study
+                                                         Collaborator Group*
+
+
+                                                         This multi-site, randomized, double-blind, confirmatory phase 3 study evaluated
+                                                         the efficacy and safety of 3,4-methylenedioxyme­thamphetamine-assisted
+                                                         therapy (MDMA-AT) versus placebo with identical therapy in participants
+                                                         with moderate to severe post-traumatic stress disorder (PTSD). Changes in
+                                                         Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) total severity score
+                                                         (primary endpoint) and Sheehan Disability Scale (SDS) functional impairment
+                                                         score (key secondary endpoint) were assessed by blinded independent
+                                                         assessors. Participants were randomized to MDMA-AT (n = 53) or placebo with
+                                                         therapy (n = 51). Overall, 26.9% (28/104) of participants had moderate PTSD, and
+                                                         73.1% (76/104) of participants had severe PTSD. Participants were ethnoracially
+                                                         diverse: 28 of 104 (26.9%) identified as Hispanic/Latino, and 35 of 104 (33.7%)
+                                                         identified as other than White. Least squares (LS) mean change in CAPS-5 score
+                                                         (95% confidence interval (CI)) was −23.7 (−26.94, −20.44) for MDMA-AT versus
+                                                         −14.8 (−18.28, −11.28) for placebo with therapy (P < 0.001, d = 0.7). LS mean
+                                                         change in SDS score (95% CI) was −3.3 (−4.03, −2.60) for MDMA-AT versus −2.1
+                                                         (−2.89, −1.33) for placebo with therapy (P = 0.03, d = 0.4). Seven participants
+                                                         had a severe treatment emergent adverse event (TEAE) (MDMA-AT, n = 5 (9.4%);
+                                                         placebo with therapy, n = 2 (3.9%)). There were no deaths or serious TEAEs.
+                                                         These data suggest that MDMA-AT reduced PTSD symptoms and functional
+                                                         impairment in a diverse population with moderate to severe PTSD and was
+                                                         generally well tolerated. ClinicalTrials.gov identifier: NCT04077437.
+
+
+Post-traumatic stress disorder (PTSD) is a serious neuropsychiatric                comorbidities, such as mood disorders and alcohol and substance
+condition affecting approximately 5% of the US population each year1.              use disorders2–4. Together, these factors are associated with symptom
+Managing PTSD is particularly complicated in individuals experiencing              exacerbation, treatment resistance and treatment discontinuation3,5.
+the dissociative subtype of PTSD, recurrent exposure to trauma and                 Trauma-focused psychotherapies are the gold standard treatment for
+
+
+A full list of affiliations appears at the end of the paper.   e-mail: jennifer.mitchell@ucsf.edu
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                             2473
+Article                                                                                                             https://doi.org/10.1038/s41591-023-02565-4
+
+
+                                                                     324 screened participantsa
+
+
+                                                                                                                         203 participants excluded after screening
+
+
+                                                                       121 enrolled participants
+
+                                                                                                                       17 participants excluded after enrollment
+                                                                                                                           12 did not meet inclusion/exclusion criteria
+                                                                                                                           1 declined to participate
+                                                                                                                           4 excluded for other reasonsb
+                                                             104 participants had enrollment confirmed,
+                                                             completed the preparatory session baseline
+                                                           endpoint (T1) and randomized to treatment (ITT)
+
+
+
+
+   53 participants randomized to MDMA-AT and completed                                                 51 participants randomized to placebo with therapy and
+      the first experimental session                                                                       completed the first experimental session
+   53 completed the T2 endpoint (mITT set)                                                                 3 chose to discontinue treatment
+                                                                                                           1 chose to discontinue treatment with no outcome
+                                                                                                              data (excluded from mITT)
+                                                                                                           1 discontinued due to an AE
+                                                                                                       50 completed the T2 endpoint (mITT set)
+
+
+
+   53 participants completed experimental session 2                                                    46 participants completed experimental session 2
+   53 completed the T3 endpoint                                                                           2 chose to discontinue treatment (1 missed CAPS-5 T3)
+                                                                                                          1 discontinued due to an AE (1 missed CAPS-5 T3)
+                                                                                                       44 completed the T3 endpoint
+
+
+
+   53 participants completed experimental session 3                                                    43 participants completed experimental session 3
+      1 chose to discontinue treatment                                                                 43 completed the T4 endpoint
+   52 completed the T4 endpoint                                                                           1 completed visit but had missing CAPS-5 T4c
+
+
+
+   52 participants completed the study and were included in                                            43 participants completed the study, and 42 were included
+   the analysis of the de jure estimand                                                                in the analysis of the de jure estimand
+
+Fig. 1 | CONSORT diagram. CONSORT diagram, indicating participant numbers                placebo with therapy group completed the study but had missing item-level data
+and disposition throughout the course of the trial. Endpoint assessments (T1,            on the final CAPS-5 assessment, and the final assessment was not included in the
+T2, T3 and T4) of CAPS-5 and SDS were conducted after each experimental                  analysis of the de jure estimand. AE, adverse event; ITT, intention to treat; mITT,
+session. aThe number of individuals after an initial phone screening who gave            modified intention to treat; T, time of endpoint assessment; T1, baseline; T2,
+informed consent. bOther reasons for exclusion could include withdrawal of               after experimental session 1; T3, after experimental session 2; T4, 6–8 weeks after
+consent, adverse event or death, discontinuation of treatment by investigator,           experimental session 3 (18 weeks after baseline).
+lack of therapeutic rapport and illness or lost to follow-up. cOne participant in the
+
+
+
+PTSD. However, many individuals have persisting symptomology, and                        a disproportionately higher risk of developing PTSD2,23–28. However,
+dropout rates are high6–8. Although the selective serotonin reuptake                     these diverse populations are historically underrepresented in clinical
+inhibitors (SSRIs) sertraline and paroxetine are FDA approved for treat-                 trials29. Here we report the results of MAPP2, the second, confirmatory
+ing PTSD, 35–47% of individuals do not respond to treatment9. More                       phase 3 study that extends the findings of MAPP1 (refs. 12,30) in
+effective, therapeutic interventions are needed to address the immense                   an ethnoracially diverse population with moderate to severe PTSD
+individual, societal and economic burdens of PTSD10,11.                                  (Supplementary Table 1).
+     Mounting evidence supports substituted phenethylamine
+3,4-methylenedioxymethamphetamine-assisted therapy (MDMA-AT)                             Results
+as a treatment for PTSD12,13. MDMA, an entactogen that promotes                          Demographics and baseline characteristics
+monoamine reuptake inhibition and release (primarily by inducing                         Participants were recruited from 21 August 2020 to 18 May 2022 (last
+conformational change of pre-synaptic transporters14–17), effectively                    participant visit on 2 November 2022). Overall, 324 individuals were
+modulates fear memory reconsolidation, enhances fear extinction                          screened, and 121 were enrolled. Of these, 17 individuals did not meet
+and promotes openness and prosocial behavior18–22. Several phase 2                       enrollment confirmation after initiation of preparation therapy, and
+trials indicated that MDMA-AT has an acceptable risk–benefit profile                     104 were confirmed for randomization: 53 were assigned to MDMA-AT
+in individuals with PTSD13. A pivotal phase 3 study (MAPP1) showed                       and 51 to placebo with therapy (Fig. 1). Ninety-four participants com-
+that MDMA-AT was generally well tolerated and met the trial’s primary                    pleted the study, and nine discontinued (n = 1 MDMA-AT; n = 8 placebo
+and secondary endpoints of reduced PTSD symptom severity and                             with therapy) (Fig. 1 and Supplementary Table 3).
+decreased functional impairment12.                                                            Baseline characteristics were generally similar between groups
+     Due to disparities in trauma exposure, gender-diverse and                           (Table 1). In total, 74 of 104 (71.2%) participants were assigned female
+transgender individuals, ethnoracial minorities, first responders,                       sex at birth, with a higher proportion in the placebo with therapy group
+military personnel, veterans and victims of chronic sexual abuse have                    (42/51, 82.4%) than the MDMA-AT group (32/53, 60.4%). Participants
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                                                    2474
+Article                                                                                                        https://doi.org/10.1038/s41591-023-02565-4
+
+
+Table 1 | Demographics and clinical characteristics of                           Table 1 (continued) | Demographics and clinical
+participants at baseline                                                         characteristics of participants at baseline
+
+Characteristic                                       MDMA-AT Placebo with            Characteristic                                        MDMA-AT Placebo with
+                                                     (n = 53) therapy (n = 51)                                                             (n = 53) therapy (n = 51)
+ Age (years), mean (s.d.)                            38.2 (11.0)   40.0 (9.6)        Prior report of MDMA use, n (%)
+ Sex assigned at birth, n (%)                                                          Lifetime reported use                               22 (41.5)     26 (51.0)
+   Male                                              21 (39.6)     9 (17.6)            Reported use in the past 10 years                   13 (24.5)     18 (35.3)
+   Female                                            32 (60.4)     42 (82.4)     a
+                                                                                  Medications were tapered and washed out before baseline assessments and the first
+                                                                                 experimental session, in accordance with the protocol. ACE, adverse childhood experience;
+ Ethnicity, n (%)                                                                BMI, body mass index.
+   Hispanic or Latino                                17 (32.1)     11 (21.6)
+   Not Hispanic or Latino                            36 (67.9)     39 (76.5)
+ Race, n (%)                                                                     were ethnically and racially diverse: 35 of 104 (33.7%) participants iden-
+   American Indian/Alaska Native                     0             2 (3.9)       tified their race as other than White, and 28 of 104 (26.9%) identified
+   Asian                                             5 (9.4)       6 (11.8)
+                                                                                 their ethnicity as Hispanic/Latino. The mean (s.d.) duration of PTSD was
+                                                                                 16.2 (13.3) years. The mean (s.d.) Clinician-Administered PTSD Scale for
+   Black or African American                         5 (9.4)       3 (5.9)
+                                                                                 DSM-5 (CAPS-5) score at baseline was 39.0 (6.6) and was similar between
+   Native Hawaiian/Pacific Islander                  0             1 (2.0)       groups. Overall, 28 of 104 (26.9%) and 76 of 104 (73.1%) participants had
+   White                                             37 (69.8)     32 (62.7)     moderate and severe PTSD, respectively; the dissociative subtype was
+                                                                                 present in 24 of 104 (23.1%) participants.
+   Multiple                                          6 (11.3)      7 (13.7)
+ BMI (kg m−2), mean (s.d.)                           26.3 (5.6)    24.7 (4.9)    Primary outcomes
+ Duration of PTSD (years), mean (s.d.)               16.3 (14.3)   16.1 (12.4)   MDMA-AT significantly attenuated PTSD symptomology versus pla-
+ Dissociative subtype of PTSD, n (%)                 13 (24.5)     11 (21.6)     cebo with therapy, as measured by a reduction in CAPS-5 total severity
+                                                                                 score from baseline to 18 weeks. Mixed models for repeated measures
+ Psychiatric disorder, n (%)
+                                                                                 (MMRM) analysis of the de jure estimand showed a least squares (LS)
+   Comorbid major depression                         49 (92.5)     51 (100)      mean (95% confidence interval (CI)) change of −23.7 (−26.94, −20.44) for
+   Suicidal ideation                                 44 (83.0)     47 (92.2)     MDMA-AT versus −14.8 (−18.28, −11.28) for placebo with therapy (treat-
+ Trauma history, n (%)
+                                                                                 ment difference: −8.9 (−13.70, −4.12), P < 0.001; Fig. 2a). The Cohen’s
+                                                                                 d effect size of MDMA-AT versus placebo with therapy was d = 0.7; the
+   Developmental trauma events                       49 (92.5)     43 (84.3)
+                                                                                 within-group effect sizes were d = 1.95 for MDMA-AT and d = 1.25 for
+   Combat exposure                                   9 (17.0)      6 (11.8)      placebo with therapy. MMRM analysis of the de facto estimand revealed
+   Veteran status                                    9 (17.0)      7 (13.7)      an LS mean change (95% CI) in CAPS-5 scores of −23.7 (−26.97, −20.47)
+                                                                                 for the MDMA-AT group versus −14.8 (−18.24, −11.33) for the placebo
+   Multiple trauma events                            40 (75.5)     45 (88.2)
+                                                                                 with therapy group (P < 0.001).
+ Pre-study PTSD medication, n (%)a
+   Paroxetine                                        1 (1.9)       1 (2.0)       Secondary outcomes
+   Sertraline                                        15 (28.3)     10 (19.6)     MDMA-AT significantly mitigated clinician-rated functional impair-
+                                                                                 ment, as measured by a reduction in the Sheehan Disability Scale (SDS)
+ Pre-study therapy, n (%)
+                                                                                 from baseline. MMRM analysis of the de jure estimand revealed that
+   Cognitive behavioral therapy                      15 (28.3)     14 (27.5)     the LS mean change (95% CI) in SDS total scores was −3.3 (−4.03, −2.60)
+   Cognitive processing therapy                      1 (1.9)       1 (2.0)       with MDMA-AT versus −2.1 (−2.89, −1.33) with placebo with therapy
+                                                                                 (treatment difference: −1.20 (−2.26, −0.14); P = 0.03, d = 0.4; Fig. 2b).
+   Dialectical behavioral therapy                    4 (7.5)       2 (3.9)
+                                                                                 Improvements were observed across all domains, including family life,
+   Eye movement desensitization reprocessing         17 (32.1)     18 (35.3)     social life and work life (Supplementary Table 4).
+   Group therapy                                     9 (17.0)      15 (29.4)
+   Holotropic breathwork                             0             3 (5.9)       Exploratory outcomes
+                                                                                 In the MDMA-AT group, 45 of 52 (86.5%) participants were responders with
+   Prolonged exposure therapy                        2 (3.8)       0
+                                                                                 a clinically meaningful improvement at 18 weeks after baseline, defined
+   Psychodynamic therapy                             15 (28.3)     11 (21.6)     as a ≥10-point reduction in CAPS-5 total severity score, versus 29 of 42
+   Other                                             41 (77.4)     42 (82.4)     (69.0%) in the placebo with therapy group (Fig. 3). By study end, 37 of 52
+ Baseline CAPS-5 total severity score, mean (s.d.)   39.4 (6.6)    38.7 (6.7)
+                                                                                 (71.2%) participants in the MDMA-AT group no longer met DSM-5 criteria
+                                                                                 for PTSD versus 20 of 42 (47.6%) participants in the placebo with therapy
+ Baseline PTSD severity, n (%)
+                                                                                 group. Furthermore, 24 of 52 (46.2%) participants in the MDMA-AT group
+   Moderate (CAPS-5 score 28–34)                     13 (24.5)     15 (29.4)     and nine of 42 (21.4%) participants in the placebo with therapy group
+   Severe (CAPS-5 score ≥35)                         40 (75.5)     36 (70.6)     met remission criteria (Fig. 3). The net number of participants needed
+                                                                                 to treat for each responder analysis group was as follows: responder, six;
+ Baseline C-SSRS score, mean (s.d.)
+                                                                                 non-responder, six; loss of diagnosis, four; remission, four.
+   Suicidal ideation                                 0.4 (0.8)     0.3 (0.6)           Covariate analyses demonstrated similar responses to treatment
+   Ideation intensity                                3.0 (5.5)     2.8 (5.3)     regardless of disease severity, risk of hazardous alcohol or substance
+ Baseline BDI-II total score, mean (s.d.)            25.4 (11.9)   25.5 (11.3)   use disorder, severe adverse childhood experiences or dissociative sub-
+                                                                                 type PTSD. The only measured exploratory covariate with a significant
+ ACE questionnaire score, mean (s.d.)                4.8 (2.9)     4.5 (2.7)
+                                                                                 interaction with treatment was lifetime history of SSRI use, which was
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                                               2475
+Article                                                                                                                                    https://doi.org/10.1038/s41591-023-02565-4
+
+      a CAPS-5                                                                                                     seven experienced a severe TEAE (MDMA-AT, n = 5 (9.4%); placebo
+                                          50                                 Placebo with therapy (n = 50)         with therapy, n = 2 (3.9%)). None had a serious TEAE. Two participants
+                                                                                                                   (3.9%) in the placebo with therapy group discontinued treatment due
+                                                                             MDMA-AT (n = 53)
+                                                                                                                   to TEAEs. Frequently reported TEAEs (occurring with incidence >10%
+CAPS-5 total severity score (s.e.m.)
+
+
+
+
+                                          40
+                                                                                                                   and at least twice the prevalence in the MDMA-AT group versus the
+                                                                                                                   placebo with therapy group) included muscle tightness, nausea,
+                                                                                                                   decreased appetite and hyperhidrosis (Table 2). These were
+                                                                                              P < 0.001, d = 0.7   mostly transient and of mild or moderate severity. At least one
+                                          30
+                                                                                                                   treatment-emergent adverse event of special interest (TEAESI)
+                                                                                                                   occurred in six of 53 (11.3%) participants in the MDMA-AT group and
+                                                                                                                   three of 51 (5.9%) participants in the placebo with therapy group
+                                          20                                                                       (Table 2). No TEAESIs of MDMA abuse, misuse, physical dependence
+                                                                                                                   or diversion were reported.
+                                                                                                                        Eight participants (MDMA-AT, n = 7; placebo with therapy, n = 1)
+                                          10                                                                       experienced cardiac TEAEs, which included palpitations (MDMA-AT,
+                                                                                                                   n = 5 (9.4%); placebo with therapy, n = 1 (2.0%)) and tachycardia
+                                               Baseline   After session 1   After session 2      After session 3
+                                                                                                                   (MDMA-AT, n = 2 (3.8%)); all were mild. Nine participants (MDMA-AT,
+      b SDS                                                                                                        n = 7; placebo with therapy, n = 2) experienced vascular TEAEs; all were
+                                           8                                                                       mild, except for one participant in the MDMA-AT group who had a his-
+                                                                                                                   tory of hypertension, who was not taking anti-hypertensive medications
+                                           7
+                                                                                                                   and who experienced a TEAE of moderate hypertension (Supplementary
+                                                                                                                   Table 7). Five participants had cardiac TEAESIs: four participants in the
+                                                                                                                   MDMA-AT group and one participant in the placebo with therapy group
+               SDS total score (s.e.m.)
+
+
+
+
+                                           6
+                                                                                                                   reported palpitations (Supplementary Table 7). Participants in the
+                                                                                              P = 0.03, d = 0.4    MDMA-AT group experienced temporary dose-dependent increases
+                                           5
+                                                                                                                   in mean blood pressure (BP) and pulse during experimental sessions
+                                                                                                                   compared to the placebo with therapy group (Supplementary Table 8).
+                                           4                                                                            Transient increases in heart rate and BP were expected and were
+                                                                                                                   observed during experimental sessions in a dose-dependent manner.
+                                           3                                                                       Greater fluctuations in BP were seen during experimental sessions 2
+                                                                                                                   and 3 in the participants treated with MDMA, most likely due to the
+                                           2                                                                       higher doses of MDMA administered. These transient elevations did
+                                                                                                                   not require clinical intervention, including among the subset of partici-
+                                               Baseline   After session 1   After session 2      After session 3
+                                                                                                                   pants with well-controlled hypertension. Because the current dosing
+Fig. 2 | Measures of efficacy in the MDMA-AT and placebo with therapy                                              regimen involves administering a single, split drug dose under obser-
+groups. a, LS mean change (±s.e.m.) in CAPS-5 total severity score from baseline
+                                                                                                                   vation, for a limited number of times, each after a lengthy washout,
+to after session 3 (primary outcome) for placebo with therapy (n = 50) versus
+                                                                                                                   cardiovascular risk is likely to have been sufficiently mitigated by the
+MDMA-AT (n = 53, P < 0.001, Cohen’s d = 0.7). b, LS mean change (±s.e.m.) in SDS
+                                                                                                                   study procedures and screening measures.
+total score from baseline to after session 3 (key secondary outcome) for placebo
+with therapy (n = 50) versus MDMA-AT (n = 53, P = 0.03, Cohen’s d = 0.4).
+                                                                                                                        Psychiatric TEAEs occurred at a similarly high frequency in both
+                                                                                                                   groups (MDMA-AT, n = 44 (83.0%); placebo with therapy, n = 37 (72.5%)),
+                                                                                                                   with suicidal ideation, insomnia and anxiety reported most frequently.
+associated with improved efficacy of MDMA-AT (P = 0.02; Supplemen-                                                 Psychiatric TEAEs were mostly mild to moderate; three severe events
+tary Table 5). Covariates significantly impacting the main effect were                                             occurred in the MDMA-AT group (5.7%; n = 1 each: dissociation, flash-
+sex assigned at birth and baseline Beck Depression Inventory (BDI)-II                                              back and grief reaction) and two in the placebo with therapy group
+score; female sex assigned at birth and baseline BDI-II score ≥23 were                                             (3.9%; n = 1 each: agitation and anxiety). No severe TEAEs of suicidal
+both associated with improved outcomes irrespective of treatment                                                   ideation or behavior were reported. Two participants in the MDMA-AT
+assignment (P < 0.05).                                                                                             group had suicidality TEAESIs of suicidal ideation, one of whom
+     A blinding survey conducted at study termination showed that                                                  engaged in non-suicidal self-injurious behavior. Two participants in
+33 of 44 (75.0%) participants in the placebo with therapy group were                                               the placebo with therapy group had suicidality TEAESIs; one engaged
+certain or thought they received placebo, whereas nine of 44 (20.5%)                                               in non-suicidal self-injurious behavior, and one had suicidal ideation
+participants inaccurately thought that they received MDMA, and two                                                 and trichotillomania (Supplementary Table 9).
+of 44 (4.5%) participants could not tell. In the MDMA-AT group, 49 of 52                                                More than 80% (87/104) of participants had a lifetime history
+(94.2%) participants were certain or thought that they received MDMA;                                              of suicidal ideation; 13 of 53 (24.5%) in the MDMA-AT group and 12 of
+one of 52 (1.9%) participants inaccurately thought that they received                                              51 (23.5%) in the placebo with therapy group reported suicidal idea-
+placebo; and two of 52 (3.8%) participants could not tell (Supplemen-                                              tion during the final preparation session (V4). The number of par-
+tary Table 6). When asked for the reason for their belief in treatment                                             ticipants reporting positive suicidal ideation varied throughout the
+assignment, most participants in the MDMA-AT group reported attrib-                                                study but collectively never exceeded baseline values in either group
+uting their response on the blinding survey to experiencing positive                                               (Supplementary Fig. 2). Three participants (two MDMA-AT and one
+mental or emotional effect (45/52 (86.5%)) and positive physical effect                                            placebo with therapy) had treatment-emergent active suicidal idea-
+(29/52 (55.8%)), whereas most of the participants in the placebo with                                              tion with at least some intent to act (Columbia-Suicide Severity Rating
+therapy group reported experiencing no effect (28/44 (63.6%)).                                                     Scale (C-SSRS) score of 4 or 5), which was observed on five occasions
+                                                                                                                   (MDMA-AT, three events; placebo with therapy, two events) (Supple-
+Safety                                                                                                             mentary Fig. 2). Of these, one participant in the MDMA-AT group with
+Most participants (102/104, 98.1%) experienced at least one                                                        no suicidal ideation at baseline had the emergence of active suicidal
+treatment-emergent adverse event (TEAE) during the study (Table 2);                                                ideation with at least some intent to act.
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                                                                2476
+Article                                                                                                                                                        https://doi.org/10.1038/s41591-023-02565-4
+
+
+                                                       Placebo with therapy                                                                                                     MDMA-AT
+                   100                                                                                                             100
+
+                   90                                                                                                              90                                                                       86.5
+                                                                                                                                                                                77.4
+                   80                                                                                                              80
+                                                                                                                                                                                                                   71.2
+                                                                                           69.0
+                   70                                                                                                              70
+Participants (%)
+
+
+
+
+                                                                                                                Participants (%)
+                                                                                                                                                                                       60.4
+                          58.0                                 56.8
+                   60                                                                                                              60            52.8
+                                                                                                  47.6                                    47.2                                                                            46.2
+                   50                                   43.2                                                                       50
+                                 42.0
+                                                                                                                                                        39.6
+                   40                                                 34.1                                                         40
+                                                                                    31.0
+                   30                                                                                                              30                                                         26.4
+                                        22.0                                                             21.4                                                            22.6
+                   20                                                                                                              20                                                                13.5
+                                                                             11.4                                                                              9.4
+                    10                                                                                                              10
+                                               2.0
+                    0                                                                                                               0
+                            After session 1               After session 2             After session 3                                       After session 1                After session 2            After session 3
+
+                         Non-responders              Responders          Loss of diagnosis        Remission                              Non-responders              Responders          Loss of diagnosis         Remission
+
+Fig. 3 | Treatment response and remission in the MDMA-AT (n = 53) and                                           and no longer meeting PTSD diagnostic criteria) and remission (loss of diagnosis
+placebo with therapy (n = 50) groups. A ≥10-point reduction in CAPS-5 total                                     and CAPS-5 total severity score of 11 or less) were tracked in both groups as a
+severity score was considered to be clinically meaningful. Responders (≥10-point                                percentage of participants. Non-responders were defined as any CAPS-5 total
+reduction from baseline), loss of diagnosis (≥10-point reduction from baseline                                  severity score change <10-point reduction from baseline.
+
+
+
+
+Discussion                                                                                                      blinding survey data showed that not all participants correctly identi-
+In this confirmatory phase 3 study of participants with moderate to                                             fied the treatment that they received.
+severe PTSD, MDMA-AT significantly improved PTSD symptoms and                                                         Consistent with MAPP1, no new major safety issues were reported.
+functional impairment, as assessed by CAPS-5 and SDS, respectively,                                             Common TEAEs were similar to previous studies and consistent with
+compared to placebo with therapy over 18 weeks. Notably, 45 of 52                                               expected effects of MDMA12,32. Rates of cardiac TEAEs were low, and
+(86.5%) participants treated with MDMA-AT achieved a clinically mean-                                           increases in BP and pulse were mild, transient and consistent with
+ingful benefit, and 37 of 52 (71.2%) participants no longer met criteria for                                    MDMA’s sympathomimetic effects18,33,34. Consistent with PTSD, suicidal
+PTSD by study end. In a historic first, to our knowledge, for psychedelic                                       ideation was observed in both groups. MDMA did not appear to increase
+treatment studies, participants who identified as ethnically or racially                                        this risk, and no suicidal behavior was observed. C-SSRS scores varied
+diverse encompassed approximately half of the study sample. These                                               throughout the study but never exceeded baseline values for either
+findings confirm and extend the results observed in MAPP1 (ref. 12),                                            group. Notably, there were five total events of treatment-emergent
+with general consistency across endpoints.                                                                      C-SSRS scores of 4 or 5: three in the MDMA-AT group and two in the
+      Given the diverse population and degree of participant                                                    placebo with therapy group. MAPP2 enrolled participants with a his-
+complexity, the replication of efficacy is particularly notable. In our                                         tory of suicidality but excluded those with a current, serious imminent
+study, 26.9% (28/104) of participants expressed moderate PTSD,                                                  suicide risk; thus, special attention to this vulnerable population is
+whereas, in MAPP1, all participants expressed severe PTSD12. A sub-                                             warranted in future studies. In alignment with MAPP1 (ref. 12), there
+stantial proportion of participants displayed comorbid features                                                 were no reports of problematic MDMA abuse or dependence, including
+associated with high treatment resistance5, such as major depres-                                               in participants with histories of, or current, alcohol and substance use
+sion, multiple sources of trauma (including childhood and combat                                                disorders. However, it is important to note that participants with any
+trauma) and dissociative subtype PTSD. In keeping with MAPP1,                                                   substance use disorder other than cannabis or alcohol in the 12 months
+treatment was not significantly affected by disease severity, risk of                                           before enrollment were excluded from MAPP2, as were participants
+hazardous alcohol or substance use disorder, severe adverse child-                                              with severe or moderate (in early remission) alcohol or cannabis use
+hood experiences or dissociative subtype. Furthermore, there was                                                disorder. However, exploratory findings from the MAPP1 phase 3 trial
+no observed site-to-site variability and no differential effect if par-                                         indicated that MDMA-AT was actually associated with a significantly
+ticipants stayed overnight after the experimental session. However,                                             greater reduction in mean Alcohol Use Disorder Identification Test
+lifetime history of SSRIs, female sex assigned at birth and BDI-II score                                        change scores compared to placebo with therapy, suggesting that
+≥23 at baseline were associated with positive impacts on outcomes                                               the effects of MDMA-AT on hazardous alcohol use secondary to PTSD
+and may warrant further study based on the exploratory nature of                                                should be further studied35. Long-term data are also needed to assess
+these analyses.                                                                                                 the risk of MDMA abuse or misuse after study participation.
+      MDMA simultaneously induces prosocial feelings and softens                                                      Although the sample sizes of the MAPP1 and MAPP2 phase 3 studies
+responses to emotionally challenging and fearful stimuli19, potentially                                         had 90% statistical power and were developed with guidance from the
+enhancing the ability of individuals with PTSD to benefit from psycho-                                          FDA to ensure adequate, rigorous testing of outcomes, these evalu-
+therapy by reducing sensations of fear, threat and negative emotional-                                          ations did not extend further than 2 months after therapy and were
+ity18,19. The low dropout rate for MDMA-AT has been replicated across                                           intended to support an acute treatment course. To support these
+seven studies, suggesting that MDMA induces a true shift in participant                                         studies, data from the ongoing follow-up of participants from phase
+engagement12,13. In contrast, a recent study comparing psychotherapies                                          2 and 3 studies (ClinicalTrials.gov Identifier: NCT05066282) will be
+in veterans with PTSD reported dropout rates of 55.8% and 46.6% for                                             important for further assessment of the long-term effectiveness of
+prolonged exposure and cognitive processing therapy, respectively31.                                            MDMA-AT in participants with PTSD. It is of interest to note that pooled
+The MAPP2 dropout rate was 1.9% (1/53) in the MDMA-AT group and                                                 phase 2 analyses of participants with at least 12 months of follow-up
+15.7% (8/51) in the placebo with therapy group. The higher proportion                                           after their final MDMA-AT session have shown that LS mean CAPS-IV
+of dropouts in the placebo with therapy group relative to MDMA-AT                                               scores continue to improve between the final session and follow-up32.
+could be attributed to participants receiving less effective treatment                                                Several limitations may impact the integration of MDMA-AT into
+and to disappointment from ineffective therapeutic blinding, although                                           clinical care, including the exclusion of participants with high suicide
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                                                                                                    2477
+Article                                                                                                             https://doi.org/10.1038/s41591-023-02565-4
+
+
+Table 2 | Adverse events occurring during treatment                                         (1) the groups did not separate after the first experimental session;
+                                                                                            (2) placebo with therapy dropouts did not uniformly occur after the first
+                                             MDMA-AT              Placebo with              experimental session; and (3) blinding survey data (Supplementary
+                                             (n = 53)             therapy (n = 51)
+                                                                                            Table 6) showed that not all participants correctly identified the
+ Summary of TEAEs and TEAESIs, n (%)                                                        treatment that they received.
+ Participants with ≥1 TEAE                    53 (100)             49 (96.1)                     The therapists who participated in this study were required to
+                                                                                            complete the sponsor’s training program (see Supplementary Methods
+ Participants with ≥1 severe TEAE             5 (9.4)              2 (3.9)
+                                                                                            for further details). To ensure consistent clinical practice and to miti-
+ Participants with ≥1 serious TEAE            0                    0                        gate harm, it may be of benefit for prescribers to complete additional
+ Participants with ≥1 TEAE leading to         0                    2 (3.9)                  training and continuing education if MDMA-AT is approved for use by
+ study discontinuation                                                                      a regulatory agency.
+ Participants with ≥1 TEAESI                  6 (11.3)             3 (5.9)                       This confirmatory phase 3 trial showed consistent benefits of
+ Most common TEAEs, n (%)
+                   a                                                                        MDMA-AT in an ethnoracially diverse group of individuals with long-
+                                                                                            standing moderate to severe PTSD and numerous comorbidities. The
+ Muscle tightness                             31 (58.5)            13 (25.5)
+                                                                                            dropout rate was low, and treatment was generally well tolerated. These
+ Nausea                                       24 (45.3)            11 (21.6)                findings represent the culmination of over two decades of research39,
+ Decreased appetite                           19 (35.8)            5 (9.8)                  and, together with MAPP1, indicate that further consideration of this
+                                                                                            treatment in individuals with moderate to severe PTSD is warranted.
+ Hyperhidrosis                                18 (34.0)            3 (5.9)
+ Feeling hot                                  14 (26.4)            6 (11.8)                 Online content
+ Feeling cold                                 11 (20.8)            3 (5.9)                  Any methods, additional references, Nature Portfolio reporting sum-
+ Paresthesia                                  10 (18.9)            1 (2.0)                  maries, source data, extended data, supplementary information,
+                                                                                            acknowledgements, peer review information; details of author contri-
+ Chest discomfort                             9 (17.0)             2 (3.9)
+                                                                                            butions and competing interests; and statements of data and code avail-
+ Dry mouth                                    9 (17.0)             4 (7.8)                  ability are available at https://doi.org/10.1038/s41591-023-02565-4.
+ Chills                                       8 (15.1)             1 (2.0)
+ Feeling jittery                              8 (15.1)             0
+                                                                                            References
+                                                                                            1.  US Department of Veteran Affairs. PTSD: National Center for
+ Restlessness                                 8 (15.1)             2 (3.9)                      PTSD. How common is PTSD in adults? (https://www.ptsd.va.gov/
+ Vision blurred                               8 (15.1)             0                            understand/common/common_adults.asp).
+ Bruxism                                      7 (13.2)             1 (2.0)                  2. de Silva, U., Glover, N. & Katona, C. Prevalence of complex
+                                                                                                post-traumatic stress disorder in refugees and asylum seekers:
+ Nystagmus                                    7 (13.2)             1 (2.0)
+                                                                                                systematic review. BJPysch Open 7, e194 (2021).
+ Mydriasis                                    6 (11.3)             0                        3. de Castro Longo, M. S. et al. Comorbidity in post-traumatic stress
+ Tremor                                       6 (11.3)             0                            disorder: a population-based study from the two largest cities in
+a
+ The most common TEAEs occurring with incidence >10% and at least twice the prevalence in       Brazil. J. Affect. Disord. 263, 715–721 (2020).
+the MDMA-AT group versus the placebo with therapy group.                                    4. Hill, S. B. et al. Dissociative subtype of posttraumatic stress
+                                                                                                disorder in women in partial and residential levels of psychiatric
+                                                                                                care. J. Trauma Dissociation 21, 305–318 (2020).
+risk, comorbid personality disorders and underlying cardiovascular                          5. Roberts, N. P., Lotzin, A. & Schäfer, I. A systematic review and
+disease. Observed effect sizes for MDMA-AT (between-group, d = 0.7;                             meta-analysis of psychological interventions for comorbid
+within-subject, d = 1.95) were similar to MAPP1 (ref. 12) (between-group,                       post-traumatic stress disorder and substance use disorder. Eur. J.
+d = 0.91; within-subject, d = 2.1), and, although higher than those                             Psychotraumatol. 13, 2041831 (2022).
+observed in SSRI studies (ranging from 0.09 to 0.56 versus placebo                          6. Lewis, C., Roberts, N. P., Gibson, S. & Bisson, J. I. Dropout from
+for sertraline and paroxetine36), the superiority of MDMA-AT over SSRIs                         psychological therapies for post-traumatic stress disorder
+cannot be assumed without a direct comparison. The complex relation-                            (PTSD) in adults: systematic review and meta-analysis. Eur. J.
+ship between SSRI use/history and MDMA-AT treatment efficacy was                                Psychotraumatol. 11, 1709709 (2020).
+beyond the scope of the current statistical analysis plan and sample                        7. Steenkamp, M. M., Litz, B. T., Hoge, C. W. & Marmar, C. R.
+size but will be important to consider in future studies. In addition,                          Psychotherapy for military-related PTSD: a review of randomized
+further study of MDMA with other forms of psychotherapy for PTSD                                clinical trials. JAMA 314, 489–500 (2015).
+should be explored.                                                                         8. Mavranezouli, I. et al. Psychological treatments for post-traumatic
+      The notable effect seen in the placebo with therapy arm could sug-                        stress disorder in adults: a network meta-analysis. Psychol. Med.
+gest the standalone value of the manualized inner-directed therapy that                         50, 542–555 (2020).
+was developed for use with MDMA. Additional head-to-head studies                            9. Alexander, W. Pharmacotherapy for post-traumatic stress disorder
+will need to be conducted to evaluate whether this form of manualized                           in combat veterans: focus on antidepressants and atypical
+therapy provides greater value in the treatment of PTSD than the cur-                           antipsychotic agents. Pharm. Ther. 37, 32 (2012).
+rent first-line cognitive behavioral therapy and prolonged exposure                         10. Davis, L. L. et al. The economic burden of posttraumatic stress
+therapy treatments37.                                                                           disorder in the United States from a societal perspective. J. Clin.
+      Although treatment expectancy, per se, was not measured in                                Psychiatry 83, 21m14116 (2022).
+this study, prospective treatment expectancy would likely have been                         11. Couette, M., Mouchabac, S., Bourla, A., Nuss, P. & Ferreri, F. Social
+high in both study arms, with random assignment expected to dis-                                cognition in post-traumatic stress disorder: a systematic review.
+tribute this equally between groups. Although expectancy effects                                Br. J. Clin. Psychol. 59, 117–138 (2020).
+are a well-known issue in psychiatric clinical trials and are intertwined                   12. Mitchell, J. M. et al. MDMA-assisted therapy for severe PTSD: a
+with the observation of treatment benefit during a trial38, several                             randomized, double-blind, placebo-controlled phase 3 study.
+observations support expectancy mitigation in the current study:                                Nat. Med. 27, 1025–1033 (2021).
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                                         2478
+Article                                                                                              https://doi.org/10.1038/s41591-023-02565-4
+
+13. Mithoefer, M. C. et al. MDMA-assisted psychotherapy for                 30. Ching, T. H. et al. MDMA-assisted therapy for posttraumatic
+    treatment of PTSD: study design and rationale for phase 3 trials            stress disorder: a pooled analysis of ethnoracial differences in
+    based on pooled analysis of six phase 2 randomized controlled               efficacy and safety from two phase 2 open-label lead-in trials
+    trials. Psychopharmacol. (Berl.) 236, 2735–2745 (2019).                     and a phase 3 randomized, blinded placebo-controlled trial. J.
+14. Nichols, D. E. Entactogens: how the name for a novel class of               Psychopharmacol. 36, 974–986 (2022).
+    psychoactive agents originated. Front. Psychiatry 13, 863088 (2022).    31. Schnurr, P. P. et al. Comparison of prolonged exposure vs
+15. Mayer, F. P. et al. Serotonin-releasing agents with reduced                 cognitive processing therapy for treatment of posttraumatic
+    off-target effects. Mol. Psychiatry 28, 722–732 (2023).                     stress disorder among US veterans: a randomized clinical trial.
+16. Sandtner, W. et al. Binding mode selection determines the action            JAMA Netw. Open 5, e2136921 (2022).
+    of ecstasy homologs at monoamine transporters. Mol. Pharmacol.          32. Jerome, L. et al. Long-term follow-up outcomes of MDMA-assisted
+    89, 165 (2016).                                                             psychotherapy for treatment of PTSD: a longitudinal pooled
+17. Sáez-Briones, P. & Hernández, A. MDMA (3,4-me                               analysis of six phase 2 trials. Psychopharmacol. (Berl.) 237,
+    thylenedioxymethamphetamine) analogues as tools to characterize             2485–2497 (2020).
+    MDMA-like effects: an approach to understand entactogen                 33. Lester, S. J. et al. Cardiovascular effects of
+    pharmacology. Curr. Neuropharmacol. 11, 521–534 (2013).                     3,4-methylenedioxymethamphetamine: a double-blind,
+18. Feduccia, A. A. & Mithoefer, M. C. MDMA-assisted psychotherapy              placebo-controlled trial. Ann. Intern. Med. 133, 969–973 (2000).
+    for PTSD: are memory reconsolidation and fear extinction                34. Vizeli, P. & Liechti, M. E. Safety pharmacology of acute MDMA
+    underlying mechanisms? Prog. Neuropsychopharmacol. Biol.                    administration in healthy subjects. J. Psychopharmacol. 31,
+    Psychiatry 84, 221–228 (2018).                                              576–588 (2017).
+19. Kamilar-Britt, P. & Bedi, G. The prosocial effects of                   35. Nicholas, C. R. et al. The effects of MDMA-assisted therapy on
+    3,4-methylenedioxymethamphetamine (MDMA): controlled                        alcohol and substance use in a phase 3 trial for treatment of
+    studies in humans and laboratory animals. Neurosci. Biobehav.               severe PTSD. Drug Alcohol Depend. 233, 109356 (2022).
+    Rev. 57, 433–446 (2015).                                                36. Feduccia, A. A. et al. Breakthrough for trauma treatment: safety
+20. Vizeli, P. et al. Effects of 3,4-methylenedioxymethamphetamine              and efficacy of MDMA-assisted psychotherapy compared to
+    on conditioned fear extinction and retention in a crossover study           paroxetine and sertraline. Front. Psychiatry 10, 650 (2019).
+    in healthy subjects. Front. Pharm. 13, 906639 (2022).                   37. US Department of Veteran Affairs. PTSD: National Center for PTSD.
+21. Maples-Keller, J. L. et al. A randomized controlled trial of                Clinician’s guide to medications for PTSD (https://www.ptsd.
+    3,4-methylenedioxymethamphetamine (MDMA) and fear                           va.gov/professional/treat/txessentials/clinician_guide_meds.asp).
+    extinction retention in healthy adults. J. Psychopharmacol. 36,         38. Schenberg, E. E. Who is blind in psychedelic research? Letter
+    368–377 (2022).                                                             to the editor regarding: blinding and expectancy confounds in
+22. Hysek, C. M. et al. MDMA enhances emotional empathy and                     psychedelic randomized controlled trials. Expert Rev. Clin. Pharm.
+    prosocial behavior. Soc. Cogn. Affect. Neurosci. 9, 1645–1652               14, 1317–1319 (2021).
+    (2014).                                                                 39. Doblin, R. A clinical plan for MDMA (ecstasy) in the treatment of
+23. Brooks Holliday, S. et al. The association between discrimination           posttraumatic stress disorder (PTSD): partnering with the FDA. J.
+    and PTSD in African Americans: exploring the role of gender.                Psychoact. Drugs 34, 185–194 (2002).
+    Ethn. Health 25, 717–731 (2020).
+24. Goldstein, R. B. et al. The epidemiology of DSM-5 posttraumatic         Publisher’s note Springer Nature remains neutral with regard to
+    stress disorder in the United States: results from the National         jurisdictional claims in published maps and institutional affiliations.
+    Epidemiologic Survey on Alcohol and Related Conditions-III. Soc.
+    Psychiatry Psychiatr. Epidemiol. 51, 1137–1148 (2016).                  Open Access This article is licensed under a Creative Commons
+25. Zimmerman, M., Benjamin, I. & Seijas-Rodriguez, C. Psychiatric          Attribution 4.0 International License, which permits use, sharing,
+    diagnoses among transgender and gender diverse patients                 adaptation, distribution and reproduction in any medium or format,
+    compared to cisgender patients. J. Clin. Psychiatry 83, 21m14062        as long as you give appropriate credit to the original author(s) and the
+    (2022).                                                                 source, provide a link to the Creative Commons licence, and indicate
+26. Herman, J. L. Complex PTSD: a syndrome in survivors of prolonged        if changes were made. The images or other third party material in this
+    and repeated trauma. J. Trauma Stress 5, 377–391 (1992).                article are included in the article’s Creative Commons licence, unless
+27. Schein, J. et al. Prevalence of post-traumatic stress disorder in the   indicated otherwise in a credit line to the material. If material is not
+    United States: a systematic literature review. Curr. Med Res. Opin.     included in the article’s Creative Commons licence and your intended
+    37, 2151–2161 (2021).                                                   use is not permitted by statutory regulation or exceeds the permitted
+28. Lewis-Schroeder, N. F. et al. Conceptualization, assessment,            use, you will need to obtain permission directly from the copyright
+    and treatment of traumatic stress in first responders: a review of      holder. To view a copy of this licence, visit http://creativecommons.
+    critical issues. Harv. Rev. Psychiatry 26, 216–227 (2018).              org/licenses/by/4.0/.
+29. Williams, C. P., Senft Everson, N., Shelburne, N. & Norton, W. E.
+    Demographic and health behavior factors associated with clinical        This is a U.S. Government work and not under copyright protection
+    trial invitation and participation in the United States. JAMA Netw.     in the US; foreign copyright protection may apply 2023, corrected
+    Open 4, e2127792 (2021).                                                publication 2024
+
+
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                           2479
+Article                                                                                                  https://doi.org/10.1038/s41591-023-02565-4
+
+1
+ Neuroscape, Department of Neurology, University of California, San Francisco, San Francisco, CA, USA. 2Department of Psychiatry and Behavioral
+Sciences, University of California, San Francisco, San Francisco, CA, USA. 3Department of Veterans Affairs, Research Service, San Francisco VA Medical
+Center, San Francisco, CA, USA. 4Aguazul-Bluewater, Inc., Boulder, CO, USA. 5Boston University School of Medicine, Boston, MA, USA. 6Wholeness
+Center, Fort Collins, CO, USA. 7Department of Psychiatry, New York University Grossman School of Medicine, New York, NY, USA. 8Zen Therapeutic
+Solutions, Mt. Pleasant, SC, USA. 9Nautilus Sanctuary, New York, NY, USA. 10Department of Family Medicine and Community Health, University of
+Wisconsin School of Medicine and Public Health, Madison, WI, USA. 11San Francisco Insight and Integration Center, San Francisco, CA, USA. 12New School
+Research, LLC, Los Angeles, CA, USA. 13MAPS Public Benefit Corporation, San Jose, CA, USA. 14Medical University of South Carolina, Charleston, SC, USA.
+15
+  Kleiman Consulting and Psychological Services, PC, Ivyland, PA, USA. 16KPG Psychological Services, LLC, Brunswick, ME, USA. 17University of Haifa,
+Haifa, Israel. 18MAPS Israel, Hod Hasharon, Israel. 19Tulip Medical Consulting, LLC, Port Townsend, WA, USA. 20Multidisciplinary Association for Psychedelic
+Studies (MAPS), San Jose, CA, USA. *A list of authors and their affiliations appears at the end of the paper.  e-mail: jennifer.mitchell@ucsf.edu
+
+MAPP2 Study Collaborator Group
+
+Charlotte Harrison13, Berra Yazar-Klosinski13, Wael Garas4, Darrick May6, Cole Marta12, Susan Walker21, Elizabeth Nielson9,22,
+Gregory Wells11, Randall Brown10, Revital Amiaz23, Yair Wallach24, Ray Worthy25, Alia Lilienstein13 & Amy Emerson13
+
+ Trauma Research Foundation, Boston, MA, USA. 22Columbia University Department of Psychiatry and New York State Psychiatric Institute, New York,
+21
+
+
+NY, USA. 23Chaim Sheba Medical Center, Tel Ha’Shomer, Israel. 24Merhavim - The Medical Center for the Treatment of Mind and Soul in Beer Yaakov,
+Be’er Ya’akov, Israel. 25Ray Worthy Psychiatry LLC, New Orleans, LA, USA.
+
+
+
+
+Nature Medicine | Volume 29 | October 2023 | 2473–2480                                                                                               2480
+Article                                                                                                https://doi.org/10.1038/s41591-023-02565-4
+
+Methods                                                                       randomized 1:1 to receive MDMA-AT or placebo with therapy for
+Study design and oversight                                                    approximately 3 months. The treatment period consisted of three
+This multi-site, randomized, double-blind, placebo-controlled study           8-h dosing sessions, in conjunction with therapy, spaced approximately
+assessed the efficacy and safety of MDMA-AT versus placebo with               1 month apart. Therapy was conducted by trained personnel in accord-
+therapy in participants diagnosed with moderate or severe PTSD                ance with the MAPS MDMA-AT treatment manual (https://maps.org/
+(NCT04077437). Thirteen study sites (11 in the United States and two          treatment-manual) and trial protocol. During experimental sessions,
+in Israel, both institutional and private) participated. The trial was con-   and in keeping with the dosing in MAPP1, participants received a split
+ducted in accordance with the Good Clinical Practice guidelines of the        dose of 120–180 mg of MDMA or placebo. For the first experimen-
+International Council for Harmonization and with the ethical principles       tal session, the initial dose of 80 mg was followed by a supplemental
+of the Declaration of Helsinki. An independent data monitoring com-           half-dose of 40 mg. In the second and third experimental sessions,
+mittee ensured that the study was conducted safely and had sufficient         the initial dose of 120 mg was followed by a supplemental half-dose of
+sample size. The review boards and institutions that approved the study       60 mg. The supplemental half dose was administered 1.5–2 h after the
+protocol are listed in the Supplementary Methods.                             initial dose. Participants in both treatment groups received identical
+                                                                              therapy. The 120-mg (80 mg + 40 mg) split dose was selected for the
+Participants                                                                  first experimental session in phase 3 trials to allow patients to acclimate
+After written informed consent, participants were screened for eligibil-      to the treatment regimen using a clinical titration approach based on
+ity. Adults (≥18 years of age) meeting the full DSM-5 criteria for current    clinician recommendations from a phase 2 trial in veterans and first
+PTSD per CAPS-5 assessment40,41 and a CAPS-5 total severity score ≥28         responders13. During the second and third experimental sessions, doses
+(moderate or higher severity) with symptom duration of ≥6 months              were escalated to 180 mg (120 mg + 60 mg), as this was the most fre-
+were eligible for enrollment confirmation. During the Preparation             quently studied efficacious dose in phase 2 trials. This dosing regimen
+Period that preceded the Treatment Period, participants were tapered          also provides clinicians with the option of dose adjustments if needed.
+off all psychiatric medications before baseline to avoid potential drug             Within the MDMA-AT group, three participants did not undergo
+interactions and confounding efficacy (Supplementary Fig. 1). Full            dose escalation in experimental sessions 2 and 3, and two participants
+inclusion and exclusion criteria are outlined in the Supplementary            experienced dose administration timing errors (Supplementary Table 2).
+Methods.                                                                      Each experimental session was followed by three 90-min integration
+                                                                              sessions to support participants in processing and understanding their
+Randomization and masking                                                     experience (Supplementary Fig. 1). Full procedures, including details
+Participants were randomized in a 1:1 allocation and in a blinded fashion     on therapy teams and training, are outlined in the Supplementary
+to the MDMA-AT and placebo with therapy groups, stratified by clinical        Methods.
+site. Randomization was managed via an interactive web randomiza-
+tion system (IWRS) (IT Clinical version 11.0.1) based on a centralized        Outcomes
+randomization schedule developed by an independent third-party                Independent assessors conducted CAPS-5 and SDS outcome assess-
+vendor to maintain blinding.                                                  ments at baseline, after experimental sessions 1 and 2 and 6–8 weeks
+      A central pool of blinded independent assessors was used to             after experimental session 3 (18 weeks after baseline) via video inter-
+mitigate the risk of functional unblinding42. Assessors were trained          views. Primary and secondary objectives were mean change in CAPS-5
+and supervised by independent consultants with expertise in PTSD              total severity and SDS scores, respectively, for MDMA-AT versus
+diagnostics and the CAPS-5 to ensure inter-rater reliability and validity     placebo with therapy from baseline to 18 weeks after baseline.
+of assessments. Supervision involved reviewing each assessor’s first               Exploratory outcome measurements included characterization
+two assessments as well as 20% of all assessments (chosen at random)          of the treatment response and differences between the treatment
+throughout the study, with each review resulting in detailed feedback         groups by demographics and characteristics. Responder analyses
+for the assessor. The independent assessors were blinded to the general       were based on categorical diagnostic assessment data and the CAPS-5
+study design, study visit, treatment assignment, number of treatments         total severity score assessment. PTSD severity was defined using the
+received and any safety data for the participant. Participants were           CAPS-5 total severity score as follows: asymptomatic (0–10), mild
+instructed to withhold their opinion on treatment group assignment            (11–22), moderate (23–34), severe (35–46) and extreme (47+) (ref. 41).
+and the number of completed visits from the independent assessors.            A ≥10-point reduction in CAPS-5 total severity score was considered
+Each assessor conducted no more than one CAPS-5 assessment with               to be clinically meaningful as agreed upon with the FDA through a
+each participant to reduce potential bias and expectancy effect from          Special Protocol Assessment. Four responder categories were derived
+having conducted repeat CAPS-5s with a participant. Assessors were            and compared at each post-experimental session visit using CAPS-5
+also vetted before their onboarding to ensure that there were no con-         scores. These categories were: non-responder (<10-point reduction
+flicts of interest (such as other involvement within the Multidiscipli-       from baseline), responder (≥10-point reduction from baseline), loss of
+nary Association for Psychedelic Studies (MAPS) organization or a             diagnosis (≥10-point reduction from baseline and no longer meeting
+bias toward MDMA-AT), and assessors were instructed to not expose             PTSD diagnostic criteria) and remission (CAPS-5 total severity score of
+themselves to scholarly presentations and papers related to MDMA-AT           11 or less and no longer meeting PTSD diagnostic criteria).
+for PTSD to maintain their blinding to study design.                               Safety objectives included assessment of differences between
+      To ensure that all site and sponsor staff were shielded from study      groups in severity, incidence and frequency of TEAEs, serious TEAEs,
+outcomes, the blinded independent assessor pool collected and stored          TEAESIs, suicidal ideation and behavior and vital signs. TEAEs were
+outcome measures in a dedicated database that was separate from               defined as any adverse event that occurred during the treatment period
+the blinded clinical database. A blinding survey was conducted at             from the first experimental session to the last integration session. The
+study termination (visit 20) to assess if participants thought that they      severity of TEAEs was determined by the site physician as mild (no limi-
+received MDMA or placebo.                                                     tation in normal daily activity), moderate (some limitation in normal
+                                                                              daily activity) or severe (unable to perform normal daily activity). A seri-
+Procedures                                                                    ous TEAE was defined as any unforeseen medical event at any dose of
+Trial procedures were consistent with MAPP1 (ref. 12). Enrolled partici-      the drug that resulted in death; was life-threatening; required inpatient
+pants underwent three 90-min preparation sessions with a two-person           hospitalization; caused significant disability or incapacity; resulted in a
+therapy team, including at least one licensed therapist, and were then        congenital anomaly or birth defect; or required intervention to prevent
+
+
+Nature Medicine
+Article                                                                                               https://doi.org/10.1038/s41591-023-02565-4
+
+permanent impairment or damage. Serious TEAEs also included any              Data availability
+event, based on medical judgement, that jeopardized the participant          The data that support the findings of this study are available from the
+or may have required intervention to prevent one of the events listed        sponsor beginning 1 year after completion of the trial. However, restric-
+previously. With the exception of serious adverse event reporting,           tions apply to the availability of these data, which were used under
+relatedness to study drug was not assessed by investigators, to pre-         license for the current study and so are not publicly available. Data
+serve blinding. In an effort to identify common adverse events that          are, however, available from the authors upon reasonable request and
+may be most related to MDMA, TEAEs occurring with incidence >10%             with the permission of the sponsor. All requests for raw and analyzed
+and at least twice the prevalence in the MDMA-AT group versus the            data are promptly reviewed to verify if the request is subject to any
+placebo with therapy group are reported. Suicidality was tracked at          confidentiality obligations. Participant-related data not included in
+each study visit using the C-SSRS (see the Supplementary Methods             the paper were generated as part of clinical trials and may be subject to
+for more information).                                                       participant confidentiality. Any data that can be shared will be released
+                                                                             via a data use agreement. Proposals should be directed to https:/maps.
+Statistical analysis                                                         org/datause. Source data are provided with this paper.
+SAS version 9.4 (SAS Institute) was used for analyses. Sample size was
+calculated to achieve a power of 90% at an alpha of 0.0499.                  Code availability
+      Efficacy was tested using an MMRM analysis comparing the change        Commercially available software (SAS version 9.4 or higher, SAS Insti-
+from baseline to 18 weeks after baseline in CAPS-5 and SDS scores            tute) was used for analyses, in keeping with the statistical analysis plan.
+between treatment groups in two-sided tests with alpha set at 0.0499.
+The alpha was adjusted to account for an administrative interim analy-       References
+sis for sample size re-estimation conducted after all participants were      40. Weathers, F. W. et al. The Clinician-Administered PTSD Scale for
+enrolled and 60% of primary endpoint data had been collected. Fixed              DSM-5 (CAPS-5) https://www.ptsd.va.gov/ (2013).
+effects were treatment, visit, treatment group by visit interaction and      41. Weathers, F. W. et al. The clinician administered PTSD scale
+dissociative subtype; baseline CAPS-5 score was a covariate. Primary             for DSM-5 (CAPS-5): development and initial psychometric
+and secondary efficacy analyses used a de jure (related to initially ran-        evaluation in military veterans. Psychol. Assess. 30, 383–395
+domized treatment) estimand and a supportive de facto (treatment                 (2018).
+policy) estimand of the modified intention-to-treat population, which        42. Targum, S. D., Daly, E., Fedgchin, M., Cooper, K. & Singh, J. B.
+required exposure to MDMA or placebo and at least one follow-up                  Comparability of blinded remote and site-based assessments
+CAPS-5 assessment, as in MAPP1 (ref. 12). The de jure dataset included all       of response to adjunctive esketamine or placebo nasal spray in
+available data, except for 12 (one MDMA-AT and 11 placebo with therapy)          patients with treatment resistant depression. J. Psychiatr. Res 111,
+outcome measurements taken after treatment discontinuation in analy-             68–73 (2019).
+sis of treatment efficacy (Supplementary Table 3). Missed observations
+were considered missing at random (MAR), and choice of this assump-          Acknowledgements
+tion was tested with a tipping point analysis (Supplementary Methods).       The authors thank all of the participants and their support networks.
+      In additional exploratory analyses, 13 covariates were assessed        See the Supplementary Information for acknowledgments concerning
+in the model, with alpha set at 0.0499: age, sex (self-reported), prior      study collaborators, including all members of the MAPP2 Study
+use of selective SSRIs, work disability, disease severity, PTSD duration,    Collaborator Group.
+dissociative subtype, overnight site stay, site ID, moderate depression      This study was funded by Multidisciplinary Association for Psychedelic
+(as measured by the BDI-II), severe adverse childhood experiences and        Studies (MAPS) with support from the Steven and Alexandra Cohen
+moderate alcohol and substance use disorder risk (as measured by the         Foundation and organized by MAPS Public Benefit Corporation (PBC).
+Drug Use Disorders Identification Test and the Alcohol Use Disorders         MAPS PBC was responsible for overseeing the collection, analysis and
+Identification Test). Analyses of primary or secondary outcomes by           interpretation of the data. Medical writing assistance was provided by
+gender were not planned a priori; some exploratory analyses included         J. Carpenter and M. Yochum of BOLDSCIENCE, funded by MAPS PBC.
+sex as a covariate (Supplementary Methods).
+      Safety analysis evaluated TEAEs at the participant level, including    Author contributions
+all participants who received MDMA or placebo. Causal association            S.H., B.Y.-K., C.H. and A.d.B. contributed to data analysis; these authors
+with MDMA was determined based on relative incidence of TEAEs with           and J.M.M. directly accessed and collectively verified the underlying
+at least a two-fold difference between groups.                               data. All authors had full access to the trial data, contributed to the
+                                                                             interpretation of the data and contributed to writing the manuscript.
+Adverse events of special interest                                           The authors attest to the accuracy and completeness of the reported
+In accordance with FDA guidance, special attention was paid to a subset      data, accept responsibility to submit for publication and confirm that
+of adverse events, TEAESIs, relating to cardiac function, suicide risk and   the trial conformed to the protocol and the statistical analysis plan
+MDMA abuse, misuse or diversion. TEAESIs involving cardiac function          (available via Nature Medicine).
+that could be indicative of QT prolongation or cardiac arrhythmias
+were collected, including torsade de pointes, sudden death, ventricular      Competing interests
+extrasystoles, ventricular tachycardia, ventricular fibrillation and flut-   J.M.M. has received research support from MAPS; grants/contracts
+ter, non-postural syncope and seizures. TEAESIs involving suicide risk       from the Veterans Administration (Merit Award) and the FDA (Research
+included suicide, suicide attempts, self-harm associated with suicidal       Award); has received royalties/licenses from UCLA (for a patent
+ideation, suicide ideation assessed as a score of 4 or 5 on the C-SSRS       licensed to UCSF for cell screening); has received payment/honoraria
+and suicidal ideation judged by the investigator to be serious/severe.       from Stanford (for lecturing to undergraduate students) and Johns
+TEAESIs involving terms of MDMA abuse, misuse, drug diversion,               Hopkins (for presenting grand rounds); has a patent licensed to
+dependence or overdose were also collected.                                  UCSF for cell screening; has been a reviewer for NIAAA CTN; has
+                                                                             been a member of CA DOJ RAP; and has been a grant reviewer for the
+Reporting summary                                                            Australian Medical Research Council. M.O.G.: Aguazul-Bluewater, Inc
+Further information on research design is available in the Nature Port-      has received research support from MAPS PBC and payments from
+folio Reporting Summary linked to this article.                              Cybin (training and consultation), from Horizons Conference and
+
+
+Nature Medicine
+Article                                                                                            https://doi.org/10.1038/s41591-023-02565-4
+
+from Naropa University. B.v.d.K. has received royalties from Penguin       PBC; has received payment from PESI (speaking) and the California
+Random House (book, The Body Keeps the Score) and Guilford Press           Institute of Integral Studies (training workshops); has received
+(book, Traumatic Stress); has received consulting fees from Meadows        honoraria from Harvard Medical School, Sounds True, the Integrative
+Hospital (Wickenburg, Arizona); and has received payment/honoraria         Psychiatry Institute and Vital (speaking); has received support from
+from PESI. B.v.d.K. is also the president of the Trauma Research           MAPS PBC for attending meetings/travel; and owns stock in Awakn
+Foundation. S.S. has received grants/contracts from MAPS (research         Life Sciences. S.K. has received grants/contracts/consulting fees
+support) and MindMed (research support); has received royalties/           from MAPS PBC, pharmaceutical companies, VA hospitals and
+licenses from Academic Press and Norton Publishing (professional           university research groups for providing supervision and training to
+books); has received honoraria from Scripps, the Integrative               psychodiagnostic assessors on a variety of research studies. K.P.-G.
+Psychiatric Institute and the Institute of Functional Medicine (lectures   has received consulting fees from MAPS PBC for training assessors in
+and presentations); is member of the Maya Health Advisory Board;           psychodiagnostic assessment on PTSD treatment trials and from other
+and previously served as CEO of the Board of Psychedelic Medicine          research studies/groups conducting similar work. K.T. has received
+and Therapies. M.B. has received grant support to his institution for      payment/honoraria from MAPS US (education and study activities in
+the current study from MAPS PBC; has received grants/contracts to          Israel), MAPS PBC (senior trainer and supervisor therapist) and MAPS
+his institution from Mend Medicine, Tilray Canada and the Heffter          Israel (co-founder and CEO) and meeting/travel support from MAPS
+Research Institute; has been paid by AJNA Labs, Journey Colab and          PBC. C.H. is a MAPS PBC employee; has received consulting fees from
+Bright Minds Biosciences for advisory board participation; and has         Cybin (unrelated molecule and indication in the psychedelics field);
+received drug to his institution from Tilray Canada for an NIH-funded      and has received meeting/travel support from MAPS PBC. A.d.B. was
+trial. Y.G. anticipates support from MAPS PBC for congress attendance      previously an employee of MAPS PBC; has received consulting fees
+in the future and has stock in MindMed. C.P. has received grants/          (to Tulip Medical Consulting); has received meeting travel/support
+contracts (research support) and consulting fees from MAPS PBC             from MAPS PBC; and served as CMO (while previously an employee
+(training and supervision/consultation). C.R.N. has received grants/       of MAPS PBC) and attended Data Safety Monitoring Board meetings
+contracts fromm MAPS PBC (research studies); has received payment/         without any voting rights. R.D. is the founder and president (salaried
+honoraria from MAPS PBC and MindMed (training and educational              employee) of MAPS and is a member of the Board of MAPS and MAPS
+events); has received meeting/travel support from MAPS PBC; and            PBC. B.Y.-K. is an employee of MAPS PBC, was previously an employee
+has received funding for contract work as an MDMA-assisted therapy         of MAPS and has received support from MAPS PBC and MAPS for
+trainer. S.Q. has received grants/contract support for research            attending meetings/travel.
+from MAPS. B.B. has received support for the present study from
+New School Research and the California Center for Psychedelic              Additional information
+Therapy; has received consulting fees from MAPS PBC (training and          Supplementary information The online version contains supplementary
+supervision/consultation); has received payment/honoraria from             material available at https://doi.org/10.1038/s41591-023-02565-4.
+the Integrative Psychiatric Institute, the California Association of
+Marriage and Family Therapists, the Los Angeles County Psychological       Correspondence and requests for materials should be addressed to
+Society and the Palm Springs Art Museum (lectures/speaking events);        Jennifer M. Mitchell.
+has received support for meetings/travel from MAPS PBC; and is
+a trainer representative for the MAPS PBC Commercial Advisory              Peer review information Nature Medicine thanks Matthias Liechti,
+Committee and supervisor and coordinator of the Zendo Project              Alimu Dayimu and the other, anonymous, reviewer(s) for their
+(psychedelic harm reduction). S.H. is an employee of MAPS PBC.             contribution to the peer review of this work. Primary handling editor:
+M.M. has received support for the present research from MAPS PBC           Jerome Staal, in collaboration with the Nature Medicine team.
+(independent contractor) and is a member of the Awakn Life Sciences
+Scientific Advisory Board; has received royalties from PESI (video         Reprints and permissions information is available at
+sales of presentations); has received consulting fees from MAPS            www.nature.com/reprints.
+
+
+
+
+Nature Medicine
+Research involving human participants, their data, or biological material
+Policy information about studies with human participants or human data. See also policy information about sex, gender (identity/presentation),
+and sexual orientation and race, ethnicity and racism.
+  Reporting on sex and gender                   This is a human research trial that applies to >1 sex/gender; sex and gender were collected based on self-report.
+
+  Reporting on race, ethnicity, or              Race and ethnicity were collected based on self-report. Analyses of primary or secondary outcomes by gender
+  other socially relevant                       were not planned a priori; some exploratory analyses included sex as a covariate (Supplementary Methods).
+  groupings
+
+  Population characteristics                    Various demographic and clinical characteristics are reported in Table 1.
+
+                                               Participants were recruited from August 21, 2020, to May 18, 2022 (last participant visit November 2, 2022) through print and internet advertisements,
+  Recruitment                                  referrals from treatment providers, and by word of mouth. Participants were required to initiate contact with the study sites themselves, even if recommended
+                                               by a provider.
+                                               The trial was conducted in accordance with the Good Clinical Practice guidelines of the International Council for Harmonization and with the ethical principles
+  Ethics oversight                             of the Declaration of Helsinki. An independent data monitoring committee ensured the study was conducted safely and had sufficient sample size. The
+                                               review boards/institutions that approved the study protocol are listed in the Supplementary Methods.
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+
+
+Field-specific reporting
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+
+    Life sciences                          Behavioural & social sciences                        Ecological, evolutionary & environmental sciences
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+
+
+
+Life sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+  Sample size             SAS version 9.4 (SAS Institute) was used for analyses. Sample size was calculated to achieve a power of 90% at an alpha of 0.0499.
+   The statistical analysis plan was guided by the ICH E9 (R1) guidelines3, which describe the use of estimands and sensitivity analyses to measure the effects of a drug if taken as directed (‘de jure,’ assessment
+   of efficacy using an initially randomized treatment estimand) and if taken as assigned, regardless of adherence (‘de facto,’ assessment of effectiveness using a treatment policy estimand). The de jure dataset
+   did not
+  Data      include outcome measurements taken after treatment discontinuation in the analysis of treatment efficacy, and these were considered missing at random. The de facto estimand, a supportive sensitivity
+         exclusions
+   analysis, included CAPS-5 data collected after treatment discontinuations. One participant discontinued after experimental session 1 and declined outcome data collection; this participant was excluded from
+   primary and secondary efficacy analyses per the modified Intent to Treat analysis set, which required exposure to MDMA or placebo and at least one follow-up CAPS-5 assessment.
+  Replication               This Phase 3 RCT replicates previous findings in a series of previously published controlled Phase 2 trials (Mithoefer 2019) and a previous Phase 3 RCT, MAPP1 (Mitchell 2021).
+
+                            Participants were randomized in a 1:1 allocation and in a blinded fashion to the MDMA-AT and placebo with therapy groups, stratified by clinical site. Randomization was
+  Randomization             managed via an interactive web randomization system based on a centralized randomization schedule developed by an independent third-party vendor to maintain blinding.
+
+
+  Blinding                  This was a double blind study. Additionally, a central pool of blinded independent assessors was used to mitigate the risk of functional unblinding.
+
+
+
+
+Behavioural & social sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+
+  Study description
+
+  Research sample
+
+  Sampling strategy
+
+  Data collection
+
+  Timing
+
+  Data exclusions
+
+  Non-participation
+
+  Randomization
+Ecological, evolutionary & environmental sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+
+  Study description
+
+  Research sample
+
+  Sampling strategy
+
+  Data collection
+
+  Timing and spatial scale
+
+  Data exclusions
+
+  Reproducibility
+
+  Randomization
+
+  Blinding
+
+  Did the study involve field work?                  Yes              No
+
+
+
+Field work, collection and transport
+
+  Field conditions
+
+  Location
+
+  Access & import/export
+
+  Disturbance
+
+
+
+Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material,
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+
+
+Materials & experimental systems                                      Methods
+n/a Involved in the study                                             n/a Involved in the study
+          Antibodies                                                              ChIP-seq
+          Eukaryotic cell lines                                                   Flow cytometry
+          Palaeontology and archaeology                                           MRI-based neuroimaging
+          Animals and other organisms
+          Clinical data
+                                  Thirteen instudy sites (11 in the US and two in Israel; both institutional and private practice sites) participated. Participants were recruited from August 21, 2020, to
+          Dual use research of concern
+                               May 18, 2022 (last participant visit November 2, 2022).
+
+          Plants
+
+
+
+Antibodies
+  Antibodies used
+
+  Validation
+Eukaryotic cell lines
+Policy information about cell lines and Sex and Gender in Research
+  Cell line source(s)
+
+  Authentication
+
+  Mycoplasma contamination
+
+  Commonly misidentified lines
+  (See ICLAC register)
+
+
+
+Palaeontology and Archaeology
+  Specimen provenance
+
+  Specimen deposition
+
+  Dating methods
+
+      Tick this box to confirm that the raw and calibrated dates are available in the paper or in Supplementary Information.
+
+  Ethics oversight
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+
+Animals and other research organisms
+Policy information about studies involving animals; ARRIVE guidelines recommended for reporting animal research, and Sex and Gender in
+Research
+
+  Laboratory animals
+
+  Wild animals
+
+  Reporting on sex
+
+  Field-collected samples
+
+  Ethics oversight
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+
+
+Clinical data
+Policy information about clinical studies
+All manuscripts should comply with the ICMJE guidelines for publication of clinical research and a completed CONSORT checklist must be included with all submissions.
+
+  Clinical trial registration   ClinicalTrials.gov identifier NCT04077437
+
+  Study protocol                The study protocol has been provided to and is available via Nature Medicine.
+                                Thirteen study sites across the US (11) and Israel (2) participated. These included both institutional and private clinic sites. Participants were recruited from August
+  Data collection               21, 2020, to May 18, 2022 (last participant visit November 2, 2022).(OHYHQ86VLWHV=HQ7KHUDSHXWLF6ROXWLRQV &KDUOHVWRQ6& $JXD]XO%OXHZDWHU,QF %RXOGHU
+                                &2 :KROHQHVV&HQWHU )RUW&ROOLQV&2 1HZ6FKRRO5HVHDUFK//& /RV$QJHOHV&$ 5D\:RUWK\3V\FKLDWU\//& 1HZ2UOHDQV/$ 8QLYHUVLW\RI&DOLIRUQLD
+                                6DQ)UDQFLVFR 6DQ)UDQFLVFR&$ 6DQ)UDQFLVFR,QVLJKW ,QWHJUDWLRQ&HQWHU 6DQ)UDQFLVFR&$ 8QLYHUVLW\RI:LVFRQVLQ 0DGLVRQ:, 1HZ<RUN8QLYHUVLW\
+  Outcomes                       1HZ<RUN1< 1DXWLOXV6DQFWXDU\ 1HZ<RUN1< 7UDXPD5HVHDUFK)RXQGDWLRQ %RVWRQ0$ 7ZR,VUDHOVLWHV%HHU<DDNRY %HHU<DDNRY0HQWDO+HDOWK
+                                &HQWHU 7HO+DVKRPHU 7HO+DVKRPHU0HGLFDO&HQWHU 
+
+                                2XWFRPHVPrimary and secondary objectives were mean change in Clinician-Administered PTSD Scale for DSM-5 total severity and Sheehan Disability Scale
+                                scores, respectively, for MDMA-AT versus placebo with therapy from baseline to 18 weeks post-baseline. These outcome measures were pre-defined in conjunction
+                                with the FDA during a Special Protocol Assessment.
+Dual use research of concern
+Policy information about dual use research of concern
+
+Hazards
+  Could the accidental, deliberate or reckless misuse of agents or technologies generated in the work, or the application of information presented
+  in the manuscript, pose a threat to:
+ No Yes
+               Public health
+
+               National security
+               Crops and/or livestock
+               Ecosystems
+               Any other significant area
+
+
+Experiments of concern
+ Does the work involve any of these experiments of concern:
+ No Yes
+               Demonstrate how to render a vaccine ineffective
+               Confer resistance to therapeutically useful antibiotics or antiviral agents
+               Enhance the virulence of a pathogen or render a nonpathogen virulent
+               Increase transmissibility of a pathogen
+               Alter the host range of a pathogen
+               Enable evasion of diagnostic/detection modalities
+               Enable the weaponization of a biological agent or toxin
+               Any other potentially harmful combination of experiments and agents
+
+
+
+Plants
+ Seed stocks
+
+ Novel plant genotypes
+
+ Authentication
+
+
+ChIP-seq
+Data deposition
+     Confirm that both raw and final processed data have been deposited in a public database such as GEO.
+     Confirm that you have deposited or provided access to graph files (e.g. BED files) for the called peaks.
+
+ Data access links
+ May remain private before publication.
+
+ Files in database submission
+
+ Genome browser session
+ (e.g. UCSC)
+
+
+Methodology
+ Replicates
+
+ Sequencing depth
+
+ Antibodies
+
+ Peak calling parameters
+
+ Data quality
+
+ Software
+Flow Cytometry
+Plots
+ Confirm that:
+    The axis labels state the marker and fluorochrome used (e.g. CD4-FITC).
+    The axis scales are clearly visible. Include numbers along axes only for bottom left plot of group (a 'group' is an analysis of identical markers).
+    All plots are contour plots with outliers or pseudocolor plots.
+    A numerical value for number of cells or percentage (with statistics) is provided.
+
+Methodology
+ Sample preparation
+
+ Instrument
+
+ Software
+
+ Cell population abundance
+
+ Gating strategy
+
+    Tick this box to confirm that a figure exemplifying the gating strategy is provided in the Supplementary Information.
+
+
+Magnetic resonance imaging
+Experimental design
+ Design type
+
+ Design specifications
+
+ Behavioral performance measures
+
+
+
+ Imaging type(s)
+
+ Field strength
+
+ Sequence & imaging parameters
+
+ Area of acquisition
+
+ Diffusion MRI               Used          Not used
+
+Preprocessing
+ Preprocessing software
+
+ Normalization
+
+ Normalization template
+
+ Noise and artifact removal
+
+ Volume censoring
+
+Statistical modeling & inference
+ Model type and settings
+
+ Effect(s) tested
+
+ Specify type of analysis:      Whole brain          ROI-based           Both
+

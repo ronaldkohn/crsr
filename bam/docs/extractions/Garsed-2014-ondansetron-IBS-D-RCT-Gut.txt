@@ -1,0 +1,562 @@
+                                                                                                                      Neurogastroenterology
+
+                                  ORIGINAL ARTICLE
+
+                                  A randomised trial of ondansetron for the treatment
+                                  of irritable bowel syndrome with diarrhoea
+                                  Klara Garsed,1 Julia Chernova,1 Margaret Hastings,2 Ching Lam,1 Luca Marciani,3
+                                  Gulzar Singh,1 Amanda Henry,4 Ian Hall,4 Peter Whorwell,2 Robin Spiller1
+
+▸ Additional material is          ABSTRACT
+published online only. To view    Background Irritable bowel syndrome with diarrhoea                 Signiﬁcance of this study
+please visit the journal online
+(http://dx.doi.org/10.1136/
+                                  (IBS-D) is particularly debilitating due to urgency and
+gutjnl-2013-305989).              episodic incontinence. Some 5-hydroxytryptamine 3
+                                  (5-HT3) receptor antagonists (5-HT3RAs) have proven               What is already known about this subject?
+                                                                                                    ▸ 5-Hydroxytryptamine 3 receptor antagonists
+1
+  Nottingham Digestive
+Diseases Biomedical Research      effective but have serious side effects. Ondansetron, also
+                                  a 5-HT3RA, has been widely used as an antiemetic with               (5-HT3RAs) improve symptoms of irritable
+Unit, Queens Medical Centre,
+Nottingham, UK                    an excellent safety record for over two decades. Our aim            bowel syndrome with diarrhoea (IBS-D).
+2
+  Neurogastroenterology Unit,     was to assess its effectiveness in IBS-D.                         ▸ Alosetron, the best studied 5-HT3RA, was
+Wythenshawe Hospital,
+                                  Methods 120 patients meeting Rome III criteria for                  withdrawn from general use because of
+Manchester, UK                                                                                        constipation and rarely ischaemic colitis.
+3
+  Sir Peter Mansﬁeld Magnetic     IBS-D entered a randomised, double-blind, placebo-
+Resonance Imaging Centre,         controlled crossover study of 5 weeks of ondansetron              ▸ Ondansetron is a 5-HT3RA widely used as an
+University of Nottingham,         4 mg versus placebo with dose titration allowed, up to              anti-nauseant for over 20 years and never
+Nottingham, UK
+                                  two tablets three times daily in the ﬁrst 3 weeks.                  associated with ischaemic colitis.
+4
+  Department of Molecular
+Medicine, School of Surgical      Patients completed daily diaries documenting stool                What are the new ﬁndings?
+and Medical Sciences,             consistency using the Bristol Stool Form score. Gut               ▸ Ondansetron improves symptoms of frequent
+University of Nottingham,         transit was measured in the last week of each treatment.            loose stools with urgency characteristic of
+Nottingham, UK                    The primary endpoint was average stool consistency in               IBS-D.
+Correspondence to                 the last 2 weeks of treatment.                                    ▸ Ondansetron slows the accelerated colonic
+Professor Robin Spiller,          Results Ondansetron signiﬁcantly improved stool                     transit associated with IBS-D.
+Nottingham Digestive Diseases     consistency (mean difference in stool form between                ▸ Those with severe diarrhoea respond less well.
+Centre, University Hospital,      ondansetron and placebo −0.9, 95% CI −1.1 to −0.6,
+Nottingham NG7 2UH, UK;                                                                             How might it impact on clinical practice in
+                                  p<0.001). Compared with placebo, patients on
+robin.spiller@nottingham.ac.uk
+                                  ondansetron experienced fewer days with urgency                   the foreseeable future
+Received 30 August 2013           ( p<0.001), lower urgency scores ( p<0.001), reduced              ▸ Ondansetron is a safe inexpensive 5-HT3RA
+Revised 31 October 2013           frequency of defaecation ( p=0.002) and less bloating               available worldwide which could improve
+Accepted 17 November 2013         ( p=0.002), although pain scores did not change                     symptoms in many patients with IBS-D with
+Published Online First                                                                                mild to moderate symptoms.
+12 December 2013                  signiﬁcantly. IBS symptom severity score fell more with
+                                  ondansetron than placebo (83±9.8 vs 37±9.7,                       ▸ The main beneﬁt, which is seen within 7 days,
+                                  p=0.001). 65% reported adequate relief with                         is to reduce urgency.
+                                  ondansetron but not placebo compared with 14%                     ▸ The median dose is 4 mg per day in those who
+                                  reporting relief with placebo but not ondansetron,                  respond.
+                                  relative risk 4.7, 95% CI 2.6 to 8.5, p<0.001.
+                                  Conclusions Ondansetron relieves some of the most
+            Open Access           intrusive symptoms of IBS-D, namely loose stools,
+         Scan to access more
+            free content          frequency and urgency.                                          inﬂuence gut motility and secretion.3 5-HT3 recep-
+                                                                                                  tor antagonists (5HT3RAs) block the vagal stimula-
+                                                                                                  tion induced by 5-HT4 and were developed as a
+                                  INTRODUCTION, BACKGROUND AND                                    highly effective treatment for chemotherapy-
+                                  OBJECTIVES                                                      induced nausea and vomiting, known to be
+▸ http://dx.doi.org/10.1136/      Irritable bowel syndrome with diarrhoea (IBS-D)                 mediated via vagal stimulation by cisplatinum-
+gutjnl-2013-306457                affects approximately 3% of the general population              induced 5-HT release.5 It was soon discovered that
+▸ http://dx.doi.org/10.1136/      and accounts for approximately 20% of gastro-                   5HT3RAs also cause constipation.6 Early studies
+gutjnl-2014-307551
+                                  enterology outpatient visits in the UK. Since many              with ondansetron demonstrated that 16 mg three
+                                  conditions can cause diarrhoea, such patients typic-            times a day, the usual dose for chemotherapy-
+                                  ally undergo numerous negative tests. IBS regard-               induced emesis, delayed colonic transit in healthy
+                                  less of subtype is also associated with considerable            subjects,7 and reduced the postprandial increase in
+                                  impairment of quality of life.1 2 IBS-D is particu-             colonic tone in carcinoid diarrhoea.8 A small trial
+                                  larly a debilitating form of IBS as it reduces the              using the much lower dose of 4 mg three times a
+    To cite: Garsed K,            ability to eat out and socialise because of fear of             day suggested beneﬁt in IBS and functional dyspep-
+    Chernova J, Hastings M,       pain, urgent defaecation and even incontinence.                 sia.9 Our aim was to determine whether this inex-
+    et al. Gut 2014;63:           Serotonin (5-hydroxytryptamine (5-HT)) is a major               pensive, safe generic drug would provide similar
+    1617–1625.                    mediator in the gut, signalling via afferent nerves to          relief to patients with IBS-D. We also wished to
+
+                                           Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989                                  1617
+ Neurogastroenterology
+
+determine the mechanism of action and in particular whether               data suggest a within-person correlation of 0.5. To detect a dif-
+clinical factors or polymorphisms in the SERT genotype could              ference of 0.4 which was considered clinically signﬁcant with
+predict those that would respond, as has been suggested for               90% power and 1% type I error we needed 113 subjects. To
+alosetron.10                                                              acount for dropouts we randomised 120.
+
+METHODS                                                                   Participants
+Trial design                                                              Patients with IBS-D were recruited from IBS clinics at the
+This was a two-centre, randomised, double-blind, placebo-                 Queen’s Medical Centre Nottingham and Wythenshawe
+controlled crossover study of ondansetron 4 mg/tablet versus              Hospital, Manchester and via the Trent Primary Care Research
+placebo. Patients were given one to two tablets three times a day         Network from 1 January 2009 to May 2011 using the Rome III
+with dose titration for the ﬁrst 3 weeks of each period and a 2–          diagnostic criteria.12 To exclude other causes of diarrhoea we
+3-week washout period (ﬁgure 1). The trial was registered on              required a normal colonoscopy and colonic biopsies, normal full
+clinicaltrials.gov (identiﬁer NCT00745004), approved by                   blood count, serum calcium and albumen, C-reactive protein and
+Nottingham Research Ethics Committee 2 (REC reference                     negative serological tests for celiac disease. All patients consum-
+number 08/H0408/134) and by the Medicines and Healthcare                  ing more than the equivalent of 240 ml of milk/day were tested
+Regulatory authority (MHRA, London, UK), and conducted                    for lactose intolerance. Most had either a therapeutic trial of
+according to Good Clinical Practice guidelines. Funding was               colestyramine or a test of bile salt absorption using the 7-day
+provided by the National Institute for Health Research through            retention of selenium75-labelled homocholic acid taurine to
+a Research for Patient Beneﬁt grant and salary support for Dr             exclude bile salt malabsorption. Patients gave written informed
+Garsed from the Nottingham Digestive Diseases Biomedical                  consent. Inclusion criteria were age 18–75 years; meeting Rome
+Research Unit. There were no changes to protocol from that ini-           III criteria; no evidence of inﬂammatory bowel disease/micro-
+tially registered with clinicaltrials.gov.                                scopic colitis and able to give informed consent. Women of child-
+                                                                          bearing potential tested negatively on pregnancy test and had to
+Randomisation                                                             agree to adequate contraception during the study. Patients on
+Sequence allocation randomisation was carried out by                      selective serotonin reuptake inhibitors or tricyclic antidepressants
+Nottingham Clinical Trials Support Unit (CTSU) with random                were included, provided they had been on medication for at least
+permuted blocks of randomly varying size and stratiﬁed by                 3 months and the dose remained unaltered throughout the study.
+centre. The supervising staff obtained a randomisation reference          Exclusion criteria were pregnancy or breast feeding, unwilling to
+number by a remote, internet-based randomisation system. All              stop anti-diarrhoeal medication (loperamide or codeine phos-
+participants stayed blinded until the study, data collection and          phate), prior abdominal surgery other than appendectomy and
+assessments were complete. CTSU Data Manager and the                      cholecystectomy, being in another trial or being in the opinion of
+Queen Medical Centre (QMC) Trials pharmacy had access to                  the investigator unsuitable.
+the treatment allocations. The code was never broken.
+                                                                          Healthy controls for transit studies
+Sample size calculation                                                   We also studied 21 healthy controls to provide normal values
+From previous studies11 the estimated mean (SD) stool consist-            for the transit studies. They completed the same questionnaires
+ency in healthy controls was 3.6 (1.1) and recent unpublished             and underwent the same transit measurement protocol. None
+
+
+
+
+Figure 1 Study design. This shows the two 5-week treatment periods during which subjects were randomised to either ondansetron or placebo.
+Week 1 was for baseline assessment, Each 5-week treatment period allowed dose adjustment until weeks 4 and 5 when no further dose adjustment
+or rescue medication was allowed. Symptoms on weeks 4 and 5 provided the clinical endpoints. Symptoms were assessed throughout the study and
+during the washout period to ensure symptoms had returned to baseline before starting the next treatment. Frequent visits and telephone contact
+ensured protocol compliance.
+
+1618                                                                            Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989
+                                                                                                         Neurogastroenterology
+
+met Rome III IBS criteria. They comprised 16 women and 5                 provide information on stool form (Bristol Stool Form score,17
+men, with median age (IQR) of 45 (23–56) years. Bowel fre-               from 1 (very hard) to 7 (water)) and pain perception, urgency
+quency was median (IQR) of 1.0 (1.0–1.4) bowel movements                 of defecation and bloating, the last three scored as none, mild,
+per day.                                                                 moderate or severe (0–3). Frequency of defaecation and number
+                                                                         of days when pain, urgency or bloating was present were
+Intervention                                                             recorded.
+Each participant received 5 weeks of oral placebo treatment and             The baseline values are averages from the screening week.
+5 weeks of ondansetron 4 mg tablets using dose titration for the
+ﬁrst 3 weeks of each period with a 2–3-week washout period in            Endpoints
+between each treatment period (ﬁgure 1). The hospital phar-              The primary endpoint (stool form) and secondary endpoints
+macy provided the 5-week drug supply at the beginning of each            (pain perception, urgency of defaecation, bloating, frequency of
+period. The investigational medicinal product was either a 4 mg          defaecation per day, number of days per week with pain,
+ondansetron tablet (Pliva, Zagreb, Croatia) or placebo, both             urgency or bloating, and IBS SS) are averages over the last
+identically over-encapsulated in a gelatine capsule by Bilcare           2 weeks of each treatment period. Information provided for less
+(Crickhowell, Powys, UK). The placebo formulation matched                than 10 days (out of 14) was recorded as missing.
+that of the ondansetron in appearance and composition, except               At the end of each period patients were asked: ‘over the last
+for the active drug.                                                     2 weeks did you obtain adequate relief of your IBS symptoms?’,
+   The patients were instructed to start with one capsule once a         and at the end of the study: ‘which treatment if any did you
+day, increasing daily to a maximum of two capsules three times           prefer?’, and ‘which treatment, if any would you prefer to con-
+a day, depending on the response. If stool consistency increased         tinue with now the trial has ﬁnished?’ Percentage reporting
+to stool form 1 or 2, or if bowel frequency dropped below one            adequate relief of IBS symtpoms (yes/no), proportion of patients
+per day the dose was reduced to a minimum of one capsule                 preferring particular treatment (yes/no) and proportion wanting
+taken every 2 days. Patients were required to stay on a stable           to continue with particular treatment (yes/no) were recorded as
+dose for the last 2 weeks of each period. Loperamide, 2 mg               secondary endpoints.
+twice daily, was allowed as rescue medication in the event of               Bloods were collected for genetic analysis for the serotonin
+uncontrolled diarrhoea, but needed to be discontinued for the            transporter promoter polymorphism (see online supplementary
+ﬁnal 2 weeks of each period. Patients attended for a total of            appendix for methods and results).
+seven visits as follows (ﬁgure 1): screening visit 1 was followed
+by a 1-week period when stool and symptom diaries were com-              Responder deﬁnition
+pleted (week 1). At visit 2, after checking patients met Rome III        We used the US Food and Drug Administration (FDA) deﬁnition
+criteria and had completed the stool diaries, they were enrolled         of ‘a Stool Consistency Responder’ as a ‘patient who experi-
+and instructed to start treatment at one capsule daily increasing        ences a 50 percent or greater reduction in the number of days
+or decreasing the dose by one capsule per day every 2 days to a          per week with at least one stool that has a consistency of Type 6
+maximum of two capsules three times daily. They were told to             or 7 compared with baseline’ and a ‘pain responder’ as a patient
+increase the dose if the stool form was 6 or 7 and decrease if it        who experienced a fall of 30% in pain compared to baseline.18
+was 2 or 1. After 1 week patients were telephoned to conﬁrm                The FDA recommends that for IBS a dual endpoint should be
+the dose was optimum. They were also called a few days before            used to deﬁne a ‘responder’ who should be both a Stool
+visit 3 to conﬁrm the appointment and before visit 4 to remind           Consistency responder and a ‘pain responder’.
+them to take the transit markers for 3 days before the visit. Visit
+3 was after 3 weeks of treatment and visit 4 was the ﬁnal visit of
+the ﬁrst treatment period when stool diaries were collected and          Whole gut transit measurement
+colonic transit assessed by a plain X-ray. There was then a              We used the Metcalf ’s radio-opaque marker technique.19
+2-week washout which was extended if necessary to ensure                 Subjects took 20 silicon markers impregnated with 13.5%
+bowel habit had returned to baseline. Return to baseline was             barium (Altimex, Nottingham, UK) at 09:00 each morning for
+conﬁrmed by asking patients whether their bowel dysfunction              three consecutive days. The number identiﬁed on plain abdom-
+was back to pre-study levels and this was objectively corrobo-           inal X-ray taken on the morning of day 4 was multiplied by 1.2
+rated by examination of the visit 5 diaries. In those participants       to give whole gut transit time (WGTT) in hours. Regional
+in whom pre-study levels had not been reached by 2 weeks, ini-           transit was assessed from the number of pellets assigned to the
+tiation of the second treatment phase was delayed until pre-             ascending colon, transverse, descending and rectosigmoid as
+study levels were conﬁrmed.                                              described by Metcalf and colleagues.19
+   The second treatment period was identical to the ﬁrst.
+Compliance was monitored by asking the patient at each study             STATISTICAL METHODS
+visit and by a ﬁnal pill count of all returned medicines.                Efﬁcacy parameters
+                                                                         Baseline values were only available for the screening phase so
+Data collection                                                          the efﬁcacy parameters (except response) were calculated for
+Personal baseline data were collected at visit 1: age, gender,           each patient as the differences between the endpoints measured
+depression and anxiety scores from the Hospital and Depression           in ondansetron and placebo periods. Frequencies were com-
+Scale, score from the Patient Health Questionnaire 15,13 per-            pared as ratios and treatment effect expressed as percenatges.
+ceived stress score from the Perceived Stress Scale
+Questionnaire.14 IBS-related quality of life from the IBS Quality        Analysis
+of Life Questionnaire15 and IBS severity score from the IBSS             Analysis was carried out with Stata 12. First, intention-to-treat
+Severity Score Questionnaire16 were collected at visit 1 and at          analysis (ITT) was carried out with available data. Second, the
+the end of each treatment period (visits 4 and 7). We used our           data were re-analysed as per protocol (PPA). Baseline variables
+previously described daily stool diary11 throughout the study to         were analysed by dropout status with t test, Kruskal–Wallis test
+
+Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989                                                               1619
+ Neurogastroenterology
+
+or χ2 test for symmetrical, skewed or categorical variables              Primary efﬁcacy parameter
+correspondingly.                                                         The difference in stool form between ondansetron and placebo
+  The continuous efﬁcacy parameters were approximately sym-              was −0.9, 95% CI −1.1 to −0.6, p<0.001, which showed a sig-
+metrical and were analysed with linear regression. Preference            niﬁcant improvement when taking ondansetron compared with
+and response data were analysed with multinomial logistic                placebo. Worse diarrhoea at baseline was associated with
+regression. The results were not adjusted for multiple testing.          decreased effect of ondansetron (every 1 point baseline average
+                                                                         stool form increase reduced effectiveness by 0.4 points, 95% CI
+                                                                         0.00 to 0.8, p=0.032). For example, people with less severe
+RESULTS                                                                  diarrhoea (lower quartile: average stool form 4.9) beneﬁted
+Participant ﬂow                                                          more from ondansetron (stool form difference −1.0, 95% CI
+Of the 125 patients recruited, 120 were randomised as 5 did              −1.3 to −0.7, p<0.001) compared with those with more severe
+not complete the screening phase. The CONSORT diagram                    diarrhoea (upper quartile: average stool form 5.9), with stool
+(ﬁgure 2) summarises the ﬂow. There were 47 (77%) patients               form difference −0.7, 95% CI −1.0 to −0.4, p<0.001.
+with ondansetron/placebo sequence and 51 (88%) patients with                PPA showed average −0.9, 95% CI −1.2 to −0.6 stool form
+placebo/ondansetron sequence, giving 98 (82%) patients avail-            difference between ondansetron and placebo. One point
+able for ITT analysis. Nearly twice as many patients dropped             increase in baseline stool form was associated with decreased
+out from the ondansetron/placebo arm compared with placebo/              effect of ondansetron by 0.5 points, 95% CI 0.1 to 0.8,
+ondansetron ( p=0.110), mostly during the placebo period (risk           p=0.017.
+ratio for dropping out when starting with ondansetron is 1.9,               One concern about crossover design studies is the possibility
+95% CI 0.8 to 4.5). Those who dropped out had more bloating              of a carryover effect such that those who received active treat-
+and more frequent need to go to toilet (table 1). Ninety (75%)           ment ﬁrst would have less symptoms at the beginning of the
+patients were available for PPA.                                         second treatment period. However the washout period of
+
+
+
+
+Figure 2 Consort diagram showing patient ﬂow with dropouts and protocol violations. CRP, C-reactive protein.
+
+1620                                                                            Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989
+                                                                                                                            Neurogastroenterology
+
+
+ Table 1      Baseline characteristics of patients compared with those who dropped out
+                                                                                                                                   p Value (difference between
+                                                                Available for analysis (N=98)          Dropped out (N=22)          analysed and dropped out)
+
+ Age                                                              41 (12)                                40 (12)                   0.689
+ Gender (women), N (%)                                            74 (75.0)                              14 (64.0)                 0.303
+ Stool form                                                      5.4 (0.7)                              5.5 (0.7)                  0.758
+ Days with morning rush*, median (IQR)                             1 (0–3)                                2 (0–6)                  0.078
+ Days with pain, median (IQR)                                      6 (3–7)                              6.5 (5–7)                  0.256
+ Days with urgency, median (IQR)                                 6.5 (5–7)                                7 (6–7)                  0.642
+ Days with bloating, median (IQR)                                  6 (3–7)                                7 (5–7)                  0.252
+ Pain score                                                      1.3 (0.8)                              1.5 (0.8)                  0.574
+ Urgency score                                                   1.6 (0.7)                              1.6 (0.8)                  0.826
+ Bloating score                                                  1.3 (0.9)                              1.7 (0.9)                  0.085
+ Frequency of defaecation per day, median (IQR)                  2.6 (1.9–3.7)                          3.6 (2.1–6.6)              0.033
+ Anxiety                                                         9.5 (4.3)                             10.4 (5.5)                  0.553
+ Depression, median (IQR)                                          5 (3–9)                              5.5 (1–10)                 0.670
+ Patient Health Questionnaire 15                                  12 (4.0)                             13.3 (5.0)                  0.283
+ IBS severity score                                             302 (85)                               330 (83)                    0.324
+ Patient stress score                                           17.9 (7.4)                             20.3 (8.8)                  0.322
+ IBS QOL                                                        455 (150)                              403 (189)                   0.102
+   Means (SDs) are shown if not stated otherwise.
+   *Defined as more than three bowel movements before midday.
+   IBS, irritable bowel syndrome; QOL, quality of life.
+
+
+
+
+2 weeks was sufﬁcient for most patients to report their symp-                             the second period were not affected by the treatment allocation
+toms were back to baseline and only 17 (17%) needed longer,                               in the ﬁrst phase (Figure 3). As can be seen, there was very little
+the maximum period being 36 days. They were asked whether                                 placebo response and onset of treatment effect and loss of effect
+their bowel dysfunction was back to its usual pre-study level and                         on discontinuing ondansetron was rapid, occurring within the
+this was conﬁrmed objectively from their symptom diaries on                               ﬁrst week in both cases. The median (IQR) dose was 4 (2–6.5)
+visit 5. Average stool consistency in the week prior to starting                          mg for responders and 8 (4–20) mg for non-responders for
+the second arm of the trial was slightly improved at 5.2 com-                             stool consistency.
+pared with 5.4 for baseline ( p=0.031) but there was no differ-
+ence according to whether active was ﬁrst or second (Figure 3).                           Secondary efﬁcacy parameters
+Furthermore, with respect to either average bloating, urgency or                          Table 2 shows that in the ITT analysis the number of days with
+abdominal pain scores, there was no difference in the last 7 days                         pain and average pain score did not change on ondansetron but
+of the washout period between those who had active or placebo                             patients experienced signiﬁcantly fewer days with urgency and
+ﬁrst, the differences being 0.17 (0.2), 0.01 (0.2) and 0.10 (0.2),                        bloating. Average urgency scores and average frequency of
+p=0.4, 0.7 and 0.6, respectively. Thus symptoms at the start of                           defaecation were signiﬁcantly lower compared with placebo,
+                                                                                          though the fall in average bloating scores did not achieve statis-
+                                                                                          tical signiﬁcance. Baseline characteristics did not correlate with
+                                                                                          the above efﬁcacy parameters. The results were similar for PPA.
+                                                                                          IBS SSS fell compared with baseline when taking ondansetron
+                                                                                          by 83±9.8 points, signiﬁcantly more than the 37±9.7-point fall
+                                                                                          on placebo, p=0.001. A fall of 50 points in the IBS SSS is
+                                                                                          regarded as clinically signiﬁcant.
+                                                                                             Using the FDA criteria, 80% of patients responded with a
+                                                                                          reduction in number of days with loose stools while taking
+                                                                                          ondansetron compared with 41% on placebo. The FDA cri-
+                                                                                          teria for pain were met by 43% on ondansetron and 40% on
+                                                                                          placebo and the combined FDA criteria were met by 41% on
+                                                                                          ondansetron and 17% on placebo. Preference data were avail-
+                                                                                          able only for a subsample of patients (N=94 for ITT and
+                                                                                          N=86 for PPA). Table 3 shows the preference distribution.
+                                                                                          A signiﬁcantly higher proportion of patients prefer, would con-
+                                                                                          tinue with and had adequate relief with ‘ondansetron but not
+                                                                                          placebo’ compared with ‘placebo but not ondansetron’ (all
+Figure 3 Time course for stool consistency during the two treatment                       p<0.001).
+periods. Time shown in weeks. Washout period was variable so the
+value during the last 7 days is shown as the ﬁrst data point in the
+treatment period 2. The graph shows very little placebo effect with                       Gut transit time
+rapid onset of treatment effect on commencing ondansetron and loss                        Gut transit time (table 4) was available for 87 patients in the
+of effect on discontinuing.                                                               ITT analysis and 81 patients in the PPA. Both showed
+
+Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989                                                                                     1621
+ Neurogastroenterology
+
+
+ Table 2      Ondansetron effect on secondary outcomes
+                                                               ITT analysis (N=98)                                                 PPA (N=90)
+
+                                                               Treatment effect (95% CI)                    p Value                Treatment effect (95% CI)                    p Value
+
+ Days per week with pain                                        −0.3 (−0.7 to 0.1)                           0.203                  −0.3 (−0.7 to 0.2)                           0.227
+ Days per week with urgency                                     −1.1 (−1.5 to −0.6)                         <0.001                  −1.1 (−1.6 to −0.7)                         <0.001
+ Days per week with bloating                                    −0.7 (−1.1 to −0.3)                          0.002                  −0.7 (−1.1 to −0.3)                          0.002
+ Pain score (0–3)                                              −0.10 (−0.22 to 0.03)                         0.119                 −0.10 (−0.23 to 0.02)                         0.103
+ None (0), mild (1), moderate (2) or severe (3)
+ Urgency score(0–3)                                            −0.32 (−0.45 to −0.18)                       <0.001                 −0.33 (−0.47 to −0.19)                       <0.001
+ None (0), mild (1), moderate (2) or severe (3)
+ Bloating score(0–3)                                           −0.13 (−0.27 to 0.01)                         0.070                 −0.12 (−0.26 to 0.02)                          0.103
+ None (0), mild (1), moderate (2) or severe (3)
+ Stool frequency reduction, %                                       11 (4 to 18)                             0.001                     11 (4 to 18)                              0.002
+ Whole gut transit time increase*, h                                10 (6 to 14)                            <0.001                     10 (6 to 14)                             <0.001
+ Right colon transit time increase, h                                2 (0 to 4)                              0.064                      2 (0 to 4)                               0.082
+ Left colon transit time increase, h                                 6 (3 to 8)                             <0.001                      5 (3 to 8)                              <0.001
+  Differences between ondansetron and placebo are presented.
+  *Numbers of patients available for analysis are 87/98 (89%) for ITT and 81/90 (90%) for PPA analysis. Lower numbers reflect patients who failed to take their markers or attend for the
+  final X-ray.
+  ITT, intention-to-treat; PPA, per protocol analysis.
+
+
+
+
+signiﬁcantly longer values for ondansetron compared with                                        which ondansetron tended to correct, shifting transit towards
+placebo, with differences of 10 h, 95% CI 6 to 14 h, p<0.001.                                   the normal range so that transit times were no longer signiﬁ-
+Patients with IBS-D on placebo showed signiﬁcantly faster                                       cantly different from controls. We found no difference in this
+transit, with values of 16 (7 to 29) h compared with 46 (12 to                                  effect between the three SERT promoter polymorphisms,
+58) h for healthy controls. Regional transit times are given in                                 though there was a tendency for the sl genotype to be associated
+table 4, showing that the most marked difference was in the                                     with a greater clinical effect and the WGTT increase was 17.1
+faster transit through the left colon and rectosigmoid, something                               (10.6 to 23.7) for the sl genotype compared with 4.9 (−3.0 to
+
+
+
+
+ Table 3 Patient preferences and true stool responder data
+                                   Ondansetron            Ondansetron              Ondansetron          Ondansetron
+                                   No                     Yes                      No                   Yes
+                                   Placebo                Placebo                  Placebo              Placebo                Risk ratio to prefer ‘ondansetron but not placebo’
+                                   Yes                    No                       No                   Yes                    compared with ‘placebo but not ondansetron’
+
+ ITT (N=94)
+    Preference, N (%)              15 (16)                70 (74)                   9 (10)                0 (0)                 4.7 (2.7 to 8.2)
+    p value                                                                                                                    <0.001
+ Continue, N (%)                   15 (16)                67 (71)                  11 (12)                1 (1)                 4.5 (2.6 to 7.8)
+    p value                                                                                                                    <0.001
+    Adequate Relief, N (%)         13 (14)                61 (65)                  17 (18)                3 (3)                 4.7 (2.6 to 8.5)
+    p value                                                                                                                    <0.001
+ PPA (N=86)
+    Preference, N (%)              13 (15)                66 (77)                   7 (8)                 0 (0)                 5.1 (2.8 to 9.2)
+    p value                                                                                                                    <0.001
+    Continue, N (%)                14 (16)                64 (74)                   7 (8)                 1 (1)                 4.6 (2.6 to 8.2)
+    p value                                                                                                                    <0.001
+    Adequate Relief, N(%)          11 (13)                58 (67)                  14 (16)                3 (3)                 5.3 (2.8 to 10.0)
+    p value                                                                                                                    <0.001
+ Response data
+ ITT (N=98)
+ True stool responder
+    Response, N (%)                  6 (6)                44 (45)                  14 (14)              34 (35)                 7.3 (3.1 to 17.2)
+    p value                                                                                                                    <0.001
+ PPA (N=90)
+    Response, N (%)                  5 (6)                43 (48)                  11 (12)              31 (34)                 8.6 (3.4 to 21.7)
+    p value                                                                                                                    <0.001
+  *Ratios are shown for probability that people would prefer a particular choice compared with the choice ‘Placebo yes but ondansetron no’. For example, it is much more probable
+  (4.2 times, 95% CI 2.5 to 7.1) that patients prefer ‘Ondansetron but not placebo’ compared with ‘Placebo but not ondansetron’. The same applies to ‘continue’ and ‘adequate relief’
+  options. Data show that it is more probable (7.3 times, 95% CI 3.1 to 17.2) to respond to ondansetron but not placebo compared with placebo but not ondansetron.
+
+
+
+1622                                                                                                    Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989
+                                                                                                               Neurogastroenterology
+
+
+ Table 4      Whole gut and regional transit times (median (IQR))
+                                                     Whole gut transit time        Right colon            Left colon               Rectosigmoid
+
+ Healthy controls N=19                               46 (12–58)                    13 (5–18)              12 (3–24)                7 (4–15)
+ Patients with IBS-D on placebo                      16 (7–29)*                     6 (2–12)              2.5 (0–7)***             4 (1–9)***
+ Patients with IBS-D on ondansetron                  24 (15–47)                     7 (3–16)                6 (0–17.25)            7 (2–13)
+ P for difference on ondansetron                                                   NS                     <0.05                    <0.05
+   *p<0.05, ***p<0.001 versus healthy volunteers.
+   IBS-D, irritable bowel syndrome with diarrhoea.
+
+
+
+
+12.8) for ll, ANOVA, p=0.07 (see online supplementary appen-                  practice. It undoubtedly improved response rate and had we
+dix 1).                                                                       chosen a ﬁxed dose many patients would have developed consti-
+                                                                              pation and probably dropped out or had worsening symptoms.
+Adverse events                                                                As expected, the median number of tablets per day was much
+The only frequently occurring side effect was constipation,                   lower for ondansetron than placebo, median (IQR) 1 (0.5–1.4)
+which occurred in 9%10 on ondansetron and 2%2 on placebo.                     and 2 (1–5), respectively. However, dose titration does compli-
+All responded to dose reduction and only two decided to leave                 cate analysis since only the stool diaries in the last 2 weeks are
+the trial at that point. Other less frequent side effects included            truly informative of the response, meaning that we cannot
+headache (2 ondansetron, 2 placebo), rectal bleeding (2 ondan-                impute data to allow for incomplete diaries, which would be
+setron, 2 placebo, none of which were found to be due to                      normal practice. These incomplete data led to only 98 subjects
+ischaemic colitis), backache (1 ondansetron, 1 placebo) and                   being analysed.
+abdominal pain (2 ondansetron, 1 placebo).                                       Our evaluation time of just 2 weeks was short but in patients
+                                                                              with diarrhoea and rapid transit, drug effects tend to be rapid
+DISCUSSION                                                                    and quickly reversible, for example with loperamide. We found
+Patients with IBS-D suffer markedly from loose and frequent                   that most subjects returned to their previous bowel habit within
+stools, and particularly from the associated urgency and fear of              the 2-week washout and only 17 patients required longer.
+incontinence which generates panic and anxiety. This, therefore                  Our patients were moderately affected by bowel disturbance
+represents an important unmet need. The abnormalities of sero-                and psychological comorbidity similar to other recent trials of
+tonin metabolism which have been demonstrated in IBS-D make                   IBS-D treatment,28 so we expect our ﬁndings to be generalisable
+5-HT3 antagonists a logical treatment. Post-infective IBS, a                  to the general IBS population with symptoms severe enough to
+subtype of IBS-D with very similar clinical features,20 has been              warrant referral to secondary care.
+shown to be associated with increased 5HT-containing enter-                      Regrettably alosetron, a 5-HT3RA for which there is substan-
+oendocrine cells,21–23 and also increased postprandial 5-HT                   tial evidence of beneﬁt,29 was withdrawn from widespread use
+release.24 Further studies have also shown reduced mRNA for                   because of an unacceptable incidence of severe constipation
+SERT in IBS-D duodenal25 and colonic biopsies23 25which, in                   (around 25%) and a much lower incidence (0.7 per 1000
+keeping with animal studies of post inﬂammatory bowel dys-                    patient-years30) of unexplained ischaemic colitis. Our trial
+function,26 was correlated with mucosal immune response.                      shows that ondansetron can achieve useful results with a low
+   Our study showed patients with IBS-D have a clear preference               incidence of side effects. While our small study cannot prove
+for ondansetron compared with placebo, even though it did not                 safety, the fact that the drug has been used widely for over
+alter the number of days with pain, suggesting that for these                 25 years without a single report of ischaemic colitis suggests
+patients it was urgency and loose stools which were the most                  that this side effect will be rare. Constipation occurred in just
+troublesome symptoms. It is of interest that animal studies have              9% and rapidly resolved on dose reduction, giving a discontinu-
+shown that alosetron, a 5-HT3RA shown to be effective in                      ation rate due to constipation of just 2%. Our constipation rate
+IBS-D, inhibits spinal pathways mediating the response to                     is lower than the 18–29.6% and 10–19.3% respectively
+painful colonic distension.27 We have also shown in a rat model               reported in the meta-analysis of alosetron 2 mg and cilansetron
+of postinfective visceral hypersensitivity that ondansetron                   6 mg daily,29 while ramosetron 5 μg was associated with a com-
+reduces afferent ﬁring induced by colonic distension,26 suggest-              parable rate of 7.4%.31 Our low rate undoubtedly reﬂects the
+ing that ondansetron might have reduced pain if we had used                   use of dose titration, to avoid constipation, with many patients
+higher doses. However, this would undoubtedly have produced                   only requiring 4 mg daily or on alternate days. This mirrors
+more constipation which our patients were keen to avoid.                      what would happen in clinical practice. The high incidence of
+Although only 41% met FDA criteria for responder to both                      constipation with alosetron is dose related and 0.5 mg daily is
+pain and consistency, 67% reported adequate relief of symp-                   associated with a much reduced incidence of constipation ( just
+toms, suggesting that when urgency is the main problem ondan-                 9%) with relief of symptoms in 50.8% of patients compared
+setron will be effective but less so when pain is the main                    with 30.7% in placebo.32 Unfortunately ischaemic colitis
+complaint. It should be noted that dyspepsia is a common                      remains a concern even at 0.5mg daily despite careful monitor-
+comorbidity with IBS and earlier studies suggest beneﬁt to                    ing, with an incidence of 2 per 1000 with alosetron33 and it
+heartburn and postprandial pain.9 Therefore some of the global                seems unlikely that alosetron will ever be marketed worldwide.
+beneﬁt may have been from improvement in dyspepsia, though                    Ondansetron’s potency in blocking the 5-HT3 receptor is 3–10
+we did not assess this in the current study. Future studies should            times lower than alosetron,34 which may explain the low inci-
+probably include a dyspepsia assessment.                                      dence of side effects in our study. Ramosetron is another
+   Our variable dosing regime mirrored clinical practice and we               5-HT3RA, proven effective in IBS-D,35 but unfortunately only
+feel gives a better idea of how the drug will perform in clinical             marketed in Japan. It has an afﬁnity for the 5-HT3 receptor
+
+Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989                                                                          1623
+ Neurogastroenterology
+
+three times that of alosetron36 but is given at a very low dose of                   REFERENCES
+5 μg, equivalent to 0.015 mg alosetron, again suggesting that                         1   Tillisch K, Labus JS, Naliboff BD, et al. Characterization of the alternating bowel
+lower doses of 5-HT3RAs might well be the best strategy in                                habit subtype in patients with irritable bowel syndrome. Am J Gastroenterol
+                                                                                          2005;100:896–904.
+treating IBS-D.                                                                       2   Spiegel BM, Gralnek IM, Bolus R, et al. Clinical determinants of health-related
+   Previous authors have reported that individuals with the het-                          quality of life in patients with irritable bowel syndrome. Arch Intern Med
+erozygote sl genotype responded less well to alosetron as                                 2004;164:1773–80.
+assessed by the change in colonic transit,10 a ﬁnding which does                      3   Gershon MD. Review article: serotonin receptors and transporters—roles in normal
+                                                                                          and abnormal gastrointestinal motility. Aliment Pharmacol Ther 2004;20(Suppl
+not seem true for ondansetron (see online supplementary                                   7):3–14.
+appendix).                                                                            4   Zhu JX, Zhu XY, Owyang C, et al. Intestinal serotonin acts as a paracrine substance
+   The strongest effects were on transit, stool consistency and                           to mediate vagal signal transmission evoked by luminal factors in the rat. J Physiol
+urgency, which are important since urgency is one of the stron-                           2001;530(Pt 3):431–42.
+gest predictors of reduced quality of life37 and as others have                       5   Wolf H. Preclinical and clinical pharmacology of the 5-HT3 receptor antagonists.
+                                                                                          Scand J Rheumatol Suppl 2000;113:37–45.
+reported, response to 5-HT3RAs also correlates with improve-                          6   Cremonini F, Delgado-Aros S, Camilleri M. Efﬁcacy of alosetron in irritable bowel
+ment in quality of life.38                                                                syndrome: a meta-analysis of randomized controlled trials. Neurogastroenterol Motil
+   Unlike the larger alosetron trials we did not ﬁnd a signiﬁcant                         2003;15:79–86.
+improvement in abdominal pain versus placebo, with only 41%                           7   Talley NJ, Phillips SF, Haddad A, et al. GR 38032F (ondansetron), a selective
+                                                                                          5HT3 receptor antagonist, slows colonic transit in healthy man. Dig Dis Sci
+of individuals meeting FDA dual criteria for being ‘responders’                           1990;35:477–80.
+for pain and stool consistency, a value not signiﬁcantly different                    8   von der Ohe MR, Camilleri M, Kvols LK. A 5HT3 antagonist corrects the
+from 17% on placebo. However, 67% of our patients reported                                postprandial colonic hypertonic response in carcinoid diarrhea. Gastroenterology
+‘adequate relief ’ from their symptoms with ondansetron but not                           1994;106:1184–9.
+placebo, compared with 14% with placebo but not ondansetron.                          9   Maxton DG, Morris J, Whorwell PJ. Selective 5-hydroxytryptamine antagonism: a
+                                                                                          role in irritable bowel syndrome and functional dyspepsia? Aliment Pharmacol Ther
+Furthermore, the IBS SSS score, an overall IBS severity score,                            1996;10:595–9.
+fell signiﬁcantly compared with placebo. The largest numerical                       10   Camilleri M, Atanasova E, Carlson PJ, et al. Serotonin-transporter polymorphism
+effect we found was the reduction in days with urgency, which                             pharmacogenetics in diarrhea-predominant irritable bowel syndrome.
+is known to be one of the most bothersome symptoms in                                     Gastroenterology 2002;123:425–32.
+                                                                                     11   Marciani L, Cox EF, Hoad CL, et al. Postprandial changes in small bowel water
+IBS-D1 and a very important driver of impairment of quality of                            content in healthy subjects and patients with irritable bowel syndrome.
+life.39 It is also rated by patients as the most important attribute                      Gastroenterology 2010;138:469–77.
+of a successful treatment for IBS-D.40                                               12   Longstreth GF, Thompson WG, Chey WD, et al. Functional bowel disorders.
+   We found that those most severely affected were more likely                            Gastroenterology 2006;130:1480–91.
+to drop out, less likely to respond and showed a smaller reduc-                      13   Kroenke K, Spitzer RL, Williams JB. The PHQ-15: validity of a new measure for
+                                                                                          evaluating the severity of somatic symptoms. Psychosom Med 2002;64:258–66.
+tion in stool consistency, indicating that the efﬁcacy for treating                  14   Levenstein S, Prantera C, Varvo V, et al. Development of the Perceived Stress
+severe diarrhoea is limited and the best response will be in those                        Questionnaire: a new tool for psychosomatic research. J Psychosom Res
+with mild to moderate symptoms who represent the majority of                              1993;37:19–32.
+patients seen in primary care. However, given its safety, low side                   15   Hahn BA, Kirchdoerfer LJ, Fullerton S, et al. Evaluation of a new quality of life
+                                                                                          questionnaire for patients with irritable bowel syndrome. Aliment Pharmacol Ther
+effect proﬁle and rapid onset of effect within 1 week in most                             1997;11:547–52.
+cases, a trial of treatment would seem reasonable in most cases                      16   Francis CY, Morris J, Whorwell PJ. The irritable bowel severity scoring system: a
+of IBS-D. Whether it would help patients with functional diar-                            simple method of monitoring irritable bowel syndrome and its progress. Aliment
+rhoea remains to be determined.                                                           Pharmacol Ther 1997;11:395–402.
+   Ondansetron is a generic drug, available worldwide at a low                       17   Heaton KW, O’Donnell LJ. An ofﬁce guide to whole-gut transit time. Patients’
+                                                                                          recollection of their stool form. J Clin Gastroenterol 1994;19:28–30.
+price, with a very long experience of safe usage, which our                          18   US Department of Health and Human Services, Food and Drug Administration,
+study suggests would beneﬁt patients with IBS-D troubled                                  Center for Drug Evaluation and Research. Guidance for industry irritable bowel
+mainly by urgency and loose stools.                                                       syndrome—clinical evaluation of drugs for treatment. 2012. Silver Spring, MD:
+                                                                                          Ofﬁce of Communications, Division of Drug Information Center for Drug Evaluation
+                                                                                          and Research Food and Drug Administration.
+Acknowledgements Melanie Lingaya and Rawinder Banwait are thanked for                19   Metcalf AM, Phillips SF, Zinsmeister AR, et al. Simpliﬁed assessment of segmental
+providing technical assistance.                                                           colonic transit. Gastroenterology 1987;92:40–7.
+Contributors Conception, design and overall supervision of study: RS, KG, PW and     20   Spiller R, Garsed K. Postinfectious irritable bowel syndrome. Gastroenterology
+IH. Collection of samples: KG, CL and MH. Analysis of samples: GS, AM and LM.             2009;136:1979–88.
+Write up: all authors.                                                               21   Spiller RC, Jenkins D, Thornley JP, et al. Increased rectal mucosal enteroendocrine
+                                                                                          cells, T lymphocytes, and increased gut permeability following acute Campylobacter
+Funding This paper presents independent research funded by the National Institute         enteritis and in post-dysenteric irritable bowel syndrome. Gut 2000;47:804–11.
+for Health Research (NIHR) grant number PB-PG-0107/12127.                            22   Dunlop SP, Jenkins D, Neal KR, et al. Relative importance of enterochromafﬁn cell
+Competing interests RS has received research funding from Lesaffre and                    hyperplasia, anxiety, and depression in postinfectious IBS. Gastroenterology
+Ironwood and free drug for clinical trial from Norgine. He has also acted on              2003;125:1651–9.
+Advisory Boards for Almirall, Astellas, Danone and Sanoﬁ. PW has received research   23   Faure C, Patey N, Gauthier C, et al. Serotonin signaling is altered in irritable bowel
+funding from Danone. He has also acted on Advisory Boards for Almirall, Norgine,          syndrome with diarrhea but not in functional dyspepsia in pediatric age patients.
+Danone and Shire.                                                                         Gastroenterology 2010;139:249–58.
+                                                                                     24   Dunlop SP, Coleman NS, Blackshaw E, et al. Abnormalities of 5-hydroxytryptamine
+Disclaimer The views expressed are those of the author(s) and not necessarily
+                                                                                          metabolism in irritable bowel syndrome. Clin Gastroenterol Hepatol 2005;3:349–57.
+those of the NHS, the NIHR or the Department of Health.
+                                                                                     25   Foley S, Garsed K, Singh G, et al. Impaired uptake of serotonin by platelets from
+Provenance and peer review Not commissioned; externally peer reviewed.                    patients with irritable bowel syndrome correlates with duodenal immune activation.
+Data sharing statement Authors will provide additional data on request.                   Gastroenterology 2011;140:1434–43.
+                                                                                     26   Keating C, Beyak M, Foley S, et al. Afferent hypersensitivity in a mouse model of
+Open Access This is an Open Access article distributed in accordance with the             post-inﬂammatory gut dysfunction: role of altered serotonin metabolism. J Physiol
+terms of the Creative Commons Attribution (CC BY 3.0) license, which permits              2008;586(Pt 18):4517–30.
+others to distribute, remix, adapt and build upon this work, for commercial use,     27   Kozlowski CM, Green A, Grundy D, et al. The 5-HT(3) receptor antagonist alosetron
+provided the original work is properly cited. See: http://creativecommons.org/            inhibits the colorectal distention induced depressor response and spinal c-fos
+licenses/by/3.0/                                                                          expression in the anaesthetised rat. Gut 2000;46:474–80.
+
+
+
+1624                                                                                        Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989
+                                                                                                                                        Neurogastroenterology
+
+28   Brown PM, Drossman DA, Wood AJ, et al. The tryptophan hydroxylase inhibitor                 perturbed small intestinal transit in the fasted rat. Neurogastroenterol Motil
+     LX1031 shows clinical beneﬁt in patients with nonconstipating irritable bowel               1999;11:207–17.
+     syndrome. Gastroenterology 2011;141:507–16.                                            35   Matsueda K, Harasawa S, Hongo M, et al. A randomized, double-blind, placebo-
+29   Andresen V, Montori VM, Keller J, et al. Effects of 5-hydroxytryptamine (serotonin)         controlled clinical trial of the effectiveness of the novel serotonin type 3 receptor
+     type 3 antagonists on symptom relief and constipation in nonconstipated irritable           antagonist ramosetron in both male and female Japanese patients with
+     bowel syndrome: a systematic review and meta-analysis of randomized controlled              diarrhea-predominant irritable bowel syndrome. Scand J Gastroenterol
+     trials. Clin Gastroenterol Hepatol 2008;6:545–55.                                           2008;43:1202–11.
+30   Chang L, Chey WD, Harris L, et al. Incidence of ischemic colitis and serious           36   Hirata T, Keto Y, Funatsu T, et al. Evaluation of the pharmacological proﬁle of
+     complications of constipation among patients using alosetron: systematic review of          ramosetron, a novel therapeutic agent for irritable bowel syndrome. J Pharmacol Sci
+     clinical trials and post-marketing surveillance data. Am J Gastroenterol                    2007;104:263–73.
+     2006;101:1069–79.                                                                      37   Wiklund IK, Fullerton S, Hawkey CJ, et al. An irritable bowel syndrome-speciﬁc
+31   Matsueda K, Harasawa S, Hongo M, et al. A phase II trial of the novel serotonin             symptom questionnaire: development and validation. Scand J Gastroenterol
+     type 3 receptor antagonist ramosetron in Japanese male and female patients with             2003;38:947–54.
+     diarrhea-predominant irritable bowel syndrome. Digestion 2008;77:225–35.               38   Cremonini F, Nicandro JP, Atkinson V, et al. Randomised clinical trial:
+32   Krause R, Ameen V, Gordon SH, et al. A randomized, double-blind, placebo-controlled         alosetron improves quality of life and reduces restriction of daily activities in
+     study to assess efﬁcacy and safety of 0.5 mg and 1 mg alosetron in women with severe        women with severe diarrhoea-predominant IBS. Aliment Pharmacol Ther
+     diarrhea-predominant IBS. Am J Gastroenterol 2007;102:1709–19.                              2012;36:437–48.
+33   Chang L, Tong K, Ameen V. Ischemic colitis and complications of constipation           39   Spiegel B, Strickland A, Naliboff BD, et al. Predictors of patient-assessed illness
+     associated with the use of alosetron under a risk management plan: clinical                 severity in irritable bowel syndrome. Am J Gastroenterol 2008;103:2536–43.
+     characteristics, outcomes, and incidences. Am J Gastroenterol 2010;105:866–75.         40   Olden K, DeGarmo RG, Jhingran P, et al. Patient satisfaction with alosetron for the
+34   Clayton NM, Sargent R, Butler A, et al. The pharmacological properties of the novel         treatment of women with diarrhea-predominant irritable bowel syndrome. Am J
+     selective 5-HT3 receptor antagonist, alosetron, and its effects on normal and               Gastroenterol 2002;97:3139–46.
+
+
+
+
+Garsed K, et al. Gut 2014;63:1617–1625. doi:10.1136/gutjnl-2013-305989                                                                                                           1625
+

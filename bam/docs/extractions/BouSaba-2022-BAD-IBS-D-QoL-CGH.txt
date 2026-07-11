@@ -1,0 +1,593 @@
+                                                                                   Clinical Gastroenterology and Hepatology 2022;20:2083–2090
+
+
+
+FUNCTIONAL DISORDERS
+Impact of Bile Acid Diarrhea in Patients With Diarrhea-
+Predominant Irritable Bowel Syndrome on Symptoms and
+Quality of Life
+Joelle BouSaba,*,a Wassel Sannaa,*,a Sanna McKinzie,* Priya Vijayvargiya,*
+Victor Chedid,* Xiao Jing Wang,* Jessica Atieh,* Ting Zheng,* Justin Brandler,*
+Ann L. Taylor,* Irene Busciglio,* W. Scott Harmsen,‡ and Michael Camilleri*
+*Clinical Enteric Neuroscience Translational and Epidemiological Research, Division of Gastroenterology and Hepatology,
+‡
+  Department of Quantitative Health Sciences, Mayo Clinic, Rochester, Minnesota
+
+This article has an accompanying continuing medical education activity, also eligible for MOC credit on page e1533. Upon completion of reading this
+article, successful learners will be able to identify clinical features that may differentiate patients with bile acid diarrhea among those presenting
+with symptoms suggestive of irritable bowel syndrome with diarrhea.
+
+
+
+
+                      IBS-D                           Multiple Variable Logistic Model for Prediction of BAD
+                                                                                                            Anti-
+                                                                                OR=1.42                  diarrheals         OR=1.35
+                                                                               [1.08-1.86]                                 [1.08-1.68]
+                                                                                       Worrying
+                                                            IBS-D                        about                           Frequency
+                                                                                        losing                             of BMs
+       Fasting               BDQ                             219                        control
+       serum                 HADs
+                                                                                                        AUC=0.69
+       7αC4                  SCL-90
+                                                                                                        [0.59-0.78]
+                             IBS-QOL
+                                               14 screen
+                                           fails/withdrawals                          Importance
+                                                                                        of being                          Loose BM
+                                                                                          near
+                                                                                       bathroom
+
+       No BAD           BAD                   BAD                       No BAD
+                                                                                                          Urgency
+                                               44                        161
+
+
+
+
+BACKGROUND & AIMS:               Bile acid diarrhea (BAD) affects approximately a quarter of patients with irritable bowel syn-
+                                 drome with diarrhea (IBS-D). We aimed to compare the demographics, bowel and somatic
+                                 symptoms, and quality of life of patients with IBS-D, with or without BAD.
+
+METHODS:                         On one occasion, patients with IBS-D (positive for Rome III criteria) completed the following
+                                 questionnaires: bowel disease questionnaire, Hospital Anxiety and Depression inventory, gen-
+                                 eral quality of life (Symptom Checklist-90), and IBS-speciﬁc quality of life. A fasting serum C4
+                                 level higher than 52.5 ng/mL was used as a biomarker for BAD. Statistical analysis included a
+                                 multiple variable logistic model to identify strong predictors of BAD in IBS-D.
+
+RESULTS:                         Among 219 patients (79% female) with IBS-D, 44 had BAD; the BAD group was signiﬁcantly
+                                 older and had a higher body mass index than the patients without BAD. Patients with BAD had
+                                 more severe bowel dysfunction and impact on IBS-speciﬁc quality of life (need of toilet prox-
+                                 imity) compared with patients with IBS-D without BAD. Patients with BAD were more likely
+                                 than other IBS-D groups to receive antidiarrheals, bile acid binders, and antacid secretory
+                                 agents. The severity of diarrhea and need of toilet proximity were predictors of BAD in IBS-D (P
+
+
+a
+    Authors share co-ﬁrst authorship.                                            Most current article
+Abbreviations used in this paper: BAD, bile acid diarrhea; BMI, body mass                           © 2022 by the AGA Institute
+index; IBS, irritable bowel syndrome; IBS-D, irritable bowel syndrome with                                1542-3565/$36.00
+diarrhea.                                                                                    https://doi.org/10.1016/j.cgh.2021.11.035
+2084 BouSaba et al                                                         Clinical Gastroenterology and Hepatology Vol. 20, No. 9
+
+
+                          < .01). Patients with BAD were more likely to have a depression score higher than 8 on the
+                          Hospital Anxiety and Depression inventory.
+
+CONCLUSIONS:              There is a greater impact on bowel and somatic symptoms and quality of life in IBS-D with BAD
+                          compared with IBS-D without BAD. Screening for BAD in IBS-D is especially relevant, with more
+                          severe and frequent diarrhea along with urgency.
+
+Keywords: Malabsorption; Depression; Somatization.
+
+
+      rritable bowel syndrome (IBS) is a functional              a bile acid synthesis intermediate, 7a-hydroxy-4-
+   I  gastrointestinal disorder affecting up to 10% of the
+general population.1 The diagnosis is based on clinical
+                                                                 cholesten-3-one. Increased synthesis leads to a higher
+                                                                 proportion of bile acids reaching the colon, resulting in
+criteria, because IBS is deﬁned as recurrent abdominal           increased mucosal permeability, increased colonic
+pain related to defecation and change in the frequency or        motility, and water secretion contributing to BAD.15
+form of stool. IBS is subclassiﬁed into IBS with con-                Given that the impact of BAD on the symptoms and
+stipation, IBS with diarrhea (IBS-D), IBS with a mixed           quality of life in patients presenting with IBS-D is unknown,
+stool pattern, or IBS unclassiﬁed.2 Up to 31.5% of people        our hypothesis was that patients with IBS-D with or without
+with IBS have IBS-D.3                                            BAD have similar demographics, bowel and somatic symp-
+    IBS is associated with several predisposing factors such     toms, and quality of life. Our aim was to compare the de-
+as antecedent infections, genetic predisposition, and psy-       mographics, bowel and somatic symptoms, and quality of
+chological factors. Important gut factors include neuro-         life of patients with IBS-D with or without BAD.
+muscular dysfunction, visceral hypersensitivity, increased
+permeability, dysbiosis, and bile acid–induced diarrhea             Methods
+(BAD), reﬂecting overall gut–brain axis dysfunction.4,5 IBS
+is associated with comorbidities in the form of other
+functional and somatic disorders such as ﬁbromyalgia,
+                                                                    Participants, Regulatory Approval, and Design
+chronic fatigue syndrome, and chronic pelvic pain, as well
+                                                                    Data reported here were obtained from participants
+as psychiatric disorders such as major depressive disor-
+                                                                 with Rome III–positive criteria16 for IBS-D who were
+der, anxiety, and somatization.6 Consequently, IBS is
+                                                                 recruited to the Mayo Clinic Institutional Review
+associated with decreased work productivity, decreased
+                                                                 Board–approved protocol (Institutional Review Board
+quality of life, and high health and ﬁnancial burden.7
+                                                                 #16-001445). Participants signed informed consent for
+    Although there is increased appreciation of the role of
+                                                                 use of their electronic medical records for research. The
+BAD in the development of chronic diarrhea, notably IBS-
+                                                                 observational study used standard validated question-
+D, with evidence of 25% to 50% of patients in different
+                                                                 naires and biochemical measurements. Details regarding
+series showing evidence of BAD,8–11 the impact of BAD
+                                                                 patient selection and recruitment are included in the
+on symptoms and quality of life in patients presenting
+                                                                 Supplementary Methods.
+with IBS-D is unknown. Bile acids are amphipathic mol-
+ecules that mediate lipid digestion and absorption. After
+being synthesized in the liver, the primary bile acids              Demographics
+(cholic acid and chenodeoxycholic acid) are conjugated
+to taurine and glycine and secreted in bile. Approxi-               Demographic information regarding participant age,
+mately 95% of these primary bile acids are reabsorbed            sex, body mass index (BMI), race, ethnicity, history of
+via the apical Naþ-dependent bile acid transporter in the        cholecystectomy, and number and types of medications
+terminal ileum and reach the liver via the portal circu-         taken was retrieved from the electronic medical records.
+lation, thereby constituting the enterohepatic circulation.
+The remaining bile acids are deconjugated and dehy-                 Questionnaires
+droxylated by colonic bacteria, forming predominantly
+deoxycholic acid and lithocholic acid, and these subse-              The Hospital Anxiety and Depression Ques-
+quently are excreted in the feces.                               tionnaire. Participants answered 14 questions, 7 related
+    In idiopathic BAD unassociated with intestinal mucosal       to anxiety symptoms and 7 related to depression
+diseases or ileal resection, as occurs in patients with IBS-D,   symptoms. Each question was scored from 0 to 3. The
+there is evidence of decreased synthesis of ﬁbroblast            sum of the scores for the 7 anxiety-related questions and
+growth factor-19, which is a hormone in the portal circu-        the 7 depression-related questions was computed. A cut-
+lation that down-regulates the hepatocyte synthesis of bile      off score of 8 on each for the subscales was considered
+acids.12–14 Hence, deﬁciency of ﬁbroblast growth factor-         consistent with anxiety or depression.17,18
+19 is associated with increased bile acid synthesis,                 Validated Bowel Disease Questionnaire. Participants
+which can be assessed indirectly by measuring the level of       answered 110 questions about their bowel symptoms
+September 2022                                                                    Impact of BAD on Symptoms and QOL 2085
+
+
+and the impact on their activities. The questionnaire also
+included 16 questions related to somatic symptoms.               What You Need to Know
+These somatic symptom questions were in the how often
+                                                                 Background
+and how bothersome format and were scored on a scale
+from 0 (not a problem) to 4 (occurs daily or extremely           Bile acid diarrhea (BAD) is identiﬁed in approxi-
+bothersome when occurs).19                                       mately a third of patients with irritable bowel syn-
+    General Quality of Life: Symptom Checklist-90 Ques-          drome with diarrhea (IBS-D). This study investigated
+tionnaire. Participants answered 90 questions, scored            the impact of BAD by an analysis of bowel and so-
+from 0 to 4. These 90 questions explored 9 different             matic symptoms and quality of life of patients with
+dimensions (somatization, obsessive-compulsive, inter-           IBS-D with or without BAD.
+personal sensitivity, depression, anxiety, hostility, phobic     Findings
+anxiety, paranoid ideation, and psychotic). A global             Patients with BAD had more severe bowel dysfunc-
+severity index (mean score of the 90 questions), a posi-         tion (number of bowel movements, urgency), impact
+tive symptom distress index (mean score for questions            on IBS-speciﬁc quality of life (need of toilet prox-
+with a score >0), and a positive symptoms total (number          imity), and depression compared with IBS-D without
+of questions in which score was >0) was computed. The            BAD. Patients with BAD were more likely to receive
+mean score for each of the dimensions also was                   antidiarrheal agents, bile acid binders, and anti–
+computed.20                                                      hydrogen ion secretion agents.
+   Irritable Bowel Syndrome Speciﬁc Quality of Life
+questionnaire. Participants answered 34 questions about          Implications for patient care
+their quality of life, scored from 1 to 5. These questions       There is greater impact on bowel and somatic
+belonged to 8 different domains (dysphoria, interference         symptoms and quality of life in IBS-D with BAD
+with activity, body image, health worry, food avoidance,         compared with IBS-D without BAD. Screening for
+social reaction, sexual, and relationship).21 Using a            BAD in IBS-D is especially relevant with more severe
+transformation formula, the scores were transformed              and frequent diarrhea along with urgency.
+into a scale of 0 to 100. This formula was used to
+compute the scaled scores of the 8 different domains.22
+                                                               version 9.4 (SAS Institute Inc., Cary, NC) was used in all
+   Criteria for Identiﬁcation of Bile Acid Diarrhea            analyses.
+
+   Identiﬁcation of BAD was based on established
+biochemical diagnostic criteria, that is, fasting (before
+                                                                  Results
+9:00 AM because of diurnal variation) serum 7a-hy-
+droxy-4-cholesten-3-one greater than 52.5 ng/mL.23                Demographics
+
+                                                                  Our study included 219 patients with IBS-D; among
+   Statistical Analysis
+                                                               these, 44 had BAD. Of our total population, 79% were
+                                                               females. Patients with IBS-D with BAD were signiﬁcantly
+    The associations between nominal category ques-
+                                                               older and had a higher BMI than those without BAD.
+tionnaire responses as well as history of cholecystec-
+                                                               Patients with BAD had a signiﬁcantly higher proportion
+tomy and BAD status were assessed using a chi-square
+                                                               of cholecystectomy compared with those without BAD.
+test. The associations for continuous baseline charac-
+                                                               We found no signiﬁcant differences for sex (Table 1),
+teristics of age, BMI, and Symptom Checklist-90 sub-
+                                                               race, or ethnicity (not shown).
+scales were assessed using a 2-sample t test. A
+nonparametric Wilcoxon rank sum test was used to
+examine the bowel functions and IBS quality-of-life               Medication Use
+category questions.
+    A multiple variable logistic regression model was             There was no signiﬁcant difference in the median
+used to examine 6 a priori identiﬁed questions for as-         number of medications used between the 2 groups
+sociation with BAD status. These 6 questions pertaining        (Table 1). However, the use of antidiarrheal medications
+to the past year for each participant were as follows: use     was signiﬁcantly higher among BAD subjects compared
+of antidiarrheals, loose or watery stools, experienced an      with IBS-D without BAD. The use of ﬁber was compa-
+urgent need to open your bowels that made you rush to          rable, with no statistically signiﬁcant differences be-
+the toilet, worrying about losing control of bowel, num-       tween groups (data not shown). There was a higher
+ber of bowel movements per week, and importance of             prevalence of using antacid secretory agents (H2-
+being near a bathroom. A parsimonious model was ﬁt             receptor antagonists and proton pump inhibitors; P ¼
+using backward selection to identify the ﬁnal model,           .0321) and bile acid binders (P ¼ .0043) in the BAD
+retaining variables with a P value less than .05. The          group compared with the group with IBS-D without
+a level was set at .05 for statistical signiﬁcance. SAS        BAD.
+2086 BouSaba et al                                                                         Clinical Gastroenterology and Hepatology Vol. 20, No. 9
+
+
+Table 1. Demographics of Patients With IBS-D With and Without BAD
+
+                                                                        IBS-D BAD                      IBS-D without BAD                        P value
+
+ Patients, n                                                                  44                                173
+ Demographics
+   Age, y, mean (SD)                                                     46.3 (14.3)                         39.8 (14.0)                        .006
+   Sex, male/female, %                                                   15.9/84.1                           22.3/77.7                          .353
+   BMI, kg/m2, mean (SD)                                                  33.3 (7.3)                          29.2 (6.9)                        <.001
+   Cholecystectomy                                                         16 (36)                             20 (11)                          <.001
+ Gastrointestinal medications used
+  Total patients, n                                                        4.3 (2.3)                          3.9 (2.3)                          .604
+  Antidiarrheals                                                         15 (34.1%)                          31 (17.9%)                          .019
+  Bile acid binders                                                       5 (11.4%)                           2 (1.2%)                           .004
+  Laxative                                                                1 (2.3%)                            1 (0.6%)                           .365
+  Antacid secretory agents                                               15 (34.1%)                          33 (19.1%)                          .032
+ Central neuromodulators used
+   Antidepressantsa                                                      16 (36.4%)                          68 (39.3%)                          .721
+   TCA                                                                    1 (2.3%)                            5 (2.9%)                            1.0
+   SSRI                                                                  14 (31.8%)                          53 (30.6%)                          .880
+   SNRI                                                                   2 (4.5%)                            7 (4.0%)                           .880
+   Dopaminergic/noradrenergic reuptake inhibitors                         4 (9.1%)                           10 (5.8%)                           .490
+   a2 adrenergic antagonists                                              0 (0.0%)                            1(0.6%)                             1.0
+   Dopamine agonist                                                       3 (6.8%)                            1 (0.6%)                           .027
+   Opioid agonist                                                         1 (2.3%)                            1 (0.6%)                           .365
+ Other medications
+   Eye lubricant                                                          5 (11.4%)                           3 (1.7%)                           .010
+
+
+NOTE. Data are shown as the median (interquartile range) or n (%).
+BAD, bile acid diarrhea; BMI, body mass index; IBS-D, irritable bowel syndrome with diarrhea; SNRI, serotonin and norepinephrine reuptake inhibitor; SSRI,
+selective serotonin reuptake inhibitor; TCA, tricyclic antidepressant.
+a
+ Patients taking any kind of antidepressants were counted in this category. Patients taking more than 1 type of antidepressant were counted once.
+
+    No signiﬁcant differences were found between both                         frequency or intensity of bowel movements. Patients in
+groups in the use of central neuromodulators. Moreover,                       the IBS-D with BAD group were more likely to smoke
+no signiﬁcant differences were found between both                             cigarettes, which was deﬁned as at least 1 cigarette per
+groups when the use of antidepressant was stratiﬁed by                        day for at least 30 days, when compared with IBS-D
+class of antidepressant. Dopamine agonist medication                          without BAD.
+use in the BAD group was higher than in the group with
+IBS-D without BAD (3 in the BAD group and 1 in the IBS-
+                                                                                   Quality of Life
+D without BAD group; P ¼ .0270); the indication for
+these dopamine agonists was restless legs syndrome.
+                                                                                 General quality of life based on Symptom Checklist-
+There was a signiﬁcant difference in the use of eye lu-                       90. No signiﬁcant differences were found in the global
+bricants between the BAD and non-BAD groups (5 in the
+                                                                              severity index, positive symptom distress index, and total
+BAD group and 4 in the IBS-D without BAD group).
+                                                                              positive symptoms between the 2 groups. Similarly,
+    Those medications that participants were asked to
+                                                                              there were no signiﬁcant differences between the mean
+withhold from taking during the study are listed in
+                                                                              scores on each of the 9 dimensions between the 2 groups
+Supplementary Table 1.
+                                                                              (Table 3).
+                                                                                 Irritable Bowel Syndrome Speciﬁc Quality of Life
+    Symptoms                                                                  questionnaire. Signiﬁcant differences between the 2
+                                                                              groups were found concerning the importance of being
+    Gastrointestinal and somatic symptoms. Patients with                      in proximity to a toilet, the worry about losing control of
+BAD were more likely to report more frequent, urgent,                         bowels (both were more prevalent in BAD group), and
+and watery bowel movements when compared with pa-                             the fear of not being able to have a bowel movement
+tients with IBS-D without BAD. For straining severity,                        (which was less likely to be present in the BAD group)
+patients with IBS-D with BAD reported a signiﬁcantly                          (Table 4). Of the 8 subscales (see the Methods section),
+lower prevalence of straining and seeing mucus in stool                       only interference with activity was signiﬁcantly different
+with bowel movements in the past year than those with                         between the 2 groups (P ¼ .0375): BAD patients scored
+IBS-D without BAD (Table 2).                                                  39.3 (interquartile range, 23.3–60.7) compared with 33
+    No signiﬁcant differences were found between the 2                        (interquartile range, 17.9–50) for IBS-D without BAD,
+groups in their experiences of somatic symptoms, and                          based on a scale of 0 to 100.
+September 2022                                                                                           Impact of BAD on Symptoms and QOL 2087
+
+
+Table 2. Bowel Functions
+
+                                                                               IBS-D with BAD                  IBS-D without BAD                   P value
+
+ Patients, n                                                                             44                              160
+ Bowel function
+   Stools loose or watery in past year
+     Sometimes                                                                       5 (12.2)                         29 (19.5)                      .002
+     Often                                                                          11 (26.8)                         74 (49.7)
+     Usually                                                                        25 (61.0)                         46 (30.9%)
+   Experienced an urgent need to open your
+      bowels that made you rush to the toilet in the past year
+     Sometimes                                                                       8 (19.5)                         53 (35.6)                      .002
+     Often                                                                          19 (46.3)                         76 (51.0)
+     Usually                                                                        14 (34.1)                         18 (12.1)
+   Mucus in stools in the past year                                                  8 (25.0)                         61 (46.9)                      .029
+ Bowel movements/wk, n
+   17–21                                                                            11 (26.8)                         20 (13.4)                      .001
+   22–26                                                                             6 (14.6)                         19 (12.8)
+   >26                                                                               9 (22.0)                         16 (10.7)
+   Severity of straining with BM
+     Never                                                                          18 (43.9)                         35 (23.6)                      .049
+     Very mild                                                                       9 (22.0)                         38 (25.7)
+     Mild                                                                            4 (9.8)                          29 (19.6)
+     Moderate                                                                        7 (17.1)                         40 (27.0)
+     Severe                                                                          2 (4.9)                           5 (3.4)
+     Very severe                                                                     1 (2.4)                           1 (0.7)
+
+
+NOTE. Data are shown as n (%).
+BAD, bile acid diarrhea; BM, bowel movement; IBS-D, irritable bowel syndrome with diarrhea.
+
+
+
+   Hospital Anxiety and Depression scale. The question-                        BAD were older, were more likely to have undergone
+naire was completed by 206 patients. There were no                             cholecystectomy, and had a higher BMI compared with
+signiﬁcant differences between the 2 groups regarding                          patients without BAD. The higher BMI has been reported
+total anxiety score, total depression score, and total                         previously in prior studies of BAD.24,25
+(anxiety plus depression) score. When a cut-off value of 8                        Patients with BAD were found to take signiﬁcantly
+was used for the depression subscore, 9.1% of patients                         more antacids compared with patients without BAD,
+with BAD were positive compared with only 1.9% of                              consistent with the high prevalence of gastroesophageal
+patients without BAD (P ¼ .0188).
+                                                                               Table 3. General Quality of Life Based on SCL-90
+    Multiple Variable Logistic Model for Prediction                                     Dimensions
+    of Bile Acid Diarrhea Status                                               Dimension on            IBS-D with          IBS-D without
+                                                                                  SCL-90                  BAD                  BAD                 P value
+    A ﬁnal parsimonious model examining use of antidi-
+arrheal medications, frequency of bowel movements,                              Patients, n                  44                     161
+frequency of loose bowel movements, urgency, impor-                             Somatization              0.5 (0.5)               0.4 (0.4)          .185
+tance of being near a bathroom, and worrying about
+                                                                                Compulsive                0.5 (0.5)               0.4 (0.4)          .682
+losing control of bowel identiﬁed 2 variables for predic-
+tion of bile acid diarrhea status: frequency of bowel                           Sensitivity               0.4 (0.7)               0.3 (0.5)          .628
+movements (odds ratio, 1.35; 95% CI, 1.08–1.68) and                             Depression                0.5 (0.5)               0.4 (0.5)          .778
+worrying about losing control of bowel (odds ratio, 1.42;                       Anxiety                   0.3 (0.5)               0.2 (0.3)          .468
+95% CI, 1.08–1.868). The area under the receiver oper-
+ating characteristic curve for this ﬁnal model was 0.69                         Hostility                 0.3 (0.4)               0.3 (0.4)          .831
+(95% CI, 0.59–0.78).                                                            Phobic                    0.2 (0.4)               0.1 (0.3)          .676
+                                                                                Paranoid                  0.2 (0.5)               0.1 (0.3)          .246
+    Discussion                                                                  Psychoticism              0.1 (0.2)               0.1 (0.2)          .980
+
+   In this study, we showed that patients with IBS-D with
+                                                                               NOTE. Data show means (SD).
+or without BAD differ in their BMI, medication use,                            BAD, bile acid diarrhea; IBS-D, irritable bowel syndrome with diarrhea; SCL-90,
+symptoms, and quality-of-life parameters. Patients with                        Symptom Checklist-90.
+2088 BouSaba et al                                                                         Clinical Gastroenterology and Hepatology Vol. 20, No. 9
+
+
+Table 4. IBS Quality of Life                                                     63% had more than 17 bowel movements per week, 22%
+                                                                                 had more than 26 bowel movements per week, 61% re-
+                       IBS-D     IBS-D without BAD
+                                                                                 ported loose or watery stools more than 75% of the time,
+                    BAD (N ¼ 44)     (N ¼ 161)     P value
+                                                                                 and 80.4% of patients with BAD reported an urgent need
+ It is important to be near a toilet because of my                  .0105        to defecate more than 25% of the time. In fact, 34.1% had
+      bowel problems                                                             an urgency to defecate more than 75% of the time.
+     Not at all        0 (0.0%)            12 (7.7%)                                 Conversely, patients with BAD strained less with
+     Slightly          9 (20.9%)           44 (28.4%)
+                                                                                 bowel movements. These ﬁndings are consistent with
+     Moderately        9 (20.9%)           38 (24.5%)
+     Quite a bit       9 (20.9%)           31 (20.0%)                            previous studies that reported more severe diarrhea in
+     Extremely       15 (34.9%)            30 (19.4%)                            patients with BAD, based on 75SeHCAT retention less
+                                                                                 than 10%,25 and on an online survey conducted by the
+ I worry about losing control of my bowels                          .0029
+    Not at all       8 (18.6%)          41 (26.5%)                               Bile Acid Malabsorption Support UK Study, which
+    Slightly        10 (23.3%)          57 (36.8%)                               showed that up to 80% reported severe diarrhea and
+    Moderately       5 (11.6%)          32 (20.6%)                               85% reported urgency.36
+    Quite a bit     11 (25.6%)          15 (9.7%)                                    Consistent with the signiﬁcantly worse diarrhea, pa-
+    A great deal     9 (20.9%)          10 (6.5%)
+                                                                                 tients with BAD reported the importance of being near a
+ I fear that I will not be able to have a bowel movement            .0457        toilet and the fear of losing control of their bowels, which
+    Missing                  1                  6                                precluded them from engaging in normal daily activities.
+    Not at all         39 (90.7%)          120 (77.4%)
+    Slightly             4 (9.3%)           24 (15.5%)
+                                                                                 Other studies have shown that patients with IBS-D had
+    Moderately           0 (0.0%)            7 (4.5%)                            worse disease-speciﬁc quality of life and more interfer-
+    Quite a bit          0 (0.0%)            1 (0.6%)                            ence with daily activities, especially those that involve
+    A great deal         0 (0.0%)            2 (1.3%)                            getting out of the home and taking place in locations with
+                                                                                 no proximity to bathrooms when compared with other
+NOTE. Data are shown as n (%).
+                                                                                 subtypes of IBS.37 Treatment of BAD with bile acid
+BAD, bile acid diarrhea; IBS, irritable bowel syndrome; IBS-D, irritable bowel   sequestrants signiﬁcantly improved work absenteeism.36
+syndrome with diarrhea.                                                              BAD also impacts mental health, speciﬁcally showing
+                                                                                 a higher prevalence of symptoms suggestive of depres-
+reﬂux disease among patients with IBS, and the fact that                         sion measured by the Hospital Anxiety and Depression
+up to 44% of patients with IBS receive proton pump                               Scale, but not when assessed by the Symptom Checklist-
+inhibitor therapy.26,27 It is conceivable that bacterial                         90. The divergent result might be owing to the small
+overgrowth in the small intestine associated with proton                         proportion of patients with symptoms consistent with
+pump inhibitor use may increase deconjugation of bile                            depression even in the BAD group.
+acids and decrease their reabsorption28,29; further                                  The strengths of our study include novel comparison
+studies are required to explore this hypothesis.                                 of the demographics, symptoms, and quality of life of
+    In our study, a greater proportion of the BAD group                          IBS-D patients with and without BAD, and the more than
+was receiving bile acid binders. Medical records review                          200 patients with IBS-D with typical demographic fea-
+of the 5 patients with BAD taking bile acid binders                              tures including female sex, middle age, and active
+showed that in 4 patients, the indication was a diagnosis                        symptoms at the time of study. Our study highlights the
+of BAD before their enrollment in this study, and the ﬁfth                       importance of screening for BAD among patients with
+patient was treated for postcholecystectomy diarrhea.                            IBS-D, especially in those with greater severity of
+    It is worth noting that there was no difference in the                       symptoms such as number of bowel movements, ur-
+number of patients in each group being treated with                              gency, looser stool consistency, and insecurity associated
+dietary ﬁber or with metformin, which may cause BAD                              with needing proximity to a bathroom, which interferes
+by inhibiting ileal bile acid reabsorption.30,31 Patients on                     with daily activities. Two features (frequency and
+metformin were included only if the diarrhea preceded                            worrying about losing control of bowel movements) also
+metformin initiation, the dose was stable, and they had                          proved highly relevant on the multiple variable logistic
+not experienced aggravation of the diarrhea by the                               model.
+medication.                                                                          The limitations of our study are that the results are
+    We found a smaller number of patients with BAD                               based on validated questionnaires, which still constitute
+reported mucus in their stools compared with patients                            a subjective measurement, and the absence of correction
+without BAD. This ﬁnding was not expected because                                for multiple comparisons in the interrogations in the
+previous animal studies showed that chenodeoxycholic                             multiple questionnaires. However, in a prior study, we
+and deoxycholic acid perfused into the colon increased                           reported objective evidence consistent with more severe
+mucus secretion.32–35                                                            diarrhea in BAD (fecal bile acid excretion, >2337 mmol/
+    The observation that patients with BAD took more                             48 h), documented by signiﬁcantly faster colonic transit
+antidiarrheal medications than patients without BAD is                           at 24 and 48 hours as well as higher fecal fat excretion
+consistent with more frequent bowel movements per                                compared with patients with IBS-D with normal fecal bile
+week in the BAD group. In fact, among patients with BAD,                         acid excretion.38 Another limitation of our observational
+September 2022                                                                                    Impact of BAD on Symptoms and QOL 2089
+
+
+study was the assessment of the population of interest at                 13. Hofmann AF, Mangelsdorf DJ, Kliewer SA. Chronic diarrhea due
+a single point in time and hence the need for replication                     to excessive bile acid synthesis and not defective ileal transport:
+of our ﬁndings.                                                               a new syndrome of defective ﬁbroblast growth factor 19 release.
+                                                                              Clin Gastroenterol Hepatol 2009;7:1151–1154.
+    We conclude that patients with BAD had a higher
+                                                                          14. Chang C, Jiang J, Sun R, et al. Downregulation of serum and
+BMI, took more antidiarrheal agents, and had more se-
+                                                                              distal ileum ﬁbroblast growth factor 19 in bile acid diarrhoea
+vere and frequent diarrhea, as well as urgency. These
+                                                                              patients. Dig Dis Sci 2021:https://doi.org/10.1007/s10620-021-
+symptoms interfere with daily activities, and the impact                      07042-x [Epub ahead of print].
+is conﬁrmed on a rigorous regression model. The study                     15. Camilleri M. Bile acid diarrhea: prevalence, pathogenesis, and
+adds to the body of evidence, including impact on health                      therapy. Gut Liver 2015;9:332–339.
+care utilization,39 that searching for evidence of BAD is                 16. Longstreth GF, Thompson WG, Chey WD, et al. Functional
+relevant in patients with IBS-D, especially in those with                     bowel disorders. Gastroenterology 2006;130:1480–1491.
+more severe and frequent diarrhea associated with                         17. Bjelland I, Dahl AA, Haug TT, et al. The validity of the Hospital
+urgency.                                                                      Anxiety and Depression Scale. An updated literature review.
+                                                                              J Psychosom Res 2002;52:69–77.
+                                                                          18. Zigmond AS, Snaith RP. The hospital anxiety and depression
+   Supplementary Material
+                                                                              scale. Acta Psychiatr Scand 1983;67:361–370.
+                                                                          19. Talley NJ, Phillips SF, Wiltgen CM, et al. Assessment of func-
+   Note: To access the supplementary material accom-                          tional gastrointestinal disease: the Bowel Disease Question-
+panying this article, visit the online version of Clinical                    naire. Mayo Clin Proc 1990;65:1456–1479.
+Gastroenterology and Hepatology at www.cghjournal.org,                    20. Derogatis LR, Lipman RS, Covi L. SCL-90: an outpatient psy-
+and at https://doi.org/10.1016/j.cgh.2021.11.035.                             chiatric rating scale–preliminary report. Psychopharmacol Bull
+                                                                              1973;9:13–28.
+                                                                          21. Patrick DL, Drossman DA, Frederick IO, et al. Quality of life in
+    References                                                                persons with irritable bowel syndrome: development and vali-
+ 1. Sperber AD, Dumitrascu D, Fukudo S, et al. The global preva-              dation of a new measure. Dig Dis Sci 1998;43:400–411.
+    lence of IBS in adults remains elusive due to the heterogeneity       22. Wong RK, Drossman DA. Quality of life measures in irritable
+    of studies: a Rome Foundation working team literature review.             bowel syndrome. Expert Rev Gastroenterol Hepatol 2010;
+    Gut 2017;66:1075–1082.                                                    4:277–284.
+ 2. Mearin F, Lacy B, Chang L. Rome IV: the functional bowel dis-         23. Camilleri M, Nadeau A, Tremaine WJ, et al. Measurement of serum
+    orders. Gastroenterology 2016;150:1393–1407.                              7alpha-hydroxy-4-cholesten-3-one (or 7alphaC4), a surrogate
+ 3. Oka P, Parr H, Barberio B, et al. Global prevalence of irritable          test for bile acid malabsorption in health, ileal disease and irritable
+    bowel syndrome according to Rome III or IV criteria: a system-            bowel syndrome using liquid chromatography-tandem mass
+    atic review and meta-analysis. Lancet Gastroenterol Hepatol               spectrometry. Neurogastroenterol Motil 2009;21:734–e43.
+    2020;5:908–917.                                                       24. Wong BS, Camilleri M, Carlson P, et al. Increased bile acid
+ 4. Ford AC, Sperber AD, Corsetti M, et al. Irritable bowel syn-              biosynthesis is associated with irritable bowel syndrome with
+    drome. Lancet 2020;396:1675–1688.                                         diarrhea. Clin Gastroenterol Hepatol 2012;10:1009–1015.e3.
+ 5. Camilleri M. Diagnosis and treatment of irritable bowel syn-          25. Bajor A, Törnblom H, Rudling M, et al. Increased colonic bile
+    drome: a review. JAMA 2021;325:865–877.                                   acid exposure: a relevant factor for symptoms and treatment in
+ 6. Chey WD, Kurlander J, Eswaran S. Irritable bowel syndrome: a              IBS. Gut 2015;64:84–92.
+    clinical review. JAMA 2015;313:949–958.                               26. Nastaskin I, Mehdikhani E, Conklin J, et al. Studying the overlap
+ 7. Spiegel BM. The burden of IBS: looking at metrics. Curr Gas-              between IBS and GERD: a systematic review of the literature.
+    troenterol Rep 2009;11:265–269.                                           Dig Dis Sci 2006;51:2113–2120.
+ 8. Barkun AN, Love J, Gould M, et al. Bile acid malabsorption in         27. Majewski M, McCallum RW. Results of small intestinal bacterial
+    chronic diarrhea: pathophysiology and treatment. Can J Gas-               overgrowth testing in irritable bowel syndrome patients: clinical
+    troenterol 2013;27:653–659.                                               proﬁles and effects of antibiotic trial. Adv Med Sci 2007;
+ 9. Valentin N, Camilleri M, Altayar O, et al. Biomarkers for bile acid       52:139–142.
+    diarrhoea in functional bowel disorder with diarrhoea: a sys-         28. Shindo K, Machida M, Fukumura M, et al. Omeprazole induces
+    tematic review and meta-analysis. Gut 2016;65:1951–1959.                  altered bile acid metabolism. Gut 1998;42:266–271.
+10. Smith MJ, Cherian P, Raju GS, et al. Bile acid malabsorption in       29. Spiegel BM, Chey WD, Chang L. Bacterial overgrowth and irri-
+    persistent diarrhoea. J R Coll Physicians Lond 2000;                      table bowel syndrome: unifying hypothesis or a spurious
+    34:448–451.                                                               consequence of proton pump inhibitors? Am J Gastroenterol
+11. Wedlake L, A’Hern R, Russell D, et al. Systematic review: the             2008;103:2972–2976.
+    prevalence of idiopathic bile acid malabsorption as diagnosed         30. Scarpello JH, Hodgson E, Howlett HC. Effect of metformin on
+    by SeHCAT scanning in patients with diarrhoea-predominant                 bile salt circulation and intestinal motility in type 2 diabetes
+    irritable bowel syndrome. Aliment Pharmacol Ther 2009;                    mellitus. Diabet Med 1998;15:651–656.
+    30:707–717.                                                           31. Appleby RN, Moghul I, Khan S, et al. Non-alcoholic fatty liver
+12. Walters JR, Tasleem AM, Omer OS, et al. A new mechanism for               disease is associated with dysregulated bile acid synthesis and
+    bile acid diarrhea: defective feedback inhibition of bile acid            diarrhea: a prospective observational study. PLoS One 2019;14:
+    biosynthesis. Clin Gastroenterol Hepatol 2009;7:1189–1194.                e0211348.
+2090 BouSaba et al                                                                           Clinical Gastroenterology and Hepatology Vol. 20, No. 9
+
+32. Barcelo A, Claustre J, Toumi F, et al. Effect of bile salts on             Acknowledgments
+                                                                                  The authors thank Mrs. Cindy Stanislav for excellent secretarial assistance.
+    colonic mucus secretion in isolated vascularly perfused rat co-
+    lon. Dig Dis Sci 2001;46:1223–1231.
+                                                                               CRediT Authorship Contributions
+33. Camilleri M. Leaky gut: mechanisms, measurement and clinical                   Joelle BouSaba (Data curation: Equal; Investigation: Equal; Writing –
+    implications in humans. Gut 2019;68:1516–1526.                             original draft: Equal; Writing – review & editing: Equal; Joint ﬁrst author: Equal)
+                                                                                   Wassel Sannaa (Data curation: Equal; Investigation: Equal; Writing – original
+34. Lewin MR, El Masri SH, Clark CG. Effects of bile acids on mucus
+                                                                               draft: Equal; Writing – review & editing: Equal; Joint ﬁrst author: Equal)
+    secretion in the dog colon. Eur Surg Res 1979;11:392–399.                      Sanna McKinzie (Investigation: Supporting; Project administration:
+35. Camilleri M, Murphy R, Chadwick VS. Dose-related effects of                Supporting; Writing – review & editing: Supporting)
+                                                                                   Priya Vijayvargiya (Investigation: Equal; Writing – review & editing:
+    chenodeoxycholic acid in the rabbit colon. Dig Dis Sci 1980;               Supporting)
+    25:433–438.                                                                    Victor Chedid (Investigation: Equal; Writing – review & editing: Supporting)
+                                                                                   Xiao Jing Wang (Investigation: Equal; Writing – review & editing:
+36. Bannaga A, Kelman L, O’Connor M, et al. How bad is bile acid               Supporting)
+    diarrhoea: an online survey of patient-reported symptoms and                   Jessica Atieh (Investigation: Equal; Writing – review & editing: Supporting)
+    outcomes. BMJ Open Gastroenterol 2017;4:e000116.                               Ting Zheng (Investigation: Equal; Writing – review & editing: Supporting)
+                                                                                   Justin Brandler (Investigation: Equal; Writing – review & editing: Supporting)
+37. Singh P, Staller K, Barshop K, et al. Patients with irritable bowel            Ann L. Taylor (Investigation: Equal; Writing – review & editing: Supporting)
+    syndrome-diarrhea have lower disease-speciﬁc quality of life                   Irene Busciglio (Investigation: Equal; Project administration: Lead; Super-
+                                                                               vision: Lead; Writing – review & editing: Supporting)
+    than irritable bowel syndrome-constipation. World J Gastro-                    W. Scott Harmsen (Formal analysis: Lead; Writing – review & editing: Equal)
+    enterol 2015;21:8103–8109.                                                     Michael Camilleri, MD (Conceptualization: Lead; Funding acquisition: Lead;
+                                                                               Methodology: Lead; Writing – original draft: Equal; Writing – review & editing:
+38. Camilleri M, Busciglio I, Acosta A, et al. Effect of increased bile
+                                                                               Equal)
+    acid synthesis or fecal excretion in irritable bowel syndrome-
+    diarrhea. Am J Gastroenterol 2014;109:1621–1630.
+                                                                               Conﬂicts of interest
+39. Vijayvargiya P, Gonzalez Izundegui D, Calderon G, et al. Fecal             This author discloses the following: Michael Camilleri received research sup-
+    bile acid testing in assessing patients with chronic unexplained           port for studies on bile acid diarrhea unrelated to this manuscript from AbbVie,
+    diarrhea: implications for healthcare utilization. Am J Gastro-            Inc. The remaining authors disclose no conﬂicts.
+    enterol 2020;115:1094–1102.
+                                                                               Funding
+                                                                               Supported by the National Institutes of Health grant R01-DK115950 for studies
+                                                                               on bile acid diarrhea (M.C.). The study was facilitated by the nursing core of the
+Reprint requests                                                               Clinical Research and Trials Unit at Mayo Clinic, which is supported by Center
+Address requests for reprints to: Michael Camilleri, MD, Clinical Enteric      for Clinical and Translational Science grant UL1-TR000135 from the National
+Neuroscience Translational and Epidemiological Research, Division of           Center for Advancing Translational Sciences, a component of the National
+Gastroenterology and Hepatology, Mayo Clinic, 200 First Street SW, Charlton    Institutes of Health. Its contents are solely the responsibility of the authors and
+Building, Room 8-110, Rochester, Minnesota 55905. e-mail: camilleri.michael@   do not necessarily represent the ofﬁcial view of the National Institutes of
+mayo.edu.                                                                      Health.
+September 2022                                                                                         Impact of BAD on Symptoms and QOL 2090.e1
+
+
+    Supplementary Methods                                                            Timeline
+
+    Patient Selection                                                               During visit 1, the patients answered the Hospital
+                                                                                Anxiety and Depression questionnaire. Participants were
+   E-mail invitations and public advertisement were                             asked to withhold medications on the exclusion list
+used to recruit patients living within 120 miles                                (Supplementary Table 1) 7 days before visit 2. During
+of Mayo Clinic in Rochester, Minnesota. The database                            visit 2, participants returned their completed Irritable
+included approximately 1200 patients with IBS. A 1-                             Bowel Syndrome Speciﬁc Quality of Life questionnaire,
+page evaluation of gastrointestinal symptoms was                                Symptom Checklist-90 questionnaire, and validated
+used to screen patients, and those with symptoms                                bowel disease questionnaires.
+consistent with the Rome III criteria for IBS were
+enrolled in the study. Patients with an alternative                                   Reference
+diagnosis such as celiac disease, inﬂammatory                                   1.    Wang XJ, Carlson P, Chedid V, et al. Differential mRNA
+bowel disease, or cancer were excluded from the                                       expression in ileal mucosal biopsies of patients with diarrhea- or
+study.1                                                                               constipation-predominant irritable bowel syndrome. Clin Transl
+                                                                                      Gastroenterol 2021;12:e00329.
+
+
+
+
+Supplementary Table 1. List of Medications Prohibited to Use at Least for 7 Days Before Visit 2 and Until Completion of Study
+
+             Prohibited medications                                                                                           Examples
+
+ Any treatment speciﬁcally taken for IBS-D                                                                 Loperamide, cholestyramine, alosetron
+ Drugs with a known pharmacologic activity at 5-                                                           Tegaserod, ondansetron, tropisetron,
+    HT4, 5-HT2b, or 5-HT3 receptors                                                                           granisetron, dolasetron, mirtazapine,
+                                                                                                              cilansetron
+ All narcotics                                                                                             Codeine, morphine, propoxyphene,
+                                                                                                             tramadol, either alone or in combination
+ Anticholinergic agents                                                                                    Dicyclomine, hyoscyamine, propantheline
+ Systemic antibiotics                                                                                      Rifaximin and metronidazole
+ GI preparations                                                                                           Antinausea agents (eg, trimethobenzamide,
+                                                                                                              promethazine, prochlorperazine,
+                                                                                                              dimenhydrinate, hydroxyzine)
+                                                                                                           Osmotic laxative agents (eg, lactulose,
+                                                                                                              sorbitol, or PEG solutions such as
+                                                                                                              MiraLAX [Bayer Corp., Whippany, NJ]
+                                                                                                              and GlycoLax [Kremers Urban
+                                                                                                              Pharmaceuticals, Princeton, NJ])
+                                                                                                           Prokinetic agents (eg, cisapride,
+                                                                                                              metoclopramide, prucalopride,
+                                                                                                              domperidone)
+ Oral anticoagulants
+ Antimuscarinics
+ Peppermint oil
+
+
+5-HT2b, 5-hydroxytryptamine receptor 2b; 5-HT3, 5-hydroxytryptamine receptor 3; 5-HT4, 5-hydroxytryptamine receptor 4; GI, gastrointestinal; IBS-D, irritable
+bowel syndrome with diarrhea; PEG, polyethylene glycol.
+

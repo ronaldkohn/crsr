@@ -1,0 +1,401 @@
+                                 HHS Public Access
+                                 Author manuscript
+                                 Gastroenterology. Author manuscript; available in PMC 2024 August 01.
+Author Manuscript
+
+
+
+
+                    Published in final edited form as:
+                     Gastroenterology. 2023 August ; 165(2): 499–501.e4. doi:10.1053/j.gastro.2023.04.007.
+
+
+
+                    EFFECTS OF FGF19 ANALOG ALDAFERMIN IN PATIENTS WITH
+                    BILE ACID DIARRHEA: A RANDOMIZED, PLACEBO-CONTROL
+                    TRIAL
+                    Joelle BouSaba1, Monique Torres1, Saam Dilmaghani1, W. Scott Harmsen1, Lei Ling2,
+                    Michael Camilleri1
+                    1Clinical Enteric Neuroscience Translational and Epidemiological Research (CENTER), Mayo
+Author Manuscript
+
+
+
+
+                    Clinic, Rochester, MN;
+                    2NGM Biopharmaceuticals, South San Francisco, CA
+
+
+
+                                       Irritable bowel syndrome (IBS) is a functional gastrointestinal (GI) disorder characterized by
+                                       recurrent abdominal pain and altered bowel movements1. Around 25–50% of patients with
+                                       diarrhea-predominant IBS (IBS-D) have evidence of bile acid (BA) diarrhea (BAD)2.
+
+                                       In patients with idiopathic BAD with IBS-D, there is decreased FGF19 production3, 4and
+                                       decreased negative feedback on BA synthesis, as manifested by increased serum 7α-
+                                       hydroxy-4-cholesten-3-one (7αC4). BA sequestrants are approved for the treatment of
+                                       hyperlipidemia and are used off-label to treat BAD5. However, they might interfere with
+                                       the absorption of other drugs.
+Author Manuscript
+
+
+
+
+                                       Aldafermin (NGM282), a 190 amino acids peptide, is an engineered analog6 of recombinant
+                                       human FGF19 with a 95.4% homology. The aim of this study was to examine the effects of
+                                       aldafermin on BA synthesis, BA excretion, and bowel function in patients with IBS-D and
+                                       BAD.
+
+                                       We performed a 28-day, randomized, double-blinded, placebo-controlled (1:1 ratio) trial
+                                       of aldafermin vs placebo in patients with BAD (Supplemental Figure, upper panel). This
+
+
+                    Address for correspondence: Michael Camilleri, M.D., Mayo Clinic, Charlton Bldg., Rm. 8-110, 200 First St. S.W., Rochester, MN
+                    55905, Telephone: 507-266-2305, camilleri.michael@mayo.edu.
+                    Authors’ contributions:
+                    Joelle BouSaba: recruitment and medical care of participants during study; lead author
+Author Manuscript
+
+
+
+
+                    Saam Dilmaghani: recruitment and medical care of participants during study; co-authors
+                    Monique Torres: study coordinator and recruitment of patients; co-author
+                    W. Scott Harmsen: biostatistics; co-author
+                    Lei Ling: coordination of pharmacokinetic measurement, NGM pharmaceuticals; co-author
+                    Michael Camilleri: principal investigator, conceptualization of study, grant recipient, senior author
+                    Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+                    customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review
+                    of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered
+                    which could affect the content, and all legal disclaimers that apply to the journal pertain.
+                    Clinical trial registration: ClinicalTrials.gov, NCT#05130047
+                    Disclosures:
+                    M. Camilleri: This study sponsor, NGM Biopharmaceuticals, was not involved in the recruitment of participants or analysis of data.
+                    L. Ling: employee and stockholder of NGM Biopharmaceuticals
+                    The other authors have no conflicts of interest.
+                    BouSaba et al.                                                                                               Page 2
+
+
+                                     study was conducted at Mayo Clinic between December 2021 and November 2022. Block
+Author Manuscript
+
+
+
+
+                                     randomization ensured equal numbers randomized to placebo and aldafermin in two blocks:
+                                     patients on BA sequestrants and patients off BA sequestrants.
+
+                                     Patients were required to have a clinical diagnosis of IBS-D ages 18–75 years, and BMI 18.0
+                                     to 45.0 kg/m2. Diagnosis of BAD based on at least one of these criteria: 1) serum 7αC4
+                                     ≥52ng/mL; 2) fecal BA >2337μmoles/48 hours; 3) total fecal BA >1000μmoles/48 hours + 4
+                                     % primary BA; 4) fecal primary BA >10%/48 hours.
+
+                                     The co-primary endpoints were the fasting serum 7αC4 from baseline on day 28 and the
+                                     stool consistency averaged over the 28-day study. The latter was originally listed as a
+                                     secondary outcome in the original protocol. Further details regarding experimental design,
+                                     ethical approval, eligibility criteria, assessment of endpoints and statistical analysis (based
+                                     on 2-group comparisons using ANCOVA) are provided in the Supplemental Material.
+Author Manuscript
+
+
+
+
+                                     Among 35 patients enrolled, 31 were randomized. One patient withdrew after one dose
+                                     of aldafermin due to severe nausea unresponsive to antiemetics. Three patients in the
+                                     aldafermin group and 2 in the placebo group remained on a stable dose of BA sequestrants
+                                     during the study. The demographics, baseline and on treatment bowel functions, BA
+                                     synthesis and excretion are reported in Table 1.
+
+                                     Patients on aldafermin had significantly decreased serum 7αC4 at days 14 and 28
+                                     (Supplemental Figure, lower panel) but no significant change in stool consistency during
+                                     days 1–28, 1–14 or 15–28. Aldafermin-treated group also had significantly decreased fecal
+                                     total BA and percent secretory BA at days 14 and 28.
+
+                                     There were no significant differences in abdominal pain or stool frequency between the
+Author Manuscript
+
+
+
+
+                                     two groups during days 1–28, 1–14, or 15–28. However, there was numerically improved
+                                     stool consistency in patients on aldafermin during days 15–28 (Bristol Stool Form Scale 4.6
+                                     for aldafermin vs 4.7 for placebo, p=0.082), particularly in week 4 of treatment (p=0.047).
+                                     Total IBS quality of life (QOL) score and scores on each of the 8 QOL domains were not
+                                     significantly different on day 28 in patients on aldafermin or placebo.
+
+                                     The aldafermin group had a greater increase in low-density lipoprotein cholesterol (LDL-
+                                     C) from baseline compared to placebo group (p=0.052). Four patients on aldafermin
+                                     were considered to have a clinically significant increase in LDL-C at day 28 which was
+                                     normalized 1 month after cessation in 3 of the 4 patients.
+
+                                     There were more adverse events in the group receiving aldafermin compared to those
+                                     receiving placebo (Supplemental Table). One patient who was randomized to aldafermin was
+Author Manuscript
+
+
+
+
+                                     hospitalized with myocardial infarction with normal coronary angiogram, an event deemed
+                                     unrelated to the study drug. Over 28 days, rescue medication with loperamide was received
+                                     by two participants on placebo (total 6 and 16 mg) and 3 on aldafermin (total 20 mg, 20 mg,
+                                     and 12 mg).
+
+
+
+
+                                        Gastroenterology. Author manuscript; available in PMC 2024 August 01.
+                    BouSaba et al.                                                                                                               Page 3
+
+
+                                     In this study, we showed that aldafermin, 1mg SQ daily, led to a significant change in the
+Author Manuscript
+
+
+
+
+                                     biochemical measurements of BAD in patients with IBS-D. Improved stool consistency with
+                                     aldafermin was only observed during week 4 of treatment.
+
+                                     While the biochemical changes associated with aldafermin have been previously
+                                     demonstrated in other patient populations6, increased frequency of bowel movements with
+                                     higher doses has been reported as a side effect of aldafermin,7, 8 and acceleration of colonic
+                                     transit documented with higher dose of 6 mg NGM282 (aldafermin) was associated with
+                                     increased frequency in contrast to the 1 mg dose used in the current study.9
+
+                                     Overall, aldafermin had an acceptable side effect and tolerability profile. More patients on
+                                     aldafermin had a clinically but not statistically significant increase in LDL-C levels at study
+                                     completion (Supplemental Table). Aldafermin has been associated with increased LDL-C
+                                     in prior studies8 secondary to decreased conversion of cholesterol to BA and this could be
+Author Manuscript
+
+
+
+
+                                     reversed by co-administration of rosuvastatin.10
+
+                                     The strengths of this study include assessment of the effects of aldafermin on both
+                                     biochemical endpoints and patient reported outcomes; the primary biochemical endpoint
+                                     was met in this small study sample. While the small sample size in our study had sufficient
+                                     power to detect >1 or 1.5 points on the 7-point BSFS, such a change may not be observed
+                                     with most agents approved for IBS-D, and a larger sample size would have been needed to
+                                     detect a significant effects on symptoms.
+
+                                     Limitations include enrollment of 5/30 patients on BA sequestrants, though block
+                                     randomization ensured equal distribution of patients across both arms, and inclusion of
+                                     patients with stool frequency and consistency that were less severe than patients in other
+                                     IBS-D trials used for approval of medications. Although this trial was conducted at a
+Author Manuscript
+
+
+
+
+                                     tertiary referral center, all the participants were residents of the tri-state area of Minnesota,
+                                     Wisconsin, and Iowa seeking care in their communities for gastroenterological disorders.
+
+                                     Overall, these data suggest that this FGF19 analog is a promising approach to the treatment
+                                     of BAD.
+
+
+                       Supplementary Material
+                                     Refer to Web version on PubMed Central for supplementary material.
+
+
+                       Acknowledgement:
+                                     The authors thank Wassel Sannaa and Ting Zheng for recruitment and medical care of participants during study,
+Author Manuscript
+
+
+
+
+                                     Sanna McKinzie and Irene Busciglio for assistance in design of the protocol, Paula Carlson for biospecimen
+                                     preparation and biochemical measurements, and Cindy Stanislav for secretarial assistance.
+
+                       Funding support:
+                                     This research study was supported by a research grant from NGM Biopharmaceuticals. Michael Camilleri’s
+                                     research on bile acid diarrhea is supported by grant R01-DK115950 from National Institutes of Health. This
+                                     publication (or project) was made possible by the CTSA Grant UL1-TR002377 from the National Center for
+                                     Advancing Translational Sciences (NCATS), a component of the National Institutes of Health (NIH). Its contents
+                                     are solely the responsibility of the authors and do not necessarily represent the official views of the National
+                                     Institutes of Health.
+
+
+                                          Gastroenterology. Author manuscript; available in PMC 2024 August 01.
+                    BouSaba et al.                                                                                                    Page 4
+
+
+                       Data transparency statement:
+Author Manuscript
+
+
+
+
+                                     Only deidentified participant data will be provided as the mean and SD or median and
+                                     interquartile range for each treatment group, not as individual data. All results will also be
+                                     made available in ClinicalTrials.gov NCT#05130047 on publication of the paper. Additional
+                                     related documents will be available, if deemed appropriate and after approval of a proposal,
+                                     by request to the senior author with documentation of investigator support, and with a signed
+                                     data access agreement.
+
+
+                       REFERENCES
+                                     1. Mearin F, Lacy BE, Chang L, et al. Bowel Disorders. Gastroenterology 2016;150:1393–1407.e5.
+                                     2. Valentin N, Camilleri M, Altayar O, et al. Biomarkers for bile acid diarrhoea in functional bowel
+                                        disorder with diarrhoea: a systematic review and meta-analysis. Gut 2016;65:1951–1959. [PubMed:
+                                        26347530]
+Author Manuscript
+
+
+
+
+                                     3. Johnston IM, Nolan JD, Pattni SS, et al. Characterizing Factors Associated With Differences
+                                        in FGF19 Blood Levels and Synthesis in Patients With Primary Bile Acid Diarrhea. Am J
+                                        Gastroenterol 2016;111:423–432. [PubMed: 26856750]
+                                     4. Walters JR, Tasleem AM, Omer OS, et al. A new mechanism for bile acid diarrhea: defective
+                                        feedback inhibition of bile acid biosynthesis. Clin Gastroenterol Hepatol 2009;7:1189–1194.
+                                        [PubMed: 19426836]
+                                     5. Camilleri M, Nurko S. Bile acid diarrhea in adults and adolescents. Neurogastroenterol Motil
+                                        2022;34:e14287. [PubMed: 34751982]
+                                     6. Harrison SA, Abdelmalek MF, Neff G, et al. Aldafermin in patients with non-alcoholic
+                                        steatohepatitis (ALPINE 2/3): a randomised, double-blind, placebo-controlled, phase 2b trial.
+                                        Lancet Gastroenterol Hepatol 2022;7:603–616. [PubMed: 35325622]
+                                     7. Hirschfield GM, Chazouillères O, Drenth JP, et al. Effect of NGM282, an FGF19 analogue, in
+                                        primary sclerosing cholangitis: a multicenter, randomized, double-blind, placebo-controlled phase II
+                                        trial. J Hepat 2019;70:483–493.
+Author Manuscript
+
+
+
+
+                                     8. Harrison S, Abdelmalek M, Trotter J, et al. NGM282, a novel variant of FGF19, significantly
+                                        reduces hepatic steatosis and key biomarkers of NASH: results of a Phase 2, multicenter,
+                                        randomized, double-blinded, placebo controlled trial in biopsy-confirmed NASH patients. J Hepatol
+                                        2017;1:S92–S93.
+                                     9. Oduyebo I, Camilleri M, Nelson AD, et al. Effects of NGM282, an FGF19 variant, on colonic transit
+                                        and bowel function in functional constipation: a randomized phase 2 trial. Am J Gastroenterol
+                                        2018;113:725–734. [PubMed: 29717197]
+                                     10. Rinella ME, Trotter JF, Abdelmalek MF, et al. Rosuvastatin improves the FGF19 analogue
+                                          NGM282-associated lipid changes in patients with non-alcoholic steatohepatitis. J Hepatol
+                                          2019;70:735–744. [PubMed: 30529590]
+Author Manuscript
+
+
+
+
+                                        Gastroenterology. Author manuscript; available in PMC 2024 August 01.
+                    BouSaba et al.                                                                                                                          Page 5
+
+
+
+
+                                                                                      Table 1.
+
+                    Demographics, baseline characteristics, and effects of aldafermin and placebo in 30 patients with bile acid
+Author Manuscript
+
+
+
+
+                    diarrhea.
+
+                                       Data median (IQR)                         Aldafermin (n=15)       Placebo (n=15)       P-value
+
+                                                                      Demographics
+                     Age (years)                                                  49.0 (40.0, 53.0)      43.0 (39.0, 58.0)     0.633
+
+                     Sex (% Female)                                                      80.0                  93.3            0.282
+
+                     BMI (kg/m2)                                                  31.5 (25.4, 36.7)      30.1 (23.2, 35.7)     0.561
+
+                     Prior cholecystectomy, N (%)                                      6 (40.0)              5 (33.3)          0.705
+
+                     Off BA sequestrants, N (%)                                       12 (80.0)              13 (86.7)         0.624
+
+                                                                 Baseline bowel function
+                     Stool consistency (BSFS 1–7)                                   5.3 (4.1, 5.6)         4.5 (4.2, 5.3)      0.407
+
+                     Abdominal pain (0 to 10)                                       0.9 (0.0, 3.6)          0.4 (0, 1.0)       0.377
+Author Manuscript
+
+
+
+
+                     Stool frequency (BM/day)                                       2.3 (1.9, 3.2)         2.3 (1.8, 3.0)      0.901
+
+                                                         Baseline bile acid synthesis and excretion
+                     Serum 7αC4 (ng/mL)                                           40.7 (17.5, 102.0)     53.0 (18.7, 82.4)     0.804
+
+                     Serum FGF19 (pg/mL)                                          66.80 (34.2, 80.8)    94.30 (48.5, 108.8)    0.294
+
+                     Random stool total BA (μmol/g)                                 3.1 (1.9, 4.0)         3.5 (1.9, 4.3)      0.913
+
+                     % Primary BA (CA+CDCA)                                         5.4 (1.9, 14.6)       5.2 (2.0, 12.9)      0.896
+
+                     % Secretory BA (DCA+CDCA)                                    63.8 (58.3, 66.7)      63.2 (57.4, 66.6)     0.777
+
+                                                      On treatment bile acid synthesis and excretion*
+                     Serum 7αC4 (ng/mL), day 14                                     2.6 (1.6, 3.8)      50.5 (19.4, 122.0)    <0.001
+                     Serum 7αC4 (ng/mL), day 28                                     2.2 (1.6, 3.3)      50.4 (25.8, 106.0)    <0.001
+                     Random stool total BA (μmol/g), day 14                         0.5 (0.3, 0.7)         2.7 (1.2, 5.1)      0.002
+Author Manuscript
+
+
+
+
+                     Random stool total BA (μmol/g), day 28                         0.5 (0.3, 0.8)         3.6 (1.0, 7.3)     <0.001
+                     % Primary BA (CA+CDCA), day 14                                10.3 (3.3, 15.4)        2.8 (0.7, 9.8)      0.738
+
+                     % Primary BA (CA+CDCA), day 28                                 9.9 (3.0, 20.0)      14.3 (7.4, 27.4)      0.417
+
+                     % Secretory BA (DCA+CDCA), day 14                            43.2 (32.5, 53.5)      59.2 (53.1, 63.9)    <0.001
+                     % Secretory BA (DCA+CDCA), day 28                            45.5 (39.8, 55.6)      60.0 (46.3, 65.1)     0.033
+
+                                                              On treatment bowel function*
+
+                     Stool consistency, 1–28 days                                   4.7 (4.3, 5.1)         4.6 (4.4, 5.3)      0.224
+
+                     Individual Δ stool consistency days 1–28 minus baseline^      −0.4 (-1.2, 0.1)      −0.02 (-0.4, 0.3)     0.125
+
+                     Stool consistency, week 3                                      4.6 (4.3, 5.0)         4.8 (4.0, 5.3)      0.247
+
+                     Stool consistency, week 4                                      4.4 (4.2, 5.0)         5.1 (4.4, 5.5)      0.047
+
+                     Abdominal pain, 1–28 days                                      0.6 (0.0, 1.3)         0.5 (0.1, 1.1)      0.649
+Author Manuscript
+
+
+
+
+                     Stool frequency, 1–28 days                                     2.3 (2.1, 3.6)         2.1 (1.7, 2.7)      0.261
+
+                    Bolded P-values are statistically significant. BA: bile acid, BM: bowel movements, BMI: body mass index, BSFS: Bristol Stool Form Scale, CA:
+                    cholic acid, CDCA: chenodeoxycholic acid, DCA: deoxycholic acid, FGF19: fibroblast growth factor-19, IQR: interquartile range, serum 7αC4:
+                    7α-hydroxy-4-cholesten-3-one; Δ: change.
+
+
+
+
+                                                 Gastroenterology. Author manuscript; available in PMC 2024 August 01.
+                    BouSaba et al.                                                                                                                           Page 6
+
+
+                    Stool consistency measured using BSFS 1–7 scale; Abdominal pain measured using 0–10 numerical scale; Stool frequency expressed as bowel
+                    movements (BM)/day. Stool consistency and frequency represent medians and interquartile ranges of the individual averages over the specified
+                    time periods.
+                    *
+                        p-value obtained using ANCOVA adjusting for the baseline measurement of the outcome, BMI, sex, and baseline serum 7αC4;
+Author Manuscript
+
+
+
+
+                    ^
+                     p-value obtained using Mann-Whitney Rank Sum test
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+
+
+                                                Gastroenterology. Author manuscript; available in PMC 2024 August 01.
+
