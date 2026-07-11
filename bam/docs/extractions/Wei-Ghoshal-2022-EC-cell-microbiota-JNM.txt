@@ -1,0 +1,1049 @@
+          JNM
+                              J Neurogastroenterol Motil, Vol. 28 No. 3 July, 2022
+                              pISSN: 2093-0879 eISSN: 2093-0887
+                              https://doi.org/10.5056/jnm22008
+                              Journal of Neurogastroenterology and Motility                                                     Review
+
+
+
+
+  Enterochromaffin Cells–Gut Microbiota Crosstalk:
+  Underpinning the Symptoms, Pathogenesis,
+  and Pharmacotherapy in Disorders of Gut-Brain
+  Interaction
+
+      Lai Wei,1 Rajan Singh,2 and Uday C Ghoshal3*
+      1
+       Enteric NeuroScience Program, Mayo Clinic, Rochester, MN, USA; 2Department of Physiology and Cell Biology, University of Nevada, Reno,
+      School of Medicine, NV, USA; and 3Department of Gastroenterology, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow, India
+
+
+
+   Disorders of gut-brain interaction (DGBIs) are common conditions in community and clinical practice. As specialized enteroendocrine
+   cells, enterochromaffin (EC) cells produce up to 95% of total body serotonin and coordinate luminal and basolateral communication
+   in the gastrointestinal (GI) tract. EC cells affect a broad range of gut physiological processes, such as motility, absorption, secretion,
+   chemo/mechanosensation, and pathologies, including visceral hypersensitivity, immune dysfunction, and impaired gastrointestinal
+   barrier function. We aim to review EC cell and serotonin-mediated physiology and pathophysiology with particular emphasis on
+   DGBIs. We explored the knowledge gap and attempted to suggest new perspectives of physiological and pathophysiological
+   insights of DGBIs, such as (1) functional heterogeneity of regionally distributed EC cells throughout the entire GI tract; (2) potential
+   pathophysiological mechanisms mediated by EC cell defect in DGBIs; (3) cellular and molecular mechanisms characterizing EC cells
+   and gut microbiota bidirectional communication; (4) differential modulation of EC cells through GI segment-specific gut microbiota;
+   (5) uncover whether crosstalk between EC cells and (i) luminal contents; (ii) enteric nervous system; and (iii) central nervous
+   system are core mechanisms modulating gut-brain homeostasis; and (6) explore the therapeutic modalities for physiological and
+   pathophysiological mechanisms mediated through EC cells. Insights discussed in this review will fuel the conception and realization of
+   pathophysiological mechanisms and therapeutic clues to improve the management and clinical care of DGBIs.
+   (J Neurogastroenterol Motil 2022;28:357-375)
+
+   Key Words
+   Enterochromaffin cells; Gastrointestinal microbiome; Gastroparesis; Gut barrier dysfunction; Irritable bowel syndrome
+
+
+
+
+                                                                                     the term “functional” as it has a connotation of being primarily
+                                                                                     psychologically in origin.1 Moreover, in place of brain-gut interac-
+Introduction                                                                         tion, which overestimates the importance of cerebral dysfunction
+    Functional gastrointestinal disorders (FGIDs) are currently de-                  over abnormalities in the gut, in the new Rome classification, these
+fined as disorders of gut-brain interactions (DGBIs) to underscore                   are called DGBIs, overemphasizing the importance of gut over the
+
+
+  Received: January 23, 2022 Revised: March 16, 2022 Accepted: April 4, 2022
+     This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.
+      org/licenses/by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work
+      is properly cited.
+  *Correspondence: Uday C Ghoshal, MD, DNB, DM, FACG, RFF, FAMS, FRCP
+                       Department of Gastroenterology, Sanjay Gandhi Postgraduate Institute of Medical Sciences Lucknow, 226014, India
+                       Tel: +91-522-2494405, Fax: +91-522-2668017, E-mail: udayghoshal@gmail.com
+  Lai Wei and Rajan Singh equally contributed to this work.
+
+                                                  ⓒ 2022 The Korean Society of Neurogastroenterology and Motility
+                                                J Neurogastroenterol Motil, Vol. 28 No. 3 July, 2022                                                 357
+                                                                www.jnmjournal.org
+Lai Wei, et al
+
+
+
+
+brain.1 The board of directors of the Rome foundation, with the              dalities to refine the management of these disorders.
+feedback and final approval from the chairs and co-chairs of the
+Rome IV committees, created the new definition for DGBI and
+defined it as a group of disorders classified by gastrointestinal (GI)
+                                                                             Current Challenges of Disorders of Gut-Brain
+symptoms related to any combination of the following: motility
+                                                                             Interactions
+disturbance, visceral hypersensitivity, altered mucosal and immune                To broaden our horizons on pathophysiology of DBGIs, cur-
+function, altered gut microbiota, and altered central nervous system         rent challenges that need to be addressed include: (1) symptoms
+(CNS) processing.2 DGBIs, for instance, irritable bowel syndrome             may not always reflect the pathophysiological mechanisms. Without
+(IBS) and functional dyspepsia (FD), are common conditions                   knowing the cellular and molecular pathologies, the medications
+needing referral to gastroenterology clinics and are also highly             may be ineffective and results in higher healthcare expenditure and
+prevalent in the community.3 DGBIs are heterogeneous conditions              poor quality of life.3,13,14 Better pathophysiology-directed therapeutic
+with intertwined pathophysiological mechanisms, such as altered              strategies rather than symptomatic treatment are warranted. (2) The
+gut motility, impaired GI barrier function, gut immune dysregula-            interplay between EC cells/serotonin signaling and gut microbiota
+tion, gut microbial dysbiosis including small intestinal bacterial           and/or its derived metabolites in the pathogenesis of DGBIs are
+overgrowth, low-grade inflammation, visceral hypersensitivity, and           enigmatic. The association between altered serotonin signaling and
+dysregulated gut-brain axis.4,5 A recent global epidemiological study        symptom severity among patients with DGBIs is scanty.11,15,16 (3)
+of 73 076 participants in 33 countries reported that more than 40%           Despite gut microbiota having an essential role in gut health, its
+of participants met the Rome IV criteria for at least one DGBIs.6            precise functions in DGBI are cloudy.4 Given the fact that the gut
+This study indicated FD and IBS were the top rankers amongst the             microbiome varies between person, race, ethnicity, nationality, and
+22 DGBIs on the pooled prevalence rate.6 Furthermore, DGBIs                  even neighboring communities, what constitutes a healthy micro-
+and specific GI motility disorders often present significant clinical        biome? What is gut microbial dysbiosis?17,18 (4) The mechanism
+overlaps, for instance, gastroparesis and FD-postprandial distress           of EC cells contributing to the intestinal barrier integrity and the
+syndrome (90%); gastroparesis and slow-transit constipation (60%);           fundamental impact of gut microbiota and its derived molecules
+and FD and IBS (15-42%).7-9 The rising prevalence of DGBIs                   on EC cell’s function are limited.19 Large-scale and longitudinal
+established a substantial burden and challenge on the patients, fami-        studies utilizing multi-omics analysis are needed to dissect the exact
+lies, and the healthcare system.3 Despite extensive research, the un-        contribution of gut microbiota and serotonin signaling alterations in
+derlying pathophysiology of DGBIs remains enigmatic providing                the progression/regression of DGBIs. (5) Research on the role of
+the impetus for future research to elucidate the precise pathologies         the vagus nerve innervation in ENS, which connects the gut to the
+and treatment to optimize patient care.                                      brain, concerning EC cell in DGBI pathophysiology is enigmatic?20
+      Serotonin (5-hydroxytryptamine, 5-HT) affects a wide range             How does the interaction/interplay between EC cells, sensory affer-
+of gut and brain physiological functions such as gut motility, secre-        ent neurons, and gut immune cells modulate visceral hypersensitiv-
+tion, visceral sensation, immune regulation, gastrointestinal epithe-        ity in DGBIs?21 Further, how does the gut-brain-neuroendocrine
+lial integrity, sleep, and mood.10,11 The vast majority of serotonin in      axis involve psychological comorbidity or early adverse life events
+our body is produced and secreted from enterochromaffin (EC)                 that lead to DGBIs?21 (6) The explicit understanding of the central
+cells.11 Serving as a communication circuit between the apical and           players, such as EC cells and serotonin, and how they coordinate
+basolateral interface of the gut epithelium, EC cells sense chemical-        the gut functions and crosstalk with neighboring cells and luminal
+mechanical stimuli, transduce signals to enteric nervous system              content is elusive. New drugs targeting EC cells may offer hope for
+(ENS) and CNS, and neighboring cells; these functions reinforce              novel therapeutic approaches in the clinical care of DGBIs. (7) The
+EC cells as a front-line player in modulating the pathophysiology            mode of administration and the pharmacokinetics of therapeutic
+of DGBIs.12 However, the potential mechanistic link between EC               agents are critical features for clinical outcomes.22,23 The therapeutic
+cells/serotonin metabolism and the DGBIs is largely elusive. In this         modalities of enhancing the selectivity and specificity of the drugs
+review, we uncovered the most recent discoveries of EC cells and/            for the gut cells are another approach to achieve better target ef-
+or serotonin-mediated physiology and pathophysiology in DGBIs.               ficacy.24 A further challenge for achieving the prokinetic effect
+Decoding complex mechanisms will strengthen the understanding                is still incomplete, which requires activation of both luminal and
+of DGBIs, facilitate potential diagnostic tools, and therapeutic mo-         myenteric circuitry 5-HT receptor 4 (5-HT4R).24 Furthermore,
+
+
+358                                                 Journal of Neurogastroenterology and Motility
+                                                                                                                Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+5-HTR expression is abundant in the GI cells throughout the gut,              epithelium in direct contact with luminal contents is responsible
+but differential expression of their subtypes specific to the GI cells is     not only for nutrient absorption but also protection against environ-
+elusive, which is critical for the on-target and off-target side effects      mental pathogens.32 The gut epithelium functions as a protective
+associated with 5-HTR agonists and antagonists. (8) To discrimi-              barrier that withstands extreme pH variations, mechanical abrasion,
+nate FD from gastroparesis, which has a similar underlying clinico-           and bacteria colonization. Enteroendocrine cells (< 1% of gut
+pathological spectrum, is a significant challenge in clinical practice        epithelium) are primary secretory lineages that serve vital functions
+and research, given that these disorders are indistinguishable by             that rely on hormones and neurotransmitters to integrate signals
+gastric emptying assessment.25 Precise biomarkers for identifying             arising in the gut to the brain.33 EC cell is a unique subset of en-
+the pathologies are warranted besides the gastric emptying test,              teroendocrine cells, scattered among epithelium throughout the GI
+which does not correlate with symptoms and their severity.25 (9) The          tract, synthesize and secrete 90-95% of the serotonin in the human
+clinical presentation of DGBIs significantly overlaps. For instance,          body (Figure).16 As a specialized intestinal epithelium, EC cells
+60-70% of patients with gastroparesis have slow transit constipation          closely coordinate with neighboring cells to adopt various strategies
+(STC), and the overlap between IBS and FD is 15-42%.3,8 These                 balancing the intestinal barrier functions with secretion, chemo-and
+clinical findings raise questions about the causal effect and the ori-        mechanosensation, nutrient absorption, and crosstalk with gut mi-
+gin of the different subtypes DGBIs. Significant clinical overlaps            crobiota.34 Serotonin is a versatile biogenic amine, neurotransmitter,
+among DGBIs suggest the sharing pathophysiological mechanisms                 and hormone, which is primarily responsible for diarrhea associated
+and therapeutic targeting of these cellular and molecular pathologies         with carcinoid tumors.35 It regulates pivotal peripheral and central
+might provide a better treatment approach.                                    effects, including secretion, visceral sensation, gut motility, energy
+                                                                              homeostatis, inflammation, sleep, food intake, aggression, depres-
+                                                                              sion, anxiety, and psychosis critical for gut health and alternations
+Gastrointestinal Cells Dynamics in Gut Health                                 responsible for DGBIs.11
+and Disorders of Gut-Brain Interactions
+                                                                              Gastrointestinal Cells Dynamics in Disorders of Gut-
+Gastrointestinal Cells Dynamics in Gut Physiology                             Brain Interactions Pathophysiology
+     The GI tract is a highly dynamic tubular organ that processes                 State-of-the-art studies suggest impaired GI barrier function as
+ingested food, assimilates water and nutrients, and eliminates waste          a central pathological mechanism that regulates gut-brain interac-
+to maintain our health.26 A recent human intestinal single-cell reso-         tions due to immune dysregulation via microbial alterations and
+lution spatiotemporal analysis has cataloged 101 cell types and 9             food antigens.36,37 Gut immune dysregulation drives a breach in the
+intestinal compartments clusters, including immune, epithelium,               intestinal barrier and functional deficits in GI pacemaker cells, lead-
+muscularis, endothelium, neural, fibroblast, myofibroblast, pericyte,         ing to alerted visceral sensation, secretion, and gut motility.38 As a
+and mesothelium.27 The staggering complexity of intercellular in-             result, the activated mast cells and eosinophils induce tissue damage
+teractions coordinates the directional movement of luminal contents           and interferes with enteric nerve function. In addition, dysregula-
+from ingestion to expulsion.28 The pacemaker activity of interstitial         tion of the neuroimmune crosstalk has been proposed as the leading
+cells of Cajal (ICCs), platelet-derived growth factor-alpha cells,            cause of visceral hypersensitivity responsible for abdominal pain in
+smooth muscle cells, enteroendocrine cells, glia cells, and excitatory        subsets of DGBIs.39 Studies suggest EC cells serve as a communi-
+and nitrergic neurons of the ENS maintains the regular GI motil-              cation circuit for the gut-brain interactions. The interplay between
+ity pattern (Figure).29 The cellular and molecular remodeling in              host and gut microbiota modulates serotonin signaling/metabolism,
+these cells are responsible mechanisms for GI function alterations            affecting gut neurohormonal-immunoregulation, intestinal barrier
+in FD, gastroparesis, and IBS.30 However, the inconsistent associa-           function, and visceral sensation.40
+tion between altered gut physiology and symptoms warrants further
+investigations of differential innervating patterns and complexity of
+enteric and vagal neurons, pacemaker cells, immune and enteroen-
+                                                                              Enterochromaffin Cells Mediating Gut
+docrine cells in region-specific GI segments.
+                                                                              Physiology
+     As the second-largest epithelium in our body, the GI tract                   Owing to their extensive heterogeneity and variability, the
+constitutes a surface area of > 30 m2.31 A large surface area of GI           functional roles of EC cells and serotonin are still in large part un-
+
+
+                                                          Vol. 28, No. 3 July, 2022 (357-375)                                                      359
+Lai Wei, et al
+
+
+
+
+                      A                                C                                   E
+                        Heterogenous distribution
+                         through entire GI tract
+                         with 2 subpopulations
+
+
+
+
+                                                                                           F
+                                                                                                                      5-HT4R
+
+                      B
+
+                                                                                                                       5-HT1/ 3R
+
+                                                                                                          5-HT1/ 2R
+                                                                                                                        5-HT1R
+                                                                                            5-HT3/ 4R
+
+                                                                                                          5-HT4R
+                                                                                                                       5-HT1/ 2R
+                                                       D
+                                                                                                                      5-HT3/ 4R
+
+                                                                                                                      5-HT3/ 4R
+                                                                                                           5-HT2R
+
+
+Figure. Enterochromaffin (EC) cells dynamics in gut physiology and disorders of gut-brain interactions. (A) Heterogenous distribution of EC
+cells. (B-D) Functional heterogeneity of EC cells. Small intestine EC cells are specialized for sensing nutrients and colonic EC cells for gut micro-
+biota and its derived molecules. (E, F) Apical and basolateral interface of EC cells. EC cells coordinate bilateral communication through crosstalk
+between dietary, microbial, and inflammatory factors to which their apical surface is exposed and to enteric neurons with afferent endings close to
+their basolateral surface, coordinating gut-brain communication. GI, gastrointestinal; Tph1, tryptophan hydroxylase 1; Lgr5, leucine-rich repeat-
+containing G-protein coupled receptor 5; 5-HT, 5-hydroxytryptamine; CCK, cholecystokinin; DGBI, disorders of gut-brian interaction; AHR,
+aryl hydrocarbon receptor; TRPA1, transient receptor potential ankyrin 1; TLR, toll-like receptor; OLF558, olfactory receptor 558; ST2, sup-
+pressing the tumorigenicity 2 receptor; TGR5, Takeda G protein-coupled receptor 5; FFARs, free fatty acid receptor genes; SERT, serotonin
+reuptake transporter; 5-HTR, 5-hydroxytryptamine receptor; IPAN, intrinsic primary afferent neuron; PDGFRα, platelet-derived growth factor
+receptor α; SMC, smooth muscle cell; ICC, interstitial cells of Cajal.
+
+
+determined concerning the scope of its contribution to gut-brain             receptors, and transporters differ considerably between EC cells in
+homeostasis.                                                                 gut region-specific manner.44 Small intestine EC cells are special-
+                                                                             ized for sensing nutrients and colonic EC cells for gut microbiota
+Functional Heterogeneity                                                     and its derived molecules.44 Small intestine EC cells are devoid of
+    EC cells secrete cholecystokinin (CCK), secretin, and peptide            nutrient metabolites sensing receptors such as G protein-coupled
+YY (PYY), even though serotonin is the primary hormone synthe-               bile acid receptor 1 (GPBAR1), G protein-coupled receptor 119
+sized and secreted by these cells.41 Twenty-five percent of serotonin-       (GPR119), free fatty acid receptor 1 (FFAR 1), calcium-sensing
+containing cells also secrete PYY in the human colon, whereas                receptor, and GPR142 (Figure).44 Colonic EC cells express GPCR
+CCK and serotonin colocalize in the murine small intestine.42                sensors of microbial molecules, comprising of receptors for short
+More intriguingly, researchers identified serotonin, CCK, and                chain fatty acids (SCFAs), for instance, FFAR2, olfactory receptor
+PYY inside one single vesicle of EC cells (Figure).43 The dynamic            558 (OLF558), OLF78; aromatic acids receptors, GPR35; sec-
+functions of EC cells are not restricted to secretion; spontaneously,        ondary bile acids receptors, GPBAR1; and acyl-amides and lactate,
+the tasting/sensing function is due to the expression of nutrient            GPR132 (Figure).44
+
+
+360                                                 Journal of Neurogastroenterology and Motility
+                                                                                                                Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+                                                                            tabolite receptors, which trigger glucagon-like peptide secretion to
+Life Cycle of Enterochromaffin Cells: Self-renewal                          stimulate serotonin secretion from EC cells suggesting that EC cells
+and Mature Enterochromaffin Cells                                           sense nutrients indirectly via the L-cell and relay the signal luminal
+     The turnover rate of the gut epithelial cell is 3-5 days.45 The        nutrient metabolites to basolateral vagal afferent neurons.44 Once
+epithelium starts its journey from the crypt base and migrates to           serotonin is released, the signals travel to the local ENS and distant
+the villus until it reaches the top edge and has been “squeezed out”        organs, including the pancreas and the brain, thus regulating food
+while undergoing apoptosis. During its short but magnificent life,          intake, digestive enzyme secretion, and bowel movement.52
+the epithelial cells not only “witness” a great war between host-                Not long ago, researchers thought EC cells interact with nerves
+pathogenic microbes, and the harmonious mutualistic relationship            indirectly through paracrine or endocrine signals.53 Using transgen-
+between host and commensal microbiota, but also deliver its sub-            ic and advanced optical tools, EC cells received a better description
+stantial duties as the major subtype of enteroendocrine cells. EC           as having several anatomic features observed in neurons, including
+cells have different cell morphologies and heterogeneous distribu-          dendritic-like spines and axon-like processes, suggesting EC cells
+tion throughout the entire GI tract (Figure).42,46 The typical “wine-       may communicate with ENS through synaptic structure, known as
+glass” type of EC cells are located in the small intestine, whereas the     neuropod.48,54 Through neuropod, serotonin released from EC cells
+“axon-like” EC cells are predominantly found in the colon.47 The            acts on extrinsic primary afferent neurons (EPANs) and intrinsic
+“wine-glass” shaped EC cells are believed to be “open type” and di-         primary afferent neurons in a paracrine and synaptic manner.40
+rectly taste luminal contents. The “axon-like” EC cells tend to func-       EPANs stimulated via serotonin modulate nausea and abdominal
+tion as “closed type” enteroendocrine cells. A recent murine study          discomfort. We believe that the mature EC cells positioned in the
+demonstrated 2 subpopulations of EC cells. This study clarified             luminal surface serve to act as paracrine modulators; self-renewal
+their positions, with the mature cells positioned in the apical surface     EC cells are primarily positioned in the basolateral crypt base with
+and the self-renewal cells (expressing leucine-rich repeat-containing       neuropod sever to connect the gut-brain axis.
+G-protein coupled receptor 5 or Ki67) may serve as precursor cells               Taken together, EC cells not only communicate with neigh-
+to keep up EC cell populations in the basolateral surface (Figure).16       boring epithelium and enteric neurons as paracrine and synaptic
+This discovery challenges the stereotype that the epithelium has a          modulators, as well as “tasting” and “feeling” gut microbiota and
+short life and showed EC cells could sustain their cell features for a      food particles via chemo- and mechanosensing receptors.55 Thus,
+long time, and some even last a lifetime.                                   as a flexible and resourceful communication circuit, the EC cell is
+                                                                            crucial in GI health and diseases.
+Apical and Basolateral Interface of Enterochromaffin
+Cells
+      EC cells interact with neighboring enterocytes, other enteroen-
+                                                                            Enterochromaffin Cells Mediating
+docrine cells, enteric neurons, gut microbiota, dietary contents, and
+                                                                            Pathophysiology Mechanisms of Disorders
+chemical- and mechanical-stimuli, as autocrine, paracrine, synaptic,
+                                                                            of Gut-Brain Interactions
+and endocrine moderators (Figure).33,48 Activation of EC cell sen-               The regulation of GI functions entails complex coordinated
+sory receptors by food antigens, acidity, invading pathogens, and           interactions between gut and brain, which necessitates the proper
+mechanical stimuli triggers serotonin release.12 Although there was         functioning of GI pacemaking cells, epithelial cells, and immune
+recently a breakthrough in understanding EC cell sensory pathway,           cells.16,29,30 Any functional defects in these cells will potentially hin-
+it is well-accepted that the luminal sensing signaling involves a com-      der gut function and generate symptoms of DGBIs.30
+plex of autocrine, neurocrine, and paracrine actions.40 For instance,
+EC cells are mechanosensitive; upon activation, Piezo2 channels             Apical Interface of Enterochromaffin Cell
+generate an ionic current essential for the intracellular Ca2+ result-
+ing in serotonin release spontaneously.49 Meanwhile, EC cells are           Gut microbiota dysbiosis
+chemosensitive and recruit transient receptor potential ankyrin 1                Gut microbiota dysbiosis is a notable pathophysiological mech-
+channel (TRPA1) to detect irritants leading to the activation of            anism of DGBIs.17,36,56 The fecal microbiota profile of IBS patients
+voltage-gated Ca2+ channel-dependent serotonin release.50,51 In             differs significantly from that of healthy subjects and influences
+addition, neighboring enteroendocrine L-cells express nutrient me-          gut physiology, for instance, motility, GI barrier function, visceral
+
+
+                                                        Vol. 28, No. 3 July, 2022 (357-375)                                                        361
+Lai Wei, et al
+
+
+
+
+sensation, and gut immune function.4,57 In a recent meta-analysis,         DGBIs are elusive.66
+IBS patients had a reduced number of commensal bacteria of gen-                 Bile acids. Gut microbiota dysbiosis induces alternations in
+era Bifidobacterium and Lactobacillus and an increased number              the bile acid (BA) pool.67,68 On the contrary, reduction in BA levels
+of pathogenic bacteria of genera Enterobacter as compared to the           influences gut microbial diversity leading to gut microbiota dysbio-
+healthy subjects.58 Studies reported overrepresentation of Metha-          sis.69 A higher amount of BAs results in increased intestinal fluid
+nobravibacter smithii in stool samples from patients with FD, func-        secretion.10 Excess fecal BAs in diarrhea-predominant IBS (IBS-
+tional constipation, and constipation-predominant IBS (IBS-C).59,60        D) lead to altered gut microbiota profile enriched in Clostridia.70
+A microbiome signature linked with symptom severity of IBS has             Higher amounts of BA signatures, chenodeoxycholic acid and
+been suggested with reduced diversity of commensal bacteria and            cholic acid, were reported in stool samples from patients with IBS-
+the presence of pathogenic bacteria such as methanogenic or Clos-          D and lower amounts in patients with IBS-C.71 The authors also
+tridiales species.59 Fecal microbiota transplantation (FMT) may be         found a positive correlation between a higher amount of BAs and
+beneficial; however, a meta-analysis of randomized-controlled trials       abdominal pain severity. Furthermore, BAs can activate Takeda
+in IBS patients reported no significant improvement in symptoms            G-protein-coupled receptor 5 (TGR5) localized on EC cells and
+after FMT compared to placebo treatment.61 On the contrary, a              promote gut motility.72 TGR5-deficient mice displayed prolonged
+double-blind, randomized controlled trial in IBS patients suggested        colonic transit and reduced fecal pellet frequency compared to con-
+FMT was beneficial with a significant improvement in symptoms              trol mice advocating TGR5-dependent improvement in gut motil-
+compared with placebo.62 Still, the clinical outcome of gut microbi-       ity mediated by EC cell serotonin secretion.73 The aforementioned
+ota intervention with FMT is hazy, particularly due to the unclear-        findings suggest that the interplay between BAs, EC cells, and gut
+ness of the healthy microbiome constitution as well as the interplay       microbiota modulates DGBIs pathogenesis.
+between host and gut microbiota.                                                Short chain fatty acids. SCFAs such as butyrate, propio-
+     Recent findings highlighted the crosstalk between host and            nate, and acetate are the prime fermentation metabolites produced
+microbiota in gut homeostasis.34,63 One study demonstrated the             from gut microbiota-mediated degradation of dietary fiber.74 SC-
+critical role of indigenous spore-forming bacteria promote serotonin       FAs are essential to sustain EC cell and serotonin production via
+biosynthesis from colonic EC cells modulating GI motility.34 On            activation of GPCRs (FFAR2).44 Compared to the germ-free (GF)
+the other hand, elevating luminal serotonin increases the number of        mice, conventionally raised and humanized mice had higher colonic
+Turicibacter sanguinis , a spore-forming bacteria, which expresses         tryptophan hydroxylase 1 (TPH1) mRNAs due to butyrate-related
+a neurotransmitter sodium symporter protein with structural and            increase in EC cell TPH1 expression and serotonin production.75
+sequence homology to mammalian serotonin reuptake transporter              Furthermore, butyrate alleviates impaired barrier function through
+(SERT).63 Treating T. sanguinis with serotonin or fluoxetine en-           increasing claudin-2 expression. Bifidobacterium dentium -derived
+hanced its colonization in the murine gut.63 Furthermore, one study        acetate stimulate serotonin release from EC cells.76 Meanwhile, this
+showed serotonin was capable of decreasing virulence gene expres-          bacterium colonized mice had upregulated expression of 5-HT2AR
+sion of Citrobacter rodentium and enterohemorrhagic Echerichia             in the hippocampus leading to normalized anxiolytic behavior.76
+coli by inactivating bacterial serotonin receptor transcription.64         Moreover, isovalerate, a volatile fatty acid metabolite generated by
+Together, these findings suggested that the selective indigenous gut       gut microbiota, evoked serotonin release from EC cells, through
+bacteria crosstalk with the host serotonergic pathways to boost their      voltage-gated Ca2+ channel modulated 5-HT3R sensory neurons.12
+colonization in the gut, also sparked interest in whether modulating       These studies showed that gut homeostasis relies on microbiota-
+EC cell and gut microbiota interaction may be an effective treat-          derived SCFA, which plays an important role in GI motility, vis-
+ment strategy for DGBIs.                                                   ceral sensation, secretion, and intestinal barrier function regulation,
+                                                                           further reinforcing EC cells as central modulators in the gut-brain
+Gut microbial-derived molecules                                            axis.
+     One of the fundamental regulations of serotonin biogenesis is              Aryl hydrocarbon receptor and serotonin signaling.
+host-microbiota crosstalk.65 Gut microbial-derived molecules com-          The AhR has a fundamental role in host defense against bacteria in
+municate signals to modulate the targeted cells’ function, eventu-         the intestine and functions as a biosensor connecting gut microbiota
+ally affect the physiological and pathophysiological mechanisms,           to program ENS and immune cells affecting gut homeostasis.77,78
+influencing health status; still, the precise molecular mechanisms in      Microbiota-directed AhR expression in neurons of the colon tissue
+
+
+362                                               Journal of Neurogastroenterology and Motility
+                                                                                                               Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+enables these neurons to communicate with luminal contents and                     Serotonin. Alterations in the serotonin pathway are one of the
+to trigger the expression of neuron-specific effector mechanisms.79          crucial features in DGBIs.10 Whereas the patients with IBS-C have
+Depleting neuron-specific AhR, or overexpression of AhR negative             reduced serotonin activity, those with IBS-D have increased sero-
+feedback regulator cytochrome P450 1A1 (CYP1A1) causes co-                   tonin expression. Studies have shown serotonin metabolisms in the
+lonic dysmotility in mice.79 Intriguingly, serotonin serves as a ligand/     physiology and pathophysiology of IBS, FD, and gastroparesis.10,16
+activator of AhR in intestinal epithelial cells through increasing           Clostridiales species trigger EC cells to produce serotonin by induc-
+CYP1A1 expression of the canonical gene target of AhR.80,81 Fur-             ing TPH1 expression.34 This effect is sustained by gut microbiota-
+thermore, this serotonin-AhR-CYP1A1 pathway was confirmed                    derived metabolites (propionate, butyrate, tyramine, cholate, and
+in SERT knockout mice.80 These studies demonstrated a novel                  deoxycholate).34 One recent study showed the role of TRPA1 in the
+mechanistic link between serotonergic and AhR signaling, which               regulation of serotonin secretion by EC cells through Trp metabo-
+have implications in modulating gut immune function and motility.            lites.51 Indoles are metabolite products of the tryptophan metabo-
+     Tryptophan metabolites. Tryptophan (Trp) metabolism                     lism of Edwardsiella tarda . Furthermore, authors showed indoles
+is crucial in host-microbial communication to fine-tune gut physi-           activate TRPA1 in EC cells to release serotonin that excites enteric
+ology.10,57,71,82 Trp metabolism comprises 3 critical pathways in            neurons to accelerate gut motility and stimulate vagal afferents for
+modulating gut functions: (1) indole pathway (direct transforma-             CNS modulation.51
+tion into metabolites by the gut microbiota, such as AhR and indole                Sleep disturbances are also a major contributing factor in IBS
+derivatives ligands); (2) kynurenine pathway (transformation into            development and positively correlated with worsening IBS symp-
+kynurenine and its derivatives by immune and epithelial cells); and          toms.87,88 Monoamine oxidase A converts serotonin to 5-hydroxy-
+(3) serotonin pathway (transformation into serotonin and its deriva-         indoleacetic acid in the brain and gut.89 In the brain, serotonin is
+tives by EC cells). Impaired Trp metabolism contributes to DGBIs             converted into melatonin, the primary hormone of the body’s sleep-
+pathogenesis, particularly IBS.10,82                                         wake cycle.89 Indoleamine 2,3-dioxygenase might shunt Trp to
+     Tryptamine. Tryptamine is a monoamine metabolite product                kynurenine in the brain, leading to sleep disturbances.57 Thus, these
+of tryptophan metabolism, and the gut bacteria involved in this              findings demonstrated that Trp metabolites are crucially important
+process are Clostridium sporogenes and Ruminococcus gnavus .83               contributing to different facets of gut physiology and brain function.
+Tryptamine relay its signal in the gut primarily via the 5-HT4R                    Gut microbial metabolites are key molecules relaying signals to
+pathway.84 Tryptamine participates in regulating intestinal secretion.       fill a specific niche and maintain bidirectional gut and brain interac-
+Tryptamine generated in both GF and humanized mice showed                    tions. Taken together, gut microbiota and their host may share a
+increased epithelium fluid secretions in colonoids. Furthermore, gut         “common language” and harmonies as a mutualistic system. Deci-
+motility improved in GF mice colonized with Bacteroides thetaio-             phering this “common language” will offer therapeutic perspectives
+taomicron , a tryptamine-producing engineered bacteria.84 Trypt-             in DGBIs.
+amine also activates 5-HT4R on goblet cells to release mucus.19 In
+a murine inflammatory bowel disease model, GF mice colonized                 Intestinal barrier dysfunction
+with B. thetaiotaomicron exhibited increased mucus release with                   In susceptible conditions, GI infection or intake of particular
+improved intestinal barrier function and reduced aggressive phe-             foods weakens the intestinal barrier integrity through damage to the
+notypes.19 Tryptamine levels were elevated in the stools of IBS-D            tight junctions, resulting from proteasome-mediated degradation
+patients and reduced in IBS-C patients.71 Tryptamine can modulate            activated by inflammatory molecules including proteases, histamine,
+gut motility by triggering the release of serotonin by enteric neurons       and eicosanoids.37,90 Because of impaired barrier function, food anti-
+or acting as an AhR ligand.79 A recent study showed gut microbiota           gens and pathogens cross the gut epithelium and activate a T helper
+induces AhR expression in enteric neurons, enabling them more                2 cell response that results in immune activation mediated via mast
+responsive/excitable to microbiota-derived AhR ligands, such as              cells and eosinophils.91,92 In patients with IBS, an elevated number
+tryptamine, and contributing to gut motility.79                              of colonic mast cells correlates with impaired intestinal barrier func-
+     Kynurenine. Patients with IBS often have altered kynurenine             tion and visceral hypersensitivity.93,94 Duodenal mucosa of patients
+pathway with elevated kynurenine levels in the serum.85,86 Indole-           with IBS challenged with food antigens have increased intervillous
+amine 2,3-dioxygenase, a key metabolite in the kynurenine pathway,           spaces and epithelial breaks compared to healthy controls.95 The
+positively correlated with IBS symptoms severity.                            cell-to-cell adhesion protein, zonula occludens-1, and occludin ex-
+
+
+                                                         Vol. 28, No. 3 July, 2022 (357-375)                                                      363
+Lai Wei, et al
+
+
+
+
+pression are significantly reduced in duodenal tissues from patients           trinsic sensory neurons in IBS patients.106 Activation of 5-HT4R via
+with DGBIs compared to healthy subjects.96,97 Duodenal biopsy                  tegaserod and naronapride attenuates colonic hypersensitivity.107 In
+samples from patients with DGBIs more often have decreased                     contrast, acute oral administration of 5-hydroxytryptophan elevates
+transepithelial electrical resistance resulting in intestinal barrier dys-     visceral nociceptive responses and abdominal distension, resulting
+function with immune cell infiltration.36,37,98 One study examined             in increased pain sensation in a subset of IBS patients.108
+whether serotonergic signaling alterations may commence a chain of                  Taken together, serotonergic modulation through selective se-
+events leading to changes in epithelial integrity in healthy individu-         rotonin reuptake inhibitor (SSRI) and 5-HTR agonists/antagonists
+als and patients with IBS.85 The authors found increased serotoner-            of visceral sensation appear promising to the development of novel
+gic metabolic activity, which happened after intake of the serotonin           therapeutic modalities for DGBIs.
+precursor, 5-hydroxytryptophan, and reinforced intestinal mucosal
+barrier function through redistribution of zonula occludens-1 in               Basolateral Interface of Enterochromaffin Cell
+healthy individuals; such regulation was absent in IBS patients.85 A
+commensal bacterium, B. dentium , stimulates EC cells to release               Altered gut motility
+serotonin, which interacts with 5-HT4R on goblet cells to promote                    Functional defects of particular GI cells, for instance, ICCs,
+Mucin 2 and Trefoil factor 3 release, resulting in the activation of           smooth muscle cells, EC cells, immune cells, and enteric neurons,
+C-X-C motif chemokine receptor 4 to trigger actin cytoskeleton re-             have the potential to hamper gut motility.13 The normal antral mo-
+arrangement and restitution mediating intestinal epithelial repair.99          tility, essential for triturating solid food and maintaining the gastric
+Overall, these studies point to the broad implications of a potential          emptying rhythm, is mediated by intrinsic nitrergic and cholinergic
+protective mechanism involving serotonin signaling for impaired                neurons and extrinsic vagal innervation that facilitate pyloric mo-
+intestinal barrier function.                                                   tor functions and intragastric contractions.109 Abnormalities of the
+                                                                               proximal stomach’s intrinsic inhibitory innervation (nitrergic path-
+Visceral hypersensitivity                                                      way), inhibition of cholinergic (5-HT1AR on cholinergic neurons)
+     The modulators for visceral sensation comprise transient re-              and 5-HT2BR pathways, and an impaired antro-fundic reflex are
+ceptor potential vanilloid subtype 1 (TRPV1), protease-activated               involved in defective gastric accommodation and delayed gastric
+receptors, histamine, serotonin, tachykinin, cannabinoid, acid-                emptying.13,109,110 5-HT2BR antagonist normalized the impaired
+sensing ion channels, voltage-gated sodium and calcium channels,               gastric accommodation; in contrast, 5-HT2BR agonist exacerbated
+and TRPA1.12,100 The TRPV1 activation by capsaicin, thermal                    the inhibition of gastric accommodation.111 A recent study reports
+stimulus, acidic pH, inflammatory mediators, prostaglandins, nerve             reduced EC cell numbers in the antral biopsy in patients with
+growth factors, and microbes trigger the release of neuropeptides,             idiopathic gastroparesis.16 Furthermore, depletion of EC cells in
+such as substance P and calcitonin gene-related peptide-1.100 These            a murine model of gastroparesis and STC led to delayed gastric
+neuropeptides are responsible for enhanced visceral sensitivity and            emptying and colonic motility. This study provided possible patho-
+induce painful and/or non-painful sensations.101 The hypersensitiv-            genesis of alteration in EC cell numbers and mucosal serotonin in
+ity mediated through chemicals such as elevated visceral sensation             gastroparesis and STC.16 Further studies are warranted to underpin
+to acid associates with nausea. The increased TRPV1 expression in              how and to what extent alternations of each cell type contribute to
+colonic tissues often correlates with abdominal pain in patients with          symptom generation and severity. Furthermore, to elucidate un-
+IBS-D.102,103 Visceral hypersensitivity in patients with gastroparesis         derlying neuromuscular and neuroimmune mechanisms mediated
+associates with abdominal pain, anorexia, and early satiety.104                via EC cells of DGBIs are currently unclear and warrants further
+     The expression level of TRPA1 in EC cell-enriched fraction                research.
+is 16 times higher than that in the whole mucosal layer.105 Upon
+TRPA1 receptor stimulation, Ca2+ channel-dependent serotonin                   Gut immune dysfunction
+release is activated in EC cell.12 These data suggest that TRPA1                   The increased recruitment of mast cells and eosinophils to
+receptors on EC cells may serve as the primary detector of luminal             gut inflammation induces tissue damage, leading to impaired gut
+contents prior to mucosal damage and a potential therapeutic target            homeostasis amongst DGBIs patients.91,112 Breach of intestinal
+for the management of IBS.12 Furthermore, serotonin signaling                  barrier allows infiltration of luminal contents, further cascading the
+mediates visceral hypersensitivity by activation of 5-HT3R on ex-              immune events and contributing to the development of symptoms
+
+
+364                                                   Journal of Neurogastroenterology and Motility
+                                                                                                               Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+in DGBIs.113 FD patients show elevated proinflammatory cytokine             tients with IBS.119 These studies revealed an immune-neuroendo-
+production and enhanced numbers of α4β7 integrin CCR9 T lym-                crine axis in calibrating serotonin release for intestinal homeostasis.
+phocytes.114 Macrophage-driven immune dysregulation is the pri-
+mary factor associated with gastroparesis in a recent transcriptomic        Dysregulated gut-brain interaction
+analysis of gastric body biopsies.115 Genes associated with specific             Dysregulation of the gut-brain axis is a critical pathophysiologi-
+macrophages are enriched in gastric tissues from gastroparesis pa-          cal mechanism of DGBIs.127 Brain modulates gut physiology, for
+tients compared with controls.115 A reduction of CD206+ macro-              instance, motility, visceral sensations mediating symptoms of DG-
+phages in the gastric antrum of patients with diabetic gastroparesis        BIs.128 Similarly, alterations in gut physiology feedback to the brain
+correlates with the loss of ICCs.116                                        sustain psychological health.128 In a meta-analysis, the prevalence
+     A wide range of immune cells, including macrophages, mast              of anxiety and depressive disorders is 23% in IBS patients.129 The
+cells, dendritic cells, and T cells, have extensive 5-HTR expres-           presence of depression and anxiety symptoms are overrepresented
+sion.117 5-HT1AR mediates the chemotactic influence of serotonin            in IBS patients with a frequency of 39% and 29%, respectively.
+on mast cells, 5-HT2AR on eosinophils, 5-HT1BR, and 5-HT2AR                 Psychological comorbidity and corticotropin-releasing hormone
+on dendritic cells, and 5-HT2BR and 5-HT7R on macrophages.117               pathways contribute to the development of impaired gut barrier
+In a murine postoperative ileus model, 5-HT4R agonist mosapride             function.130 In response to stress, eosinophils release corticotropin-
+accelerated acetylcholine release from myenteric cholinergic neu-           releasing hormone and substance P, which lead to activation of
+rons, subsequently activated α7-nicotinic acetylcholine receptor on         mast cells, ultimately resulting in impaired gut barrier function.91
+macrophages to inhibit their inflammatory reactions and improved            Functional brain MRI studies in patients with DGBIs demonstrate
+the intestinal motility.118 Increased serotonin release mediating gut       abnormalities of structural and functional networks in areas of the
+immune dysfunction contributes to the development of IBS symp-              brain responsible for processing information of vasovagal reflux
+toms.119 Spontaneous release of serotonin correlates with the severity      and visceral motor system.131 Gut microbiota dysbiosis alters the
+of abdominal pain and increased mast cells in patients with IBS.119         function of neurotransmitters, such as serotonin, acetylcholine,
+These findings suggest a possible new paradigm for the develop-             dopamine, and γ-aminobutyric acid, either by the production or
+ment of DGBIs initiated through gut immune dysregulation via                consumption of these substances, leading to changes in behavior
+serotonin metabolisms.                                                      and emotional state.21 The identification of BAs and their receptors
+                                                                            in the brain reinforces the gut-brain axis.132 In addition, EC cells
+Neuroimmune dysfunction                                                     throughout the entire gut axis sense luminal contents and generate
+     Immune cells interact with ENS to modulate the gut func-               electrical signals bridging the mucosal barrier through interface
+tion.120 Intestinal mast cell infiltration and its close proximity to       with the CNS via extrinsic afferent neurons and the ENS via intrin-
+submucosal plexus neurons leads to altered neuronal responsiveness          sic afferent neurons.50,51 Thus, EC cells play a fundamental role in
+in patients with DGBIs.121-123 Further, the close proximity of acti-        linking the gut connectome to the brain connectome.
+vated mast cells to colonic nerves correlated with abdominal pain                As the primary source of body serotonin, EC cell-derived se-
+in patients with IBS.94,124 Sprouting of fine nerve fibers was more         rotonin impacts its circulating levels and has the power to modulate
+often noted in the duodenal tissues of patients with IBS compared           brain function directly or indirectly. The information about luminal
+to healthy controls.123,125 The grade of fine nerve fiber sprouting was     microenvironment is broadcasted to the brain by EC cells through
+positively correlated with the degree of gut immune alterations in          the super-highway “vagus nerve.”21 Vagal afferents nerve terminals
+patients with IBS.125 Moreover, the mucosal mediators from IBS              express 5-HT3R and locate in proximity to the EC cells.11 A direct
+patients trigger the activation of visceral pain pathways.                  interaction of EC cell signaling to vagal afferents in response to gut
+     Not only 5-HTRs are enriched in gut immune cells, but also             luminal chemical contents with the vagal neurocircuits is involved
+EC cells are capable of “sensing” immune regulators through spe-            in reflexes, such as, vomiting.11 Probiotic intervention with Bifi-
+cific receptors.126 One state-of-the-art study demonstrated neuroim-        dobacterium spp. increases serotonin levels in the brain leading to
+mune interaction mediating through EC cells.50 IL-33 sensed by              improved behavior in the depression murine model.133 Oral admin-
+EC cells induces release of serotonin, which mediates activation of         istration of an SSRI elevates the gut serotonin bioavailability, allevi-
+enteric neurons resulting in accelerated gut motility.50 Furthermore,       ates depressive-like behavior in mice, possibly through vagus nerve
+histamine and serotonin regulate enteric neuron functions in pa-            activation.133 Overall, these findings suggest that EC cells and their
+
+
+                                                        Vol. 28, No. 3 July, 2022 (357-375)                                                       365
+                                                Table 1. Summary of Pathophysiology-directed Therapeutic Approach for Disorders for Gut-Brain Interactions
+
+
+
+
+366
+                                                                                                                                Pathophysiological
+                                                                  Drug name                         Function/pathway                                                        Clinical outcome                               DGBI types
+                                                                                                                                                                                                                                             Lai Wei, et al
+
+
+
+
+                                                                                                                                   mechanisms
+
+                                                Prokinetics          Prucalopride              5-HT4R agonist             Altered gut motility        Improved GI symptoms as assessed by the GCSI.                  Gastroparesis, FD,
+                                                                                                                                                      Improved solid gastric emptying.                                chronic constipation
+                                                                     Felcisetrag               Selective 5-HT4R agonist   Altered gut motility        Accelerated transit of solids throughout the gut in            Gastroparesis
+                                                                                                                                                        patients with idiopathic or diabetic gastroparesis.
+                                                                                                                                                      Stimulate motility and secretion through enhanced
+                                                                                                                                                        release of acetylcholine from excitatory motor
+                                                                                                                                                        neurons and interneurons.
+                                                                     Alosetron                 5-HT3R antagonist          Altered gut motility        Improved stool consistency and bowel movements.                IBS-D
+                                                                     Ondasetron
+                                                                     Ramosetron
+                                                                     Cilansetron
+                                                                     Buspirone                 5-HT1R agonist             Altered gut motility        Fundus relaxation, improve gastric accommodation.              FD
+                                                                     Tandospirone
+                                                                     Relamorelin               Ghrelin receptor agonist   Altered gut motility        Stimulates nodose afferents and DMV neurons and                Gastroparesis
+                                                                                                                                                        accelerates gastric emptying.
+                                                                     Metoclopramide            Dopamine-2 receptor        Altered gut motility        Improved gut motility.                                         FD, gastroparesis
+                                                                     Domperidone                antagonists
+                                                                     Itopride
+                                                                     Acotiamide                Muscarinic receptor        Altered gut motility        Inhibits acetylcholinesterase and antagonizes the              FD
+                                                                                                antagonists                                             presynaptic muscarinic receptors, present on
+                                                                                                                                                        cholinergic nerve endings, which leads to
+                                                                                                                                                        an increase in acetylcholine levels in the synaptic cleft.
+                                                Antibiotics          Neomycin                  Modulating gut             Gut microbiota dysbiosis    Shifting the microbial community composition.                  IBS
+                                                                     Rifaximin                  microbiota profile                                    Improvement in constipation, SIBO and
+                                                                                                                                                        dyspeptics symptoms.
+
+
+
+
+Journal of Neurogastroenterology and Motility
+                                                Probiotics           Bifidobacterium animalis Modulating gut              Gut microbiota dysbiosis    Shifting the microbial community composition.                  IBS
+                                                                      DN-173010154, Bifido-    microbiota profile                                     Improved symptoms and gut transit.
+                                                                      bacterium lactis DN-173
+                                                                     Lactobacillus gasseri
+                                                Bile acid            Obeticholic acid         FXR agonist                 Bile acid alterations       Stimulate the synthesis and subsequent release of              IBS-D
+                                                 sequestrants        Tropifexor                                                                         FGF-19 from ileal epithelial cells and
+                                                                     Cholestyramine                                                                     inhibit bile acid synthesis by hepatocytes.
+                                                                                                                                                      Improve stool form and symptoms of diarrhea.
+                                                Bile acid transporter Elobixibat                IBAT antagonist           Bile acid alterations       Efficacious treatment for constipation, improving gut          IBS-C
+                                                 inhibitor            Cholestipol                                                                       transit and symptoms via increasing colonic bile acids.
+                                                Anti-inflammatory Mesalazine                   Gut immune homeostasis     Low grade inflammation      Sustained therapy response and benefits for a subgroup of      IBS
+                                                 agents                                                                   Visceral hypersensitivity     patients with IBS.
+                                                                      Ketotifen                Mast cell stabilizer       Visceral hypersensitivity   Increased the threshold for discomfort in patients with        IBS
+                                                                                                                                                        IBS with visceral hypersensitivity, and reduced IBS
+                                                                                                                                                        symptoms.
+                                                                     Ebastine                  Histamine receptor-1       Visceral hypersensitivity   Reduced visceral hypersensitivity and abdominal pain in        IBS
+                                                                                                antagonist                                              patients with IBS.
+                                      Table 1. Continued
+
+                                                                                                                                Pathophysiological
+                                                          Drug name                              Function/pathway                                                               Clinical outcome                              DGBI types
+                                                                                                                                   mechanisms
+
+                                      Acid suppressive       Pantoprazole                    Proton pump inhibitors      Gut immune dysfunction        Reduced duodenal eosinophilia, mast cells,                       FD
+                                       therapy                                                                           Epithelial barrier dysfunction and intestinal permeability in patients with FD.
+                                                                                                                         Visceral hypersensitivity
+                                      Neuromodulators        Amitriptyline                   TCA                         Gut-brain dysregulation       Affect gastrointestinal motility through anticholinergic         IBS, FD
+                                                                                                                                                        and serotonergic mechanisms. TCAs reduce visceral
+                                                                                                                                                        hypersensitivity. Antidepressant therapy might lead
+                                                                                                                                                        to neurogenesis.
+                                                             Mirtazapine                     Tetracyclic antidepressants Gut-brain dysregulation       Upregulates the levels of orexigenic hormones and                FD
+                                                                                                                                                        downregulated the levels of anorexigenic hormones.
+                                                             Escitalopram                    SSRI                        Gut-brain dysregulation       Treating depressive symptoms with these molecules                IBS
+                                                                                                                                                        modulates the severity of GI symptoms indirectly
+                                                                                                                                                        via a positive effect on depression.
+                                                             Venlafaxine                     SNRI
+                                                             Duloxetine
+                                      Intestinal             Lubiprostone                    CCl2 agonist                 Abnormal secretion               Increased fecal water content.                           IBS-C,
+                                        Secretagogues                                                                                                      Creates an ion gradient that promotes water and sodium chronic constipation
+                                                                                                                                                             secretion into the intestinal lumen.
+
+
+
+
+Vol. 28, No. 3 July, 2022 (357-375)
+                                                             Linaclotide                     Guanylate cyclase-C          Abnormal secretion               Increase water secretion via targeting cGMP leads to     IBS-C
+                                                                                              receptor agonist                                               the secretion of chloride and bicarbonate into
+                                                                                                                                                             the intestinal lumen.
+                                      Visceral Analgesics Oliceridine                        Biased μ-Opioid receptor Visceral hypersensitivity            Management of moderate to severe acute pain in adults IBS
+                                                                                              ligands                                                        for whom alternative treatments other than opioids had
+                                                                                                                                                             failed.
+                                                             Olorinab                        Cannabinoid type 2           Visceral hypersensitivity        Potential analgesic effects in patients with IBS.        IBS
+                                                                                              receptor agonist
+                                      DGBIs, disorders of gut-brain interactions; 5-HTR, 5-hydroxytriptamine receptor; GI, gastrointestinal; GCSI, gastroparesis cardinal symptom index; FD, functional dyspepsia; DMV, dorsal motor nucleus
+                                      of the vagus; IBS-D, diarrhea-predominant irritable bowel syndrome; SIBO, small intestinal bacterial overgrowth; IBS, irritable bowel syndrome; FXR, farnesoid X receptor; FGF-19, fibroblast growth factor
+                                      19; IBAT, ileal bile acid transporter; IBS-C, constipation-predominant irritable bowel syndrome; TCA, tricyclic antidepressant; SSRI, serotonin reuptake inhibitor; SNRI, serotonin norepinephrine reuptake
+                                      inhibitor; CCl2, type 2 chloride channel; cGMP, cyclic guanosine monophosphate.
+                                                                                                                                                                                                                                                    Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+367
+Lai Wei, et al
+
+
+
+
+derived serotonin have the potential to relay signals to the brain.              pathophysiological mechanism of PI-DGBIs include gut dys-
+Further, identifying and characterizing the specific gut microbiota              motility, microbial dysbiosis, intestinal barrier dysfunction, visceral
+and their metabolites for enhancing gut-brain physiological func-                hypersensitivity, altered serotonin metabolism, bile acid malabsorp-
+tions via EC cells/serotonin signaling may offer a treatment strategy            tion, increased density of EC cells, and T lymphocytes.10,68 A meta-
+for extrinsic neuron modulation.                                                 analysis of 45 studies including 21 421 participants with acute
+                                                                                 gastroenteritis showed a pooled prevalence of 10.1% of PI-DGBIs
+Post-infection Disorders of Gut-Brain Interactions                               at 12 months after the episode.135 A subgroup of patients with
+and Serotonin Signaling                                                          gastroparesis has an onset of symptoms after prior gastroenteritis.13
+                                                                                 Various viral agents such as Epstein-Barr virus, enterovirus, and
+Post-infection disorders of gut-brain interactions                               cytomegalovirus could cause PI-gastroparesis.13 Clinical presenta-
+     Post-infection DGBIs (PI-DGBIs) develops in about 10% of                    tion of patients with PI-gastroparesis is similar to patients with
+patients after a bout of gut infections such as bacterial, protozoal,            gastroparesis without prior gastroenteritis but is associated with an
+or viral gastroenteritis.68,134 Transient non-specific and specific GI           acute onset and severe symptoms. Acute gastroenteritis also leads to
+inflammation are often associated with long-lasting DGBIs symp-                  the onset of FD, known as PI-FD.68 Furthermore, approximately
+toms, for instance, bacterial, parasitic, viral gastroenteritis, and after       one-third of patients with IBD after resolution of a flareup of
+resolution of a flareup of inflammatory bowel disease (IBD).68 The               IBD experience symptoms of IBS.136 Additionally, acute infective
+
+Table 2. Gut Microbiota-derived Molecules Modulating Pathogenesis of Disorders for Gut-Brain Interactions
+
+                     Targeting         Pathophysiological
+ Metabolites                                                                                          Key findings
+                     cell types           mechanisms
+Butyrate and EC cells               Altered gut motility      These metabolites increase 5-HT biosynthesis from EC cells through stimulatory
+ acetate                                                        activities.75
+SCFAs        EC cells and           Altered gut motility      Release of 5-HT from EC cells in response to SCFAs stimulates 5-HT3R located
+              5-HT3R+                                           on the vagal sensory fibers. The sensory information is transferred to the vagal
+              vagal nerves                                      efferent and stimulates the release of acetylcholine from the colonic myenteric plexus,
+                                                                resulting in muscle contraction.142
+Butyrate         EC cells and       Visceral hypersensitivity Repetitive stimulation of TRPV1 receptor via butyrate-induced 5-HT release
+                  TRPV1+ cells                                  desensitize TRPV1+ neurons resulting in less pain sensation.143
+Butyrate         Enterocytes and Altered gut immune           Butyrate regulates neutrophil function and migration, inhibits inflammatory cytokine
+                  immune cells       function and impaired induced expression of vascular cell adhesion molecule-1, increases expression of
+                                     barrier function           tight junction proteins in colon epithelia, and exhibits anti-inflammatory effects by
+                                                                reducing cytokine and chemokine release from immune cells. Butyrate or specific
+                                                                species of butyrate producing gut bacteria may be a new target for restoring host
+                                                                immune function and barrier integrity.144
+Acetate          Enterocytes and Abnormal secretion           Gut microbiota alters 5-HT-evoked intestinal secretion in a 5-HT3R-dependent
+                  EC cells                                      mechanism. Acetate alters 5-HT3R expression in colonoids.145
+BAs              EC cells           Altered gut motility      TGR5 receptor on EC cells mediates the effects of BAs on colonic motility.
+                                                              Deficiency of TGR5 causes constipation in mice.73
+Tryptamine       Enterocytes        Altered gut motility      Tryptamine accelerates gut transit and increases colonic secretion by activating
+                                     and secretion              epithelial 5-HT4R. Genetically engineered bacteria Bacteroides thetaiotaomicron
+                                                                produce tryptamine.84
+Methane          EC cells and       Altered gut motility      Methane derived from Methanobravibacter smithii in the colon depletes gut 5-HT
+                  nitrergic neurons Visceral hypersensitivity resulting in slowed gut transit and constipation.146
+Isovalerate      EC cells           Altered gut motility      Isovalerate evoked 5-HT release from EC cells through voltage-gated Ca2+ channel
+                                    Visceral hypersensitivity and modulated 5-HT3R neurons in visceral sensation and gut motility.12
+Indole           EC cells           Altered gut motility      Edwardsiella tarda metabolized tryptophan to produce indoles that activate TRPA1 on
+                                                                EC cells to produce 5-HT that stimulates enteric neurons and induces gut motility.51
+EC, enterochromaffin; 5-HT, 5-hydroxytryptamine; SCFA, short chain fatty acid; 5-HTR, 5-hydroxytryptamine receptor; TRPA1, transient receptor potential an-
+kyrin 1 channel; BAs, bile acids; TGR5, Takeda G protein-coupled receptor 5; TRPV1, transient receptor potential vanilloid 1.
+
+
+368                                                   Journal of Neurogastroenterology and Motility
+                                                                                                                      Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+gastroenteritis leads to the onset of IBS, termed PI-IBS. A broad
+range of bacterial pathogens has been reported in PI-IBS, such as                Post-corona virus disease 19 disorders of gut-brain in-
+Salmonella enterica, Clostridioides difficile, Campylobacter jejuni,             teractions
+Vibrio cholerae , and Escherichia coli .137 Reduced gene expression                    Previous studies on GI symptoms (nausea, abdominal pain, di-
+of SERT has been reported in patients with PI-IBS, suggesting in-                arrhea, anorexia, and vomiting) overlapping in patients with corona
+creased bioavailability of luminal serotonin may trigger stimulation             virus disease 19 (COVID-19) showed diarrhea symptoms as the
+of 5-HTRs on afferent neurons leading to enhanced visceral sensa-                most prevalent associated with the severity of COVID-19.134,141 PI-
+tion.68 In colonic tissue of patients with Shigella and Campylobacter            IBS, including IBS-D, is associated with increased serotonergic ac-
+PI-IBS had increased EC cell density.138,139 However, patients with              tivity.68 These observations highlighted the importance of alterations
+post-Giardia IBS had decreased EC cell density in colonic tissue                 in serotonin metabolism. The overrepresentation of GI symptoms
+compared with controls.140                                                       in patients with COVID-19 suggests that post-SARS-CoV-2 infec-
+
+Table 3. Pharmacological Agents Modulating Serotonin-mediated Mechanisms in Disorders of Gut-Brain Interactions
+
+   Drug name                               Mechanisms of action                                                 Clinical outcome
+TCA                    TCA has 5-HT and NA reuptake inhibition properties,              Affect gut motility through anticholinergic and serotonergic
+                        primarily used for anti-depressant and analgesic.                mechanisms. Reduces visceral hypersensitivity, intestinal pain
+                       Their mode of action involves mechanisms beyond 5-HT              sensitivity, mediated either in peripheral nerves or the CNS.147
+                        and NA, like blockage of voltage-gated ion channels,
+                        opioid receptor activation and also modulates
+                        neuroimmune anti-inflammatory effects.
+Tetracyclic            Boosts both 5-HT and NA neurotransmission, not by                Upregulates the levels of orexigenic hormones and downregulated
+ antidepressant         blocking their reuptake pumps, but by blocking                   the levels of anorexigenic hormones.
+                        presynaptic α2-noradrenergic receptors on NA and                Reduce colonic hypersensitivity and improve gastric emptying.148
+                        5-HT neurons, resulting in an increased noradrenergic
+                        and serotonergic activity
+SSRI                   SSRIs are characterized by selective blockade of                 Increase colonic contractility and reduce colonic tone during
+                        the presynaptic 5-HT transporter, boosting 5-HT                   fasting conditions and reduce the colonic tone increase.
+                        neurotransmission.                                                Decrease IBS scores for abdominal pain and bloating
+                                                                                          independent of anxiety, depression and colonic sensorimotor
+                                                                                          function.149
+SNRI                   Primarily block both 5-HT and NA reuptake, boosting              Increase compliance, relax tone and reduce the postprandial
+                         5-HT and NA neurotransmission.                                   colonic contraction and increase sensory thresholds in
+                       Considering the central roles of 5-HT and NA in the                response to balloon distensions.149
+                         descending modulatory nerve pathways, SNRIs are
+                         better pharmacological agents to modulate pain sensation.
+5-HT4R agonist         5-HT4R agonist target 5-HT4R to promote peristalsis              Improves GI motility.57,150
+                         and secretion through enhanced release of acetylcholine
+                         from excitatory motor neurons and interneurons.
+5-HT3R antagonist      Abnormal neurotransmission of 5-HT via the 5-HT3R                Global improvement in IBS symptoms and relieve abdominal
+                         has been reported in IBS-D patients. Blocking 5-HTR             pain and discomfort, improve stool consistency and bowel
+                         receptors is of clinical relevance in chronic diarrhea as       movements.150,151
+                         this leads to reduced contractility, slows colonic transit,
+                         and increases fluid absorption.
+5-HT1AR agonist        Activation of 5-HT1AR at the level of the CNS increases          Enhances fundus relaxation, gastric accommodation and
+                         gastric tone and decrease gastric sensitivity to distension.    improves postprandial symptoms independently from its
+                       Peripheral inhibitory effect exerted by the 5-HT1AR               anxiolytic effect.152
+                         agonist improve gastric accommodation.
+TCA, tricyclic antidepressant; 5-HT, 5-hydroxytriptamine; NA, noradrenaline; CNS, central nervous system; SSRI, serotonin reuptake inhibitor; IBS, irritable
+bowel syndrome; SNRI, serotonin norepinephrine reuptake inhibitor; 5-HTR, 5-hydroxytriptamine receptor; GI, gastrointestinal; IBS-D, diarrhea-predominant
+IBS.
+
+
+                                                           Vol. 28, No. 3 July, 2022 (357-375)                                                           369
+Lai Wei, et al
+
+
+
+
+tion may lead to persistent abnormal gut functions underpinning               scriptome, host epigenome, dietary profiles, gut microbiome, and
+certain pathophysiological aspects in PI-DGBIs. Hence, regulating             metabolome from longitudinal studies. However, owing to the het-
+serotonin signaling might be a potential therapeutic modality for the         erogeneous nature of DGBIs, further research is warranted to gain
+clinical care in a subset of COVID-19 patients.                               an advanced understanding of pathophysiological mechanisms for
+                                                                              better clinical care. To discover the precise biomarkers discriminat-
+                                                                              ing the disorders with overlapping symptoms profile and refining
+Pathophysiology-directed Therapeutic                                          pathophysiology-directed therapeutics targets, may assist with the
+Approach for Disorders of Gut-Brain                                           hope for the future to relieve symptoms and restore gut-brain ho-
+Interactions                                                                  meostasis.
+     Pathophysiological mechanisms, both peripheral (intestinal bar-
+rier dysfunction, altered motility, visceral hypersensitivity, gut micro-     Financial support: None.
+biota dysbiosis, gut immune dysfunction, bile acid malabsorption,             Conflicts of interest: None.
+and enteric neuroendocrine abnormality) and central (psychological
+comorbidity, cognitive dysfunctions, and neuroendocrine dysregula-            Author contributions: Lai Wei, Rajan Singh, and Uday C
+tion), may be a better strategy to be targeted by therapeutic agents          Ghoshal made substantial contributions to the conception and
+to treat patients with DGBIs (Refer to Tables 1, 2, and 3 with key            design of the manuscript; Lai Wei and Rajan Singh reviewed the
+references cited). Based on the significant overlaps due to common            literature and drafted the original manuscript; Uday C Ghoshal
+pathogenesis between the different DGBIs, pathophysiology-direct-             revised the manuscript critically and provided important intellectual
+ed therapeutic modalities may provide precise clinical outcomes in            directives; and Lai Wei and Rajan Singh contributed equally as co-
+DGBIs. Furthermore, studies are warranted on personalized treat-              first authors to this study.
+ment of different DGBIs employing a robust study design incor-
+porating longitudinal multicentric studies integrating multi-omics
+                                                                              References
+data of gut physiology and pathophysiology. Such comprehensive
+approaches may lead to novel therapeutic modalities, resulting in
+                                                                                 1. Drossman DA, Hasler WL. Rome IV-functional GIdisorders: disor-
+targeted restoration of abnormal physiological functions in DGBIs                   ders of gut-brain interaction. Gastroenterology 2016;150:1257-1261.
+patients.                                                                        2. Drossman DA. Functional gastrointestinal disorders: history, pathophys-
+                                                                                    iology, clinical features and rome IV. Gastroenterology 2016;150:1262-
+                                                                                    1279, e2.
+Conclusion and Further Directions                                                3. Black CJ, Drossman DA, Talley NJ, Ruddy J, Ford AC. Functional
+                                                                                    gastrointestinal disorders: advances in understanding and management.
+     Serotonin metabolism has a central role in gut physiology and
+                                                                                    Lancet 2020;396:1664-1674.
+pathophysiology. The aforementioned EC cell-mediated physiologi-                 4. Mars RAT, Frith M, Kashyap PC. Functional gastrointestinal disorders
+cal and pathophysiological mechanisms are differentially affected                   and the microbiome-what is the best strategy for moving microbiome-
+in DGBIs but remain tightly interconnected.12,16,50-52 Moreover,                    based therapies for functional gastrointestinal disorders into the clinic?
+serotonin metabolism is directly or indirectly modulated through                    Gastroenterology 2021;160:538-555.
+the gut microbiota, reinforcing the essential roles of EC cells in the           5. Drossman DA, Tack J, Ford AC, Szigethy E, Törnblom H, Van
+                                                                                    Oudenhove L. Neuromodulators for functional gastrointestinal disor-
+regulation of gut-brain axis.153-156 Therefore, EC cell is a potential
+                                                                                    ders (disorders of gut-brain interaction): a rome foundation working
+therapeutic target that may usher the emergence of pathophysiol-                    team report. Gastroenterology 2018;154:1140-1171, e1.
+ogy-modifying therapies, using pharmacological agents targeting                  6. Sperber AD, Bangdiwala SI, Drossman DA, et al. Worldwide preva-
+serotonin signaling or exploiting gut microbiota interventions. The                 lence and burden of functional gastrointestinal disorders, results of rome
+pathophysiological mechanisms for similar symptoms may differ                       foundation global study. Gastroenterology 2021;160:99-114, e3.
+between patients with DGBIs. Therefore, the pathophysiological                   7. Parkman HP, Yates K, Hasler WL, et al. Clinical features of idiopathic
+                                                                                    gastroparesis vary with sex, body mass, symptom onset, delay in gastric
+basis may be more relevant than clinical symptom profiles in dif-
+                                                                                    emptying, and gastroparesis severity. Gastroenterology 2011;140:101-
+ferentiating, characterizing, and defining different DGBIs. The                     115.
+current challenges of DGBIs warrant a holistic approach to better                8. Zikos TA, Kamal AN, Neshatian L, et al. High prevalence of slow
+characterize the patients based on the multi-omics data on the tran-                transit constipation in patients with gastroparesis. J Neurogastroenterol
+
+
+
+370                                                  Journal of Neurogastroenterology and Motility
+                                                                                                                           Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+    Motil 2019;25:267-275.                                                              analysis of human intestinal development at single-cell resolution. Cell
+ 9. Black CJ, Ford AC. Global burden of irritable bowel syndrome:                       2021;184:810-826, e23.
+    trends, predictions and risk factors. Nat Rev Gastroenterol Hepatol             28. Rao M. An increasingly complex view of intestinal motility. Nat Rev
+    2020;17:473-486.                                                                    Gastroenterol Hepatol 2020;17:72-73.
+10. Barbara G, Feinle-Bisset C, Ghoshal UC, et al. The intestinal microen-          29. Singh R, Ha SE, Wei L, et al. miR-10b-5p rescues diabetes and gastro-
+    vironment and functional gastrointestinal disorders. Gastroenterology               intestinal dysmotility. Gastroenterology 2021;160:1662-1678, e18.
+    2016;150:1305-1318, e8.                                                         30. Singh R, Wei L, Ghoshal UC. Micro-organic basis of functional gas-
+11. Mawe GM, Hoffman JM. Serotonin signalling in the gut--functions,                    trointestinal (GI) disorders: role of microRNAs in GI pacemaking cells.
+    dysfunctions and therapeutic targets. Nat Rev Gastroenterol Hepatol                 Indian J Gastroenterol 2021;40:102-110.
+    2013;10:473-486.                                                                31. Helander HF, Fändriks L. Surface area of the digestive tract - revisited.
+12. Bellono NW, Bayrer JR, Leitch DB, et al. Enterochromaffin cells                     Scand J Gastroenterol 2014;49:681-689.
+    are gut chemosensors that couple to sensory neural pathways. Cell               32. Vancamelbeke M, Vermeire S. The intestinal barrier: a fundamental role
+    2017;170:185-198, e16.                                                              in health and disease. Expert Rev Gastroenterol Hepatol 2017;11:821-
+13. Grover M, Farrugia G, Stanghellini V. Gastroparesis: a turning point in             834.
+    understanding and treatment. Gut 2019;68:2238-2250.                             33. Latorre R, Sternini C, De Giorgio R, Greenwood-Van Meerveld B.
+14. Ford AC, Sperber AD, Corsetti M, Camilleri M. Irritable bowel syn-                  Enteroendocrine cells: a review of their role in brain-gut communication.
+    drome. Lancet 2020;396:1675-1688.                                                   Neurogastroenterol Motil 2016;28:620-630.
+15. Gershon MD, Tack J. The serotonin signaling system: from basic un-              34. Yano JM, Yu K, Donaldson GP, et al. Indigenous bacteria from the gut
+    derstanding to drug development for functional GI disorders. Gastroen-              microbiota regulate host serotonin biosynthesis. Cell 2015;161:264-276.
+    terology 2007;132:397-414.                                                      35. Naraev BG, Halland M, Halperin DM, Purvis AJ, O’Dorisio TM,
+16. Wei L, Singh R, Ha SE, et al. Serotonin deficiency is associated with               Halfdanarson TR. Management of diarrhea in patients with carcinoid
+    delayed gastric emptying. Gastroenterology 2021;160:2451-2466, e19.                 syndrome. Pancreas 2019;48:961-972.
+17. Wei L, Singh R, Ro S, Ghoshal UC. Gut microbiota dysbiosis in func-             36. Singh R, Zogg H, Wei L, et al. Gut microbial dysbiosis in the patho-
+    tional gastrointestinal disorders: underpinning the symptoms and patho-             genesis of gastrointestinal dysmotility and metabolic disorders. J Neuro-
+    physiology. JGH Open 2021;5:976-987.                                                gastroenterol Motil 2021;27:19-34.
+18. Danne C, Rolhion N, Sokol H. Recipient factors in faecal microbiota             37. Camilleri M. Leaky gut: mechanisms, measurement and clinical impli-
+    transplantation: one stool does not fit all. Nat Rev Gastroenterol Hepatol          cations in humans. Gut 2019;68:1516-1526.
+    2021;18:503-513.                                                                38. Barbara G, Cremon C, Carini G, et al. The immune system in irritable
+19. Bhattarai Y, Jie S, Linden DR, et al. Bacterially derived tryptamine in-            bowel syndrome. J Neurogastroenterol Motil 2011;17:349-359.
+    creases mucus release by activating a host receptor in a mouse model of         39. Boeckxstaens GE, Wouters MM. Neuroimmune factors in functional
+    inflammatory bowel disease. iScience 2020;23:101798.                                gastrointestinal disorders: a focus on irritable bowel syndrome. Neuro-
+20. Kaelberer MM, Buchanan KL, Klein ME, et al. A gut-brain neural                      gastroenterol Motil 2017;29:e13007.
+    circuit for nutrient sensory transduction. Science 2018;361:eaat5236.           40. Liddle RA. Neuropods. Cell Mol Gastroenterol Hepatol 2019;7:739-
+21. Needham BD, Kaddurah-Daouk R, Mazmanian SK. Gut microbial                           747.
+    molecules in behavioural and neurodegenerative conditions. Nat Rev              41. Martins P, Fakhry J, de Oliveira EC, et al. Analysis of enteroendocrine
+    Neurosci 2020;21:717-731.                                                           cell populations in the human colon. Cell Tissue Res 2017;367:161-168.
+22. Konen JR, Haag MM, Guseva D, et al. Prokinetic actions of lu-                   42. Diwakarla S, Fothergill LJ, Fakhry J, Callaghan B, Furness JB. Hetero-
+    minally acting 5-HT4 receptor agonists. Neurogastroenterol Motil                    geneity of enterochromaffin cells within the gastrointestinal tract. Neuro-
+    2021;33:e14026.                                                                     gastroenterol Motil 2017;29:e13101.
+23. Chedid V, Brandler J, Arndt K, et al. Randomised study: effects of the          43. Fothergill LJ, Furness JB. Diversity of enteroendocrine cells investigated
+    5-HT4 receptor agonist felcisetrag vs placebo on gut transit in patients            at cellular and subcellular levels: the need for a new classification scheme.
+    with gastroparesis. Aliment Pharmacol Ther 2021;53:1010-1020.                       Histochem Cell Biol 2018;150:693-702.
+24. Rogers BD, Sayuk GS. Editorial: felcisetrag-forward movement                    44. Lund ML, Egerod KL, Engelstoft MS, et al. Enterochromaffin 5-HT
+    as a novel prokinetic for gastroparesis. Aliment Pharmacol Ther                     cells - a major target for GLP-1 and gut microbial metabolites. Mol
+    2021;53:1158-1159.                                                                  Metab 2018;11:70-83.
+25. Pasricha PJ, Grover M, Yates KP, et al. Functional dyspepsia and gas-           45. Tan DW, Barker N. Intestinal stem cells and their defining niche. Curr
+    troparesis in tertiary care are interchangeable syndromes with common               Top Dev Biol 2014;107:77-107.
+    clinical and pathologic features. Gastroenterology 2021;160:2006-2017.          46. Gehart H, van Es JH, Hamer K, et al. Identification of enteroendo-
+26. Sanders KM, Koh SD, Ro S, Ward SM. Regulation of gastrointestinal                   crine regulators by real-time single-cell differentiation mapping. Cell
+    motility--insights from smooth muscle biology. Nat Rev Gastroenterol                2019;176:1158-1173, e16.
+    Hepatol 2012;9:633-645.                                                         47. Gustafsson BI, Bakke I, Tømmerås K, Waldum HL. A new method for
+27. Fawkner-Corbett D, Antanaviciute A, Parikh K, et al. Spatiotemporal                 visualization of gut mucosal cells, describing the enterochromaffin cell in
+
+
+
+                                                              Vol. 28, No. 3 July, 2022 (357-375)                                                               371
+Lai Wei, et al
+
+
+
+
+     the rat gastrointestinal tract. Scand J Gastroenterol 2006;41:390-395.               2020;28:41-53, e8.
+ 48. Liddle RA. Interactions of gut endocrine cells with epithelium and neu-          65. Cryan JF, O’Riordan KJ, Cowan CSM, et al. The microbiota-gut-brain
+     rons. Compr Physiol 2018;8:1019-1030.                                                axis. Physiol Rev 2019;99:1877-2013.
+ 49. Alcaino C, Knutson KR, Treichel AJ, et al. A population of gut epithelial        66. Sekirov I, Russell SL, Antunes LC, Finlay BB. Gut microbiota in health
+     enterochromaffin cells is mechanosensitive and requires Piezo2 to convert            and disease. Physiol Rev 2010;90:859-904.
+     force into serotonin release. Proc Natl Acad Sci USA 2018;115:E7632-             67. Beeckmans D, Riethorst D, Augustijns P, et al. Altered duodenal bile
+     E7641.                                                                               salt concentration and receptor expression in functional dyspepsia. Unit-
+ 50. Chen Z, Luo J, Li J, et al. Interleukin-33 promotes serotonin release                ed European Gastroenterol J 2018;6:1347-1355.
+     from enterochromaffin cells for intestinal homeostasis. Immunity                 68. Barbara G, Grover M, Bercik P, et al. Rome foundation working team
+     2021;54:151-163, e6.                                                                 report on post-infection irritable bowel syndrome. Gastroenterology
+ 51. Ye L, Bae M, Cassilly CD, et al. Enteroendocrine cells sense bacterial               2019;156:46-58, e7.
+     tryptophan catabolites to activate enteric and vagal neuronal pathways.          69. Staley C, Weingarden AR, Khoruts A, Sadowsky MJ. Interaction of gut
+     Cell Host Microbe 2021;29:179-196, e9.                                               microbiota with bile acid metabolism and its influence on disease states.
+ 52. Gershon MD. 5-hydroxytryptamine (serotonin) in the gastrointestinal                  Appl Microbiol Biotechnol 2017;101:47-64.
+     tract. Curr Opin Endocrinol Diabetes Obes 2013;20:14-21.                         70. Zhao L, Yang W, Chen Y, et al. A Clostridia-rich microbiota enhances
+ 53. Gribble FM, Reimann F. Enteroendocrine cells: chemosensors in the                    bile acid excretion in diarrhea-predominant irritable bowel syndrome. J
+     intestinal epithelium. Annu Rev Physiol 2016;78:277-299.                             Clin Invest 2020;130:438-450.
+ 54. Kaelberer MM, Rupprecht LE, Liu WW, Weng P, Bohórquez DV.                        71. Mars RAT, Yang Y, Ward T, et al. Longitudinal multi-omics reveals
+     Neuropod cells: the emerging biology of gut-brain sensory transduction.              subset-specific mechanisms underlying irritable bowel syndrome. Cell
+     Annu Rev Neurosci 2020;43:337-353.                                                   2020;182:1460-1473, e17.
+ 55. Beumer J, Clevers H. How the gut feels, smells, and talks. Cell                  72. Ticho AL, Malhotra P, Dudeja PK, Gill RK, Alrefai WA. Bile acid
+     2017;170:10-11.                                                                      receptors and gastrointestinal functions. Liver Res 2019;3:31-39.
+ 56. Shin A, Preidis GA, Shulman R, Kashyap PC. The gut microbiome in                 73. Alemi F, Poole DP, Chiu J, et al. The receptor TGR5 mediates the pro-
+     adult and pediatric functional gastrointestinal disorders. Clin Gastroen-            kinetic actions of intestinal bile acids and is required for normal defeca-
+     terol Hepatol 2019;17:256-274.                                                       tion in mice. Gastroenterology 2013;144:145-154.
+ 57. Ghoshal UC. Marshall and warren lecture 2019: a paradigm shift in                74. Dalile B, Van Oudenhove L, Vervliet B, Verbeke K. The role of short-
+     pathophysiological basis of irritable bowel syndrome and its implication             chain fatty acids in microbiota-gut-brain communication. Nat Rev Gas-
+     on treatment. J Gastroenterol Hepatol 2020;35:712-721.                               troenterol Hepatol 2019;16:461-478.
+ 58. Wang L, Alammar N, Singh R, et al. Gut microbial dysbiosis in the ir-            75. Reigstad CS, Salmonson CE, Rainey JF 3rd, et al. Gut microbes pro-
+     ritable bowel syndrome: a systematic review and meta-analysis of case-               mote colonic serotonin production through an effect of short-chain fatty
+     control studies. J Acad Nutr Diet 2020;120:565-586.                                  acids on enterochromaffin cells. FASEB J 2015;29:1395-1403.
+ 59. Ghoshal U, Shukla R, Srivastava D, Ghoshal UC. Irritable bowel                   76. Engevik MA, Luck B, Visuthranukul C, et al. Human-derived Bifido-
+     syndrome, particularly the constipation-predominant form, involves an                bacterium dentium modulates the mammalian serotonergic system and
+     increase in Methanobrevibacter smithii, which is associated with higher              gut-brain axis. Cell Mol Gastroenterol Hepatol 2021;11:221-248.
+     methane production. Gut Liver 2016;10:932-938.                                   77. Scott SA, Fu J, Chang PV. Microbial tryptophan metabolites regulate
+ 60. Ghoshal UC, Srivastava D, Misra A. A randomized double-blind                         gut barrier function via the aryl hydrocarbon receptor. Proc Natl Acad
+     placebo-controlled trial showing rifaximin to improve constipation by re-            Sci USA 2020;117:19376-19387.
+     ducing methane production and accelerating colon transit: a pilot study.         78. Hindson J. Enteric neuron regulation of gut motility by the microbiota.
+     Indian J Gastroenterol 2018;37:416-423.                                              Nat Rev Gastroenterol Hepatol 2020;17:194-195.
+ 61. Ianiro G, Eusebi LH, Black CJ, Gasbarrini A, Cammarota G, Ford                   79. Obata Y, Castaño Á, Boeing S, et al. Neuronal programming by micro-
+     AC. Systematic review with meta-analysis: efficacy of faecal microbiota              biota regulates intestinal physiology. Nature 2020;578:284-289.
+     transplantation for the treatment of irritable bowel syndrome. Aliment           80. Manzella C, Singhal M, Alrefai WA, Saksena S, Dudeja PK, Gill RK.
+     Pharmacol Ther 2019;50:240-248.                                                      Serotonin is an endogenous regulator of intestinal CYP1A1 via AhR.
+ 62. El-Salhy M, Hatlebakk JG, Gilja OH, Bråthen Kristoffersen A, Haus-                   Sci Rep 2018;8:6103.
+     ken T. Efficacy of faecal microbiota transplantation for patients with irri-     81. Manzella CR, Ackerman M, Singhal M, et al. Serotonin modulates
+     table bowel syndrome in a randomised, double-blind, placebo-controlled               AhR activation by interfering with CYP1A1-mediated clearance of AhR
+     study. Gut 2020;69:859-867.                                                          ligands. Cell Physiol Biochem 2020;54:126-141.
+ 63. Fung TC, Vuong HE, Luna CDG, et al. Intestinal serotonin and fluox-              82. Benech N, Rolhion N, Sokol H. Tryptophan metabolites get the gut
+     etine exposure modulate bacterial colonization in the gut. Nat Microbiol             moving. Cell Host Microbe 2021;29:145-147.
+     2019;4:2064-2073.                                                                83. Williams BB, Van Benschoten AH, Cimermancic P, et al. Discovery and
+ 64. Kumar A, Russell RM, Pifer R, et al. The serotonin neurotransmit-                    characterization of gut microbiota decarboxylases that can produce the
+     ter modulates virulence of enteric pathogens. Cell Host Microbe                      neurotransmitter tryptamine. Cell Host Microbe 2014;16:495-503.
+
+
+
+372                                                        Journal of Neurogastroenterology and Motility
+                                                                                                                               Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+ 84. Bhattarai Y, Williams BB, Battaglioli EJ, et al. Gut microbiota-produced                targets and novel treatments. J Neurogastroenterol Motil 2016;22:558-
+     tryptamine activates an epithelial G-protein-coupled receptor to increase               574.
+     colonic secretion. Cell Host Microbe 2018;23:775-785, e5.                          101. Vandenberghe J, Vos R, Persoons P, Demyttenaere K, Janssens J, Tack
+ 85. Keszthelyi D, Troost FJ, Jonkers DM, Kruimel JW, Leue C, Masclee                        J. Dyspeptic patients with visceral hypersensitivity: sensitisation of pain
+     AA. Decreased levels of kynurenic acid in the intestinal mucosa of IBS                  specific or multimodal pathways? Gut 2005;54:914-919.
+     patients: relation to serotonin and psychological state. J Psychosom Res           102. Akbar A, Yiangou Y, Facer P, Walters JR, Anand P, Ghosh S. Increased
+     2013;74:501-504.                                                                        capsaicin receptor TRPV1-expressing sensory fibres in irritable bowel
+ 86. Agus A, Planchais J, Sokol H. Gut microbiota regulation of tryptophan                   syndrome and their correlation with abdominal pain. Gut 2008;57:923-
+     metabolism in health and disease. Cell Host Microbe 2018;23:716-724.                    929.
+ 87. Ghoshal UC, Singh R. Frequency and risk factors of functional gastro-              103. Zhou Q, Yang L, Larson S, et al. Decreased miR-199 augments visceral
+     intestinal disorders in a rural Indian population. J Gastroenterol Hepatol              pain in patients with IBS through translational upregulation of TRPV1.
+     2017;32:378-387.                                                                        Gut 2016;65:797-805.
+ 88. Tu Q, Heitkemper MM, Jarrett ME, Buchanan DT. Sleep disturbanc-                    104. Nguyen LA, Snape WJ Jr. Clinical presentation and pathophysiology of
+     es in irritable bowel syndrome: a systematic review. Neurogastroenterol                 gastroparesis. Gastroenterol Clin North Am 2015;44:21-30.
+     Motil 2017;29:e12946.                                                              105. Nozawa K, Kawabata-Shoda E, Doihara H, et al. TRPA1 regulates
+ 89. Fitzgerald P, Cassidy Eugene M, Clarke G, et al. Tryptophan catabo-                     gastrointestinal motility through serotonin release from enterochromaffin
+     lism in females with irritable bowel syndrome: relationship to interferon-              cells. Proc Natl Acad Sci USA 2009;106:3408-3413.
+     gamma, severity of symptoms and psychiatric co-morbidity. Neurogas-                106. Spiller RC. Targeting the 5-HT3 receptor in the treatment of irritable
+     troenterol Motil 2008;20:1291-1297.                                                     bowel syndrome. Curr Opin Pharmacol 2011;11:68-74.
+ 90. Albert-Bayo M, Paracuellos I, González-Castro AM, et al. Intestinal                107. Hoffman JM, Tyler K, MacEachern SJ, et al. Activation of colonic
+     mucosal mast cells: key modulators of barrier function and homeostasis.                 mucosal 5-HT4 receptors accelerates propulsive motility and inhibits
+     Cells 2019;8:135.                                                                       visceral hypersensitivity. Gastroenterology 2012;142:844-854, e4.
+ 91. Wouters MM, Vicario M, Santos J. The role of mast cells in functional              108. Keszthelyi D, Troost FJ, Jonkers DM, et al. Visceral hypersensitivity in
+     GI disorders. Gut 2016;65:155-168.                                                      irritable bowel syndrome: evidence for involvement of serotonin metab-
+ 92. Bischoff SC, Barbara G, Buurman W, et al. Intestinal permeability-                      olism--a preliminary study. Neurogastroenterol Motil 2015;27:1127-
+     -a new target for disease prevention and therapy. BMC Gastroenterol                     1137.
+     2014;14:189.                                                                       109. Camilleri M. Relationship of motor mechanisms to gastroparesis symp-
+ 93. Braak B, Klooker TK, Wouters MM, et al. Mucosal immune cell num-                        toms: toward individualized treatment. Am J Physiol Gastrointest Liver
+     bers and visceral sensitivity in patients with irritable bowel syndrome: is             Physiol 2021;320:G558-G563.
+     there any relationship? Am J Gastroenterol 2012;107:715-726.                       110. Bekkelund M, Sangnes DA, Gunnar Hatlebakk J, Aabakken L. Patho-
+ 94. Aguilera-Lizarraga J, Florens MV, Viola MF, et al. Local immune                         physiology of idiopathic gastroparesis and implications for therapy. Scand
+     response to food antigens drives meal-induced abdominal pain. Nature                    J Gastroenterol 2019;54:8-17.
+     2021;590:151-156.                                                                  111. Miwa H, Koseki J, Oshima T, et al. Impairment of gastric accommoda-
+ 95. Fritscher-Ravens A, Schuppan D, Ellrichmann M, et al. Confo-                            tion induced by water-avoidance stress is mediated by 5-HT2B receptors.
+     cal endomicroscopy shows food-associated changes in the intestinal                      Neurogastroenterol Motil 2016;28:765-778.
+     mucosa of patients with irritable bowel syndrome. Gastroenterology                 112. Matricon J, Meleine M, Gelot A, et al. Review article: associations be-
+     2014;147:1012-1020, e4.                                                                 tween immune activation, intestinal permeability and the irritable bowel
+ 96. Lee JY, Kim N, Choi YJ, et al. Expression of tight junction proteins ac-                syndrome. Aliment Pharmacol Ther 2012;36:1009-1031.
+     cording to functional dyspepsia subtype and sex. J Neurogastroenterol              113. Camilleri M, Madsen K, Spiller R, Greenwood-Van Meerveld B, Verne
+     Motil 2020;26:248-258.                                                                  GN. Intestinal barrier function in health and gastrointestinal disease.
+ 97. Bertiaux-Vandaële N, Youmba SB, Belmonte L, et al. The expression                       Neurogastroenterol Motil 2012;24:503-512.
+     and the cellular distribution of the tight junction proteins are altered in ir-    114. Liebregts T, Adam B, Bredack C, et al. Small bowel homing T cells are
+     ritable bowel syndrome patients with differences according to the disease               associated with symptoms and delayed gastric emptying in functional
+     subtype. Am J Gastroenterol 2011;106:2165-2173.                                         dyspepsia. Am J Gastroenterol 2011;106:1089-1098.
+ 98. Hanning N, Edwinson AL, Ceuleers H, et al. Intestinal barrier dys-                 115. Grover M, Gibbons SJ, Nair AA, et al. Transcriptomic signatures reveal
+     function in irritable bowel syndrome: a systematic review. Therap Adv                   immune dysregulation in human diabetic and idiopathic gastroparesis.
+     Gastroenterol 2021;14:1756284821993586.                                                 BMC Med Genomics 2018;11:62.
+ 99. Engevik MA, Chang-Graham A, Hyser JM, Versalovic J. Serotonin                      116. Grover M, Bernard CE, Pasricha PJ, et al. Diabetic and idiopathic gas-
+     promotes epithelial restitution through goblet cell mediated secretion of               troparesis is associated with loss of CD206-positive macrophages in the
+     Muc2 and TFF3. FASEB J 2019;33(S1):869.1.                                               gastric antrum. Neurogastroenterol Motil 2017;29:e13018.
+100. Farzaei MH, Bahramsoltani R, Abdollahi M, Rahimi R. The role of                    117. Arreola R, Becerril-Villanueva E, Cruz-Fuentes C, et al. Immunomodu-
+     visceral hypersensitivity in irritable bowel syndrome: pharmacological                  latory effects mediated by serotonin. J Immunol Res 2015;2015:354957.
+
+
+
+                                                                   Vol. 28, No. 3 July, 2022 (357-375)                                                             373
+Lai Wei, et al
+
+
+
+
+118. Tsuchida Y, Hatao F, Fujisawa M, et al. Neuronal stimulation with                   irritable bowel syndrome: similarities and differences. Curr Opin Gas-
+     5-hydroxytryptamine 4 receptor induces anti-inflammatory actions via                troenterol 2014;30:352-358.
+     α7nACh receptors on muscularis macrophages associated with postop-             137. Ghoshal UC, Gwee KA. Post-infectious IBS, tropical sprue and small
+     erative ileus. Gut 2011;60:638-647.                                                 intestinal bacterial overgrowth: the missing link. Nat Rev Gastroenterol
+119. Cremon C, Carini G, Wang B, et al. Intestinal serotonin release, sensory            Hepatol 2017;14:435-441.
+     neuron activation, and abdominal pain in irritable bowel syndrome. Am          138. El-Salhy M, Mazzawi T, Gundersen D, Hatlebakk JG, Hausken T.
+     J Gastroenterol 2011;106:1290-1298.                                                 Changes in the symptom pattern and the densities of large-intestinal
+120. Stakenborg N, Viola MF, Boeckxstaens GE. Intestinal neuro-immune                    endocrine cells following Campylobacter infection in irritable bowel syn-
+     interactions: focus on macrophages, mast cells and innate lymphoid cells.           drome: a case report. BMC Res Notes 2013;6:391.
+     Curr Opin Neurobiol 2020;62:68-75.                                             139. Kim HS, Lim JH, Park H, Lee SI. Increased immunoendocrine cells
+121. Dothel G, Barbaro MR, Boudin H, et al. Nerve fiber outgrowth is                     in intestinal mucosa of postinfectious irritable bowel syndrome patients 3
+     increased in the intestinal mucosa of patients with irritable bowel syn-            years after acute Shigella infection--an observation in a small case control
+     drome. Gastroenterology 2015;148:1002-1011, e4.                                     study. Yonsei Med J 2010;51:45-51.
+122. Patman G. IBS: mast cells cause nerves to sprout in patients with IBS.         140. Dizdar V, Spiller R, Singh G, et al. Relative importance of abnormali-
+     Nat Rev Gastroenterol Hepatol 2015;12:189.                                          ties of CCK and 5-HT (serotonin) in Giardia-induced post-infectious
+123. Barbara G, Wang B, Stanghellini V, et al. Mast cell-dependent excita-               irritable bowel syndrome and functional dyspepsia. Aliment Pharmacol
+     tion of visceral-nociceptive sensory neurons in irritable bowel syndrome.           Ther 2010;31:883-891.
+     Gastroenterology 2007;132:26-37.                                               141. Tian Y, Rong L, Nian W, He Y. Review article: gastrointestinal features
+124. Barbara G, Stanghellini V, De Giorgio R, et al. Activated mast cells in             in COVID-19 and the possibility of faecal transmission. Aliment Phar-
+     proximity to colonic nerves correlate with abdominal pain in irritable              macol Ther 2020;51:843-851.
+     bowel syndrome. Gastroenterology 2004;126:693-702.                             142. Fukumoto S, Tatewaki M, Yamada T, et al. Short-chain fatty acids stim-
+125. Buhner S, Li Q, Vignali S, et al. Activation of human enteric neurons               ulate colonic transit via intraluminal 5-HT release in rats. Am J Physiol
+     by supernatants of colonic biopsy specimens from patients with irritable            Regul Integr Comp Physiol 2003;284:R1269-R1276.
+     bowel syndrome. Gastroenterology 2009;137:1425-1434.                           143. Vanhoutvin SA, Troost FJ, Kilkens TO, et al. The effects of butyrate
+126. Manocha M, Shajib MS, Rahman MM, et al. IL-13-mediated im-                          enemas on visceral perception in healthy volunteers. Neurogastroenterol
+     munological control of enterochromaffin cell hyperplasia and serotonin              Motil 2009;21:952-e76.
+     production in the gut. Mucosal Immunol 2013;6:146-155.                         144. Nicholson JK, Holmes E, Kinross J, et al. Host-gut microbiota meta-
+127. Ghoshal UC. Gutmicrobiota-brain axis modulation by a healthier mi-                  bolic interactions. Science 2012;336:1262-1267.
+     crobiological microenvironment : facts and fictions. J Neurogastroenterol      145. Bhattarai Y, Schmidt BA, Linden DR, et al. Human-derived gut mi-
+     Motil 2018;24:4-6.                                                                  crobiota modulates colonic secretion in mice by regulating 5-HT3 recep-
+128. Margolis KG, Cryan JF, Mayer EA. The microbiota-gut-brain axis:                     tor expression via acetate production. Am J Physiol Gastrointest Liver
+     from motility to mood. Gastroenterology 2021;160:1486-1501.                         Physiol 2017;313:G80-G87.
+129. Zamani M, Alizadeh-Tabari S, Zamani V. Systematic review with meta-            146. Triantafyllou K, Chang C, Pimentel M. Methanogens, methane and
+     analysis: the prevalence of anxiety and depression in patients with irri-           gastrointestinal motility. J Neurogastroenterol Motil 2014;20:31-40.
+     table bowel syndrome. Aliment Pharmacol Ther 2019;50:132-143.                  147. Mertz H, Fass R, Kodner A, Yan-Go F, Fullerton S, Mayer EA. Effect
+130. Rodiño-Janeiro BK, Alonso-Cotoner C, Pigrau M, Lobo B, Vicario M,                   of amitriptyline on symptoms, sleep, and visceral perception in patients
+     Santos J. Role of corticotropin-releasing factor in gastrointestinal perme-         with functional dyspepsia. Am J Gastroenterol 1998;93:160-165.
+     ability. J Neurogastroenterol Motil 2015;21:33-50.                             148. Tack J, Ly HG, Carbone F, et al. Efficacy of mirtazapine in patients
+131. Ford AC, Mahadeva S, Carbone MF, Lacy BE, Talley NJ. Functional                     with functional dyspepsia and weight loss. Clin Gastroenterol Hepatol
+     dyspepsia. Lancet 2020;396:1689-1702.                                               2016;14:385-392, e4.
+132. McMillin M, DeMorrow S. Effects of bile acids on neurological func-            149. Törnblom H, Drossman DA. Centrally targeted pharmacotherapy for
+     tion and disease. FASEB J 2016;30:3658-3668.                                        chronic abdominal pain. Neurogastroenterol Motil 2015;27:455-467.
+133. McVey Neufeld KA, Bienenstock J, Bharwani A, et al. Oral selective             150. Simrén M, Tack J. New treatments and therapeutic targets for IBS
+     serotonin reuptake inhibitors activate vagus nerve dependent gut-brain              and other functional bowel disorders. Nat Rev Gastroenterol Hepatol
+     signalling. Sci Rep 2019;9:14290.                                                   2018;15:589-605.
+134. Schmulson M, Ghoshal UC, Barbara G. Managing the inevitable                    151. Rokkas T, Ekmektzoglou K, Niv Y. Comparative effectiveness of 5-hy-
+     surge of post-COVID-19 functional gastrointestinal disorders. Am J                  droxytryptamine 3 receptor antagonists in irritable bowel syndrome: a
+     Gastroenterol 2021;116:4-7.                                                         network meta-analysis of randomized controlled studies. Ann Gastroen-
+135. Klem F, Wadhwa A, Prokop LJ, et al. Prevalence, risk factors, and out-              terol 2021;34:535-546.
+     comes of irritable bowel syndrome after infectious enteritis: a systematic     152. Tack J, Janssen P, Masaoka T, Farré R, Van Oudenhove L. Efficacy of
+     review and meta-analysis. Gastroenterology 2017;152:1042-1054, e1.                  buspirone, a fundus- relaxing drug, in patients with functional dyspepsia.
+136. Barbara G, Cremon C, Stanghellini V. Inflammatory bowel disease and                 Clin Gastroenterol Hepatol 2012;10:1239-1245.
+
+
+
+374                                                       Journal of Neurogastroenterology and Motility
+                                                                                                                           Role of EC Cell in Pathogenesis of DGBIs
+
+
+
+
+153. Dodds KN, Travis L, Kyloh MA, et al. The gut-brain axis: spatial                      2022; 535-547, e13.
+     relationship between spinal afferent nerves and 5-HT-containing entero-          155. Martin AM, Jones LA, Wei L, et al. Distinguishing the contributions
+     chromaffin cells in mucosa of mouse colon. Am J Physiol Gastrointest                  of neuronal and mucosal serotonin in the regulation of colonic motility.
+     Liver Physiol 2022; G523-G533.                                                        Neurogastroenterol Motil 2022;00:e14361.
+154. Treichel AJ, Finholm I, Knutson KR, et al. Specialized mechanosensory            156. Mercado-Perez A, Beyder A. Gut feelings: mechanosensing in the gas-
+     epithelial cells in mouse gut intrinsic tactile sensitivity. Gastroenterology         trointestinal tract. Nat Rev Gastroenterol Hepatol 2022; 283-296.
+
+
+
+
+                                                                 Vol. 28, No. 3 July, 2022 (357-375)                                                          375
+

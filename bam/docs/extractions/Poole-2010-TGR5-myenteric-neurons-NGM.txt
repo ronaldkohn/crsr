@@ -1,0 +1,1048 @@
+                            NIH Public Access
+                            Author Manuscript
+                            Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Published in final edited form as:
+NIH-PA Author Manuscript
+
+
+
+
+                            Neurogastroenterol Motil. 2010 July ; 22(7): 814–e228. doi:10.1111/j.1365-2982.2010.01487.x.
+
+
+
+                           EXPRESSION AND FUNCTION OF THE BILE ACID RECEPTOR
+                           GPBAR1 (TGR5) IN THE MURINE ENTERIC NERVOUS SYSTEM
+                           Daniel P. Poole1,3, Cody Godfrey1,3, Fiore Cattaruzza1, Graeme S. Cottrell1, Jacob G.
+                           Kirkland1,3, Juan Carlos Pelayo1, Nigel W. Bunnett1,2, and Carlos U. Corvera1,3
+                           1Department of Surgery, University of California San Francisco, California
+
+                           2Department of Physiology, University of California San Francisco, California
+
+                           3Veterans Affairs Medical Center, San Francisco, California
+
+
+
+                           Abstract
+                                Background—Bile acids (BAs) regulate cells by activating nuclear and membrane-bound
+                                receptors. GpBAR1 is a membrane-bound G-protein-coupled receptor that can mediate the rapid,
+NIH-PA Author Manuscript
+
+
+
+
+                                transcription-independent actions of BAs. Although BAs have well-known actions on motility and
+                                secretion, nothing is known about the localization and function of GpBAR1 in the gastrointestinal
+                                tract.
+                                Methods—We generated an antibody to the C-terminus of human GpBAR1, and characterized
+                                the antibody by immunofluorescence and Western blotting of HEK293-GpBAR1-GFP cells. We
+                                localized GpBAR1 immunoreactivity (IR) and mRNA in the mouse intestine, and determined the
+                                mechanism by which BAs activate GpBAR1 to regulate intestinal motility.
+                                Key Results—The GpBAR1 antibody specifically detected GpBAR1-GFP at the plasma
+                                membrane of HEK293 cells, and interacted with proteins corresponding in mass to the GpBAR1-
+                                GFP fusion protein. GpBAR1-IR and mRNA were detected in enteric ganglia of the mouse
+                                stomach and small and large intestine, and in the muscularis externa and mucosa of the small
+                                intestine. Within the myenteric plexus of the intestine, GpBAR1-IR was localized to ~50% of all
+                                neurons and to >80% of inhibitory motor neurons and descending interneurons expressing nitric
+                                oxide synthase. Deoxycholic acid, a GpBAR1 agonist, caused a rapid and sustained inhibition of
+                                spontaneous phasic activity of isolated segments of ileum and colon by a neurogenic, cholinergic
+                                and nitrergic mechanism, and delayed gastrointestinal transit.
+NIH-PA Author Manuscript
+
+
+
+
+                                Conclusions and Inferences—GpBAR1 is unexpectedly expressed in enteric neurons. BAs
+                                activate GpBAR1 on inhibitory motor neurons to release nitric oxide and suppress motility,
+                                revealing a novel mechanism for the actions of BAs on intestinal motility.
+
+                           Keywords
+                                Bile acids; G protein-coupled receptor; enteric neurons; motility
+
+
+
+
+                           Corresponding Author: Carlos U. Corvera, M.D., Veterans Administrative Medical Center Surgical Service (112), Building 200,
+                           4150 Clement Street, San Francisco, California 94121, USA. Tel: 415 221-4810 ext. 4019; Fax: 415 750-2181;
+                           carlos.corvera@med.va.gov.
+                           Disclosures: No conflicts of interest exist.
+                           Poole et al.                                                                                            Page 2
+
+
+                               INTRODUCTION
+                                          Bile acids (BAs) are essential for the normal digestion and absorption of lipids and vitamins
+NIH-PA Author Manuscript
+
+
+
+
+                                          (1). Chenodeoxycholic acid (CDCA) and cholic acid (CA), the two primary BAs in humans,
+                                          are secreted from the gallbladder into the intestine, and are absorbed and recycled via the
+                                          enterohepatic circulation. The small amounts of primary BAs that reach the colon are
+                                          dehydroxylated by bacterial enzymes, forming secondary BAs (e.g. lithocholic acid [LCA],
+                                          deoxycholic acid [DCA], taurolithocholic acid [TLCA], ursodeoxycholic acid [UDCA]).
+                                          Cholestasis, which is characterized by impaired bile flow into the intestine, is a common
+                                          feature of acute and chronic liver diseases. The toxic accumulation of BAs in the circulation
+                                          leads to profound systemic metabolic disturbances by mechanisms that are not fully
+                                          understood (1).
+
+                                          In addition to their role in digestion, BAs have direct receptor-mediated effects on multiple
+                                          processes (2,3). Nuclear receptors mediate the delayed actions of BAs that require
+                                          transcription. BAs activate the farnesoid X receptor (FXR, NR1H4), a nuclear receptor that
+                                          regulates the expression of biosynthetic enzymes and binding proteins for BAs (4,5). BAs
+                                          can activate other nuclear receptors, including the pregnane X receptor (PXR) (6) and the
+                                          vitamin D receptor (7), which protect against the toxic effects of BAs. BAs also rapidly
+                                          activate signaling pathways and cellular functions that do not require transcription, including
+                                          cAMP generation, calcium mobilization and activation of protein kinase C and mitogen-
+NIH-PA Author Manuscript
+
+
+
+
+                                          activated protein kinases (8–11). G protein coupled bile acid receptor 1 (GpBAR1, also
+                                          known as TGR5 or M-BAR1) is a membrane-bound G protein-coupled receptor for BAs
+                                          (12,13). Primary and secondary BAs activate GpBAR1, which couples to adenylyl cyclase
+                                          and cAMP generation. GpBAR1 is ubiquitous, with the highest expression in brown adipose
+                                          tissue, placenta, spleen macrophages/monocytes, Kupffer cells, gallbladder and intestine
+                                          (12–16). Emerging evidence indicates that GpBAR1 controls weight gain and energy
+                                          expenditure in brown adipose tissue and skeletal muscle by promoting the processing of
+                                          thyroid hormone (17,18), regulates hepatic microcirculation (16) and chloride secretion in
+                                          the gall bladder (14), suppresses cytokine release from macrophages (13), and stimulates
+                                          secretion of glucagon-like peptide (19). However, nothing is known about the localization
+                                          and function of GpBAR1 in the intestine.
+
+                                          The intestine is exposed to high concentrations of BAs, and BAs have well-described effects
+                                          on intestinal motility and secretion. BAs stimulate fluid, electrolyte and mucus secretion in
+                                          the intestine, which may protect against their toxic actions (20–22). BAs also affect
+                                          intestinal motility, although whether their actions are stimulatory or inhibitory is
+                                          controversial. In vivo studies report that BAs either stimulate motility or have no effect (23–
+                                          25). Infusion of BAs into the human intestine delays transit, supporting an inhibitory role
+NIH-PA Author Manuscript
+
+
+
+
+                                          (26–28). In vitro studies show that BAs inhibit contractions of rabbit and guinea pig
+                                          intestine (29,30). However, the mechanisms by which BAs regulate intestinal function are
+                                          unknown.
+
+                                          We examined the location and function of GpBAR1 in the mouse gastrointestinal tract.
+                                          Using a thoroughly characterized GpBAR1 antibody, we made the unexpected observation
+                                          that GpBAR1 immunoreactivity (IR) is prominently expressed by myenteric inhibitory
+                                          motor neurons of the intestine. We examined the effects of GpBAR1 agonists on intestinal
+                                          motility and transit, and determined that BAs inhibit motility by a mechanism that is
+                                          consistent with activation of GpBAR1 on inhibitory motor neurons that release nitric oxide
+                                          (NO). We have thereby identified a novel mechanism for the well-known effects of BAs on
+                                          intestinal motility.
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                                Page 3
+
+
+                               MATERIALS AND METHODS
+                               Animals
+NIH-PA Author Manuscript
+
+
+
+
+                                            Male mice (C57/BL6, 20–25 g, Charles River, Hollister, CA) were killed by sodium
+                                            pentobarbital injection (200 mg.kg−1, i.p.) and bilateral thoracotomy. The Institutional
+                                            Animal Care and Use Committee approved all procedures.
+
+                               Antibodies
+                                            New Zealand White rabbits were immunized with a peptide corresponding to the C-terminus
+                                            of human GpBAR1 with an N-terminal Cys residue for conjugation to keyhole limpet
+                                            hemocyanin (Cys-P310GPSIAYHPSSQSSVDLDLN330) (Pacific Immunology, San Diego,
+                                            CA). Rabbits were immunized with 200 µg of conjugated peptide in complete Freund’s
+                                            adjuvant, and were subsequently immunized after each blood collection (2–3 weeks) with
+                                            100 µg conjugated peptide in incomplete Freund’s adjuvant. Antibody generation was
+                                            monitored by ELISA using the immunizing peptide. Antibody collected after the fourth and
+                                            final blood collection was purified by affinity chromatography. Antibody P87/88 was used
+                                            throughout. Table 1 shows sources and dilutions of other primary antibodies.
+
+                               Generation of GpBAR1 constructs
+                                            Total RNA from human duodenum (5 µg) was reverse transcribed. Primers were designed
+NIH-PA Author Manuscript
+
+
+
+
+                                            corresponding to human GpBAR1 (forward 5`-taaaagcttatgacgcccaacagcactggc-3; reverse
+                                            5`-ttactcgagttagttcaagtccaggtcgac-3`). A construct with green fluorescent protein (GFP)
+                                            fused to the C-terminus of human GpBAR1 (GpBAR1-GFP) was generated by subcloning
+                                            into pEGFP-N1 (Clontech, Mountain View, CA). Constructs were confirmed by sequencing.
+
+                               Generation and maintenance of cell lines
+                                            Human embryonic kidney (HEK293) cells were cultured in Dulbecco’s modified Eagle’s
+                                            medium supplemented with 10% heat-inactivated fetal bovine serum and zeocin or
+                                            hygromycin B (100 µg.ml−1). Cells stably expressing human GpBAR1-GFP (HEK-
+                                            GpBAR1-GFP cells) were generated with the Flp-In™ system (Invitrogen, Carlsbad, CA).
+                                            In some experiments, cells were transiently transfected with GpBAR1-GFP or empty vector
+                                            (vector control, VC) using Lipofectamine™ 2000 (Invitrogen), and were studied after 48 h.
+
+                               cAMP generation
+                                            Cells were grown to confluency and treated with forskolin (10 nM), BAs (100 µM, Sigma-
+                                            Aldrich, St. Louis, MO) or vehicle (0.1% ethanol) for 5 min. cAMP was measured by
+                                            chemillumenescent ELISA (Applied Biosystems Inc., Foster City, CA).
+NIH-PA Author Manuscript
+
+
+
+
+                               GpBAR1 antibody characterization by immunofluorescence
+                                            HEK-GpBAR1-GFP or HEK-VC cells were fixed in 4% paraformaldehyde (0.1 M PBS, pH
+                                            7.4, 20 min, 4°C). Cells were washed with PBS containing 0.1% saponin and 1% normal
+                                            goat serum and incubated with GpBAR1 antibody or GpBAR1 antibody preadsorbed with
+                                            immunizing peptide (50 µM, overnight, 4°C) (overnight, 4°C). Cells were washed and
+                                            incubated with goat anti-rabbit Rhodamine Red X (Jackson Immunoresearch, Westgrove,
+                                            PA; 1:200, 2 h, room temperature). Cells were washed and mounted.
+
+                               GpBAR1 antibody characterization by Western blotting
+                                            Total membranes were prepared from HEK-GpBAR1-GFP or HEK-VC cells. Proteins (25
+                                            µg) were separated by SDS-PAGE (12% acrylamide) and transferred to polyvinylidene
+                                            difluoride membranes (Immobilon-FL, Millipore, Billerica, MA). Membranes were blocked
+
+
+                                             Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                           Page 4
+
+
+                                            (Odyssey™ Blocking Buffer, LI-COR Biosciences, Lincoln, NE) and incubated with
+                                            antibodies to GpBAR1, preadsorbed GpBAR1 or GFP. Membranes were washed and
+                                            incubated with secondary antibodies conjugated to AlexaFluor®680 (Invitrogen) or
+NIH-PA Author Manuscript
+
+
+
+
+                                            IRDye™800 (Rockland Immunochemicals Inc., Gilbertsville, PA; 1:10,000, 1 h, room
+                                            temperature). Immunoreactive bands were detected by using an Odyssey infrared imaging
+                                            system.
+
+                               Detection of GpBAR1 in the mouse gastrointestinal tract by RT-PCR
+                                            Total RNA from mouse tissues was treated with DNase I (Ambion, Austin, TX), and reverse
+                                            transcribed. GpBAR1 was amplified using primers for mouse GpBAR1 (forward, 5’-
+                                            cactgcccttctctctgtcc-3’, +537 to +556; reverse, 5’-agttcaggtccagttacgc-3’, +985 to +966). To
+                                            exclude contamination by genomic DNA, control reactions omitted reverse transcriptase.
+                                            Products were separated by electrophoresis on a 2% gel, detected with ethidium bromide,
+                                            and sequenced.
+
+                               GpBAR1 localization in gastrointestinal tissue
+                                            To prepare tissue sections, mouse tissues were fixed in 4% paraformaldehyde (overnight,
+                                            4°C), cleared with dimethyl sulfoxide and PBS washes (3 × 10 min), and incubated in 30%
+                                            sucrose PBS (overnight, 4°C). Tissues were embedded in Optimal Cutting Temperature
+                                            compound (Tissue-Tek, Sakura Finetek, Torrance, CA) and sectioned (10–12 µm). Sections
+NIH-PA Author Manuscript
+
+
+
+
+                                            were incubated in PBS containing 10% normal horse serum and 0.1% Triton X-100 (1 h,
+                                            room temperature). Sections were then incubated with primary antibodies (overnight, 4°C),
+                                            washed, incubated with donkey anti-rabbit, -chicken or - goat IgG conjugated to Rhodamine
+                                            Red X or FITC (Jackson; 1:200, 1 h, room temperature), and mounted. To prepare whole
+                                            mounts, intestine was placed in cold PBS containing nicardipine (1 µM) to inhibit smooth
+                                            muscle contraction. The intestine was opened, fixed with 4% paraformaldehyde (overnight,
+                                            4°C), and whole mount dissections were made of the longitudinal muscle-myenteric plexus
+                                            and submucosa-submucosal plexus (31). Tissue was then processed for indirect
+                                            immunofluorescence.
+
+                               Confocal Microscopy
+                                            Specimens were observed by using a Zeiss LSM510 META confocal system. Images were
+                                            collected at 1024 × 1024 pixel resolution using Zeiss objectives (Plan-Neofluar 40× NA 1.3;
+                                            Fluar Plan Apochromat 63×, NA 1.4; Plan Apochromat 100× NA 1.4), with digital zooms of
+                                            0.7–1.3.
+
+                               Intestinal Motility
+NIH-PA Author Manuscript
+
+
+
+
+                                            Full thickness segments (1 cm) of terminal ileum and proximal colon were mounted in organ
+                                            baths (3 ml) in physiological saline solution (mM: 118 NaCl, 4.8 KCl, 2.5 NaHCO3, 1.0
+                                            NaH2PO4, 1.2 MgSO4, 11.1 D-Glucose, 2.5 CaCl2) under 1 g tension (37°C, 5% CO2/ 95%
+                                            O2). Longitudinal contractions were recorded using isotonic transducers, and data were
+                                            processed using an analog-to-digital converter (MP100, Biopac Systems, Inc., Goleta, CA),
+                                            and analyzed using AcqKnowledge software (v3.7.3, Biopac). Tissues were equilibrated for
+                                            30 min, and challenged with carbachol (1 µM) to assess viability. Tissues were washed and
+                                            challenged with DCA, TDCA, UDCA (1–100 µM) or vehicle (0.1% ethanol or distilled
+                                            H2O). The mean amplitude of the basal tension and the frequency of phasic contractions
+                                            were determined 5 min before and after challenge. In some experiments, tissues were
+                                            preincubated with atropine (1 µM, 10 min), hexamethonium (10 µM, 10 min), N-Nitro-L-
+                                            Arginine Methyl Ester (L-NAME, 300 µM, 30 min) or with tetrodotoxin (1 µM, 5 min) (all
+                                            from Sigma-Aldrich) prior to challenge with BAs.
+
+
+
+                                              Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                           Page 5
+
+
+                               Gastric emptying and small intestinal transit
+                                            Mice were fasted overnight with free access to water. Phenol red (0.07% in 0.9% NaCl)
+                                            alone (control) or containing 0.03 M DCA or UDCA was administered by gavage (0.25 ml).
+NIH-PA Author Manuscript
+
+
+
+
+                                            After 30 min, mice were killed, the stomach and small intestine were removed, and the small
+                                            intestine was divided into 3 equal segments. Tissues were homogenized with 0.5 ml of 0.1 N
+                                            NaOH and 5.5 ml of H2O, and centrifuged. Supernatant (1.5 ml) was mixed with 0.15 ml of
+                                            trichloroacetic acid (30% w/v) to precipitate proteins, and centrifuged. Supernatants (1 ml)
+                                            were mixed with NaOH (1 ml) and absorbance was measured at 570 nm and compared to a
+                                            standard curve. Gastric emptying was determined as the proportion of administered phenol
+                                            red remaining in the stomach after 30 min, using the formula: %gastric emptying =
+                                            [(administered phenol red – gastric phenol red) / administered phenol red] × 100. Small
+                                            intestinal transit was evaluated as geometric center of the distribution of the marker
+                                            according to the follow equation: geometric center = [Σ(phenol red in each segment) ×
+                                            (segment number)] / administered phenol red.
+
+                               Statistical data analysis
+                                            Data are presented as mean ± SEM and were analyzed using one-way ANOVA with
+                                            Newman-Keul’s or Dunnett’s multiple comparison tests. P<0.05 was considered significant.
+
+                               RESULTS
+NIH-PA Author Manuscript
+
+
+
+
+                               GpBAR1 is a functional receptor when expressed in HEK cells
+                                            To verify that the cloned GpBAR1 receptor was functional, we measured cAMP generation
+                                            in response to BAs known to activate GpBAR1 (32). The primary BAs, CDCA and CA, and
+                                            the secondary BAs, TLCA, DCA and LCA, (100 µM) stimulated cAMP generation in HEK-
+                                            GpBAR1-GFP cells (Fig. 1A). The potent GpBAR1 agonists TLCA and DCA had the
+                                            largest effects, whereas UDCA, which activates GpBAR1 with low affinity, was less active.
+                                            The effects of TLCA, LCA and DCA were concentration-dependent (10 nM - 100 µM, not
+                                            shown). BAs did not stimulate cAMP generation in HEK-VC cells, and vehicle (0.1%
+                                            ethanol) was without effect. Thus, HEK-GpBAR1-GFP cells express a functional BA
+                                            receptor. These cells were used to characterize the GpBAR1 antibody.
+
+                               Specificity of the GpBAR1 antibody
+                                            We evaluated specificity of the GpBAR1 antibody by immunofluorescence and Western
+                                            blotting. In HEK-GpBAR1-GFP cells, the GFP signal completely colocalized with
+                                            GpBAR1- IR at the plasma membrane and in vesicles (Fig. 1B). Preadsorption of the
+                                            GpBAR1 antibody with the immunizing peptide abolished GpBAR1-IR, whereas the GFP
+                                            signal was unaffected. GpBAR1-IR and GFP were not detected in HEK-VC cells. In
+NIH-PA Author Manuscript
+
+
+
+
+                                            membranes prepared from HEK-GpBAR1-GFP cells, the GFP and the GpBAR1 antibodies
+                                            detected proteins with apparent molecular masses of ~65–70 kDa (Fig. 1C). The predicted
+                                            molecular mass of the GpBAR1-GFP fusion protein is ~65 kDa (GpBAR1 ~35 kDa, GFP
+                                            ~30 kDa). There are also two sites for potential N-linked glycosylation, which may account
+                                            for the larger forms. Smaller proteins detected by GFP and GpBAR1 antibodies may
+                                            represent degradation products. Preadsorption with immunizing peptide had no effect on
+                                            GFP-IR signals but markedly reduced signals for GpBAR1-IR, with the exception of an
+                                            unidentified protein at ~80 kDa. In HEK-VC cells, there were no detectable signals for GFP-
+                                            IR, and GpBAR1-IR signals were markedly diminished. Thus, the GpBAR1 antibody
+                                            specifically interacts with human GpBAR1.
+
+
+
+
+                                             Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                               Page 6
+
+
+                               GpBAR1-IR and mRNA are widely expressed in the gastrointestinal tract
+                                           We localized GpBAR1-IR in the mouse stomach and intestine by indirect
+                                           immunofluorescence. GpBAR1-IR was most prominently detected in myenteric ganglia of
+NIH-PA Author Manuscript
+
+
+
+
+                                           the gastric corpus and antrum (Fig. 2a). There was no staining of the gastric mucosa or
+                                           musculature. In the small and large intestine, GpBAR1-IR was detected in the enteric
+                                           ganglia, muscularis externa and the mucosa (Fig. 2b). The relative intensities of the
+                                           GpBAR1-IR signals consistently differed depending on the region. In all regions of small
+                                           and large intestine, GpBAR1-IR was mainly localized to the enteric ganglia of the myenteric
+                                           and submucosal plexuses. In the small intestine, GpBAR1-IR was also detected in the
+                                           muscularis externa and in the mucosa, where GpBAR1-IR was present in enterocytes of the
+                                           crypts and villi and in unidentified cells in the lamina propria. In the cecum and colon,
+                                           GpBAR1-IR was detected at lower levels in the muscle and mucosa, and was more
+                                           prominently detected in the enteric ganglia. In all segments, preadsorption of GpBAR1
+                                           antibody abolished staining (Fig. 2), and no staining was observed when the primary
+                                           antibody was omitted (not shown). We examined expression of GpBAR1 mRNA in mouse
+                                           gastrointestinal tissues by RT-PCR. A PCR product of the predicted size (449 bp) was
+                                           amplified from gallbladder, liver, stomach, duodenum, ileum, cecum, and proximal and
+                                           distal colon, but not from esophagus (Fig. 3). Analysis of dissected tissues indicated
+                                           expression of GpBAR1 mRNA in the muscularis externa-myenteric plexus and the
+                                           submucosa-submucosal plexus of the small and large intestine. Thus, GpBAR1 is widely
+                                           expressed throughout the gastrointestinal tract, particularly in enteric ganglia.
+NIH-PA Author Manuscript
+
+
+
+
+                               GpBAR1 is prominently expressed by inhibitory motor neurons
+                                           To identify cell types expressing GpBAR1, we simultaneously localized GpBAR1 and
+                                           PGP9.5 (pan-neuronal marker), nitric oxide synthase (NOS, identifies inhibitory motor
+                                           neurons and descending interneurons), neurofilament M (NFM, identifies intrinsic primary
+                                           afferent neurons), choline acetyltransferase (ChAT, identifies excitatory cholinergic
+                                           neurons), or glial fibrillary acidic protein (GFAP, identifies enteric glia) (33). We restricted
+                                           this analysis to the intestine, where GpBAR-1IR was more highly expressed than in the
+                                           stomach and where chemical coding of enteric neurons is well established. Since GpBAR1-
+                                           IR was more prominent in the myenteric than the submucosal plexus, quantification of
+                                           neurons coexpressing marker proteins was restricted to the myenteric plexus (Table 2).
+
+                                           Myenteric plexus—Within myenteric ganglia of the small and large intestine, all cells
+                                           expressing GpBAR1-IR coexpressed PGP9.5, and between 43% (ileum) and 52% (proximal
+                                           colon) of PGP9.5-positive neurons coexpressed GpBAR1-IR (Fig. 4). Between 35%
+                                           (duodenum) and 59% (distal colon) of neurons expressing GpBAR1-IR coexpressed NOS,
+                                           and most NOS-positive neurons coexpressed GpBAR1-IR (84% duodenum, 90% distal
+NIH-PA Author Manuscript
+
+
+
+
+                                           colon) (Fig. 5). A variable proportion of GpBAR1-IR-positive neurons coexpressed NFM
+                                           (23% duodenum, 57% distal colon, not shown) and ChAT (68% ileum, 28% distal colon,
+                                           not shown). This variability may reflect differences in the proportion of different classes of
+                                           neurons in these tissues. The colocalization of GpBAR1-IR and GFAP in glial cells was too
+                                           infrequent to quantify, although colocalization was more apparent in the large intestine than
+                                           the small intestine (Supplemental Fig. 1). Thus, GpBAR1-IR is almost exclusively
+                                           expressed in neurons rather than glial cells of the myenteric plexus, where it is present in
+                                           approximately half of all neurons. Nearly all NOS-positive neurons express GpBAR1-IR
+                                           and a major proportion of GpBAR1-IR neurons express NOS and are inhibitory motor
+                                           neurons or descending interneurons.
+
+                                           Submucosal plexus—Nearly all submucosal neurons expressing PGP9.5 coexpressed
+                                           GpBAR1-IR in the small and large intestine (Fig. 6A). Approximately half of these
+                                           GpBAR1-positive neurons coexpressed ChAT-IR (Fig. 6B). Although these neurons were
+
+
+                                            Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                             Page 7
+
+
+                                            not further characterized, the detection of GpBAR1 in submucosal neurons suggests a role
+                                            for this receptor in regulation of mucosal secretion.
+NIH-PA Author Manuscript
+
+
+
+
+                                            In whole mounts of the myenteric and submucosal plexuses, preadsorption of GpBAR1
+                                            antibody abolished staining (Fig. 4).
+
+                               GpBAR1 activation inhibits intestinal contractility
+                                            The localization of GpBAR1-IR in myenteric neurons suggests that this receptor may
+                                            mediate effects of BAs on intestinal motility. Therefore, we examined the effects of BAs on
+                                            contractility of longitudinal muscle of the small and large intestine. The potent GpBAR1
+                                            agonist DCA (32) caused a concentration-dependent (1–100 µM) inhibition of spontaneous,
+                                            phasic contractions of ileum (not shown) and proximal colon (Fig. 7A–B). The degree of
+                                            inhibition was far greater in the proximal colon (Fig. 7C) than the ileum (Fig. 7D). The low
+                                            affinity GpBAR1 agonist UDCA (100 µM) (32), which retains the detergent properties of
+                                            DCA, had a minor effect compared to DCA (Fig. 7A,C,D). The effects of the potent
+                                            GpBAR1 agonist TDCA were examined in the ileum. TDCA (100 µM) did not significantly
+                                            alter the amplitude or frequency of spontaneous contractions relative to pretreatment values
+                                            (Fig 7D). Tetrodotoxin (1 µM, 5 min) and L-NAME (300 µM, 30 min) abolished DCA-
+                                            induced inhibition of motility in the ileum and proximal colon (Fig. 7A,C,D). The inhibitory
+                                            effects of DCA on the proximal colon were significantly reduced by hexamethonium (10
+                                            µM, 10 min), but not by atropine (1 µM, 10 min) (Fig. 7C). Thus DCA, a potent GpBAR1
+NIH-PA Author Manuscript
+
+
+
+
+                                            agonist, inhibits intestinal motility by a neurogenic, cholinergic and nitrergic mechanism
+                                            that is consistent with the prominent localization of GpBAR1 to inhibitory motor neurons
+                                            and ChAT-IR cholinergic neurons.
+
+                               GpBAR1 activation delays gastric emptying and small intestinal transit
+                                            To determine whether luminally-administered BAs affect gastrointestinal transit in mice, we
+                                            administered DCA, UDCA or vehicle (control) by gavage. We assessed gastric emptying
+                                            and small intestinal transit of phenol red. Compared to control mice treated with vehicle,
+                                            DCA significantly delayed gastric emptying (Fig. 8A) and small intestinal transit (Fig.
+                                            8B,C). Within 30 min of phenol red administration to control mice, gastric emptying was
+                                            54.3%, and 14% of the marker was in the distal third segment of the small intestine
+                                            (geometric center 2.7). In mice treated with DCA, gastric emptying was decreased by ~2-
+                                            fold, 81.4% of the marker was in the first intestinal segment, 18.6% of the marker was in the
+                                            second segment, and marker was absent from the third intestinal segment (geometric center
+                                            2.2). UCDA did not affect gastric emptying or small intestinal transit compared to control.
+                                            Thus, luminal administration of a BA that activates GpBAR1 inhibits gastric emptying and
+                                            small intestinal transit in mice.
+NIH-PA Author Manuscript
+
+
+
+
+                               DISCUSSION
+                                            We report the unexpected localization of GpBAR1-IR in myenteric and submucosal neurons
+                                            of the mouse intestine. A large proportion of GpBAR1-expressing neurons of the myenteric
+                                            plexus coexpressed NOS and are thus inhibitory motor neurons or descending interneurons,
+                                            and the majority of these neurons expressed GpBAR1-IR. Consistent with this localization,
+                                            a BA that is a potent GpBAR1 agonist inhibited motility of intestinal segments by a
+                                            neurogenic, nitrergic mechanism, and delayed gastric emptying and intestinal transit. Our
+                                            results reveal a novel function for BAs and GpBAR1 in the enteric nervous system, and
+                                            provide a mechanistic explanation for the well-known actions of BAs on intestinal motility.
+
+                                            We detected GpBAR1-IR and mRNA throughout the gastrointestinal tract, with distinct
+                                            regional differences. GpBAR1 mRNA was highly expressed in the mouse gall bladder, liver
+
+
+                                             Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                             Page 8
+
+
+                                          and small and large intestine, including separated muscularis externa-myenteric plexus and
+                                          submucosa-submucosal plexus. Lower levels were detected in the stomach and GpBAR1
+                                          was undetectable in the esophagus. These results agree with GpBAR1 mRNA expression in
+NIH-PA Author Manuscript
+
+
+
+
+                                          human tissues (13). We observed regional differences in GpBAR1-IR in the small and large
+                                          intestine, with prominent localization in the mucosa and muscularis externa of the small
+                                          intestine but not the colon. Although GpBAR1-IR was present in enterocytes of the small
+                                          intestine, it was also present in unidentified cells in the lamina propria that may be
+                                          macrophages or monocytes (12). We did not detect GpBAR1-IR in the colonic mucosa,
+                                          which agrees with its lack of expression in colonic epithelial cell lines (13). However,
+                                          GpBAR1 mRNA is present in cell lines derived from intestinal endocrine cells, where
+                                          activation stimulates hormone release (13,19). It will be important to determine whether
+                                          GpBAR1 is present in endocrine cells of the small and large intestine, where activation
+                                          could control the secretion of hormones that regulate motility and gall bladder contraction.
+
+                                          The major unexpected finding of our study is the prominent localization of GpBAR1 in
+                                          enteric neurons. GpBAR1-IR was present in approximately half of all myenteric neurons of
+                                          the intestine. Within the myenteric plexus, most NOS-positive inhibitory neurons (>80%)
+                                          expressed GpBAR1-IR, and a high proportion of GpBAR1-positive neurons coexpressed
+                                          NOS, especially in the large intestine (49–60%). Detection of GpBAR1-IR in NOS-positive
+                                          inhibitory neurons of the myenteric plexus suggests that these neurons mediate the
+                                          inhibitory actions of BAs on intestinal motility. Supporting this suggestion, DCA, a potent
+NIH-PA Author Manuscript
+
+
+
+
+                                          agonist of GpBAR1, strongly inhibited spontaneous contractions of longitudinal muscle
+                                          from the proximal colon, whereas UDCA, a weak agonist, had little effect. Although DCA
+                                          inhibited contractions of the proximal colon and the ileum, the effect was far more marked
+                                          in the colon. This difference is unlikely to reflect the minor differences in the proportion of
+                                          GpBAR1-IR neurons coexpressing inhibitory or excitatory transmitters between the
+                                          proximal colon and the ileum. A more likely explanation is the presence of GpBAR1-IR in
+                                          muscle cells of the ileum but not the colon, allowing BAs to directly affect ileal muscle. In
+                                          both tissues, tetrodotoxin and L-NAME abolished the effects of DCA. BAs also inhibit
+                                          contractions of isolated rabbit and guinea pig ileum (29,30). Our results are consistent with
+                                          the novel hypothesis that BAs activate GpBAR1 on inhibitory motor neurons to release NO,
+                                          which inhibits spontaneous contractions of the intestine. This may represent a
+                                          physiologically important mechanism, since luminal administration of DCA also inhibited
+                                          gastric emptying and delayed intestinal transit in intact mice. The source of NO produced
+                                          cannot be directly determined using our current methodology, and it may originate from
+                                          non-neuronal cells (34). Although bile acids can activate muscarinic receptors (35), our data
+                                          demonstrating that DCA-evoked inhibitory effects on contractile activity were unaffected by
+                                          atropine indicates that muscarinic receptors are not involved in these reponses. BAs may
+                                          also act on the mucosa to release factors that control motility. The possibility that bile acids
+NIH-PA Author Manuscript
+
+
+
+
+                                          mediate their effects through a GpBAR1-independent mechanism can only be directly
+                                          examined once GpBAR1-specific antagonists and GpBAR1-deficient mice become readily
+                                          available.
+
+                                          Our findings may explain the well-known effects of luminal BAs on intestinal motility. BA
+                                          infusion into the human jejunum or ileum inhibits transit, suggesting the existence of
+                                          intestinal BA receptors (26,27). Thus, BAs may contribute to the “ileal brake”, by which
+                                          BAs and lipids slow transit to permit complete digestion and absorption (27,36). Our
+                                          observations that GpBAR1-IR is expressed by inhibitory motor neurons, and that a GpBAR1
+                                          agonist inhibits contractions by a neurogenic mechanism and delays transit, suggest that
+                                          GpBAR1 mediates the ileal brake. Studies of GpBAR1-deficient mice are required to further
+                                          evaluate this possibility. The mechanism by which luminal BAs activate neuronal GpBAR1
+                                          also remains to be determined. Luminal BAs could be transported across the epithelium
+                                          through specific bile acid transporters to activate GpBAR1 on enteric nerve fibers or smooth
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                                         Page 9
+
+
+                                          muscle cells (37), through a similar mechanism to that through which glucose affects
+                                          myenteric neurons (38). The more hydrophobic bile acids, DCA and CDCA can more
+                                          readily traverse the apical and basolateral plasma membrane bilayers (39), thereby,
+NIH-PA Author Manuscript
+
+
+
+
+                                          theoretically crossing the epithelium to reach submucosal or myenteric neurons. The
+                                          inability of TDCA to inhibit contractile activity of the isolated ileum suggests that this
+                                          hydrophilic bile acid does not effectively access target neurons within the small intestine.
+                                          Luminal BAs may also affect the release of hormones from entero-endocrine cells, since
+                                          hormonal mechanisms may also account for the BA-induced ileal brake (29). Alternatively,
+                                          BAs from the circulation may activate the receptor on enteric neurons or other cell types.
+                                          GpBAR1-IR was colocalized with NFM-IR, which has been characterized as a marker of
+                                          IPANs in the mouse small intestine (33). IPANs innervate the mucosa and other neurons
+                                          within the enteric circuitry (40), thus it is possible that BAs mediate their effects through
+                                          specific activation of these neurons.
+
+                                          We detected GpBAR1-IR in intestinal submucosal neurons, many of which contain ChAT
+                                          and are cholinergic secretomotor neurons or intrinsic primary afferent neurons (33). It
+                                          remains to be determined if non-cholinergic secretomotor neurons containing vasoactive
+                                          intestinal peptide also express GpBAR1. BAs stimulate secretion of fluid and mucus by a
+                                          neuronal, cholinergic mechanism (20–22), which may also depend on NO generation (41).
+                                          Our localization of GpBAR1-IR to cholinergic submucosal neurons raises the possibility
+                                          that GpBAR1 mediates these effects of BAs on intestinal secretion. Thus, GpBAR1-
+NIH-PA Author Manuscript
+
+
+
+
+                                          expressing secretomotor neurons might function as chemo-sensors, stimulating secretory
+                                          reflexes as a defensive mechanism to eliminate BAs and other noxious agents. However,
+                                          BAs may directly activate GpBAR1 or other bile acid receptors on enterocytes to regulate
+                                          fluid and electrolyte secretion. Activation of GpBAR1 in the gall bladder epithelium
+                                          stimulates the cystic fibrosis transmembrane conductor regulator chloride channel to
+                                          promote chloride secretion (14). Additional studies are required to define the role of
+                                          GpBAR1 in BA-induced secretion in the intestine.
+
+                                          In conclusion, we have described the unique localization of the BA receptor GpBAR1 in the
+                                          enteric nervous system, where the receptor is suitably located to mediate the effects of BAs
+                                          on intestinal motility and secretion. This report adds to the emerging role of GpBAR1 in
+                                          control of energy expenditure, weight gain, blood flow, bile acid homeostasis and immune
+                                          responses.
+
+                               Supplementary Material
+                                          Refer to Web version on PubMed Central for supplementary material.
+NIH-PA Author Manuscript
+
+
+
+
+                               Acknowledgments
+                                          Supported by grants from the Northern California Institute for Research and Education, the Veterans Health
+                                          Administration and NIH DK026743 (CUC), from NIH DK07573 (JCP, NWB), DK39957, DK43207 and DK57840
+                                          (NWB), NH&MRC 454858 CJ Martin Fellowship (DPP) and a Neurogastroenterology and Motility Meeting 2009
+                                          Young Investigator Travel Award (DPP).
+
+
+                               REFERENCES
+                                          1. Monte MJ, Marin JJ, Antelo A, Vazquez-Tato J. Bile acids: chemistry, physiology, and
+                                             pathophysiology. World J Gastroenterol. 2009 Feb 21; 15(7):804–816. [PubMed: 19230041]
+                                          2. Keitel V, Kubitz R, Haussinger D. Endocrine and paracrine role of bile acids. World J
+                                             Gastroenterol. 2008 Oct 7; 14(37):5620–5629. [PubMed: 18837077]
+                                          3. Lefebvre P, Cariou B, Lien F, Kuipers F, Staels B. Role of bile acids and bile acid receptors in
+                                             metabolic regulation. Physiol Rev. 2009 Jan; 89(1):147–191. [PubMed: 19126757]
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                                    Page 10
+
+
+                                          4. Claudel T, Staels B, Kuipers F. The Farnesoid X receptor: a molecular link between bile acid and
+                                             lipid and glucose metabolism. ArteriosclerThrombVascBiol. 2005; 25(10):2020–2030.
+                                          5. Wang H, Chen J, Hollister K, Sowers LC, Forman BM. Endogenous bile acids are ligands for the
+NIH-PA Author Manuscript
+
+
+
+
+                                             nuclear receptor FXR/BAR. MolCell. 1999; 3(5):543–553.
+                                          6. Staudinger JL, Goodwin B, Jones SA, Hawkins-Brown D, MacKenzie KI, LaTour A, et al. The
+                                             nuclear receptor PXR is a lithocholic acid sensor that protects against liver toxicity.
+                                             ProcNatlAcadSciUSA. 2001; 98(6):3369–3374.
+                                          7. Makishima M, Lu TT, Xie W, Whitfield GK, Domoto H, Evans RM, et al. Vitamin D receptor as an
+                                             intestinal bile acid sensor. Science. 2002; 296(5571):1313–1316. [PubMed: 12016314]
+                                          8. Bouscarel B, Kroll SD, Fromm H. Signal transduction and hepatocellular bile acid transport: cross
+                                             talk between bile acids and second messengers. Gastroenterology. 1999; 117(2):433–452. [PubMed:
+                                             10419927]
+                                          9. Gupta S, Stravitz RT, Dent P, Hylemon PB. Down-regulation of cholesterol 7alpha-hydroxylase
+                                             (CYP7A1) gene expression by bile acids in primary rat hepatocytes is mediated by the c-Jun N-
+                                             terminal kinase pathway. JBiolChem. 2001; 276(19):15816–15822.
+                                          10. Looby E, Long A, Kelleher D, Volkov Y. Bile acid deoxycholate induces differential subcellular
+                                               localisation of the PKC isoenzymes beta 1, epsilon and delta in colonic epithelial cells in a sodium
+                                               butyrate insensitive manner. IntJCancer. 2005; 114(6):887–895.
+                                          11. Qiao L, Han SI, Fang Y, Park JS, Gupta S, Gilfor D, et al. Bile acid regulation of C/EBPbeta,
+                                               CREB, and c-Jun function, via the extracellular signal-regulated kinase and c-Jun NH2-terminal
+                                               kinase pathways, modulates the apoptotic response of hepatocytes. MolCell Biol. 2003; 23(9):
+                                               3052–3066.
+NIH-PA Author Manuscript
+
+
+
+
+                                          12. Kawamata Y, Fujii R, Hosoya M, Harada M, Yoshida H, Miwa M, et al. A G protein-coupled
+                                               receptor responsive to bile acids. J Biol Chem. 2003 Mar 14; 278(11):9435–9440. [PubMed:
+                                               12524422]
+                                          13. Maruyama T, Miyamoto Y, Nakamura T, Tamai Y, Okada H, Sugiyama E, et al. Identification of
+                                               membrane-type receptor for bile acids (M-BAR). Biochem Biophys Res Commun. 2002 Nov 15;
+                                               298(5):714–719. [PubMed: 12419312]
+                                          14. Keitel V, Cupisti K, Ullmer C, Knoefel WT, Kubitz R, Haussinger D. The membrane-bound bile
+                                               acid receptor TGR5 is localized in the epithelium of human gallbladders. Hepatology. 2009 Apr
+                                               17.
+                                          15. Keitel V, Donner M, Winandy S, Kubitz R, Haussinger D. Expression and function of the bile acid
+                                               receptor TGR5 in Kupffer cells. Biochem Biophys Res Commun. 2008 Jul 18; 372(1):78–84.
+                                               [PubMed: 18468513]
+                                          16. Keitel V, Reinehr R, Gatsios P, Rupprecht C, Gorg B, Selbach O, et al. The G-protein coupled bile
+                                               salt receptor TGR5 is expressed in liver sinusoidal endothelial cells. Hepatology. 2007 Mar; 45(3):
+                                               695–704. [PubMed: 17326144]
+                                          17. Maruyama T, Tanaka K, Suzuki J, Miyoshi H, Harada N, Nakamura T, et al. Targeted disruption
+                                               of G protein-coupled bile acid receptor 1 (Gpbar1/M-Bar) in mice. J Endocrinol. 2006 Oct; 191(1):
+                                               197–205. [PubMed: 17065403]
+NIH-PA Author Manuscript
+
+
+
+
+                                          18. Watanabe M, Houten SM, Mataki C, Christoffolete MA, Kim BW, Sato H, et al. Bile acids induce
+                                               energy expenditure by promoting intracellular thyroid hormone activation. Nature. 2006 Jan 26;
+                                               439(7075):484–489. [PubMed: 16400329]
+                                          19. Katsuma S, Hirasawa A, Tsujimoto G. Bile acids promote glucagon-like peptide-1 secretion
+                                               through TGR5 in a murine enteroendocrine cell line STC-1. BiochemBiophysResCommun. 2005;
+                                               329(1):386–390.
+                                          20. Camilleri M, Murphy R, Chadwick VS. Pharmacological inhibition of chenodeoxycholate-induced
+                                               fluid and mucus secretion and mucosal injury in the rabbit colon. DigDisSci. 1982; 27(10):865–
+                                               869.
+                                          21. Karlstrom L. Evidence of involvement of the enteric nervous system in the effects of sodium
+                                               deoxycholate on small-intestinal transepithelial fluid transport and motility. ScandJGastroenterol.
+                                               1986; 21(3):321–330.
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                                   Page 11
+
+
+                                          22. Karlstrom L, Cassuto J, Jodal M, Lundgren O. Involvement of the enteric nervous system in the
+                                              intestinal secretion induced by sodium deoxycholate and sodium ricinoleate. ScandJGastroenterol.
+                                              1986; 21(3):331–340.
+NIH-PA Author Manuscript
+
+
+
+
+                                          23. Feldman S, Gibaldi M. Effect of bile salts on gastric emptying and intestinal transit in the rat.
+                                              Gastroenterology. 1968; 54(5):918–921. [PubMed: 5652526]
+                                          24. Kirwan WO, Smith AN, Mitchell WD, Falconer JD, Eastwood MA. Bile acids and colonic motility
+                                              in the rabbit and the human. Gut. 1975; 16(11):894–902. [PubMed: 1193418]
+                                          25. Falconer JD, Smith AN, Eastwood MA. The effects of bile acids on colonic motility in the rabbit.
+                                              QJExpPhysiol Cogn MedSci. 1980; 65(2):135–144.
+                                          26. Penagini R, Misiewicz JJ, Frost PG. Effect of jejunal infusion of bile acids on small bowel transit
+                                              and fasting jejunal motility in man. Gut. 1988 Jun; 29(6):789–794. [PubMed: 3384363]
+                                          27. Penagini R, Spiller RC, Misiewicz JJ, Frost PG. Effect of ileal infusion of glycochenodeoxycholic
+                                              acid on segmental transit, motility, and flow in the human jejunum and ileum. Gut. 1989 May;
+                                              30(5):609–617. [PubMed: 2731753]
+                                          28. Van Ooteghem NA, Van Erpecum KJ, Van Berge-Henegouwen GP. Effects of ileal bile salts on
+                                              fasting small intestinal and gallbladder motility. NeurogastroenterolMotil. 2002; 14(5):527–533.
+                                          29. Armstrong DN, Krenz HK, Modlin IM, Ballantyne GH. Bile salt inhibition of motility in the
+                                              isolated perfused rabbit terminal ileum. Gut. 1993 Apr; 34(4):483–488. [PubMed: 8491394]
+                                          30. Romero F, Frediani-Neto E, Paiva TB, Paiva AC. Role of Na+/Ca++ exchange in the relaxant
+                                              effect of sodium taurocholate on the guinea-pig ileum smooth muscle. Naunyn Schmiedebergs
+                                              ArchPharmacol. 1993; 348(3):325–331.
+NIH-PA Author Manuscript
+
+
+
+
+                                          31. Poole DP, Castelucci P, Robbins HL, Chiocchetti R, Furness JB. The distribution of P2X3 purine
+                                              receptor subunits in the guinea pig enteric nervous system. AutonNeurosci. 2002; 101(1–2):39–47.
+                                          32. Sato H, Macchiarulo A, Thomas C, Gioiello A, Une M, Hofmann AF, et al. Novel potent and
+                                              selective bile acid derivatives as TGR5 agonists: biological screening, structure-activity
+                                              relationships, and molecular modeling studies. J Med Chem. 2008 Mar 27; 51(6):1831–1841.
+                                              [PubMed: 18307294]
+                                          33. Qu ZD, Thacker M, Castelucci P, Bagyanszki M, Epstein ML, Furness JB. Immunohistochemical
+                                              analysis of neuron types in the mouse small intestine. Cell Tissue Res. 2008; 334(2):147–161.
+                                              [PubMed: 18855018]
+                                          34. Khurana S, Yamada M, Wess J, Kennedy RH, Raufman JP. Deoxycholyltaurine-induced
+                                              vasodilation of rodent aorta is nitric oxide- and muscarinic M(3) receptor-dependent. Eur J
+                                              Pharmacol. 2005 Jul 4; 517(1–2):103–110. [PubMed: 15964566]
+                                          35. Raufman JP, Cheng K, Zimniak P. Activation of muscarinic receptor signaling by bile acids:
+                                              physiological and medical implications. Dig Dis Sci. 2003 Aug; 48(8):1431–1444. [PubMed:
+                                              12924634]
+                                          36. Spiller RC, Trotman IF, Higgins BE, Ghatei MA, Grimble GK, Lee YC, et al. The ileal brake--
+                                              inhibition of jejunal motility after ileal fat perfusion in man. Gut. 1984; 25(4):365–374. [PubMed:
+                                              6706215]
+NIH-PA Author Manuscript
+
+
+
+
+                                          37. Dawson PA, Lan T, Rao A. Bile acid transporters. J Lipid Res. 2009 Dec; 50(12):2340–2357.
+                                              [PubMed: 19498215]
+                                          38. Liu M, Seino S, Kirchgessner AL. Identification and characterization of glucoresponsive neurons
+                                              in the enteric nervous system. J Neurosci. 1999 Dec 1; 19(23):10305–10317. [PubMed: 10575028]
+                                          39. Cabral DJ, Small DM, Lilly HS, Hamilton JA. Transbilayer movement of bile acids in model
+                                              membranes. Biochemistry. 1987 Apr 7; 26(7):1801–1804. [PubMed: 3593691]
+                                          40. Furness JB, Jones C, Nurgali K, Clerc N. Intrinsic primary afferent neurons and nerve circuits
+                                              within the intestine. Prog Neurobiol. 2004 Feb; 72(2):143–164. [PubMed: 15063530]
+                                          41. Mascolo N, Gaginella TS, Izzo AA, Di CG, Capasso F. Nitric oxide involvement in sodium
+                                              choleate-induced fluid secretion and diarrhoea in rats. EurJPharmacol. 1994; 264(1):21–26.
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                    Page 12
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 1. GpBAR1 antibody characterization
+                                          A. BA-stimulated cAMP generation. HEK-GpBAR1-GFP and HEK-VC cells were
+                                          incubated with vehicle (0.1% ethanol, EtOH), forskolin (10 nM) or BAs (100 µM) for 5
+                                          min. cAMP generation is expressed in pmol per well (n=6). B. Localization of GpBAR1-IR
+                                          by immunofluorescence. In HEK-GpBAR1-GFP cells, GFP and GpBAR1-IR colocalized at
+                                          the plasma membrane and in vesicles (upper row). Preadsorption (+ peptide) abolished
+                                          signal for GpBAR1-IR but not GFP (middle row). Neither GFP nor GpBAR1-IR was
+                                          detected in HEK-VC cells (bottom row). Scale bar = 10 µm. C. Detection of GpBAR1-IR by
+                                          Western blotting. Membranes from HEK-GpBAR1-GFP or HEK-VC cells were separated
+NIH-PA Author Manuscript
+
+
+
+
+                                          by SDS-PAGE. The same blot was probed with antibodies to GFP (left) or GpBAR1
+                                          (middle) (right lanes) or preadsorbed antibody to GpBAR1 (left lanes, + peptide). Merged
+                                          images are in right panel. In membranes from HEK-GpBAR1-GFP cells, antibodies to GFP
+                                          and GpBAR1 detected proteins of ~60–70 KDa, corresponding to the GpBAR1-GFP fusion
+                                          protein (merged). In membranes from HEK-VC cells, GFP-IR was undetectable and
+                                          GpBAR1-IR was markedly diminished. Preadsorpion of GpBAR1 antibody did not affect
+                                          GFP-IR but suppressed GpBAR1-IR.
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                          Page 13
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 2. Localization of GpBAR1-IR in sections of mouse stomach and small and large intestine
+                                          a: Representative examples of GpBAR1-IR in the wall of the gastric corpus (A, B, C) and
+                                          antrum (D). GpBAR1-IR was expressed in the myenteric plexus (MP). Circular muscle,
+                                          CM; longitudinal muscle, LM. Preadsorption of the GpBAR1 antibody with immunizing
+                                          peptide abolished GpBAR1-IR (C).
+                                          b: Representative examples of GpBAR1-IR in the wall of the duodenum (A), ileum (B),
+                                          cecum (C) and colon (D) are shown. GpBAR1-IR was expressed in the myenteric plexus
+                                          (MP) and submucosal plexus (SMP) of the small and large intestine. GpBAR1-IR was more
+                                          highly expressed in the mucosa, muscularis externa (circular muscle, CM; longitudinal
+                                          muscle, LM), of the small intestine compared to the large intestine. Preadsorption of the
+                                          GpBAR1 antibody with immunizing peptide abolished GpBAR1-IR.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                       Page 14
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 3. Amplification of GpBAR1 mRNA in gastrointestinal tissues
+                                          A 449 bp product corresponding to GpBAR1 was amplified and identified by sequence
+                                          analysis. A. GpBAR1 was amplified from gall bladder, liver and cecum, with low levels in
+                                          stomach and no detectable product in esophagus (Esoph.). B, C. GpBAR1 was highly
+                                          expressed in dissected muscularis externa-myenteric plexus (ME-MP) and expressed at
+                                          lower levels in dissected submucosa-submucosal plexus (SM-SMP) of duodenum (Duod.),
+                                          ileum, proximal colon (Prox. Co.) and distal colon (Dist. Co.). No products were detected
+                                          without reverse transcriptase (RT).
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                       Page 15
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 4. Localization of GpBAR1-IR and PGP9.5-IR in whole mounts of myenteric plexus
+                                          GpBAR1-IR (left panels) was detected in approximately half of all myenteric neurons
+                                          expressing PGP9.5-IR (middle panels) in the ileum (A), cecum (B) and distal colon (C).
+                                          Merged images (right panels) demonstrate colocalization of GpBAR1-IR and PGP9.5-IR
+                                          (arrowheads). Although cells expressing GpBAR1-IR almost always expressed PGP9.5-IR,
+                                          some PGP9.5-IR positive neurons did not express GpBAR1-IR (arrowheads with asterisk).
+                                          D. Preadsorption of the GpBAR1 antibody with immunizing peptide abolished GpBAR1-IR
+                                          in the ileum. Scale bars = 50 µm.
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                        Page 16
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 5. Localization of GpBAR1-IR and NOS-IR in whole mounts of myenteric plexus
+                                          Most (>80%) neurons expressing GpBAR1-IR (left panels) also expressed NOS-IR (middle
+                                          panels) in the duodenum (A), ileum (B), cecum (C) and proximal colon (D). Merged images
+                                          (right panels) demonstrate colocalization of GpBAR1-IR and NOS-IR (arrowhead). Neurons
+                                          expressing only GpBAR1-IR or NOS-IR are indicated (arrowheads with asterisk). Scale bars
+                                          = 50 µm.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                      Page 17
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 6. Localization of GpBAR1-IR, PGP9.5-IR and ChAT-IR in whole mounts of submucosal
+                                          plexus
+                                          Localization of GpBAR1-IR (left panels) and PGP9.5-IR (middle panels) (A) or ChAT-IR
+                                          (middle panels) (B) in duodenum and distal colon. Merged images (right panels) indicate
+                                          invariable colocalization of GpBAR1-IR and PGP9.5-IR, and frequent colocalization of
+                                          GpBAR1-IR and ChAT-IR (arrowheads). Some neurons expressing GpBAR1-IR did not
+                                          express ChAT-IR (arrowheads with asterisk). Scale bars = 20 µm.
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                                Page 18
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 7. Effects of BAs on spontaneous contractile activity of longitudinal muscle of the
+                                          proximal colon and ileum
+                                          A. Representative recordings from proximal colon. DCA (100 µM) immediately inhibited
+                                          spontaneous phasic contractions, but did not alter basal tone. UDCA (100 µM) did not
+                                          reduce the frequency of spontaneous contractions. Tetrodotoxin (TTX) and L-NAME
+                                          abolished the effects of DCA. B–D. Effects of treatments on frequency of contraction, in
+                                          which the frequency prior to stimulation is normalized to 1. B. Effects of graded
+                                          concentrations on DCA in proximal colon. C, D. Tetrodotoxin and L-NAME abolished the
+                                          effects of DCA in the proximal colon (C) and ileum (D). The effects of DCA (100 µM) on
+                                          the proximal colon were significantly reduced by hexamethonium, but not by atropine (C).
+                                          TDCA (100 µM) did not have any effect on spontaneous activity of the ileum relative to
+                                          vehicle control (D). * P< 0.05, ** P<0.01, *** P<0.001 (n≥6).
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                       Page 19
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                          Figure 8. Effects of BAs on gastric emptying and small intestinal transit
+                                          Phenol red and DCA, UCDA or vehicle (control) were administered by gavage. After 30
+                                          min, the proportion of the administered phenol red was determined in the stomach and in 3
+                                          equal segments of small intestine. Gastric emptying (A), transit of the marker in the
+                                          intestinal segments (B) and the geometric center of the marker in the small intestine (C)
+                                          were determined. Compared to control, DCA but not UCDA inhibited gastric emptying and
+                                          caused retention of the marker in the proximal segments of the intestine, reducing the
+                                          geometric mean of the marker distribution. * P< 0.05 (n≥6).
+
+
+
+
+                                           Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                          Page 20
+
+
+
+
+                                                                                           Table 1
+                           Sources and dilutions of primary antibodies.
+NIH-PA Author Manuscript
+
+
+
+
+                            Antigen       Species    Conditions        Source
+
+                            GpBAR1        Rabbit     IF/WB, 1:100
+
+                            GFP           Mouse      WB 1:10,000       Santa Cruz Biotechnology, Santa Cruz, CA
+
+                            ChAT          Goat       IF, 1:200         Millipore, Temecula, CA
+
+                            GFP           Mouse      IF/WB, 1:10,000   Santa Cruz Biotechnology, Santa Cruz, CA
+
+                            GFAP          Goat       IF, 1:400         NOVUS Biologicals, Littleton, CO
+
+                            NFM           Chicken    IF, 1:500         Gene Tex Inc., Irvine, CA
+
+                            NOS           Goat       IF, 1:500         NOVUS Biologicals, Littleton, CO
+
+                            PGP9.5        Chicken    IF, 1:500         Abcam Inc., Cambridge, MA
+
+                           IF, immunofluorescence; WB, Western blot.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                                    Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+                           Poole et al.                                                                                                                          Page 21
+
+
+
+
+                                                                                             Table 2
+                           Quantification of neurons in myenteric plexus.
+NIH-PA Author Manuscript
+
+
+
+
+                            Region             PGP9.5               NOS               NFM              ChAT
+
+                            Duodenum           A126/126 (100%)      52/147 (35%)      3/52 (6%)        60/157 (38%)
+                                               B126/295 (43%)       52/62 (84%)       3/13 (23%)       60/90 (67%)
+
+                            Ileum              177/177 (100%)       97/213 (46%)      10/130 (8%)      54/140 (39%)
+                                               177/425 (42%)        97/114 (85%)      10/26 (38%)      54/79 (68%)
+
+                            Cecum              102/102 (100%)       158/265 (60%)     24/103 (23%)     35/85 (41%)
+                                               102/220 (46%)        158/177 (89%)     24/49 (49%)      35/89 (39%)
+
+                            Proximal Colon     175/175 (100%)       106/216 (49%)     13/110 (12%)     30/77 (39%)
+                                               175/335 (52%)        106/123 (86%)     13/54(24%)       30/74 (41%)
+
+                            Distal Colon       113/113 (100%)       140/255 (59%)     21/128 (16%)     32/133 (24%)
+                                               113/242 (47%)        140/156 (90%)     21/37 (57%)      32/113 (28%)
+
+                           For each region, the upper numberA indicates the number of marker-positive neurons in the GpBAR1-positive population (i.e. in duodenum, of
+                           126 cells expressing GpBAR1, 126 expressed PGP9.5), and the lower numberB indicates the number of GpBAR1-positive cells in the marker-
+                           positive population (i.e. in duodenum, of 295 cells expressing PGP9.5, 126 expressed GpBAR1). For all regions, n≥3 mice.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                                   Neurogastroenterol Motil. Author manuscript; available in PMC 2011 July 1.
+

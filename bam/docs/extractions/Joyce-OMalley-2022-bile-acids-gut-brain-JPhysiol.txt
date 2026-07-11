@@ -1,0 +1,828 @@
+                            J Physiol 600.11 (2022) pp 2565–2578                                                                                                                  2565
+
+                            TOPICAL REVIEW
+
+
+                            Bile acids, bioactive signalling molecules in interoceptive
+                            gut-to-brain communication
+                            Susan A. Joyce1,2             and Dervla O’Malley2,3
+                            1
+                              School of Biochemistry and Cell Biology, University College Cork, Cork, Ireland
+                            2
+                              APC Microbiome Ireland, University College Cork, Cork, Ireland
+                            3
+                              Department of Physiology, College of Medicine and Health, University College Cork, Cork, Ireland
+
+
+                            Edited by: Ian Forsythe & Weifang Rong
+                            The peer review history is available in the Supporting Information section of this article
+                            (https://doi.org/10.1113/JP281727#support-information-section).
+The Journal of Physiology
+
+
+
+
+                                             Abstract Aside from facilitating solubilisation and absorption of dietary lipids and lipid-soluble
+                                             vitamins, amphipathic bile acids (BAs) also act as bioactive signalling molecules. A plethora
+                                             of conjugated or unconjugated primary and bacterially modified secondary BA moieties have
+                                             been identified, with significant divergence between species. These molecules are excreted into
+
+
+
+                                Susan Joyce is a lecturer and a principal investigator interested in metabolism and in metabolites produced
+                                by microbes that influence host responses, among them bile acids and fatty acids. She graduated with a B.Sc
+                                (joint hons) from Maynooth University in Biology and Mathematics and a research PhD in host-microbe
+                                interactions. She was awarded a Marie Curie Fellowship at the Ecole Normal Superieure, Paris. She applies
+                                microbial and cellular molecular approaches combined with mass spectrometry applications and clinical
+                                investigations to her scientific questions. Dervla O’Malley is a lecturer and principal investigator with a
+                                research focus on neuro-endocrine regulation of gut function and the physiological mechanisms under-
+                                lying gastrointestinal dysfunction. She carried out her doctoral studies in Neuroscience in the Universtiy
+                                of Dundee, Scotland prior to establishing her own research group in University College Cork, Ireland.
+                                Using imaging and electrophysiological techniques, her research team aims to elucidate and understand how luminal factors, including bile acids, signal
+                                across the gut barrier to the peripheral and central nervous systems.
+
+
+
+                            © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.              DOI: 10.1113/JP281727
+                            This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which
+                            permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no
+                            modifications or adaptations are made.
+2566                                                     S. A. Joyce and D. O’Malley                                                         J Physiol 600.11
+
+
+
+            the external environment of the intestinal lumen, yet nuclear and membrane receptors that
+            are sensitive to BAs are expressed internally in the liver, intestinal and neural tissues, amongst
+            others. The diversity of BAs and receptors underpins the multitude of distinct bioactive functions
+            attributed to BAs, but also hampers elucidation of the physiological mechanisms underpinning
+            these actions. In this Topical Review, we have considered the potential of BAs as cross-barrier
+            signalling molecules that contribute to interoceptive pathways informing the central nervous
+            system of environmental changes in the gut lumen. Activation of BAs on FGF19 -secreting
+            enterocytes, enteroendocrine cells coupled to sensory nerves or intestinal immune cells would
+            facilitate indirect signalling, whereas direct activation of BA receptors in the brain is likely to
+            occur primarily under pathophysiological conditions when concentrations of BAs are elevated.
+            (Received 9 February 2022; accepted after revision 7 April 2022; first published online 12 April 2022)
+            Corresponding author D. O’Malley: Department of Physiology, School of Medicine, College of Medicine and Health,
+            University College Cork, Cork, Ireland. Email: d.omalley@ucc.ie
+
+            Abstract figure legend Illustration of the microbial modification of hepatic primary bile acids into secondary bile acids.
+            In addition to facilitating lipid digestion and absorption, bile acids act as bioactive signalling molecules by binding to
+            bile acid receptors expressed on enterocytes, neural afferent-coupled enteroendocrine cells and immune cells.
+
+
+
+Context                                                                      apical facing plasma membranes. The majority of BAs
+                                                                             are transported from the distal ileum back to the liver
+The continuous flow of information between the brain and                     via the portal vein as part of the entero-hepatic cycle.
+the gut is significant in the context of maintaining physio-                 However, a small proportion escape reuptake and pass into
+logical homeostasis (Mayer, 2011). Neural, immune, end-                      the colon, the gut region where BSH-comprising bacteria
+ocrine and metabolic pathways have all been implicated                       are most abundant. Interactions between BSH-bacteria
+in this communication axis. Moreover, accumulating                           and primary BAs result in deconjugation reactions,
+evidence, providing microbes with a role in modulating                       which in turn facilitate further microbially mediated
+brain function and host behaviour (Stilling et al., 2015),                   transformations. BSH activity is a ubiquitous trait in
+has resulted in renaming of this bidirectional circuit as                    gut-residing bacteria, which may have evolved through
+the microbiota–gut–brain axis (Bienenstock et al., 2015;                     host-driven selection (Jones et al., 2008). Dynamic inter-
+Chakrabarti et al., 2022). Microbes interact with the                        actions between microbes and BAs result in a great
+host immune system and are also capable of stimulating                       diversity of microbially modified secondary BA species
+sensory enteroendocrine cells (El Aidy et al., 2015;                         (Guzior & Quinn, 2021), including deoxycholic acid
+O’Malley, 2016). However, they also have an innate                           (DCA) and lithocholic acid (LCA), in a variety of
+capacity to produce neuromodulatory factors, including                       conjugated and unconjugated forms (Fig. 1). There
+central neurotransmitters and short-chain fatty acids                        are many receptors which bind BAs, with variable
+(Fung et al., 2021; Lyte, 2014). Increasing attention is also                binding affinities and response potencies, resulting in
+being focused on the dynamic, symbiotic relationship that                    a multitude of distinct bioactive functions. However,
+exists between bacteria with bile salt hydrolase (BSH)                       we will focus on the two BA receptors that exclusively
+activity and luminal bile acids (BAs).                                       bind BAs, nuclear farnesoid X receptors (FXR) and
+   Most physiologists have familiarity with the digestive                    membrane-expressed G protein-coupled BA receptor
+function of BAs, where their amphipathic structure                           1 (GPBAR-1), also named Takeda G-protein-coupled
+enables solubilisation and absorption of dietary lipids and                  receptor 5 (TGR5). In the context of this rapidly
+fat-soluble vitamins in the proximal intestine. However,                     evolving research field, we have examined BAs as
+given that numerous cell types, both in the gut and in                       potential signalling molecules participating in inter-
+other peripheral and central organs, express BA receptors                    oceptive signalling from the intestines to the central
+(Deutschmann et al., 2018; Gadaleta, Oldenburg et al.,                       nervous system (CNS).
+2011; Jonas et al., 2019; Ward et al., 2013), BAs are also
+classified as bioactive signalling molecules. The primary
+human BAs, cholic acid (CA) and chenodeoxycholic
+                                                                             Bile acid synthesis and secretion
+acid (CDCA), are synthesised and conjugated by liver
+hepatocytes. Conjugation makes BAs more soluble in the                       BAs are a class of metabolites that interact with micro-
+aqueous environment of the intestinal lumen and mini-                        biota and have significant importance both in gut and
+mises potentially damaging interactions between BAs and                      whole-body homeostasis (Chavez-Talavera et al., 2017).
+
+                                     © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+J Physiol 600.11                                       Bioactive bile acids in gut–brain signalling                                         2567
+
+Location-specific changes in concentrations and diversity                           conjugated to taurine. In new-borns, taurine-conjugated
+of BAs are influenced by diet, host metabolites and                                 BAs predominate and indeed, liver taurine levels are
+microbial interactions (Chiang & Ferrell, 2020). Derived                            higher in infants. Interestingly, in the first week of life CA
+from cholesterol, BAs are the major component of                                    is the main BA with representation of CA:CDCA as being
+hepatic bile and act as lipid emulsifiers in the small                              2.5:1; this normalises in the first month of life to 1.2:1
+intestine. Two inter-regulated pathways, the classical                              (Murphy & Signer, 1974). Conjugated BAs in areas of
+pathway in the endoplasmic reticulum, regulated by cyto-                            low pH are toxic to some bacteria and may influence gut
+chrome CYP7A1, and the alternative pathway in the                                   residency and colonisation resistance (Ducarmon et al.,
+mitochondria, regulated through cytochromes CYP27A1                                 2019). Other modifications, such as glucuronidation or
+and CYP8B1, produce CA and CDCA, together and                                       sulphonation, target BAs for excretion (Takikawa et al.,
+separately, respectively. Regulation of all three enzymes is                        1985), although all of these BA modifications can be
+mediated through microbial actions on the liver (Sayin                              reversed by gut bacteria.
+et al., 2013) and the flux through each pathway can be                                 Functionally, BAs act as signalling molecules by binding
+altered by cholesterol cell localisation and overload (Ren                          to and activating BA receptors, of which there are many.
+et al., 2004) and by endoplasmic reticulum stress (Henkel                           However, only two bind BAs exclusively. Activation of
+et al., 2017). Therefore, all cells and tissues carrying                            nuclear FXR is key to regulating de novo BA synthesis
+mitochondria have the potential to produce CDCA.                                    (Laffitte et al., 2000). Indeed, mice lacking FXR exhibit
+   BAs classically function at a critical micelle                                   BA dyshomeostasis (Degirolamo et al., 2015), in addition
+concentration to spread or emulsify fats for digestion and                          to defects in lipid metabolism (Hanniman et al., 2005),
+for cellular uptake from the gut lumen. The critical micelle                        changes in centrally regulated behaviours (Huang et al.,
+concentration is different for individual BA moieties. This                         2015) and immune response (Gadaleta, van Erpecum
+is important when considering microbial modifications                               et al., 2011). Membrane-expressed GPBAR-1 or TGR5 is
+of BAs and in the context of the sometimes-convergent                               a G-protein-coupled BA receptor, which induces cyclic
+nature of BA representation called signatures, associated                           adenosine monophosphate (cAMP) synthesis leading to
+with different disease states. To reduce their pKa and                              activation of the protein kinase-A pathway and gene
+optimise the critical micelle concentration, BAs are                                transcription (Kawamata et al., 2003). LCA is the most
+conjugated to an amino acid, usually taurine or glycine,                            potent natural agonist of TGR5 (Kawamata et al., 2003),
+which represent approximately 25% and 75%, respectively,                            and has been shown to influence glucose metabolism,
+of conjugates in humans. Variations in the ratios of glyco-                         neuronal function, immune system control and liver
+and tauro-conjugated BAs are influenced by host enzymes                             regeneration (Guo et al., 2016).
+and also by diet. Glycine conjugation is favoured in adult                             There is, however, significant variability in receptor
+humans, pigs and cows, where vegan or herbivorous diets                             binding affinity and response potency, depending on
+are more prevalent (Vessey, 1978), whereas in animals                               BA species and conjugation state, resulting in a plethora
+with an omnivorous or carnivorous diet, BAs are primarily                           of biological outcomes. It is important to note that
+
+
+
+
+ Figure 1. Species divergence in bile
+ acid profiles
+ The figure illustrates the critical role that
+ luminal bacteria play in generating a diverse
+ array of bile acids. It also highlights species
+ differences between mice and humans in
+ the range and conjugation status of bile
+ acids.
+
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+2568                                                S. A. Joyce and D. O’Malley                                                         J Physiol 600.11
+
+
+significant species diversity exists between rodents                       In the absence of a gut microbial community, BA
+and humans. In mice, the primary BAs are CA and                         moieties would have remained a conservative set of
+α- and β-muricholic acid (MCA), which is derived                        molecules. Bacterial enzymatic modifications in the gut
+from CDCA through the actions of 6β-hydroxylase.                        lumen are responsible for the huge diversity of BAs
+Ursodeoxycholic acid (UDCA), a primary BA in mice                       detected regionally in the liver, the gut, the systemic
+but a ‘tertiary’ bile acid in humans, is a weak TGR5                    circulation (Staley et al., 2017) and even the brain (Zheng
+agonist (Carino et al., 2019) and neutral toward FXR.                   et al., 2016), breast milk (Forsyth et al., 1983) and
+6β-Hydroxylation alters the physicochemical properties                  ovarian follicles (Yang et al., 2021). Often, secondary bile
+of BAs, such that these molecules are more hydrophilic                  acids are more potent agonists for BA receptors (Ridlon
+but less potent detergents. The signalling properties                   et al., 2016). The gatekeepers, microbial BSHs, are a
+of murine BAs is also significantly altered as CDCA,                    ubiquitous feature of almost all phyla represented in the
+the most potent endogenous FXR agonist, is converted                    gut environment (Jones et al., 2008). BSHs belong to the
+into MCA, which is actually an FXR antagonist (Guo                      N-terminal nucleophile (Ntn) hydrolase superfamily of
+& Chiang, 2020). Additionally, murine BAs are almost                    proteins. Discovered in 1995, these enzymes hydrolyse
+exclusively conjugated to taurine (Dawson & Karpen,                     the amide bond conjugated to the BA steroid nucleus
+2015) and differences in rodent microbial profiles results              and differ in their substrate specificity (Brannigan et al.,
+in different secondary bile acids (Fig. 1). These factors               1995). Individual species of bacteria can carry none, one
+make it difficult to translate observations from rodent                 or indeed multiple copies of BSHs (Fang et al., 2009; Prete
+studies to human conditions. Indeed, FXR agonists,                      et al., 2020), which may or not be active. These enzymes
+which exhibited promise in experimental models of                       selectively remove the amine from liver-conjugated BAs,
+chronic liver disease (Ali et al., 2015), have not been as              rendering them susceptible to further modification by
+successful in humans. For example, the efficacy of FXR                  microbes (Joyce et al., 2014; Song et al., 2019).
+agonists for the treatment of non-alcoholic steatohepatitis                BSH activity may confer a protective advantage for
+was limited by dose-related side effects (Fiorucci                      bacterial species survival and colonisation, so that BSH
+et al., 2020).                                                          activity is among the selection criteria for probiotics
+                                                                        (Jones et al., 2008; Vizoso Pinto et al., 2006). Additionally,
+                                                                        in liberating amino acids, glycine and taurine, bacteria
+Interactions between bile acids and intestinal                          may be able to use these amino acids as an energy
+                                                                        source. Therefore, another role for conjugated BAs
+microbes
+                                                                        could be to carry these amino acids to the intestines
+The human body is host to its own unique, co-evolved                    for further use, or alternatively, to act as a sink for
+microbial ecosystems where microbes (bacteria, viruses                  nitrogen elimination in the faeces. BAs that escape
+and fungi) reside. Bacteria have evolved to occupy                      ileal uptake and dihydroxylation can undergo microbial
+specific spatial and temporal intestinal niches. They can               re-amidation, oxidation esterification, deglucuronidation
+form complex, sometimes symbiotic interactions with the                 and desulphatation (Quinn et al., 2020; Ridlon &
+host, as well as syntrophic interactions with other micro-              Hylemon, 2012; Ridlon et al., 2006). BAs that have under-
+bes. These interactions result in microbially produced                  gone oxidation, epimerization and dehydroxylation are
+factors and metabolites that may act as signalling                      usually recycled to the liver, repaired and re-secreted into
+molecules. The functional diversity of the intestinal tract             bile, whereas the majority of BAs excreted in the faeces are
+confers on it the capacity to both impact and indicate                  products of 7α-dehydroxylation (Hirano et al., 1981).
+health and disease status (Long et al., 2017). Modern
+meta-omics approaches have made characterisation and
+connection possible. Meta-genomics identify micro-                      Direct bile acid signalling in the central nervous
+bes and their genetic potential, meta-transcriptomics
+                                                                        system
+examine potential functionalities, meta-proteomics
+identify expressed functionality and meta-metabolomics                  Only a small proportion of BAs escape the enterohepatic
+asses the metabolites and actual functional outcomes. The               circuit to gain entry to the systemic circulation allowing
+major phyla (>90%) represented in the mature gut are                    them to function as steroid hormones. However, with the
+Firmicutes and Bacteroidetes (Hugon et al., 2015). Diet,                exception of UDCA and tauro-UDCA, which can cross
+immunity and genetics add further to the complexity                     the blood–brain barrier at physiological concentrations,
+of microbial intestinal colonisation, enrichment and its                most BAs are restricted to the peripheral circulation
+associated metabolism (Scepanovic et al., 2019). Indeed,                (Parry et al., 2010). Nonetheless, BA receptors including
+debate continues regarding the features of a healthy                    TGR5 (Keitel et al., 2010) and FXR (Huang et al.,
+microbiota and its associated healthy metabolic capacity                2016) have been detected in neurons, astrocytes and
+(Moya & Ferrer, 2016).                                                  microglia in the brain. Indeed, endogenous neurosteroids
+
+                                © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+J Physiol 600.11                                       Bioactive bile acids in gut–brain signalling                                       2569
+
+also bind to TGR5, resulting in increases intracellular                             endocrine pathways facilitate this function (Mayer, 2011;
+cAMP and calcium (Keitel et al., 2010). Neurosteroids                               Öhman et al., 2015). The versatility of BAs as signalling
+have been implicated in the pathological consequences                               molecules is underpinned by widespread expression of
+of hepatic encephalopathy in the CNS. In a mouse                                    both nuclear and membrane receptors throughout the
+model of hepatic encephalopathy, activation of TGR5                                 organism, in addition to direct and indirect modes of
+is protective against neurological decline evoked, by                               signalling. BA profiles vary with diet, transit through
+suppressing neuroinflammation (McMillin, Frampton,                                  the intestine and changes in the microbiome. Although
+Tobin et al., 2015). The brain also represents a potential                          not comparable to any human condition, germ-free
+site of BA synthesis. Indeed, twenty BAs and oxysterols                             mice, have proved extremely useful in investigating the
+were detected in rat brain regions (Zheng et al., 2016).                            capacity of luminal microbial factors to modify host
+Altered CYP8B1 and CYP7A1 expression were also                                      physiology. Germ-free mice exhibit elevated levels of
+detected in human brain tissue (Cali et al., 1991;                                  BAs and increased activation of membrane-expressed
+Ogundare et al., 2010). Additionally, when serum BAs                                TGR5 receptors (Selwyn et al., 2015). In the absence
+are at supra-physiological concentrations, as in the case                           of luminal microbes, intrinsic primary afferent neurons,
+in cholestasis, a leaky blood–brain barrier facilitates                             proposed to be a neural starting point for the relay
+passive movement of BA into the CNS. In an animal                                   of information regarding the gut lumen to the brain,
+model of cholestasis, specific BAs were taken up into                               are less excitable (McVey Neufeld et al., 2015). TGR5
+hypothalamic neurons, which express BA transporters                                 receptors have been detected on intrinsic primary afferent
+(McMillin, Frampton, Quinn et al., 2015), resulting                                 neurons (Alemi et al., 2013), indicating a possible neurally
+in suppression of corticotropin-releasing factor (CRF)                              regulated signalling pathway. Moreover, activation of
+synthesis and secretion (Quinn et al., 2014). Others                                TGR5 receptors has been implicated in gut-to-brain
+have reported that BAs have an indirect inhibitory                                  satiety-related signalling via the vagus nerve (Wu et al.,
+effect on the hypothalamic–pituitary–adrenal (HPA)                                  2020). The vagus nerve appears to have a central role
+stress axis, either through their actions on glucocorticoid                         in mediating microbiome–CNS communication, as in
+receptors (McMillin, Frampton, Quinn et al., 2015) or by                            mouse studies vagotomy prevented behavioural changes
+suppression of hepatic glucocorticoid clearance (McNeilly                           brought about by modifying the gut microbiome (Bercik
+et al., 2010).                                                                      et al., 2011; Bravo et al., 2011). Moreover, we and others
+   CRF is secreted as part of an adaptive response to                               have recorded changes in the excitability of rodent vagal
+a perceived environmental threat and thereby activates                              afferents in the jejunum (Perez-Burgos et al., 2013, 2015)
+HPA axis activity. Chronic activation of the HPA axis is                            and colon (Buckley & O’Malley, 2018; Buckley et al., 2019,
+associated with altered bowel morphology, function and                              2020) following mucosal exposure to specific bacterial
+visceral pain sensitivity (O’Malley et al., 2010; Parker et al.,                    products. As vagal afferent sensory endings are sensitive
+2019) and is frequently co-morbid in individuals with the                           to oleanolic acid, a TGR5-specific agonist (Wu et al.,
+functional bowel disorder, irritable bowel syndrome (IBS)                           2020), they are appropriately equipped to facilitate neural
+(Spiller, 2004). Stress and the subsequent activation of                            transmission of information about BAs in the luminal
+the HPA axis also impacts on the luminal environment                                environment, but further research is needed in this area.
+of the gut, as noted by direct changes in luminal BA
+profiles (Silvennoinen et al., 2015) and indirect effects
+through modification of the microbiome (Madison &                                   Endocrine-mediated gut–brain signalling evoked by
+Kiecolt-Glaser, 2019). Although more research is needed
+                                                                                    bile acids
+to elucidate the precise consequences of BA-induced
+suppression of the HPA axis activity on gut luminal                                 Embedded within the intestinal epithelium are
+contents, an impaired stress response is associated with                            enteroendocrine cells, specialised chemosensors with
+an inadequate host defence against pathogens and an                                 luminal and basolateral sides. When activated, these
+imbalance in intestinal microbiota would, in turn, modify                           polarised sensory cells release endocrine factors baso-
+the BA pool. Thus, under certain pathophysiological                                 laterally (Raybould, 2010) and represent an indirect mode
+conditions, BAs may influence central regulation of gut                             of interoceptive signalling. Expressing a multitude of
+function (Ni Dhonnabhain et al., 2021).                                             receptors, luminal contents including nutrients, micro-
+                                                                                    bial products and BAs stimulate these sensory cells,
+                                                                                    resulting in release of endocrine or neuromodulatory
+                                                                                    molecules. BAs stimulate cholecystokinin-mediated
+Sensitivity of intestinal sensory nerves to bile acids
+                                                                                    gallbladder contraction, induction of lipase activity
+Intrinsic to a bidirectional axis are signalling conduits                           and pancreatic enzyme and bicarbonate release.
+that inform the CNS about the luminal environment of                                In the colon, but not the small intestine, TGR5 is
+the intestine. Direct and indirect neural, immune and                               expressed on serotonin-secreting enterochromaffin cells
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+2570                                                 S. A. Joyce and D. O’Malley                                                         J Physiol 600.11
+
+
+(Lund et al., 2018), which release serotonin when                        BAs, which have a higher affinity for nuclear FXR,
+stimulated by bile salts. Interestingly, neoplastic                      cause the release of FGF19 , which decreases expression
+enterochromaffin cells exhibit enhanced sensitivity to                   of GLP-1 (Calderon et al., 2020). Furthermore, crosstalk
+bile salt ligands (Kidd et al., 2008). Although serotonin                between these receptors contributes to the regulation of
+cannot cross the blood–brain barrier, enterochromaffin                   glucose homeostasis (Kim & Fang, 2018), and functional
+cells are coupled to sensory nerves (Bellono et al., 2017),              antagonism has also been reported between these two BA
+revealing a clear neural pathway to facilitate signalling                receptors in the context of autophagy relating to fed and
+between the gut lumen and the CNS.                                       fasting states (Carino et al., 2021). These studies exemplify
+   Glucagon-like peptide-1 (GLP-1) and peptide YY                        the complexity of BA signalling resulting in diverse
+(PYY)-secreting L-cells are another subset of enteric                    biological outcomes. Activation of FXR in the terminal
+biosensors. Electrically excitable L-cells express an                    ileum induces secretion of FGF19 , which is transported
+abundance of receptors including receptors for micro-                    via the portal vein to the liver where is stimulates hepatic
+bially produced factors such as short-chain fatty acids                  fibroblast growth factor receptor (FGR) 4. FGR4 regulates
+(Tolhurst et al., 2012), GABA (Gameiro et al., 2005),                    de novo synthesis and mobilisation of hepatic BAs (De
+serotonin (Lund et al., 2018), as well as FXR and TGR5                   Magalhaes Filho et al., 2017). However, FGF19 may also
+both in rodents (Christiansen et al., 2019; Katsuma et al.,              cross the blood brain barrier (Hsuchou et al., 2013)
+2005) and in humans (Calderon et al., 2020; Trabelsi                     and bind to FGRs in select brain regions including the
+et al., 2015). In isolated human enterocytes, almost                     hypothalamus, where it may modulate feeding behaviour
+three-quarters of GLP-1-expressing enteroendocrine cells                 (Mertens et al., 2017), but could also impact upon gut
+were found to express TGR5, whereas only 16% of GLP-1                    function through activation of the HPA axis. This indirect
+negative cells expressed the BA receptor, indicating that                signalling cascade, involving enteroendocrine cells and
+GLP-1-secreting L-cells are the predominant cell type                    neural afferents, elucidates a potential pathway by which
+activated by TGR5-stimulating BAs (Calderon et al.,                      intestinal BA receptors could modify central neuro-
+2020). Stimulation of L-cells by potent TGR5 agonists,                   circuitry (Fig. 2).
+particularly LCA, increased intracellular cAMP and
+calcium resulting in secretion of GLP-1 (Parker et al.,
+2012). Moreover, elevated circulating concentrations of
+                                                                         Bile acids stimulate immune signalling molecules
+GLP-1 following inhibition of ileal BA transporters was
+explained by elevated luminal levels of BAs interacting                  BAs exhibit antimicrobial properties as evidenced in
+with colonic L-cells (Rudling et al., 2015). It is noteworthy            the small intestine, where high bile concentrations pre-
+that TGR5 is expressed on the basolateral membrane                       vent small intestinal bacterial overgrowth (Dawson &
+of L-cells (Brighton et al., 2015; Calderon et al., 2020;                Karpen, 2015). Mechanistically, this may be mediated
+Christiansen et al., 2019), indicating that BAs must                     through direct cytotoxicity (Staley et al., 2017), or by
+first traverse the epithelial barrier to stimulate GLP-1                 stimulating innate immune mechanisms (D’Aldebert
+release from L-cells. GLP-1 receptors are expressed in                   et al., 2009). One such mechanism employed to protect
+several regions of the central nervous system (Baggio                    the intestinal epithelium from cytotoxic BAs is the
+& Drucker, 2014) and this hormone may be able to                         stimulation of BA diarrhoea by high colonic levels of BAs
+cross the blood–brain barrier by simple diffusion (Kastin                (Hegyi et al., 2018). Moreover, monocytes, macrophages,
+et al., 2002). However, the enzyme dipeptidyl peptidase-4                dendritic and natural killer cells all express TGR5 and
+rapidly degrades circulating GLP-1, and therefore high                   FXR receptors (Cipriani et al., 2011; Maruyama et al.,
+concentrations of this hormone are primarily detected in                 2002; Vavassori et al., 2009). Generally, it appears that
+the intestinal lamina propria. An alternative signalling                 BA moieties and their conjugates are important for
+pathway would be through neural signals generated                        fine-tuning the immune response to the diversity of anti-
+in vagal afferents, which express GLP-1 receptors                        gens to which the gut is exposed (Sun et al., 2021), with
+(Nakagawa et al., 2004; Ronveaux et al., 2014). Similar                  a bias in favour of gut tolerance (Fiorucci et al., 2018).
+to the coupling of enterochromaffin cells with peri-                     Indeed, TGR5-induced activation of monocytes and
+pheral afferents (Bellono et al., 2017), L-cells also form a             macrophages inhibits phagocytic activity and secretion
+neuroepithelial circuit, directly synapsing with sensory                 of pro-inflammatory cytokines (Haselow et al., 2013;
+afferents (Bohorquez et al., 2015), which signal to the                  Perino et al., 2014; Pols et al., 2011). Cytokine and chemo-
+CNS (Buckley et al., 2020). In this way, L-cells could act               kine release from monocytes and dendritic cells is also
+as sensory transducers to facilitate indirect transmission               suppressed following FXR activation, and overall it is
+of cross-barrier sensory signals from luminal BAs to the                 protective against the effects of intestinal inflammation
+CNS.                                                                     (Gadaleta, van Erpecum et al., 2011). Changes in BA
+   In contrast to the stimulatory action of conjugated                   pools impact on intestinal immune function (Fiorucci
+BAs on the TGR5–GLP-1 signalling pathway, primary                        et al., 2021), both directly through their variable affinity
+
+                                 © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+J Physiol 600.11                                       Bioactive bile acids in gut–brain signalling                                          2571
+
+for different BA receptors on host immune cells and                                 Bile acid-mediated signalling under
+indirectly by modifying luminal microbial profiles. Pre-                            pathophysiological conditions
+viously largely ignored, formation of BA minor species or
+intermediates (Doden & Ridlon, 2021), as a consequence                              Diversity and richness of the gut microbiome is an
+of mature secondary BA formation (DCA from CA, LCA                                  indicator of good gut health (Human Microbiome Project
+and UDCA from CDCA), is important, as many are                                      Consortium, 2012), and this in turn appears to maintain a
+now being assigned roles as mediators of both innate                                healthy diversity of BAs across the spectrum. However, in
+and adaptive immunity (Campbell et al., 2020; Meng                                  disease states, where gut microbial dysbiosis occurs, the
+et al., 2018; Song et al., 2019). Given the established                             expected consequence is alterations to the size and the
+interactions between luminal factors and immune                                     diversity of the BA pool (Contijoch et al., 2019; Joyce et al.,
+cells residing in the gut, the circulation and the CNS                              2014). Elevated activity of BSH has been associated with
+(Fung, 2020), BAs could also employ immune-mediated                                 inflammation (Parasar et al., 2019) and BSHs are central
+gut-to-brain signalling pathways (Buckley et al., 2014;                             to the drive towards infection (Mullish et al., 2019), which
+O’Malley, 2016) in interoceptive communication with the                             could, in turn, influence immune-mediated signalling
+CNS (Fig. 2).                                                                       to the CNS. A role for microbes and BA signatures
+                                                                                    in intestinal and microbial health is clearly defined in
+
+
+
+
+                   Figure 2. Bile acids as bioactive molecules in the gut–brain signalling axis
+                   The illustration depicts interactions between colonic microbes with bile salt hydrolase activity and luminal bile acids
+                   (BAs). These BAs may subsequently bind to BA receptors, which are expressed on enteroendocrine, immune and
+                   neural cells. When circulating BA levels are elevated (under pathophysiological conditions), BAs may cross the
+                   blood–brain barrier and bind to TGR5 and FXR, which are expressed on neural cells, astrocytes and microglia. The
+                   figure is adapted from a ‘Gut-brain axis’ template, by BioRender.com (2021). Retrieved from https://app.biorender.
+                   com/biorender-templates
+
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+2572                                                  S. A. Joyce and D. O’Malley                                                      J Physiol 600.11
+
+
+the incidence of recurrent Clostridia difficile infections,              roles in toxin clearance, better bone health and immune
+where microbial diversity is reduced through recurrent                   functions in maintaining health in ageing. Thus, host cell
+antibiotic use. This resulted in altered BA signatures                   senescence in ageing goes hand-in-hand with microbial
+characterised by loss of secondary BAs with a concomitant                bacterial cell senescence leading to changes in BA profiles
+gain in primary BAs (Brown et al., 2018). Inflammatory                   and BA-mediated signalling.
+bowel diseases (Crohn’s disease and ulcerative colitis)
+are also linked to alterations in BA signatures. Faecal
+                                                                         Concluding remarks
+microbiota from individuals with inflammatory bowel
+disease is less diverse and more unstable (Pascal et al.,                Gaining an understanding of the physiological
+2017), and associations to inflamed and non-inflamed                     mechanisms by which microbes, residing in the external
+regions point to specific microbial drivers of inflammation              environment of the intestinal lumen, influence inter-
+and epigenetic regulation (Ryan et al., 2020). Although                  oceptive signalling from the gut to the brain has received
+signatures differed, a common emerging theme in these                    substantial research interest in recent times. While it
+patients was increased CA and a selective decrease in                    is generally accepted that a dynamic and interactive
+circulating secondary BAs (Duboc et al., 2013; Sinha et al.,             relationship exists between microbiota and BAs, the
+2020; Weng et al., 2019).                                                potential contribution of BAs as independent bioactive
+   It is generally accepted that manifestation of symptoms               signalling molecules in gut–brain communication has
+characteristic of the functional bowel disorder, IBS, is due             been somewhat overlooked.
+to dysfunctional gut–brain communication (Enck et al.,                      As discussed, BAs may signal to the CNS using both
+2016). The gut microbiome is altered in IBS patients                     direct and indirect mechanisms (Fig. 2). Once in the
+(Rajilic-Stojanovic et al., 2011). As deconjugated bile acids            systemic circulation BAs may operate as endocrine
+can drive microbial phylum-level shifts (Islam et al., 2011),            factors and cross the blood–brain barrier to directly
+changes in bacterial profiles mediated by bile acids may                 bind to BA receptors expressed on neural cells in the
+be a contributory factor in IBS. Indeed, chronic watery                  brain. However, this appears to occur primarily under
+diarrhoea is a symptom of luminal accumulation of bile                   pathophysiological conditions when concentrations of
+acids due to malabsorption (Conley et al., 1976; Coyne                   BAs are elevated. Under physiological conditions, it is
+et al., 1976), and a subset (∼25%) of individuals with                   more likely that indirect pathways represent the pre-
+IBS-D exhibit elevated faecal BAs resulting in accelerated               dominant signalling conduits for BAs. This may be
+colonic transit, which is linked with diarrhoea and visceral             through activation of BA receptor-expressing enterocytes
+pain sensitivity (Slattery et al., 2015). Bile acids may also            or enteroendocrine cells. Hormone-secreting biosensors
+influence motility in this subtype (Peleman et al., 2017).               release neuromodulatory factors such as serotonin and
+Interestingly, treatment with colestipol, which binds BAs                GLP-1 that have the capacity to stimulate vagal afferent
+and prevents ileal reabsorption, improved IBS symptoms                   fibres. An alternative signalling route is through activation
+(Bajor et al., 2015). The therapeutic potential of BAs in                of FXR-expressing enterocytes, which secrete FGF19 , a
+functional bowel disorders is currently being explored                   neuromodulatory factor that can cross the blood–brain
+(Rao et al., 2010).                                                      barrier. Further research is needed to elucidate these
+   Treatment with BAs may also have benefits in                          possible signalling routes. Finally, we described the pre-
+age-related cognitive decline. In mouse models of                        dominantly anti-inflammatory effects of BAs on the
+Alzheimer’s disease, a neurodegenerative condition                       immune system and how changes to the BA pool could
+characterised by progressive cognitive impairment,                       influence immune-mediated gut-to-brain signalling. Even
+dietary supplementation with tauro-UDCA positively                       when focused on a single class of signalling molecule such
+altered amyloid plaque deposition and neuronal                           as BAs, the simplicity of the term ‘gut–brain axis’ belies
+injury (Nunes et al., 2012) and in Parkinson’s disease,                  the complexity of direct and indirect signalling pathways,
+defective mitochondrial function was in part restored                    which may be activated by a multitude of BA species which
+on administration of UDCA (Mortiboys et al., 2013).                      have variable affinities for several BAs’ receptors. It has yet
+Indeed, BA profiles change with age. In mouse studies,                   to be determined if the actions of nuclear or membrane
+BA concentrations increased, particularly conjugated                     receptor binding BAs have contrasting or complimentary
+BAs and secondary BAs (Fu et al., 2012), whereas                         effects in terms of interoceptive signalling. It is also not
+in humans the levels of BA-committed precursor                           clear whether regional differences in BA profiles in the
+7α-hydroxy-4-cholesten-3-one, was inversely correlated                   proximal and distal intestine relay distinct information
+with ageing (Bertolotti et al., 2007). Interestingly, Sato               to the CNS. Moreover, pathophysiological changes
+et al. (2021) reported that the minor BA intermediates                   differentially modify these signalling pathways adding to
+associated with immune cell differentiation were prevalent               the complexity. Much remains to be elucidated regarding
+in centenarians. BA activities were related to enhanced                  the physiological mechanisms of these intriguing
+pathogen resistance, and the authors speculated on their                 bioactive signalling molecules.
+
+                               © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+J Physiol 600.11                                      Bioactive bile acids in gut–brain signalling                                           2573
+
+References                                                                        Buckley, M. M., O’Brien, R., Brosnan, E., Ross, R. P., Stanton,
+                                                                                    C., Buckley, J. M., & O’Malley, D. (2020). Glucagon-like
+Alemi, F., Poole, D. P., Chiu, J., Schoonjans, K., Cattaruzza, F.,                  peptide-1 secreting L-cells coupled to sensory nerves
+  Grider, J. R., Bunnett, N. W., & Corvera, C. U. (2013). The                       translate microbial signals to the host rat nervous system.
+  receptor TGR5 mediates the prokinetic actions of intestinal                       Frontiers in Cellular Neuroscience, 14, 95.
+  bile acids and is required for normal defecation in mice.                       Buckley, M. M., O’Brien, R., Buckley, J. M., & O’Malley, D.
+  Gastroenterology, 144, 145–154.                                                   (2019). GHSR-1 agonist sensitizes rat colonic intrinsic and
+Ali, A. H., Carey, E. J., & Lindor, K. D. (2015). Recent                            extrinsic neurons to exendin-4: A role in the manifestation
+  advances in the development of farnesoid X receptor                               of postprandial gastrointestinal symptoms in irritable bowel
+  agonists. Annals of Translational Medicine, 3, 5.                                 syndrome? Neurogastroenterology and Motility, e13684.
+Baggio, L. L., & Drucker, D. J. (2014). Glucagon-like peptide-1                   Buckley, M. M., O’Mahony, S. M., & O’Malley, D. (2014).
+  receptors in the brain: Controlling food intake and body                          Convergence of neuro-endocrine-immune pathways in the
+  weight. Journal of Clinical Investigation, 124, 4223–4226.                        pathophysiology of irritable bowel syndrome. World Journal
+Bajor, A., Tornblom, H., Rudling, M., Ung, K. A., & Simren,                         of Gastroenterology, 20, 8846–8858.
+  M. (2015). Increased colonic bile acid exposure: A relevant                     Buckley, M. M., & O’Malley, D. (2018). Development
+  factor for symptoms and treatment in IBS. Gut, 64, 84–92.                         of an ex vivo method for multi-unit recording of
+Bellono, N. W., Bayrer, J. R., Leitch, D. B., Castro, J., Zhang, C.,                microbiota-colonic-neural signaling in real time. Frontiers
+  O’Donnell, T. A., Brierley, S. M., Ingraham, H. A., & Julius,                     in Neuroscience, 12, 112.
+  D. (2017). Enterochromaffin cells are gut chemosensors that                     Calderon, G., McRae, A., Rievaj, J., Davis, J., Zandvakili,
+  couple to sensory neural pathways. Cell, 170, 185–198.e16.                        I., Linker-Nord, S., Burton, D., Roberts, G., Reimann,
+Bercik, P., Park, A. J., Sinclair, D., Khoshdel, A., Lu, J., Huang,                 F., Gedulin, B., Vella, A., LaRusso, N. F., Camilleri, M.,
+  X., Deng, Y., Blennerhassett, P. A., Fahnestock, M., Moine,                       Gribble, F. M., & Acosta, A. (2020). Ileo-colonic delivery
+  D., Berger, B., Huizinga, J. D., Kunze, W., McLean, P. G.,                        of conjugated bile acids improves glucose homeostasis via
+  Bergonzelli, G. E., Collins, S. M., & Verdu, E. F. (2011).                        colonic GLP-1-producing enteroendocrine cells in human
+  The anxiolytic effect of Bifidobacterium longum NCC3001                           obesity and diabetes. EBioMedicine, 55, 102759.
+  involves vagal pathways for gut-brain communication.                            Cali, J. J., Hsieh, C. L., Francke, U., & Russell, D. W. (1991).
+  Neurogastroenterology and Motility, 23, 1132–1139.                                Mutations in the bile acid biosynthetic enzyme sterol
+Bertolotti, M., Gabbi, C., Anzivino, C., Crestani, M., Mitro,                       27-hydroxylase underlie cerebrotendinous xanthomatosis.
+  N., Del Puppo, M., Godio, C., De Fabiani, E., Macchioni,                          Journal of Biological Chemistry, 266, 7779–7783.
+  D., Carulli, L., Rossi, A., Ricchi, M., Loria, P., & Carulli,                   Campbell, C., McKenney, P. T., Konstantinovsky, D., Isaeva,
+  N. (2007). Age-related changes in bile acid synthesis and                         O. I., Schizas, M., Verter, J., Mai, C., Jin, W. B., Guo, C.
+  hepatic nuclear receptor expression. European Journal of                          J., Violante, S., Ramos, R. J., Cross, J. R., Kadaveru, K.,
+  Clinical Investigation, 37, 501–508.                                              Hambor, J., & Rudensky, A. Y. (2020). Bacterial metabolism
+Bienenstock, J., Kunze, W., & Forsythe, P. (2015). Microbiota                       of bile acids promotes generation of peripheral regulatory T
+  and the gut-brain axis. Nutrition Reviews, 73(1), 28–31.                          cells. Nature, 581, 475–479.
+Bohorquez, D. V., Shahid, R. A., Erdmann, A., Kreger, A. M.,                      Carino, A., Biagioli, M., Marchiano, S., Fiorucci, C., Zampella,
+  Wang, Y., Calakos, N., Wang, F., & Liddle, R. A. (2015).                          A., Monti, M. C., Scarpelli, P., Ricci, P., Distrutti, E., &
+  Neuroepithelial circuit formed by innervation of sensory                          Fiorucci, S. (2019). Ursodeoxycholic acid is a GPBAR1
+  enteroendocrine cells. Journal of Clinical Investigation, 125,                    agonist and resets liver/intestinal FXR signaling in a
+  782–786.                                                                          model of diet-induced dysbiosis and NASH. Biochimica
+Brannigan, J. A., Dodson, G., Duggleby, H. J., Moody, P. C.,                        et Biophysica Acta – Molecular and Cell Biology of Lipids,
+  Smith, J. L., Tomchick, D. R., & Murzin, A. G. (1995). A                          1864, 1422–1437.
+  protein catalytic framework with an N-terminal nucleophile                      Carino, A., Marchiano, S., Biagioli, M., Scarpelli, P., Bordoni,
+  is capable of self-activation. Nature, 378, 416–419.                              M., Di Giorgio, C., Roselli, R., Fiorucci, C., Monti, M.
+Bravo, J. A., Forsythe, P., Chew, M. V., Escaravage, E.,                            C., Distrutti, E., Zampella, A., & Fiorucci, S. (2021). The
+  Savignac, H. M., Dinan, T. G., Bienenstock, J., & Cryan, J. F.                    bile acid activated receptors GPBAR1 and FXR exert
+  (2011). Ingestion of Lactobacillus strain regulates emotional                     antagonistic effects on autophagy. FASEB Journal, 35,
+  behavior and central GABA receptor expression in a mouse                          e21271.
+  via the vagus nerve. PNAS, 108, 16050–16055.                                    Chakrabarti, A., Geurts, L., Hoyles, L., Iozzo, P., Kraneveld,
+Brighton, C. A., Rievaj, J., Kuhre, R. E., Glass, L. L.,                            A. D., La Fata, G., Miani, M., Patterson, E., Pot, B., Shortt,
+  Schoonjans, K., Holst, J. J., Gribble, F. M., & Reimann, F.                       C., & Vauzour, D. (2022). The microbiota-gut-brain axis:
+  (2015). Bile acids trigger GLP-1 release predominantly by                         Pathways to better brain health. Perspectives on what
+  accessing basolaterally located G protein-coupled bile acid                       we know, what we need to investigate and how to put
+  receptors. Endocrinology, 156, 3961–3970.                                         knowledge into practice. Cellular and Molecular Life
+Brown, J. R., Flemer, B., Joyce, S. A., Zulquernain, A.,                            Sciences, 79, 80.
+  Sheehan, D., Shanahan, F., & O’Toole, P. W. (2018).                             Chavez-Talavera, O., Tailleux, A., Lefebvre, P., & Staels, B.
+  Changes in microbiota composition, bile and fatty acid                            (2017). Bile acid control of metabolism and inflammation
+  metabolism, in successful faecal microbiota transplantation                       in obesity, type 2 diabetes, dyslipidemia, and nonalcoholic
+  for Clostridioides difficile infection. BMC Gastroenterology,                     fatty liver disease. Gastroenterology, 152, 1679–1694.e3.
+  18, 131.
+
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+2574                                                     S. A. Joyce and D. O’Malley                                                      J Physiol 600.11
+
+
+Chiang, J. Y. L., & Ferrell, J. M. (2020). Bile acid receptors              Ducarmon, Q. R., Zwittink, R. D., Hornung, B. V. H., van
+  FXR and TGR5 signaling in fatty liver diseases and therapy.                  Schaik, W., Young, V. B., & Kuijper, E. J. (2019). Gut micro-
+  American Journal of Physiology. Gastrointestinal and Liver                   biota and colonization resistance against bacterial enteric
+  Physiology, 318, G554–G573.                                                  infection. Microbiology and Molecular Biology Reviews, 83.
+Christiansen, C. B., Trammell, S. A. J., Wewer Albrechtsen, N.              El Aidy, S., Dinan, T. G., & Cryan, J. F. (2015). Gut microbiota:
+  J., Schoonjans, K., Albrechtsen, R., Gillum, M. P., Kuhre, R.                The conductor in the orchestra of immune-neuroendocrine
+  E., & Holst, J. J. (2019). Bile acids drive colonic secretion                communication. Clinical Therapeutics, 37,
+  of glucagon-like-peptide 1 and peptide-YY in rodents.                        954–967.
+  American Journal of Physiology. Gastrointestinal and Liver                Enck, P., Aziz, Q., Barbara, G., Farmer, A. D., Fukudo, S.,
+  Physiology, 316, G574–G584.                                                  Mayer, E. A., Niesler, B., Quigley, E. M., Rajilic-Stojanovic,
+Cipriani, S., Mencarelli, A., Chini, M. G., Distrutti, E., Renga,              M., Schemann, M., Schwille-Kiuntke, J., Simren, M., Zipfel,
+  B., Bifulco, G., Baldelli, F., Donini, A., & Fiorucci, S.                    S., & Spiller, R. C. (2016). Irritable bowel syndrome. Nature
+  (2011). The bile acid receptor GPBAR-1 (TGR5) modulates                      Reviews Disease Primers, 2, 16014.
+  integrity of intestinal barrier and immune response to                    Fang, F., Li, Y., Bumann, M., Raftis, E. J., Casey, P. G., Cooney,
+  experimental colitis. PLoS One, 6, e25637.                                   J. C., Walsh, M. A., & O’Toole, P. W. (2009). Allelic variation
+Conley, D. R., Coyne, M. J., Bonorris, G. G., Chung, A., &                     of bile salt hydrolase genes in Lactobacillus salivarius does
+  Schoenfield, L. J. (1976). Bile acid stimulation of colonic                  not determine bile resistance levels. Journal of Bacteriology,
+  adenylate cyclase and secretion in the rabbit. American                      191, 5743–5757.
+  Journal of Digestive Diseases, 21, 453–458.                               Fiorucci, S., Biagioli, M., Sepe, V., Zampella, A., & Distrutti,
+Contijoch, E. J., Britton, G. J., Yang, C., Mogno, I., Li, Z., Ng,             E. (2020). Bile acid modulators for the treatment of non-
+  R., Llewellyn, S. R., Hira, S., Johnson, C., Rabinowitz, K. M.,              alcoholic steatohepatitis (NASH). Expert Opinion on
+  Barkan, R., Dotan, I., Hirten, R. P., Fu, S. C., Luo, Y., Yang,              Investigational Drugs, 29, 623–632.
+  N., Luong, T., Labrias, P. R., Lira, S., … Faith, J. J. (2019).           Fiorucci, S., Biagioli, M., Zampella, A., & Distrutti, E. (2018).
+  Gut microbiota density influences host physiology and is                     Bile acids activated receptors regulate innate immunity.
+  shaped by host and microbial factors. eLife, 8, e40553.                      Frontiers in Immunology, 9, 1853.
+Coyne, M. J., Bonorris, G. G., Chung, A., Conley, D. R., Croke,             Fiorucci, S., Carino, A., Baldoni, M., Santucci, L., Costanzi,
+  J., & Schoenfield, L. J. (1976). Inhibition by propranolol of                E., Graziosi, L., Distrutti, E., & Biagioli, M. (2021). Bile acid
+  bile acid stimulation of rabbit colonic adenylate cyclase in                 signaling in inflammatory bowel diseases. Digestive Diseases
+  vitro. Gastroenterology, 71, 68–71.                                          and Sciences, 66, 674–693.
+D’Aldebert, E., Biyeyeme Bi Mve, M. J., Mergey, M., Wendum,                 Forsyth, J. S., Ross, P. E., & Bouchier, I. A. (1983). Bile salts in
+  D., Firrincieli, D., Coilly, A., Fouassier, L., Corpechot,                   breast milk. European Journal of Pediatrics, 140, 126–127.
+  C., Poupon, R., Housset, C., & Chignard, N. (2009). Bile                  Fu, Z. D., Csanaky, I. L., & Klaassen, C. D. (2012).
+  salts control the antimicrobial peptide cathelicidin through                 Gender-divergent profile of bile acid homeostasis during
+  nuclear receptors in the human biliary epithelium. Gastro-                   aging of mice. PLoS One, 7, e32551.
+  enterology, 136, 1435–1443.                                               Fung, C., Cools, B., Malagola, S., Martens, T., Tack, J.,
+Dawson, P. A., & Karpen, S. J. (2015). Intestinal transport                    Kazwiny, Y., & Vanden Berghe, P. (2021). Luminal
+  and metabolism of bile acids. Journal of Lipid Research, 56,                 short-chain fatty acids and 5-HT acutely activate
+  1085–1099.                                                                   myenteric neurons in the mouse proximal colon. Neuro-
+De Magalhaes Filho, C. D., Downes, M., & Evans, R. M.                          gastroenterology and Motility, 33, e14186.
+  (2017). Farnesoid X receptor an emerging target to combat                 Fung, T. C. (2020). The microbiota-immune axis as a central
+  obesity. Digestive Diseases, 35, 185–190.                                    mediator of gut-brain communication. Neurobiology of
+Degirolamo, C., Modica, S., Vacca, M., Di Tullio, G., Morgano,                 Disease, 136, 104714.
+  A., D’Orazio, A., Kannisto, K., Parini, P., & Moschetta, A.               Gadaleta, R. M., Oldenburg, B., Willemsen, E. C., Spit, M.,
+  (2015). Prevention of spontaneous hepatocarcinogenesis                       Murzilli, S., Salvatore, L., Klomp, L. W., Siersema, P. D., van
+  in farnesoid X receptor-null mice by intestinal-specific                     Erpecum, K. J., & van Mil, S. W. (2011). Activation of bile
+  farnesoid X receptor reactivation. Hepatology, 61, 161–170.                  salt nuclear receptor FXR is repressed by pro-inflammatory
+Deutschmann, K., Reich, M., Klindt, C., Droge, C., Spomer, L.,                 cytokines activating NF-kappaB signaling in the intestine.
+  Haussinger, D., & Keitel, V. (2018). Bile acid receptors in the              Biochimica Et Biophysica Acta, 1812, 851–858.
+  biliary tree: TGR5 in physiology and disease. Biochimica et               Gadaleta, R. M., van Erpecum, K. J., Oldenburg, B.,
+  Biophysica Acta - Molecular Basis of Disease, 1864, 1319–1325.               Willemsen, E. C., Renooij, W., Murzilli, S., Klomp, L.
+Doden, H. L., & Ridlon, J. M. (2021). Microbial Hydro-                         W., Siersema, P. D., Schipper, M. E., Danese, S., Penna,
+  xysteroid dehydrogenases: From alpha to omega. Micro-                        G., Laverny, G., Adorini, L., Moschetta, A., & van Mil,
+  organisms, 9, 469.                                                           S. W. (2011). Farnesoid X receptor activation inhibits
+Duboc, H., Rajca, S., Rainteau, D., Benarous, D., Maubert,                     inflammation and preserves the intestinal barrier in
+  M. A., Quervain, E., Thomas, G., Barbu, V., Humbert,                         inflammatory bowel disease. Gut, 60, 463–472.
+  L., Despras, G., Bridonneau, C., Dumetz, F., Grill, J. P.,                Gameiro, A., Reimann, F., Habib, A. M., O’Malley, D.,
+  Masliah, J., Beaugerie, L., Cosnes, J., Chazouilleres, O.,                   Williams, L., Simpson, A. K., & Gribble, F. M. (2005).
+  Poupon, R., Wolf, C., … Seksik, P. (2013). Connecting                        The neurotransmitters glycine and GABA stimulate
+  dysbiosis, bile-acid dysmetabolism and gut inflammation                      glucagon-like peptide-1 release from the GLUTag cell line.
+  in inflammatory bowel diseases. Gut, 62, 531–539.                            Journal of Physiology, 569, 761–772.
+
+                                  © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+J Physiol 600.11                                      Bioactive bile acids in gut–brain signalling                                           2575
+
+Guo, C., Chen, W. D., & Wang, Y. D. (2016). TGR5, not only a                      Jones, B. V., Begley, M., Hill, C., Gahan, C. G., & Marchesi,
+   metabolic regulator. Frontiers in Physiology, 7, 646.                             J. R. (2008). Functional and comparative metagenomic
+Guo, G. L., & Chiang, J. Y. L. (2020). Is CYP2C70 the key to                         analysis of bile salt hydrolase activity in the human gut
+   new mouse models to understand bile acids in humans?                              microbiome. PNAS, 105, 13580–13585.
+   Journal of Lipid Research, 61, 269–271.                                        Joyce, S. A., MacSharry, J., Casey, P. G., Kinsella, M., Murphy,
+Guzior, D. V., & Quinn, R. A. (2021). Review: Microbial trans-                       E. F., Shanahan, F., Hill, C., & Gahan, C. G. (2014).
+   formations of human bile acids. Microbiome, 9, 140.                               Regulation of host weight gain and lipid metabolism by
+Hanniman, E. A., Lambert, G., McCarthy, T. C., & Sinal, C.                           bacterial bile acid modification in the gut. PNAS, 111,
+   J. (2005). Loss of functional farnesoid X receptor increases                      7421–7426.
+   atherosclerotic lesions in apolipoprotein E-deficient mice.                    Kastin, A. J., Akerstrom, V., & Pan, W. (2002). Interactions
+   Journal of Lipid Research, 46, 2595–2604.                                         of glucagon-like peptide-1 (GLP-1) with the blood-brain
+Haselow, K., Bode, J. G., Wammers, M., Ehlting, C., Keitel, V.,                      barrier. Journal of Molecular Neuroscience, 18, 07–13.
+   Kleinebrecht, L., Schupp, A. K., Haussinger, D., & Graf, D.                    Katsuma, S., Hirasawa, A., & Tsujimoto, G. (2005). Bile acids
+   (2013). Bile acids PKA-dependently induce a switch of the                         promote glucagon-like peptide-1 secretion through TGR5
+   IL-10/IL-12 ratio and reduce proinflammatory capability                           in a murine enteroendocrine cell line STC-1. Biochemical
+   of human macrophages. Journal of Leukocyte Biology, 94,                           and Biophysical Research Communications, 329, 386–390.
+   1253–1264.                                                                     Kawamata, Y., Fujii, R., Hosoya, M., Harada, M., Yoshida,
+Hegyi, P., Maleth, J., Walters, J. R., Hofmann, A. F., & Keely, S.                   H., Miwa, M., Fukusumi, S., Habata, Y., Itoh, T., Shintani,
+   J. (2018). Guts and gall: Bile acids in regulation of intestinal                  Y., Hinuma, S., Fujisawa, Y., & Fujino, M. (2003). A G
+   epithelial function in health and disease. Physiological                          protein-coupled receptor responsive to bile acids. Journal
+   Reviews, 98, 1983–2023.                                                           of Biological Chemistry, 278, 9435–9440.
+Henkel, A. S., LeCuyer, B., Olivares, S., & Green, R. M.                          Keitel, V., Gorg, B., Bidmon, H. J., Zemtsova, I., Spomer, L.,
+   (2017). Endoplasmic reticulum stress regulates hepatic bile                       Zilles, K., & Haussinger, D. (2010). The bile acid receptor
+   acid metabolism in mice. Cellular and Molecular Gastro-                           TGR5 (Gpbar-1) acts as a neurosteroid receptor in brain.
+   enterology and Hepatology, 3, 261–271.                                            Glia, 58, 1794–1805.
+Hirano, S., Nakama, R., Tamaki, M., Masuda, N., & Oda, H.                         Kidd, M., Modlin, I. M., Gustafsson, B. I., Drozdov, I., Hauso,
+   (1981). Isolation and characterization of thirteen intestinal                     O., & Pfragner, R. (2008). Luminal regulation of normal
+   microorganisms capable of 7 alpha-dehydroxylating                                 and neoplastic human EC cell serotonin release is mediated
+   bile acids. Applied and Environmental Microbiology, 41,                           by bile salts, amines, tastants, and olfactants. American
+   737–745.                                                                          Journal of Physiology. Gastrointestinal and Liver Physiology,
+Hsuchou, H., Pan, W., & Kastin, A. J. (2013). Fibroblast                             295, G260–G272.
+   growth factor 19 entry into brain. Fluids Barriers CNS,                        Kim, H., & Fang, S. (2018). Crosstalk between FXR and TGR5
+   10, 32.                                                                           controls glucagon-like peptide 1 secretion to maintain
+Huang, C., Wang, J., Hu, W., Wang, C., Lu, X., Tong, L.,                             glycemic homeostasis. Laboratory Animal Research, 34,
+   Wu, F., & Zhang, W. (2016). Identification of functional                          140–146.
+   farnesoid X receptors in brain neurons. FEBS Letters, 590,                     Laffitte, B., Kast, H., Nguyen, C., Zavacki, A., Moore, D., &
+   3233–3242.                                                                        Edwards, P. (2000). Identification of the DNA binding
+Huang, F., Wang, T., Lan, Y., Yang, L., Pan, W., Zhu, Y., Lv, B.,                    specificity and potential target genes for the farnesoid
+   Wei, Y., Shi, H., Wu, H., Zhang, B., Wang, J., Duan, X., Hu,                      X-activated receptor. Journal of Biological Chemistry, 275,
+   Z., & Wu, X. (2015). Deletion of mouse FXR gene disturbs                          10638–10647.
+   multiple neurotransmitter systems and alters neurobehavior.                    Long, S. L., Gahan, C. G. M., & Joyce, S. A. (2017). Inter-
+   Frontiers in Behavioral Neuroscience, 9, 70.                                      actions between gut bacteria and bile in health and disease.
+Hugon, P., Dufour, J. C., Colson, P., Fournier, P. E., Sallah,                       Molecular Aspects of Medicine, 56, 54–65.
+   K., & Raoult, D. (2015). A comprehensive repertoire of                         Lund, M. L., Egerod, K. L., Engelstoft, M. S., Dmytriyeva, O.,
+   prokaryotic species identified in human beings. The Lancet                        Theodorsson, E., Patel, B. A., & Schwartz, T. W. (2018).
+   Infectious Diseases, 15, 1211–1219.                                               Enterochromaffin 5-HT cells – A major target for GLP-1
+Human Microbiome Project Consortium (2012). Structure,                               and gut microbial metabolites. Molecular Metabolism, 11,
+   function and diversity of the healthy human microbiome.                           70–83.
+   Nature, 486, 207–214.                                                          Lyte, M. (2014). Microbial endocrinology: Host-microbiota
+Islam, K. B., Fukiya, S., Hagio, M., Fujii, N., Ishizuka, S.,                        neuroendocrine interactions influencing brain and
+   Ooka, T., Ogura, Y., Hayashi, T., & Yokota, A. (2011).                            behavior. Gut Microbes, 5, 381–389.
+   Bile acid is a host factor that regulates the composition                      Madison, A., & Kiecolt-Glaser, J. K. (2019). Stress, depression,
+   of the cecal microbiota in rats. Gastroenterology, 141,                           diet, and the gut microbiota: Human-bacteria interactions
+   1773–1781.                                                                        at the core of psychoneuroimmunology and nutrition.
+Jonas, M. I., Kurylowicz, A., Bartoszewicz, Z., Lisik, W., Jonas,                    Current Opinion in Behavioral Sciences, 28, 105–110.
+   M., Kozniewski, K., & Puzianowska-Kuznicka, M. (2019).                         Maruyama, T., Miyamoto, Y., Nakamura, T., Tamai, Y., Okada,
+   Vitamin D receptor gene expression in adipose tissue of                           H., Sugiyama, E., Nakamura, T., Itadani, H., & Tanaka,
+   obese individuals is regulated by miRNA and correlates                            K. (2002). Identification of membrane-type receptor for
+   with the pro-inflammatory cytokine level. International                           bile acids (M-BAR). Biochemical and Biophysical Research
+   Journal of Molecular Sciences, 20, 5272.                                          Communications, 298, 714–719.
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+2576                                                     S. A. Joyce and D. O’Malley                                                      J Physiol 600.11
+
+
+Mayer, E. A. (2011). Gut feelings: The emerging biology of                  Nunes, A. F., Amaral, J. D., Lo, A. C., Fonseca, M. B., Viana,
+  gut-brain communication. Nature Reviews. Neuroscience,                      R. J., Callaerts-Vegh, Z., D’Hooge, R., & Rodrigues, C. M.
+  12, 453–466.                                                                (2012). TUDCA, a bile acid, attenuates amyloid precursor
+McMillin, M., Frampton, G., Quinn, M., Divan, A., Grant,                      protein processing and amyloid-beta deposition in APP/PS1
+  S., Patel, N., Newell-Rogers, K., & DeMorrow, S. (2015).                    mice. Molecular Neurobiology, 45, 440–454.
+  Suppression of the HPA axis during cholestasis can be                     O’Malley, D. (2016). Neuroimmune Cross Talk in the Gut.
+  attributed to hypothalamic bile acid signaling. Molecular                   Neuroendocrine and neuroimmune pathways contribute to
+  Endocrinology, 29, 1720–1730.                                               the pathophysiology of irritable bowel syndrome. American
+McMillin, M., Frampton, G., Tobin, R., Dusio, G., Smith, J.,                  Journal of Physiology. Gastrointestinal and Liver Physiology,
+  Shin, H., Newell-Rogers, K., Grant, S., & DeMorrow, S.                      311, G934-G941.
+  (2015). TGR5 signaling reduces neuroinflammation during                   O’Malley, D., Julio-Pieper, M., Gibney, S. M., Dinan, T.
+  hepatic encephalopathy. Journal of Neurochemistry, 135,                     G., & Cryan, J. F. (2010). Distinct alterations in colonic
+  565–576.                                                                    morphology and physiology in two rat models of enhanced
+McNeilly, A. D., Macfarlane, D. P., O’Flaherty, E., Livingstone,              stress-induced anxiety and depression-like behaviour. Stress,
+  D. E., Mitic, T., McConnell, K. M., McKenzie, S. M., Davies,                13, 114–122.
+  E., Reynolds, R. M., Thiesson, H. C., Skott, O., Walker, B.               Ogundare, M., Theofilopoulos, S., Lockhart, A., Hall, L. J.,
+  R., & Andrew, R. (2010). Bile acids modulate glucocorticoid                 Arenas, E., Sjovall, J., Brenton, A. G., Wang, Y., & Griffiths,
+  metabolism and the hypothalamic-pituitary-adrenal axis in                   W. J. (2010). Cerebrospinal fluid steroidomics: Are bioactive
+  obstructive jaundice. Journal of Hepatology, 52, 705–711.                   bile acids present in brain? Journal of Biological Chemistry,
+McVey Neufeld, K. A., Perez-Burgos, A., Mao, Y. K.,                           285, 4666–4679.
+  Bienenstock, J., & Kunze, W. A. (2015). The gut micro-                    Öhman, L., Törnblom, H., & Simrén, M. (2015). Cross-
+  biome restores intrinsic and extrinsic nerve function in                    talk at the mucosal border: Importance of the gut micro-
+  germ-free mice accompanied by changes in calbindin.                         environment in IBS. Nature reviews. Gastroenterology &
+  Neurogastroenterology and Motility, 27, 627–636.                            Hepatology, 12, 36–49.
+Meng, F., Kennedy, L., Hargrove, L., Demieville, J., Jones, H.,             Parasar, B., Zhou, H., Xiao, X., Shi, Q., Brito, I. L., &
+  Madeka, T., Karstens, A., Chappell, K., Alpini, G., Sybenga,                Chang, P. V. (2019). Chemoproteomic profiling of gut
+  A., Invernizzi, P., Bernuzzi, F., DeMorrow, S., & Francis,                  microbiota-associated bile salt hydrolase activity. ACS
+  H. (2018). Ursodeoxycholate inhibits mast cell activation                   Central Science, 5, 867–873.
+  and reverses biliary injury and fibrosis in Mdr2(-/-) mice                Parker, C. H., Naliboff, B. D., Shih, W., Presson, A. P.,
+  and human primary sclerosing cholangitis. Laboratory                        Videlock, E. J., Mayer, E. A., & Chang, L. (2019). Negative
+  Investigation, 98, 1465–1477.                                               events during adulthood are associated with symptom
+Mertens, K. L., Kalsbeek, A., Soeters, M. R., & Eggink, H. M.                 severity and altered stress response in patients with irritable
+  (2017). Bile acid signaling pathways from the enterohepatic                 bowel syndrome. Clinical Gastroenterology and Hepatology,
+  circulation to the central nervous system. Frontiers in                     17, 2245–2252.
+  Neuroscience, 11, 617.                                                    Parker, H. E., Wallis, K., le Roux, C. W., Wong, K. Y., Reimann,
+Mortiboys, H., Aasly, J., & Bandmann, O. (2013). Ursocholanic                 F., & Gribble, F. M. (2012). Molecular mechanisms under-
+  acid rescues mitochondrial function in common forms of                      lying bile acid-stimulated glucagon-like peptide-1 secretion.
+  familial Parkinson’s disease. Brain, 136, 3038–3050.                        British Journal of Pharmacology, 165, 414–423.
+Moya, A., & Ferrer, M. (2016). Functional                                   Parry, G. J., Rodrigues, C. M., Aranha, M. M., Hilbert, S. J.,
+  redundancy-induced stability of gut microbiota subjected                    Davey, C., Kelkar, P., Low, W. C., & Steer, C. J. (2010).
+  to disturbance. Trends in Microbiology, 24, 402–413.                        Safety, tolerability, and cerebrospinal fluid penetration of
+Mullish, B. H., McDonald, J. A. K., Pechlivanis, A., Allegretti,              ursodeoxycholic acid in patients with amyotrophic lateral
+  J. R., Kao, D., Barker, G. F., Kapila, D., Petrof, E. O., Joyce,            sclerosis. Clinical Neuropharmacology, 33, 17–21.
+  S. A., Gahan, C. G. M., Glegola-Madejska, I., Williams, H.                Pascal, V., Pozuelo, M., Borruel, N., Casellas, F., Campos,
+  R. T., Holmes, E., Clarke, T. B., Thursz, M. R., & Marchesi, J.             D., Santiago, A., Martinez, X., Varela, E., Sarrabayrouse,
+  R. (2019). Microbial bile salt hydrolases mediate the efficacy              G., Machiels, K., Vermeire, S., Sokol, H., Guarner, F., &
+  of faecal microbiota transplant in the treatment of recurrent               Manichanh, C. (2017). A microbial signature for Crohn’s
+  Clostridioides difficile infection. Gut, 68, 1791–1800.                     disease. Gut, 66, 813–822.
+Murphy, G. M., & Signer, E. (1974). Bile acid metabolism in                 Peleman, C., Camilleri, M., Busciglio, I., Burton, D., Donato,
+  infants and children. Gut, 15, 151–163.                                     L., & Zinsmeister, A. R. (2017). Colonic transit and bile
+Nakagawa, A., Satake, H., Nakabayashi, H., Nishizawa,                         acid synthesis or excretion in patients with irritable bowel
+  M., Furuya, K., Nakano, S., Kigoshi, T., Nakayama,                          syndrome-diarrhea without bile acid malabsorption.
+  K., & Uchida, K. (2004). Receptor gene expression of                        Clinical Gastroenterology and Hepatology, 15,
+  glucagon-like peptide-1, but not glucose-dependent                          720–727.e1.
+  insulinotropic polypeptide, in rat nodose ganglion cells.                 Perez-Burgos, A., Wang, B., Mao, Y. K., Mistry, B., McVey
+  Autonomic Neuroscience, 110, 36–43.                                         Neufeld, K. A., Bienenstock, J., & Kunze, W. (2013).
+Ni Dhonnabhain, R., Xiao, Q., & O’Malley, D. (2021).                          Psychoactive bacteria Lactobacillus rhamnosus (JB-1) elicits
+  Aberrant gut-to-brain signaling in irritable bowel syndrome                 rapid frequency facilitation in vagal afferents. American
+  - the role of bile acids. Frontiers in Endocrinology, 12,                   Journal of Physiology. Gastrointestinal and Liver Physiology,
+  745190.                                                                     304, G211–G220.
+
+                                  © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+J Physiol 600.11                                      Bioactive bile acids in gut–brain signalling                                             2577
+
+Perez-Burgos, A., Wang, L., McVey Neufeld, K. A., Mao, Y. K.,                     Ridlon, J. M., Kang, D.-J., & Hylemon, P. B. (2006). Bile salt
+  Ahmadzai, M., Janssen, L. J., Stanisz, A. M., Bienenstock,                         biotransformations by human intestinal bacteria. Journal of
+  J., & Kunze, W. A. (2015). The TRPV1 channel in rodents                            Lipid Research, 47, 241–259.
+  is a major target for antinociceptive effect of the probiotic                   Ronveaux, C. C., de Lartigue, G., & Raybould, H. E. (2014).
+  Lactobacillus reuteri DSM 17938. Journal of Physiology, 593,                       Ability of GLP-1 to decrease food intake is dependent on
+  3943–3957.                                                                         nutritional status. Physiology & Behavior, 135, 222–229.
+Perino, A., Pols, T. W., Nomura, M., Stein, S., Pellicciari,                      Rudling, M., Camilleri, M., Graffner, H., Holst, J. J., & Rikner,
+  R., & Schoonjans, K. (2014). TGR5 reduces macrophage                               L. (2015). Specific inhibition of bile acid transport alters
+  migration through mTOR-induced C/EBPbeta differential                              plasma lipids and GLP-1. BMC Cardiovascular Disorders,
+  translation. Journal of Clinical Investigation, 124,                               15, 75.
+  5424–5436.                                                                      Ryan, F. J., Ahern, A. M., Fitzgerald, R. S., Laserna-Mendieta,
+Pols, T. W., Noriega, L. G., Nomura, M., Auwerx, J.,                                 E. J., Power, E. M., Clooney, A. G., O’Donoghue, K. W.,
+  & Schoonjans, K. (2011). The bile acid membrane                                    McMurdie, P. J., Iwai, S., Crits-Christoph, A., Sheehan,
+  receptor TGR5 as an emerging target in metabolism and                              D., Moran, C., Flemer, B., Zomer, A. L., Fanning, A.,
+  inflammation. Journal of Hepatology, 54, 1263–1272.                                O’Callaghan, J., Walton, J., Temko, A., Stack, W., …
+Prete, R., Long, S. L., Gallardo, A. L., Gahan, C. G., Corsetti,                     Claesson, M. J. (2020). Colonic microbiota is associated
+  A., & Joyce, S. A. (2020). Beneficial bile acid metabolism                         with inflammation and host epigenomic alterations in
+  from Lactobacillus plantarum of food origin. Science                               inflammatory bowel disease. Nature Communication, 11,
+  Reports, 10, 1165.                                                                 1512.
+Quinn, M., McMillin, M., Galindo, C., Frampton, G., Pae,                          Sato, Y., Atarashi, K., Plichta, D. R., Arai, Y., Sasajima, S.,
+  H. Y., & DeMorrow, S. (2014). Bile acids permeabilize                              Kearney, S. M., Suda, W., Takeshita, K., Sasaki, T., Okamoto,
+  the blood brain barrier after bile duct ligation in rats via                       S., Skelly, A. N., Okamura, Y., Vlamakis, H., Li, Y., Tanoue,
+  Rac1-dependent mechanisms. Digestive and Liver Disease,                            T., Takei, H., Nittono, H., Narushima, S., Irie, J., … Honda
+  46, 527–534.                                                                       K. (2021). Novel bile acid biosynthetic pathways are
+Quinn, R. A., Melnik, A. V., Vrbanac, A., Fu, T., Patras, K.                         enriched in the microbiome of centenarians. Nature, 599,
+  A., Christy, M. P., Bodai, Z., Belda-Ferre, P., Tripathi,                          458–464.
+  A., Chung, L. K., Downes, M., Welch, R. D., Quinn, M.,                          Sayin, S. I., Wahlstrom, A., Felin, J., Jantti, S., Marschall, H.
+  Humphrey, G., Panitchpakdi, M., Weldon, K. C., Aksenov,                            U., Bamberg, K., Angelin, B., Hyotylainen, T., Oresic, M.,
+  A., da Silva, R., Avila-Pacheco, J., … Dorrestein, P. C.                           & Backhed, F. (2013). Gut microbiota regulates bile acid
+  (2020). Global chemical effects of the microbiome include                          metabolism by reducing the levels of tauro-beta-muricholic
+  new bile-acid conjugations. Nature, 579, 123–129.                                  acid, a naturally occurring FXR antagonist. Cell Metabolism,
+Rajilic-Stojanovic, M., Biagi, E., Heilig, H. G., Kajander, K.,                      17, 225–235.
+  Kekkonen, R. A., Tims, S., & de Vos, W. M. (2011). Global                       Scepanovic, P., Hodel, F., Mondot, S., Partula, V., Byrd, A.,
+  and deep molecular analysis of microbiota signatures in                            Hammer, C., Alanio, C., Bergstedt, J., Patin, E., Touvier,
+  fecal samples from patients with irritable bowel syndrome.                         M., Lantz, O., Albert, M. L., Duffy, D., Quintana-Murci, L.,
+  Gastroenterology, 141, 1792–1801.                                                  Fellay, J., & Milieu Interieur, C. (2019). A comprehensive
+Rao, A. S., Wong, B. S., Camilleri, M., Odunsi-Shiyanbade,                           assessment of demographic, environmental, and host
+  S. T., McKinzie, S., Ryks, M., Burton, D., Carlson, P.,                            genetic associations with gut microbiome diversity in
+  Lamsam, J., Singh, R., & Zinsmeister, A. R. (2010).                                healthy individuals. Microbiome, 7, 130.
+  Chenodeoxycholate in females with irritable bowel                               Selwyn, F. P., Csanaky, I. L., Zhang, Y., & Klaassen, C. D.
+  syndrome-constipation: a pharmacodynamic and                                       (2015). Importance of large intestine in regulating bile
+  pharmacogenetic analysis. Gastroenterology, 139,                                   acids and glucagon-like peptide-1 in germ-free mice. Drug
+  1549–1558.e1.                                                                      Metabolism and Disposition, 43, 1544–1556.
+Raybould, H. E. (2010). Gut chemosensing: Interactions                            Silvennoinen, R., Quesada, H., Kareinen, I., Julve, J.,
+  between gut endocrine cells and visceral afferents. Auto-                          Kaipiainen, L., Gylling, H., Blanco-Vaca, F., Escola-Gil, J. C.,
+  nomic Neuroscience, 153, 41–46.                                                    Kovanen, P. T., & Lee-Rueckert, M. (2015). Chronic inter-
+Ren, S., Hylemon, P. B., Marques, D., Gurley, E., Bodhan, P.,                        mittent psychological stress promotes macrophage reverse
+  Hall, E., Redford, K., Gil, G., & Pandak, W. M. (2004).                            cholesterol transport by impairing bile acid absorption in
+  Overexpression of cholesterol transporter StAR increases                           mice. Physiological Reports, 3, e12402.
+  in vivo rates of bile acid synthesis in the rat and mouse.                      Sinha, S. R., Haileselassie, Y., Nguyen, L. P., Tropini, C., Wang,
+  Hepatology, 40, 910–917.                                                           M., Becker, L. S., Sim, D., Jarr, K., Spear, E. T., Singh, G.,
+Ridlon, J. M., Harris, S. C., Bhowmik, S., Kang, D. J.,                              Namkoong, H., Bittinger, K., Fischbach, M. A., Sonnenburg,
+  & Hylemon, P. B. (2016). Consequences of bile salt                                 J. L., & Habtezion, A. (2020). Dysbiosis-induced secondary
+  biotransformations by intestinal bacteria. Gut Microbes,                           bile acid deficiency promotes intestinal inflammation. Cell
+  7, 22–39.                                                                          Host & Microbe, 27, 659–670.e5.
+Ridlon, J. M., & Hylemon, P. B. (2012). Identification                            Slattery, S. A., Niaz, O., Aziz, Q., Ford, A. C., & Farmer, A.
+  and characterization of two bile acid coenzyme A                                   D. (2015). Systematic review with meta-analysis: The pre-
+  transferases from Clostridium scindens, a bile acid                                valence of bile acid malabsorption in the irritable bowel
+  7alpha-dehydroxylating intestinal bacterium. Journal of                            syndrome with diarrhoea. Alimentary Pharmacology &
+  Lipid Research, 53, 66–76.                                                         Therapeutics, 42, 3–11.
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+2578                                                      S. A. Joyce and D. O’Malley                                                         J Physiol 600.11
+
+
+Song, Z., Cai, Y., Lao, X., Wang, X., Lin, X., Cui, Y.,                       Wu, X., Li, J. Y., Lee, A., Lu, Y. X., Zhou, S. Y., & Owyang, C.
+   Kalavagunta, P. K., Liao, J., Jin, L., Shang, J., & Li, J. (2019).           (2020). Satiety induced by bile acids is mediated via vagal
+   Taxonomic profiling and populational patterns of bacterial                   afferent pathways. JCI Insight, 5, e132400.
+   bile salt hydrolase (BSH) genes based on worldwide human                   Yang, X., Wu, R., Qi, D., Fu, L., Song, T., Wang, Y., Bian, Y.,
+   gut microbiome. Microbiome, 7, 9.                                            & Shi, Y. (2021). Profile of bile acid metabolomics in the
+Spiller, R. C. (2004). Irritable bowel syndrome. British Medical                follicular fluid of PCOS patients. Metabolites 11, 845.
+   Bulletin, 72, 15–29.                                                       Zheng, X., Chen, T., Zhao, A., Wang, X., Xie, G., Huang, F.,
+Staley, C., Weingarden, A. R., Khoruts, A., & Sadowsky,                         Liu, J., Zhao, Q., Wang, S., Wang, C., Zhou, M., Panee, J.,
+   M. J. (2017). Interaction of gut microbiota with bile acid                   He, Z., & Jia, W. (2016). The brain metabolome of male rats
+   metabolism and its influence on disease states. Applied                      across the lifespan. Science Reports, 6, 24125.
+   Microbiology and Biotechnology, 101, 47–64.
+Stilling, R. M., Dinan, T. G., & Cryan, J. F. (2016). The brain’s
+   Geppetto-microbes as puppeteers of neural function and                     Additional information
+   behaviour? Journal of Neurovirology. 22, 14 -21.
+Sun, R., Xu, C., Feng, B., Gao, X., & Liu, Z. (2021). Critical                Competing interests
+   roles of bile acids in regulating intestinal mucosal immune                None.
+   responses. Therapeutic Advances in Gastroenterology, 14,
+   175628482110180.
+Takikawa, H., Beppu, T., & Seyama, Y. (1985). Profiles of bile                Author contributions
+   acids and their glucuronide and sulphate conjugates in
+   the serum, urine and bile from patients undergoing bile                    S.J. and D.O.’M. prepared this review together. Both authors have
+   drainage. Gut, 26, 38–42.                                                  read and approved the final version of this manuscript and agree
+Tolhurst, G., Heffron, H., Lam, Y. S., Parker, H. E., Habib, A.               to be accountable for all aspects of the work in ensuring that
+   M., Diakogiannaki, E., Cameron, J., Grosse, J., Reimann, F.,               questions related to the accuracy or integrity of any part of the
+   & Gribble, F. M. (2012). Short-chain fatty acids stimulate                 work are appropriately investigated and resolved. All persons
+   glucagon-like peptide-1 secretion via the G-protein-coupled                designated as authors qualify for authorship, and all those who
+   receptor FFAR2. Diabetes, 61, 364–371.                                     qualify for authorship are listed.
+Trabelsi, M. S., Daoudi, M., Prawitt, J., Ducastel, S., Touche,
+   V., Sayin, S. I., Perino, A., Brighton, C. A., Sebti, Y., Kluza,
+   J., Briand, O., Dehondt, H., Vallez, E., Dorchies, E., Baud,               Funding
+   G., Spinelli, V., Hennuyer, N., Caron, S., Bantubungi,
+   K., … Lestavel S. (2015). Farnesoid X receptor inhibits                    D.O.’M. and S.A.J. are funded investigators in APC
+   glucagon-like peptide-1 production by enteroendocrine L                    Microbiome Ireland, which is supported by Science
+   cells. Nature Communication, 6, 7629.                                      Foundation Ireland [Grant SFI/12/RC/2273]. S.A.J. is
+Vavassori, P., Mencarelli, A., Renga, B., Distrutti, E., &                    funded by SFI: EU Joint Programme Initiative CABALA
+   Fiorucci, S. (2009). The bile acid receptor FXR is a                       for Health 16/ERA-HDHL/3358 and Ireland Department of
+   modulator of intestinal innate immunity. Journal of                        Agriculture, Food and the Marine (DAFM) Award No. DAFM
+   Immunology, 183, 6251–6261.                                                17-RD-US-ROI.
+Vessey, D. A. (1978). The biochemical basis for the
+   conjugation of bile acids with either glycine or taurine.
+   Biochemical Journal, 174, 621–626.                                         Acknowledgements
+Vizoso Pinto, M. G., Franz, C., Schillinger, U., & Holzapfel,
+   W. H. (2006). Lactobacillus spp. with in vitro probiotic                   Open access funding provided by IReL.
+   properties from human faeces and traditional fermented
+   products. International Journal of Food Microbiology, 109,
+   205–214.                                                                   Keywords
+Ward, J. B., Mroz, M. S., & Keely, S. J. (2013). The bile acid                brain–gut axis, bile acid, FXR, microbiota, pathophysiology,
+   receptor, TGR5, regulates basal and cholinergic-induced                    TGR5
+   secretory responses in rat colon. Neurogastroenterology and
+   Motility, 25, 708–711.
+Weng, Y. J., Gan, H. Y., Li, X., Huang, Y., Li, Z. C., Deng, H.               Supporting information
+   M., Chen, S. Z., Zhou, Y., Wang, L. S., Han, Y. P., Tan, Y.
+   F., Song, Y. J., Du, Z. M., Liu, Y. Y., Wang, Y., Qin, N., Bai,            Additional supporting information can be found online in the
+   Y., Yang, R. F., Bi, Y. J., & Zhi, F. C. (2019). Correlation of            Supporting Information section at the end of the HTML view of
+   diet, microbiota and metabolite networks in inflammatory                   the article. Supporting information files available:
+   bowel disease. Journal of Digestive Diseases, 20,
+   447–459.                                                                   Peer review history
+
+
+
+
+                                      © 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.
+
