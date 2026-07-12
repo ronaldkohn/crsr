@@ -139,7 +139,10 @@ present, `docs/extractions/` (`.txt`).
   liraglutide/colesevelam companion (Ellegaard 2024) sharpens it: two effective drugs, *opposite*
   effects on where the bile acids end up (colesevelam → into stool; liraglutide → no fecal change).
 - **Extractions are grep-friendly.** e.g. `grep -i "7αC4\|GPBAR1\|super-responder" docs/extractions/*.txt`.
-- **Remaining Tier-2 sources not yet obtained in full text** (still cited secondhand; all paywalled,
-  verified DOIs inline in the dossier): Borup 2023 (colesevelam Phase 4 RCT), Kårhus 2022 (liraglutide
-  RCT parent paper — though its BA-levels companion IS in `sources/`), Wei 2021 (human TGR5/IBS-D
-  biopsy pilot), Camilleri 2020 (tropifexor FXR RCT).
+- **Remaining Tier-2 sources not obtained in full text** (all paywalled; a free-copy hunt on
+  2026-07-12 found no open version of any). Headline primary-endpoint numbers have been pulled from
+  abstracts + trial coverage and added to the dossier at **CORROBORATED** tier (not VERIFIED):
+  Borup 2023 (colesevelam Phase 4 RCT — n=168, 12 days), Kårhus 2022 (liraglutide RCT parent — n=52,
+  6 wks; its BA-levels companion IS verified in `sources/`), Camilleri 2020 (tropifexor FXR RCT —
+  target engagement but no stool-frequency change), Wei 2021 (human TGR5/IBS-D biopsy pilot — key
+  finding already covered via Yang). Getting any to VERIFIED still needs the actual PDF.
